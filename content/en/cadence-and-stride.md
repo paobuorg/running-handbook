@@ -11,40 +11,74 @@ reviewers:
 translationStatus: reviewed
 ---
 
+## Definition and who this page applies to
+
+Cadence and stride length means how steps per minute and distance per step combine to set pace. Cadence is steps per minute; stride length is ground covered per step. It applies to runners who can run steadily and want a better landing pattern, and to people confused by the 180 rule. It holds when current pain is not an acute injury and you can complete a 5–10 minute test on flat ground.
+
 ## Speed is the product of two things
 
-Running speed depends on both cadence and stride length. At the same speed, you can take more steps per minute, cover more ground per step, or combine both. Fixating on one number makes it easy to miss the other. A very high cadence with very short steps is not automatically fast, and a very long stride that lands far in front of the body is not automatically efficient.
-
-Cadence is usually expressed as steps per minute. Counting steps for 30 seconds and doubling the result is easier than counting for a full minute while running. Watches and phones smooth the data differently, so two devices do not have to agree exactly.
+Speed depends on both cadence and stride length. At the same speed you can take more steps, cover more ground per step, or combine both; extreme values in either are not automatically efficient.
 
 ## 180 is not a prescription
 
-“180 steps per minute” is often treated as a standard, but the figure comes from observations of elite runners, not a prescription for every height, speed and terrain. Body proportions, pace, gradient and surface all change natural cadence. Easy running usually has a lower cadence than fast running, and uphill running naturally increases it. Compressing those differences into one fixed number can make movement less natural.
-
-Start by observing your own normal rhythm, then decide whether a change is useful. If you routinely overstride, land far in front of your body, run loudly or repeatedly get knee and lower-leg trouble, a small increase in cadence may be worth testing. If you already run with a light, relaxed rhythm, there is no prize for adding more steps.
+The 180 figure comes from observations of elite runners, not a prescription for every height, speed and terrain. Proportions, pace, gradient and surface change natural cadence; easy running is usually lower than fast running, and uphill raises it. Compressing those differences into one number makes movement less natural. If you overstride or repeatedly get knee trouble, a small increase may be worth testing.
 
 ## What the evidence can say
 
-A systematic review of stride frequency and length examined how changing cadence affects running mechanics. Across the included studies, a higher step rate at a fixed speed was associated with less vertical centre-of-mass excursion, lower ground reaction force and less joint energy absorption. The authors concluded that a higher step rate may reduce several biomechanical factors linked to running injury.
+A systematic review of stride frequency and length examined how cadence changes mechanics. Across included studies, a higher step rate at fixed speed was associated with less vertical centre-of-mass excursion, lower ground reaction force and less joint energy absorption. The authors concluded that a higher step rate may reduce biomechanical factors linked to running injury, but the studies were small and varied, establishing neither a universal target nor proof of prevention. A review of 36 studies and 23,047 runners found 26.2% reported a running-related injury, while associations with distance, frequency, intensity and recent changes conflicted.
 
-The studies were small and methodologically varied. They do not establish a universal target cadence, and they do not prove that increasing cadence prevents injury. Cadence is a variable you can adjust, not a score of health or ability.
+## Adjustment cycle and progression
 
-## A small experiment
+Cadence needs time to adapt, so use a 2–4 week cycle. Practise 3–5 minutes in easy runs in week one, extend to 8–10 minutes in week two, try brief use in quality in week three, and review pain in week four. Change cadence only, without speed, new shoes or a new route. Keep it if movement feels natural; return to the previous cycle if new knee or calf pain appears.
 
-Run for five to ten minutes on familiar flat ground and note your natural cadence and how it feels. Then change one thing: at the same speed, try increasing cadence by about 5–10%, with lighter, shorter steps landing closer under your centre of mass. Do not change pace, shoes and route at the same time, or you will not know what made the difference.
+## How to run a small experiment in three steps
 
-Practise for a few minutes at a time and repeat over several sessions. If breathing becomes ragged, movement feels stiff, or knee or calf pain appears, the change is too large or not appropriate today; return to your previous rhythm. Coordination and muscles need time to adapt, and there is no need to change everything at once.
+The 5–10% range below is a hypothetical example.
 
-## Uphill, downhill and surface
+1. Run easy 5–10 minutes on flat ground, count steps for 30 seconds and double it, and record cadence, pace and feel.
+2. At the same speed, raise cadence about 5–10% with lighter, shorter steps landing closer under the centre of mass.
+3. Practise a few minutes over several days; if breathing becomes ragged or knee pain appears, return to the previous rhythm.
 
-Uphill running usually increases cadence and shortens stride; that is the body responding to the gradient, not a failure to hold a flat-road rhythm. Downhill running tends to lengthen stride and increase flight time, which also increases impact. Rather than letting the stride open completely, keep it controlled and the landing light.
+## Cadence by situation table
 
-Surfaces also differ mechanically, but the evidence is limited. Grass, trail, track and concrete are not inherently “best” or “worst”; the important variable is how quickly you move from one to another. A sudden increase in hard or technical terrain deserves more attention than a cadence number.
+| Situation | Cadence tendency | Stride feature | Adjustment note |
+|---|---|---|---|
+| Easy jogging | Lower | Shorter, relaxed | No need to force it |
+| Flat quality session | Higher | More spring | Keep pace stable first |
+| Uphill | Naturally higher | Shorter | Let it happen |
+
+## Worked example: a cadence change
+
+Assume a runner 175 cm tall, running easily at 6 minutes per kilometre with natural cadence of 165 steps per minute. Speed is about 1000 m ÷ 360 s ≈ 2.78 m/s; cadence is about 2.75 steps per second, so stride length is about 2.78 ÷ 2.75 ≈ 1.01 m. Assume cadence rises 5% to about 173 steps per minute at the same speed; stride becomes about 2.78 ÷ 2.88 ≈ 0.97 m, about 4 cm shorter. Hypothetical example.
+
+## Common misconceptions
+
+- “Everyone must reach 180.” The figure comes from elite observation, not a universal prescription.
+- “Higher cadence is always more efficient.” Research links a higher step rate at fixed speed with less vertical excursion and lower ground reaction force, but not with universal benefit.
+- “Changing cadence alone fixes pain.” Pain also involves volume, frequency, intensity, shoes and recovery.
+
+## When to stop and seek help
+
+Stop and seek assessment for persistent pain, swelling, limping, restricted movement, night pain, or numbness or radiating symptoms; do not keep adapting if the same area worsens. Chest pain or fainting is an emergency.
+
+## Checklist
+
+- [ ] Measure natural cadence on flat ground first.
+- [ ] Change cadence only, not pace, shoes and route together.
+- [ ] Keep each practice to 3–10 minutes across several days.
+- [ ] Record breathing, landing sound and pain location.
+- [ ] Return to the previous cycle and seek assessment for new pain.
 
 ## Scope and limits
 
-This page does not provide individual gait retraining or injury treatment. Cadence changes do not replace strength work, recovery, shoe assessment and medical care. Stop the relevant training and seek a qualified assessment for persistent pain, swelling, limping or neurological symptoms.
+This page does not provide individual gait retraining or injury treatment. Cadence changes do not replace strength work, recovery, shoe assessment and medical care. Access rules for technical routes follow local requirements.
+
+## Related reading
+
+- [Ground Contact Time and Vertical Oscillation: What the Numbers Can and Cannot Tell You](https://learn.paobu.org/en/articles/running-dynamics-metrics/)
+
+- [Treadmill running: incline, pace and safety](https://learn.paobu.org/en/articles/treadmill-running/)
 
 ## Sources and scope
 
-The discussion of cadence and stride mechanics follows a Sports Health systematic review; the limited evidence on surface loading follows a small PLOS ONE study. The review’s conclusions are limited by sample size and measurement differences and are not a universal prescription. Checked 2026-10-28.
+Cadence mechanics follow a Sports Health systematic review; surface evidence follows a PLOS ONE study of 30 male rear-foot strikers; injury limits follow a systematic review. Conclusions are limited by sample size and method. Verified 2026-11-06

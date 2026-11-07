@@ -2,7 +2,7 @@
 entityId: knowledge:recovery-day
 locale: en
 title: Should a recovery day be rest or easy movement?
-summary: In running, a recovery day is not a blank space in the plan; it is when adaptation happens. Choose full rest or low-intensity movement based on the source of fatigue, sleep and your body's signals.
+summary: A recovery day is not a blank in the plan; it is when adaptation happens. Choose full rest or low-intensity movement based on the source of fatigue, sleep and your body's signals.
 aliases: ["recovery run", "rest day", "training recovery", "sleep and recovery"]
 authors:
   - runmap-editorial
@@ -11,54 +11,86 @@ reviewers:
 translationStatus: reviewed
 ---
 
-## Recovery is training
+## What a recovery day is, and who it is for
 
-Training provides a stimulus; adaptation happens during recovery. Treating a recovery day as "no training" encourages two extremes: ignoring it and adding more load, or turning it into a rule that you must lie completely still. A more useful approach is to ask **what you are recovering from**, then choose the recovery method.
+A recovery day is a deliberately low-load or restful day between hard sessions; it lets fatigue settle and adaptation happen. This page is for runners training at least 3 times a week who separate easy running from quality work. It applies on the premise that recovery belongs in the plan. First condition: identify what you are recovering from before choosing the method.
 
-The recovery needed after an ordinary easy run is nothing like the recovery needed after a marathon or a high-mountain ultra. Fatigue caused by poor sleep will not be fixed by an easy jog either.
+## Recovery is training: adaptation happens between stimuli
+
+Training provides the stimulus; adaptation happens during recovery. Treating a recovery day as "no training" leads to two extremes: ignoring it and adding load, or turning it into a rule of complete stillness. Easy-run fatigue and post-marathon fatigue need different responses, and poor sleep will not be fixed by an easy jog.
 
 ## When full rest is the better choice
 
-Consider a full rest day or very low activity when:
+Consider full rest or very low activity when:
 
-- Perceived fatigue is clearly elevated after several consecutive days, and even an easy run feels hard.
-- Sleep has been poor and attention or mood is noticeably affected during the day.
-- You have pain that differs from ordinary muscle soreness, such as local sharp pain, joint swelling or pain that worsens when walking.
-- You have just finished a race or a very long training session and tissue repair needs more time.
-- You are ill, feverish or recovering from an infection.
+- Fatigue stays high after several consecutive days and easy runs feel hard.
+- Poor sleep is affecting attention, mood or work.
+- Pain differs from ordinary soreness: sharp local pain, joint swelling, or pain when walking.
+- A race or very long session just finished and tissue repair needs time.
+- You are ill, feverish or recovering from infection.
 
-Pain does not mean "the training worked". If pain persists, worsens at night or changes how you walk, stop training and seek medical advice rather than pushing through a recovery day.
+Pain does not mean "the training worked". For severe, persistent pain, night pain or swelling, stop training and seek medical or physiotherapy advice.
 
 ## What counts as active recovery
 
-Active recovery means low-intensity, low-load movement: an easy walk, a very gentle jog, swimming or cycling. The talk test still applies: you can speak in full sentences easily and do not finish noticeably more tired. It should not become a hidden quality session.
-
-If active recovery leaves you more tired the next day, it was not easy. A recovery day does not require a distance target, and there is nothing to "make up" for not running.
+Active recovery means low-load movement: an easy walk, a very gentle jog, swimming or cycling. The talk test applies: at moderate intensity you can talk but not sing; frequent pauses mean it is too hard. You should not finish more tired than you started, and it should not become a hidden quality session.
 
 ## Sleep is a core recovery variable
 
-The NHS notes that everyone needs different amounts of sleep and that most adults need 7 to 9 hours. Sleep is an important recovery context; if it deteriorates for several days, reduce training load and observe rather than stacking more recovery gadgets or supplements on top.
+The NHS notes that sleep needs differ and that adults average 7 to 9 hours. That is a population range, not a nightly pass mark. If sleep worsens for several days, reduce load and observe rather than stacking gadgets or supplements. A consistent wake time, less pre-bed stimulation and separating hard training from bedtime are common directions; if insomnia persists and affects daytime function, consult a doctor rather than relying on supplements or alcohol.
 
-There is no universal sleep trick. A consistent wake time, less stimulation before bed and separating hard training from bedtime are common directions. If insomnia persists and affects daytime function, consult a doctor rather than relying on supplements or alcohol.
+## How to decide in three steps
 
-## What to record
+1. Name the source: note training volume over the last 72 hours, sleep and any pain.
+2. Run a 10-minute talk-test walk or jog: full sentences and an easier finish mean keep it low; laboured speech or worse pain means full rest.
+3. Record the choice and next-day feeling for 2 weeks; if active recovery leaves you more tired, downgrade it.
 
-A recovery day is a good time to note a few simple signals and look at trends rather than letting one day's number dictate everything:
+## Choosing the type of recovery day
 
-- Sleep duration and perceived quality.
-- Morning fatigue and any unusual pain.
-- Resting heart rate or subjective state, if you already track them over time.
-- The day's training and how it felt.
-- Appetite, mood and attention.
+| Source of fatigue | Better choice | Signal to watch |
+| --- | --- | --- |
+| After an easy run | Easy run or full rest | No heaviness on waking |
+| Several consecutive days | Full rest or a 20-minute walk | Easy running feels hard |
+| Poor sleep | Full rest, sleep first | Attention drops in the day |
+| After a race or ultra | Recovery measured in weeks | Pain present, walking abnormal |
 
-Wearables can offer context but cannot diagnose overtraining or under-recovery. A single odd heart-rate reading may come from caffeine, alcohol, heat or measurement error; a trend over several days is more meaningful.
+## A worked example: four weeks after a marathon (hypothetical)
 
-## A rough framework after a race
+Assume a runner finished a marathon after 50 km a week in 5 sessions. Week 1: walking only, 20 minutes daily, 140 minutes. Week 2: 3 jogs of 20 minutes, 60 minutes and 15 km. Week 3: 3 runs of 30 minutes, 25 km. Week 4: 4 runs of 30 minutes, 35 km. Four weeks total 75 km, below the pre-race volume. All numbers are hypothetical; progression depends on pain settling and stable sleep.
 
-Recovery after a marathon or a long mountain ultra is usually measured in weeks, not days. Start by restoring daily walking and sleep, then add easy running gradually. Do not rush back to quality sessions until pain has settled, walking is normal and sleep is stable. Timelines vary with the person and the race, so this article gives no fixed number of days.
+## Weekly rhythm: frequency, cycles and progression
 
-Seek medical care for persistent palpitations, chest pain, fainting, unusual swelling or a wound that does not heal; do not treat these by adjusting training alone.
+A common arrangement is at least 1 low-load day each week and 1 lighter week every 3 to 4 weeks; this is a planning choice, not an evidence-based ratio. Add 1 variable at a time: build volume, hold for 2 weeks, then add intensity. If easy runs slow through the week, make the next week recovery. Three sessions a week may need 1 low-load day; six may need 2.
+
+## Common misconceptions
+
+- "A recovery day must be complete stillness": low-intensity movement also counts.
+- "Slow running always counts": long or hilly runs still add load.
+- "No sweat means no effect": the aim is to settle fatigue.
+- "Supplements replace sleep": they do not offset short nights.
+
+## When to stop and when to seek help
+
+Stop for pain that worsens each run, night pain, joint swelling, a change in walking, or greater fatigue after active recovery. Cancel quality work and reduce load. Seek help for persistent palpitations, chest pain, fainting, unusual swelling, a wound that does not heal, or insomnia affecting daytime function; severe or persistent pain with swelling needs medical or physiotherapy advice.
+
+## Checklist
+
+- Training, sleep and pain over the last 72 hours are written down.
+- The talk test confirmed low intensity.
+- No distance target and no compensatory session.
+- The week kept at least 1 low-load day.
+- Active recovery that left you tired was replaced by rest.
+
+## Scope and limits
+
+General recovery principles only; no diagnosis of illness, insomnia or overtraining, and no fixed number of days. Pacing varies with age, training history, race difficulty and life stress; pregnancy, shift work and coexisting conditions need professional guidance.
+
+## Related reading
+
+- [Post-race recovery: bring the body back from the race](https://learn.paobu.org/en/articles/post-race-recovery/)
+- [Sleep and recovery: the variable beneath the gadgets](https://learn.paobu.org/en/articles/sleep-recovery/)
+- [Compression garments, massage and foam rolling — what the evidence actually supports](https://learn.paobu.org/en/articles/compression-massage-and-foam-rolling/)
 
 ## Sources and scope
 
-The statements about sleep duration and individual variation follow the NHS information on insomnia and sleep. This article offers general recovery principles, not medical diagnosis or individual treatment. It was checked on 2026-10-27.
+Sleep duration and insomnia advice follow the NHS insomnia page; persistent-fatigue boundaries follow an overtraining guide; stop-training advice for pain and footwear follows the NHS running-injury page. Not medical diagnosis or individual treatment advice. Verified 2026-11-06.

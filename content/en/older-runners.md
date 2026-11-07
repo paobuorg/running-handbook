@@ -1,9 +1,9 @@
 ---
 entityId: knowledge:older-runners
 locale: en
-title: "Older runners: trade speed for strength, recovery and gradual load"
-summary: "Age changes recovery and strength reserves, but it is not a reason to stop running. Strength, balance, sleep and gradual loading make training more sustainable than chasing a younger pace."
-aliases: ["Older runners: trade speed for strength, recovery and gradual load", "masters running"]
+title: "Older runners: trade speed for strength, balance and gradual load"
+summary: "Age changes recovery and strength reserves, but it is not a reason to stop running. Aerobic work, strength, balance, sleep and gradual loading in the same week are more sustainable than chasing a younger pace."
+aliases: ["Older runners: trade speed for strength, balance and gradual load", "Older runners: trade speed for strength, recovery and gradual load", "masters running"]
 authors:
   - runmap-editorial
 reviewers:
@@ -11,34 +11,69 @@ reviewers:
 translationStatus: reviewed
 ---
 
+## Definition and who this applies to
+
+An older runner is someone aged 65 or over who still runs or is returning; runners over 50 with slower recovery may also use this page. It applies to people without unassessed chest pain, fainting, unusual palpitations or severe breathlessness who can walk and climb stairs. The approach holds when aerobic, strength and balance work all sit in the week, not when running volume is simply increased.
+
 ## What age changes
 
-Maximum heart rate, muscle strength and recovery speed may decline with age, and tendons and bones may tolerate sudden load less well. The rate varies between people, and long-term training preserves more capacity. CDC older-adult guidance emphasises a mix of aerobic, strength, balance and flexibility activity; running can be the aerobic part, but it does not replace strength and balance work.
+Maximum heart rate, muscle strength and recovery may decline, and tendons and bones may tolerate sudden load less well. The rate varies, and those who keep training often preserve capacity. Ask how much load to take and how long to leave before the next session. Do not blame every pain on age or restore a ten-year-old volume in one jump; record sleep, fatigue, pain and completion.
 
-Do not attribute every pain to “old age”, and do not copy your training volume from ten years ago. Record recovery, sleep and pain, then adjust gradually instead of trying to restore an old mileage in one jump.
+## Three pillars: aerobic, strength and balance
 
-## Strength and balance
+CDC guidance for adults 65 and older is at least 150 minutes of moderate aerobic activity weekly, 75 minutes vigorous, or an equivalent combination; strength on at least two days; and balance activities. Running can be the aerobic part but does not replace the other two. Strength can start with sit-to-stand, step-ups, heel raises, split squats, bridges and single-leg standing; balance starts with support and reduces it. Prioritise quality before load.
 
-Lower-body strength, hip and trunk stability support running economy and reduce fall risk. Two short strength sessions a week can start with simple movements: sit-to-stand, step-ups, heel raises, split squats, bridges and single-leg standing. Add load only when technique is consistent and you have guidance if needed. Balance practice can fit into daily life; start with support and reduce it gradually.
+## How to do it
 
-Strength training does not guarantee faster running, but it improves the capacity to carry training load. Prioritise movement quality before repetitions or weight; stop and seek assessment for pain, dizziness or joint instability.
+1. Build the frame first: place aerobic, strength and balance on fixed days, with days free of running. Assume four active days, two for strength and two for easy running or walking.
+2. Start strength with body weight and single-leg control: assume two sets of each movement with enough rest. Stop if technique breaks down, a joint feels unstable or you become dizzy.
+3. Let recovery decide the increase: add frequency or duration only after several sessions with stable sleep, fatigue and pain. Change one variable, then observe.
 
-## Recovery and load
+## Weekly template (example, not a prescription)
 
-Older runners may need longer recovery, but do not have to abandon quality sessions. Keep easy days between hard sessions, recover after long runs and reduce load when fatigue or sleep worsens. Change one variable at a time and allow a few days to see the response.
+| Component | CDC target | Example (assumed) |
+| --- | --- | --- |
+| Moderate aerobic | At least 150 minutes | Five 30-minute walks |
+| Vigorous aerobic | At least 75 minutes, or combined | Two 25-minute quality sessions |
+| Muscle strength | At least two days | Two 20-minute light-load sessions |
+| Balance | Scheduled through the week | Two single-leg stands daily |
 
-Race goals can change: steady finishing, staying consistent or enjoying a course may matter more than a personal best. Goal setting and review apply at every age.
+The numbers show structure, not a universal plan; running should not push strength and balance out.
 
-## Health screening and medication
+## Frequency, cycle and progression
 
-People with high blood pressure, heart disease, diabetes, osteoporosis, joint disease or long-term medication should consult a clinician before a new training plan. Stop and seek emergency care for chest pain, fainting, unusual palpitations or severe breathlessness. Osteoporosis or previous fractures need particular attention to impact load and fall risk.
+Spread aerobic work across several days, keep strength on at least two days and practise balance daily in small doses. Assume a four-week block: hold the frame for three weeks, then review completion, sleep and pain. Progress from frequency to duration, then pace or gradient. If the plan fails two weeks running, it is too large; shorten sessions rather than cramming missed work. Race goals may shift toward steady finishing.
 
-Age is not an automatic contraindication, but health needs individual assessment. Do not ignore your own history because someone else is still running at seventy.
+## Worked example (assuming a 68-year-old runner)
+
+Assume a 68-year-old runner did three sessions of five kilometres in 35 minutes, 15 kilometres weekly, then stopped three weeks with knee pain. Weeks one and two: three 20-minute run-walk sessions (one minute running, one minute walking, ten times), about six kilometres weekly. Weeks three and four: 30 minutes per session, about nine kilometres weekly; strength twice weekly for 15 minutes, balance twice daily. By week eight, if pain-free, add about 10% to weekly volume, roughly 0.9 kilometres. These are assumptions; real changes depend on recovery, pain and medical advice.
+
+## Common misconceptions
+
+- “Age means rest.” Inactivity worsens strength, balance and aerobic capacity.
+- “Restoring an old weekly volume counts as rebuilding.” Sudden restoration is a load spike; start from what you can complete now.
+
+## Stop signals, risk and seeking care
+
+Stop and contact emergency services for chest pain, fainting, unusual palpitations or severe breathlessness. Also seek prompt assessment for dizziness, a joint that gives way, inability to bear weight, obvious swelling or pain persisting after a fall. People with high blood pressure, heart disease, diabetes, osteoporosis, joint disease or long-term medication should consult a clinician before a new plan; osteoporosis or previous fractures need attention to impact load and fall risk. Do not dismiss these signals because it is “only a jog”.
+
+## Self-check list
+
+- [ ] At least 150 minutes of moderate activity this week, or an equivalent vigorous combination
+- [ ] At least two days of muscle-strengthening activity
+- [ ] Balance practice uses reliable support and causes no persistent dizziness
+- [ ] Sleep, fatigue and pain were recorded before increasing load, with one variable changed
 
 ## Scope and limits
 
-This page does not provide an individual exercise prescription, osteoporosis treatment or medication advice. People with high fall risk, poor balance, cognitive impairment or several chronic conditions should exercise with professional guidance.
+This page does not provide an individual prescription, osteoporosis treatment or medication advice, or determine whether pain is caused by age. People with high fall risk, poor balance, cognitive impairment or several chronic conditions should exercise with professional guidance.
+
+## Related reading
+
+- [Goals and review: turn “run faster” into something you can do](https://learn.paobu.org/en/articles/goal-setting-and-review/)
+- [Strength, cross-training and tapering: fit support work into the plan](https://learn.paobu.org/en/articles/strength-and-taper/)
+- [Menopause and Running — symptoms, bone loss and how to adjust training](https://learn.paobu.org/en/articles/menopause-and-running/)
 
 ## Sources and scope
 
-The combination of aerobic, strength and balance activity follows CDC older-adult guidance; activity principles for chronic conditions and disability follow the CDC chronic-conditions page. Individual training volume and medical contraindications need assessment. Checked 2026-10-28.
+The aerobic, strength and balance mix and weekly targets follow CDC older-adult guidance; principles for chronic conditions and disability follow the CDC chronic-conditions page. Both stress that some activity is better than none, while individual volume and contraindications need assessment. This is general health education, not clinical care. Verified 2026-11-06.

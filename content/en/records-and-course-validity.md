@@ -1,9 +1,9 @@
 ---
 entityId: knowledge:records-and-course-validity
 locale: en
-title: "Records and courses: why times are not directly comparable"
-summary: "A record must meet event rules, course measurement and race conditions. Times from different courses are not a direct ranking of ability; read distance, climb, surface, altitude and the day’s conditions first."
-aliases: ["Records and courses: why times are not directly comparable", "comparing course times"]
+title: "Records and courses: why a fast watch time is not a record"
+summary: "A record is a result recognised by a governing body, not simply the fastest number reported anywhere. This page covers course recognition, gun and chip time, bib rules and the checks before claiming a PB."
+aliases: ["Records and courses: why a fast watch time is not a record", "comparing course times"]
 authors:
   - runmap-editorial
 reviewers:
@@ -11,32 +11,76 @@ reviewers:
 translationStatus: reviewed
 ---
 
-## A record is a result under rules
+## Definition and scope
 
-World Athletics lists records by event, sex and category, and each record corresponds to defined distance, timing and competition requirements. Road records also involve course measurement, start-finish separation and elevation rules. A watch showing 2:50 does not make an official record, and not every race uses the same certification standard.
+A record is a best performance formally recognised by a governing body by event, sex and category, not the fastest number on any device. This page applies to road racers deciding whether a result can be called a personal best or a record. It holds when distance and timing conventions match, the course meets event rules and measurement requirements, and the result comes from the official race publication.
 
-The Boston Marathon has its own qualifying times (BQ), set by age and sex and adjusted between years. A qualifying time must be run on an accepted course, and entry also depends on other race requirements. Treating BQ as a universal marathon threshold misunderstands its scope.
+## Course recognition
 
-## The course changes what a time means
+World Athletics publishes records by event and category; road tables distinguish mixed-gender and women-only races and mark records pending ratification. Listing is recognition that depends on course conditions, race documents and review. Whether a course is certified and measured, and whether elevation change stays within the rules, is defined by event rules; this page does not restate those figures.
 
-Distance, climb, surface, altitude, wind and temperature all affect performance. A flat fast course and a hilly trail cannot be compared by finish time alone; a high-altitude race is different from a sea-level one. Even within road marathons, point-to-point routes, turns, aid stations and start congestion create differences.
+## Gun time and chip time
 
-Courses also change. Organisers may alter start, finish, sections or measurement, so an old result belongs to an old version. Before comparing, confirm the year, category, course version and timing method; do not treat different versions as the same course.
+Gun time starts with the signal; chip time starts at the start mat. The first includes waiting between corral and line, the second is closer to personal movement. Placings, qualification and records follow the race's published convention, so chip time is not automatically the record time.
 
-## Comparing fairly
+## Bibs and rules
 
-To assess your own ability, compare the same course, similar weather and a similar training phase. To choose a race, compare distance, climb, surface, cut-offs, aid and transport, not just the winner’s time. Trail races also involve technicality, altitude and mandatory kit; a road marathon pace model does not transfer directly.
+BAA rules state that bibs are non-transferable, participants may not run with anyone not registered on any part of the course, and headphones are allowed only if awareness of surroundings is maintained. Lending a bib misaligns medical and identity information and removes the result's validity.
 
-For recreational runners, a personal best should carry its course and year. Mixing PBs from different races produces an apparently precise ranking that is not comparable. Recording the conditions of each race is more useful than chasing one “fastest” number.
+## Worked example
 
-## Records, age and category
+Figures are hypothetical: a watch showing 2:59:40, official chip time 3:02:40 and gun time 3:04:55. The three-minute net difference comes from auto-pause removing 3 minutes 10 seconds and GPS drift adding 10 seconds. The sub-3 claim fails, the net time being 2 minutes 40 seconds slower than 3 hours; gun time is another 2 minutes 15 seconds later.
 
-World Athletics record categories, age-group records and race rules change; sex, age and eligibility have their own requirements. When citing a record, link the official page and note the category and date. Race names, marks and official route text belong to the organiser and are not relicensed by this site.
+## What counts
+
+| Situation | PB or record? | Note |
+| --- | --- | --- |
+| Official net time, certified course | Yes | Keep the results page |
+| Gun time, same race | Race convention | Placings may use it |
+| Watch auto-pause time | No | Elapsed time not counted |
+| Transferred bib | No | Identity does not match |
+| Self-timed, uncertified | No | No measurement |
+
+## How to: three checks
+
+1. Record net time, gun time, category, course version and timing method from the official results page.
+2. Confirm the bib was your own, you ran the whole course alone and followed the code of conduct.
+3. Log course, weather and date, labelling the result a PB or "one of my fastest", not a cross-course ranking.
+
+## Common misconceptions
+
+- Treating a training watch time as a race result; devices pause, drift and may count detours.
+- Assuming chip time is always official; placings may use gun time.
+- Borrowing a bib "to experience it"; it invalidates results and medical cover.
+- Ranking PBs from different courses; distance, climb, surface and altitude differ.
+
+## When to stop
+
+Chest pain, fainting, confusion, inability to stand, persistent palpitations or severe breathlessness mean stop and seek help. After the race, persistent vomiting, fever, reduced urine output or altered consciousness warrants prompt assessment.
+
+## Frequency
+
+Check results within 48 hours of each race, review record and race-rule updates each season, and tidy the personal table every 12 months. Combine only comparable course conditions and timing conventions.
+
+## Checklist
+
+- Official results page saved, with net and gun times.
+- Bib was your own; no unregistered companions.
+- Course and category meet event rules; certification published.
+- Result labelled with course version, date and weather.
 
 ## Scope and limits
 
-This page does not decide whether a result will be officially ratified or whether you qualify for an event. The latest World Athletics, organiser and technical-official rules govern records, BQ standards and course measurement.
+This page does not decide ratification or entry qualification. World Athletics, organiser and technical-official documents govern record categories, race rules and measurement requirements.
+
+## Related reading
+
+- [Route comparison](https://tools.paobu.org/en/tools/route-compare/)
+
+- [Running culture: race rules, record ratification and reading research](https://learn.paobu.org/en/articles/running-culture/)
+- [How to read running research: question first, conclusion later](https://learn.paobu.org/en/articles/reading-running-research/)
+- [Why the marathon is 42.195 kilometres](https://learn.paobu.org/en/articles/marathon-distance/)
 
 ## Sources and scope
 
-Record categories and event definitions follow World Athletics record and marathon pages; Boston Marathon rules and qualifying standards follow the BAA’s official rules document; course-version and distance conventions follow this site’s marathon-distance article. Rules change, so check the date when citing them. Checked 2026-10-28.
+Records by event and category, mixed and women-only tables and pending marks follow the World Athletics records page; bib transfer, unregistered companions, headphones and conduct follow the BAA 2026 Boston Marathon rules; 42.195 kilometres, or 26 miles and 385 yards, follows the World Athletics marathon page. Verified 2026-11-06.

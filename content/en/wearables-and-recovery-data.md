@@ -11,34 +11,70 @@ reviewers:
 translationStatus: reviewed
 ---
 
+## Definition and who this page applies to
+
+Watch data and recovery means using consumer records of heart rate, heart-rate variability (HRV), sleep, pace and readiness scores to observe trends, not to diagnose fatigue from one number. It applies to runners who wear a watch and train regularly, and to people using readiness scores before a race. It holds when the device is worn consistently, measured at a similar time, and you also record how you feel.
+
 ## What a watch can record
 
-Running watches and bands record pace, heart rate, cadence, elevation, sleep duration and heart-rate variability (HRV); some also produce “recovery”, “readiness” or “training load” scores. These numbers are useful for spotting trends and planning training, not for deciding on their own whether the body is healthy.
-
-Optical heart rate can be distorted by cold, a loose strap, darker skin, arm movement or sweat. GPS drifts in urban canyons, forests and tunnels. Sleep staging is not the same as laboratory polysomnography. Algorithms and baselines differ between brands, so two readiness scores are not directly comparable.
+Watches record pace, heart rate, cadence, elevation, sleep and HRV; some give recovery or readiness scores. These suit trends, not standalone health judgements. Optical heart rate is distorted by cold, a loose strap, darker skin, arm movement or sweat; GPS drifts in canyons and tunnels; sleep staging is not laboratory testing; algorithms differ by brand.
 
 ## One abnormal reading is not a conclusion
 
-HRV is affected by sleep, alcohol, caffeine, infection, stress and training; one low day does not mean overtraining. Resting heart rate can rise with heat, dehydration, a late night or nerves. Treating a single reading as a body score encourages overreaction to normal variation.
-
-A better approach is to build your own baseline over several weeks, measured at the same time under similar conditions. A sustained fall in HRV, a sustained rise in resting heart rate, worse sleep, fatigue, heavy legs or declining performance may justify adjusting load. Even then, a watch cannot diagnose overtraining.
+HRV varies with sleep, alcohol, caffeine, infection, stress and training, so one low day is not overtraining. Resting heart rate rises with heat, dehydration, late nights or nerves. Build a baseline over weeks under similar conditions. A sustained HRV fall, sustained resting-heart-rate rise, worse sleep or declining performance may justify adjusting load.
 
 ## Recovery is more than a number
 
-There is no single biomarker for overtraining. Assessment combines training history, performance decline, fatigue, sleep and mood, and excludes other causes such as anaemia, thyroid disease, infection or depression. A device score cannot replace that assessment.
+Overtraining syndrome is a maladapted response to excessive exercise without adequate rest, involving neurological, endocrine, immune and mood changes. Persistent fatigue and performance decline should prompt consideration and exclusion of anaemia, thyroid disease, infection or depression. Assessment is clinical with no single marker; management is rest plus correcting the imbalance. The NHS notes adults average 7–9 hours of sleep, insomnia usually improves with habit change, and persistent problems may need medical advice.
 
-Sleep deserves attention, but the goal is not a perfect sleep score; it is regular, sufficient sleep and feeling awake during the day. Persistent insomnia, snoring with gasping, severe daytime sleepiness or weeks of fatigue warrant medical assessment.
+## Trend review cycle and progression
 
-## Using the data well
+Review weekly, not hourly. Record morning resting heart rate and HRV under similar conditions for 4 weeks, compare with the training log, then extend to 8 weeks if stable. Do not change a tested race plan for one score.
 
-Review trends once a week rather than refreshing all day. Put training logs, perceived fatigue, pain, sleep and races together. When data and felt experience disagree, start with the body and then look for an explanation. Do not change a tested race plan because of one readiness score, and do not use data to justify running through pain.
+## How to use the data in three steps
 
-Mind privacy when sharing. Routes, heart rate and sleep are personal data; remove location, names and device identifiers from screenshots. Do not hand a complete training history to an unfamiliar third-party app without a reason.
+1. Record resting heart rate and HRV after waking in the same position and device, plus one line on sleep, fatigue and pain.
+2. Review weekly with training, sleep and pain; when data and felt experience disagree, start with the body.
+3. Adjust load only when a same-direction change lasts days and performance falls; keep recording to check the effect.
+
+## Metric and use table
+
+| Metric | What it can show | Limitation | Suggested use |
+|---|---|---|---|
+| Resting heart rate | Recovery and stress trend | Heat, dehydration, late nights | Multi-day average |
+| HRV | Autonomic variation | Algorithms differ by device | Personal baseline |
+| Sleep duration | Sleep opportunity | Staging is not laboratory testing | Regularity and alertness |
+
+## Worked example: a four-week trend
+
+Assume 4 runs a week for 40 km and morning resting heart rate records. Weeks 1–3 read 52, 53 and 52 beats per minute, and week 4 rises to 58, while HRV stays below baseline for four days, perceived fatigue rises from 2 to 4 on an assumed 0–10 scale, and sleep falls from 8 hours to 6.5 hours. Assume a 12 km long run is scheduled; shorten it to 8 km, cancel quality, and check sleep and stress first, seeking assessment if nothing improves after a week. Hypothetical example.
+
+## Common misconceptions
+
+- “One low score means overtraining.” A single reading reflects sleep, alcohol, infection and stress.
+- “Scores from different brands can be compared.” Algorithms and baselines differ.
+- “Data can replace a doctor.” Overtraining has no single diagnostic marker.
+
+## When to stop and seek help
+
+Stop adding training and seek medical assessment for chest pain, fainting, irregular heartbeat, a sustained clear rise in resting heart rate, persistent insomnia, severe daytime sleepiness, snoring with gasping, weeks of fatigue or declining performance. A device alert is not emergency care.
+
+## Checklist
+
+- [ ] Measure at the same time, position and device daily.
+- [ ] Record sleep, fatigue, pain and training alongside the numbers.
+- [ ] Review trends weekly, not by refreshing scores all day.
+- [ ] Trust felt experience first when data disagree.
+- [ ] Remove location and identifiers before sharing screenshots.
 
 ## Scope and limits
 
-This page does not provide individual training-load advice, HRV interpretation or medical diagnosis. People with arrhythmia, chest pain, fainting, persistent insomnia, severe fatigue or known cardiovascular disease should consult a clinician; a device alert is not a substitute for emergency care.
+This page does not provide individual training-load advice, HRV interpretation or diagnosis. People with arrhythmia, chest pain, fainting, persistent insomnia, severe fatigue or known cardiovascular disease should consult a clinician. Consumer-device data is a trend aid, not a diagnosis.
+
+## Related reading
+
+- [Ground Contact Time and Vertical Oscillation: What the Numbers Can and Cannot Tell You](https://learn.paobu.org/en/articles/running-dynamics-metrics/)
 
 ## Sources and scope
 
-The concepts around overtraining, the absence of a single diagnostic marker and the need to exclude other causes follow a practical review in Current Sports Medicine Reports; advice on persistent insomnia follows the NHS insomnia page. Consumer-device data is a trend aid, not a clinical diagnosis. Checked 2026-10-28.
+Overtraining concepts and the need to exclude other causes follow a review in Current Sports Medicine Reports; sleep guidance follows the NHS; injury evidence limits follow a systematic review. Consumer-device data is a trend aid, not a clinical diagnosis. Verified 2026-11-06

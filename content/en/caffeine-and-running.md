@@ -2,8 +2,8 @@
 entityId: knowledge:caffeine-and-running
 locale: en
 title: "Caffeine and running: effective is not the same as suitable"
-summary: "Caffeine has moderate-to-large performance effects in some endurance settings, but dose, timing, sleep and anxiety responses vary. It is not essential, and race day is no place for a first trial."
-aliases: ["Caffeine and running: effective is not the same as suitable", "running caffeine"]
+summary: "Caffeine produces moderate-to-large performance benefits in some endurance studies, with common doses of 3-6 mg per kg body mass about 60 minutes before exercise. Sleep, anxiety and stomach responses vary, so it is not essential and should never be first tried on race day."
+aliases: ["Caffeine and running: effective is not the same as suitable", "Running caffeine"]
 authors:
   - runmap-editorial
 reviewers:
@@ -11,32 +11,68 @@ reviewers:
 translationStatus: reviewed
 ---
 
-## What the evidence broadly says
+## What this page covers, and when it applies
 
-The International Society of Sports Nutrition position stand reports that caffeine can acutely improve exercise performance in many but not all studies. Aerobic endurance has the most consistent evidence, with moderate-to-large benefits in several trials. A common dose is 3–6 mg per kilogram of body mass, usually taken about 60 minutes before exercise; timing depends on the caffeine source and individual absorption.
+Caffeine is a central stimulant available as coffee, tea, energy gels, caffeinated drinks and tablets. This page covers the endurance evidence, common dose and timing, and how to test it safely in training. It assumes you have no cardiovascular disease, arrhythmia, severe anxiety or reflux, and are not pregnant or breastfeeding; those situations need medical advice first.
 
-“Common” does not mean “right for everyone”. Higher doses tend to bring more side effects, including palpitations, anxiety, tremor, stomach discomfort and insomnia. For someone who does not normally use caffeine, a sudden moderate-to-high dose on race day is more likely to add risk than benefit.
+## What the evidence roughly says
 
-## Start with the problem you are solving
+The International Society of Sports Nutrition position stand states that caffeine can acutely enhance performance in many but not all studies, with aerobic endurance showing the most consistent moderate-to-large benefits. Common doses are 3-6 mg per kg body mass, usually about 60 minutes before exercise; optimal timing depends on the source and individual absorption. Higher doses usually bring more side effects: palpitations, anxiety, tremor, stomach upset and insomnia.
 
-If a race starts early and you need alertness, or you already use caffeine in training and know your response, a tested dose may be a useful tool. If you are sleep-deprived, anxious, prone to stomach upset or palpitations, or racing in the afternoon and need to sleep that night, caffeine may not be worth it.
+For someone who normally avoids caffeine, a sudden moderate-to-high dose on race day usually carries more risk than benefit. Caffeine also does not remove fatigue; it changes perceived effort and arousal. Relying on it while hot, dehydrated or sleep-deprived is not a safe strategy.
 
-Caffeine does not replace training, carbohydrate intake or pacing. It does not remove fatigue; it changes perceived effort and arousal. Using it to push through heat, dehydration or a large sleep debt is not a safe strategy.
+## How to test it: three steps
 
-## How to test it
+1. Choose a quality session or long run and simulate the race timing, dose and source; change only one variable at a time.
+2. Record four responses: heart rate, stomach discomfort, anxiety level and the time you fall asleep that night.
+3. Only consider race-day use after 2-3 repetitions at the same dose produced no clear side effects.
 
-Choose a quality session or long run and rehearse the race timing, dose and source. Record heart rate, breathing, gut response, anxiety and sleep that night. Do not change dose and product type at the same time. Start low, and only consider a race dose after you have tolerated it in training.
+## Dose and timing quick reference
 
-Coffee, gels, caffeinated drinks and tablets vary widely in concentration, and labels are not always complete. Look at milligrams per serving, not “one cup” or “one packet”. If the product also contains other stimulants or a lot of sugar, account for that too.
+| Body mass | Low dose 3 mg/kg | High dose 6 mg/kg | Common timing | Suitable context |
+|---|---|---|---|---|
+| 55 kg | 165 mg | 330 mg | 45-60 min before | First test at the low dose |
+| 70 kg | 210 mg | 420 mg | 45-60 min before | Reuse a protocol already validated in training |
+| 85 kg | 255 mg | 510 mg | 45-60 min before | Higher side-effect risk at the high dose |
 
-## Sleep and race timing
+The milligram figures are arithmetic conversions, not intake recommendations; always read the per-serving content on the label.
 
-Caffeine half-life varies between people, and an afternoon dose can affect sleep that night. Sleeping well before a race is usually more valuable than adding caffeine; sacrificing sleep to wake up with caffeine can cancel the benefit. If you are sensitive, move the dose earlier and reduce the total.
+## Worked example: a race-day plan for a 70 kg runner
+
+Suppose a 70 kg runner has tolerated 3 mg/kg in training, giving about 210 mg. If one gel contains 75 mg caffeine, roughly three gels would approach that dose, bringing extra carbohydrate and stomach load. A more practical plan is a cup of brewed coffee containing about 200 mg 60 minutes before the start, then caffeine-free gels during the race. If the race is in the afternoon and good sleep that night matters, move intake at least 8 hours earlier or skip it.
+
+## Common misconceptions
+
+- Assuming stronger is better. Above 6 mg/kg side effects rise without a matching gain.
+- Estimating dose as "a cup" or "a packet". Concentrations vary widely; check milligrams per serving.
+- First trying it on race day. An unvalidated combination of dose, product and timing turns a controlled training session into an experiment.
+
+## When to stop
+
+Stop and seek medical help for chest pain, marked palpitations, tremor that interferes with movement, severe anxiety or vomiting. People with hypertension, arrhythmia, anxiety disorders or insomnia should consult a clinician before use. Caffeine does not replace fluids, carbohydrate or pacing.
+
+## Frequency and progression
+
+Caffeine does not need to be used daily. Reserve it for quality sessions and races and keep habitual intake low to limit tolerance. Track sleep and resting heart rate over 4 weeks; if insomnia persists or resting heart rate rises by 5 bpm or more, stop and reassess.
+
+## Race-day checklist
+
+- Confirm milligrams per serving, not the marketing wording.
+- Take it about 60 minutes before the start, not at the line.
+- Carry caffeine-free options so the second half can switch.
+- If the race is in the local afternoon, assess the effect on that night's sleep.
+- In heat, treat caffeine as one part of hydration and cooling, not a standalone boost.
 
 ## Scope and limits
 
-This page does not provide individual dosing, drug-interaction advice or cardiovascular risk assessment. Pregnancy, breastfeeding, arrhythmia, high blood pressure, anxiety disorders, reflux, insomnia or medication warrant a conversation with a doctor or registered dietitian. Caffeine is not a required race supplement.
+This page does not provide individual dosing, drug-interaction advice or cardiovascular risk assessment. Pregnancy, breastfeeding, arrhythmia, hypertension, anxiety disorders, reflux, insomnia or current medication all warrant prior medical or dietetic advice.
+
+## Related reading
+
+- [Everyday fuel: get the basics before supplements](https://learn.paobu.org/en/articles/daily-fueling/)
+- [Race-day fuelling: take what you have already tested](https://learn.paobu.org/en/articles/race-day-fueling/)
+- [Judging supplements: evidence before the label](https://learn.paobu.org/en/articles/supplements-and-evidence/)
 
 ## Sources and scope
 
-The performance effects, common dose range and timing follow the ISSN caffeine and exercise-performance position stand; the training-trial principle follows the ISSN nutrient-timing stand. Findings are group averages and cannot predict an individual response. Checked 2026-10-28.
+Performance effects, common dose ranges and timing follow the International Society of Sports Nutrition caffeine position stand; the principle of testing in training follows its nutrient timing position stand; the caffeine-sleep relationship follows the UK NHS insomnia page. Findings are group averages and cannot predict individual response. Verified 2026-11-06.

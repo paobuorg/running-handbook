@@ -1,9 +1,9 @@
 ---
 entityId: knowledge:tempo-and-intervals
 locale: en
-title: "Tempo and interval sessions: split “fast” into repeatable work"
-summary: "Tempo and interval sessions are not just faster running; they use different intensities and recoveries for different jobs. Complete them consistently before chasing a pace."
-aliases: ["Tempo and interval sessions: split “fast” into repeatable work"]
+title: "Tempo and interval running: intensity, structure and progression"
+summary: "Tempo and interval sessions are not two fixed paces but two intensity arrangements calibrated by the talk test. Easy running remains the base, structure and recovery make quality work useful, and pace tables do not transfer."
+aliases: ["Tempo and interval running: intensity, structure and progression", "tempo running", "interval running"]
 authors:
   - runmap-editorial
 reviewers:
@@ -11,40 +11,104 @@ reviewers:
 translationStatus: reviewed
 ---
 
-## Three session types are not three pace numbers
+## Definition and who this page applies to
 
-Training articles often divide running into easy, tempo and interval work, but the pace attached to each label differs between runners. A pace that feels easy for one person may already be hard for another. Instead of copying a pace table, use the talk test and rating of perceived exertion (RPE) to check the day's effort: easy running allows full sentences; tempo running allows only short phrases; intervals make speech difficult by the end of a rep, but recovery should let you start the next one.
+Tempo running here means a sustained effort above easy pace that allows short sentences; intervals split faster segments with recovery. Both are quality sessions, not races. It applies to runners who can run easily for 30 minutes. It holds when you have no worsening pain for 2 weeks and can use the talk test.
 
-Pace still matters, but it should come from your own tests and records, not from someone else's plan.
+## Three sessions, not three pace numbers
+
+Easy, tempo and interval running are three ways of working, not three pace-table numbers. The CDC talk test offers a scale: moderate intensity lets you talk but not sing; vigorous intensity stops more than a few words without pausing. Easy running allows full sentences, tempo short phrases.
 
 ## Easy running remains the base
 
-Quality sessions do not replace easy running. Most training frameworks place the majority of time at low intensity and reserve a small amount for quality work; the exact distribution depends on the goal, experience and recovery. If every run becomes “a little faster”, easy runs stop doing their recovery job and quality sessions suffer from accumulated fatigue.
+Quality sessions provide stimulus; they do not replace the base. Most weeks should be built on easy running, with quality work 1–2 times per week.
 
-For a new runner, one quality session a week is often enough; more experienced runners may use one or two, with an easy day or rest between them. Packing quality sessions too closely together is a common way to look busy while failing to adapt.
+## Tempo: sustained but controlled
 
-## Tempo: sustained “comfortably hard” running
+A typical entry structure is 3 × 8 minutes with 2 minutes easy between, giving 24 minutes of tempo work. Beginners can start with 2 × 6 minutes.
 
-Tempo usually means a sustained block between easy effort and race pace. Definitions vary between coaches, so do not treat the name as a precise physiological boundary. A practical standard is: breathing is clearly faster but short phrases are possible; form stays stable without sprinting; the session feels challenging but leaves you able to run normally the next day.
+The block should be repeatable, without an all-out final minute.
 
-An entry template is 3 × 8 minutes at tempo with 2 minutes easy between reps; extend the total time only after the session is repeatable. Treat it as training, not a race. If the last minutes require gritting your teeth, the start was too fast or the day was not suitable.
+## Intervals: short and fast, with recovery kept
 
-## Intervals: fast reps with enough recovery
+Intervals split faster work so recovery buys quality. A beginner set is 6 × 3 minutes with 2 minutes easy between, giving 18 minutes of fast work. Recovery lets the next rep keep form.
 
-Intervals alternate faster work with recovery. The aim is not to make every rep an all-out effort, but to keep form and the intended intensity, then be ready to start again after recovery. A common entry format is 6 × 3 minutes fast with 2 minutes easy; shorter 1-minute reps are also possible with an adjusted total.
+The fastest repetition is not the goal. If form collapses, end the session.
 
-“Fast” does not mean “desperate”. End the session if form changes, breathing does not settle during recovery, or the last reps slow sharply. Interval work concentrates load; it is a poor fit for a day with poor sleep, pain or recent illness.
+## Why pace tables do not transfer
 
-## Fitting the sessions into a week
+A physiology review describes marathon performance as multi-factorial, involving physiological, technological and cognitive determinants. VO2max, lactate threshold and running economy are commonly studied, but measurements depend on protocol, so values are not interchangeable.
 
-Decide how many runs you can repeat each week, then place quality work inside that structure. Do not schedule tempo and intervals back-to-back; use easy running or rest around them. Heat, humidity and altitude raise the cost of a given pace, so use breathing and effort before forcing the original number.
+Treat tempo pace as a range and a feel, not a number to hit.
 
-Record rep times, RPE, breathing and how you felt afterwards. If the same session keeps getting harder, or easy runs also stop feeling easy, check sleep, energy intake and total load before adding more work.
+## What the injury evidence can and cannot say
+
+A systematic review pooled 36 studies and 23,047 runners and reported that about 26.2% had a running-related injury. Evidence linking weekly distance, frequency, intensity or recent changes to injury was conflicting, and the authors cautioned against one “optimal progression”.
+
+That does not make intensity harmful; it means there is no single answer to “how much”.
+
+## How to design a quality session in three steps
+
+The structures and 5% adjustment below are hypothetical examples.
+
+1. Set intensity with the talk test: tempo allows short phrases; intervals make speech hard at a rep end.
+2. Set structure: tempo 3 × 8 minutes with 2 minutes recovery; intervals 6 × 3 minutes with 2 minutes recovery. Keep fast work at 18–24 minutes.
+3. Schedule an easy day after. If the last two reps are over 5% slower, remove a rep next time.
+
+## Session parameters at a glance
+
+| Session | Talk test | Set | Recovery | Purpose |
+|---|---|---|---|---|
+| Easy | Full sentences | 30–60 min | None | Base |
+| Tempo | Short phrases | 3 × 8 min | 2 min easy | Sustain |
+| Intervals | Hard at end | 6 × 3 min | 2 min easy | Speed |
+| Hills | Hard at end | 6 × 45 sec | Walk down | Strength |
+
+## Worked example: total load of 3 × 8 minutes tempo
+
+Assume tempo pace is 5 minutes 30 seconds per kilometre. Eight minutes covers about 1.45 km, so three reps give 4.36 km. At 6 minutes 30 seconds per kilometre, two 2-minute recoveries cover about 0.62 km. Total time is 28 minutes, distance about 4.98 km, and tempo work is 86%. These figures are hypothetical.
+
+## Placing quality work inside the week
+
+Two demanding sessions are usually enough for a recreational runner, and they should not sit back to back. Put at least one easy day between them, keep the rest of the week genuinely easy, and let the long run serve as the third anchor rather than adding a third hard session. If a week feels flat, remove one quality session before adding recovery features, because the common failure is too many moderate days rather than too few hard ones.
+
+Progress the sessions in one dimension at a time: add a repetition, extend the interval, or raise the pace, but not all three in the same week. Evidence linking weekly distance, frequency and intensity changes to injury is conflicting, so there is no single correct progression; the practical rule is to repeat a session at least twice before making it harder and to keep a note of how the following day felt.
+
+## Common misconceptions
+
+- “Tempo is race pace.” Tempo should allow short phrases; isolated words signal a race.
+- “More interval reps are better.” Continuing after form collapse only adds load.
+- “Quality work can replace easy running.” Most weeks still need easy volume.
+- “A pace table transfers directly.” Measures depend on protocol, so another runner's tempo pace may not match yours.
+
+## When to stop and seek help
+
+Stop and seek assessment for chest pain, fainting, marked breathing difficulty, or worsening pain, swelling, limping, restricted movement or night pain. In heat, dehydration or poor sleep, reduce or cancel the session.
+
+## Frequency and cycle: quality work and progression
+
+Most amateurs can place quality work 1–2 times per week, with the rest easy or rest. Progress over 3–4 week cycles by changing one variable: one extra rep, 2 extra minutes per rep or a slightly faster pace. Every 4 weeks, cut quality volume for a week.
+
+## Checklist
+
+- [ ] Set intensity with the talk test.
+- [ ] Tempo allows short phrases; recovery restores them.
+- [ ] Keep fast work at 18–24 minutes.
+- [ ] End early when reps slow or form collapses.
+- [ ] Schedule an easy day after.
+- [ ] Change one variable per 3–4 weeks.
 
 ## Scope and limits
 
-This page does not prescribe an individual training plan, exact paces or a performance guarantee. Pain, persistent fatigue, previous injury, or heart and breathing symptoms deserve assessment by a qualified coach, clinician or sports professional. Do not use “one more rep” to override an abnormal signal.
+This page does not provide an individual training plan, race pace or injury treatment. Dose depends on base mileage, recovery, sleep, injury history and weather; with health concerns, consult a professional. Example paces illustrate the logic, not a prescription.
+
+## Related reading
+
+- [easy-run](https://learn.paobu.org/en/articles/easy-run/)
+
+- [80/20 Polarized Training — an observed distribution, not a prescription](https://learn.paobu.org/en/articles/polarized-training-80-20/)
+- [Breathing rhythm: a gauge for intensity, not a fixed beat](https://learn.paobu.org/en/articles/breathing-and-rhythm/)
 
 ## Sources and scope
 
-Intensity judgement follows the CDC talk test; the limits of running-load and injury evidence follow a systematic review. Tempo and interval paces, rep counts and recovery vary by person and goal; this page provides a session framework, not a universal prescription.
+Intensity judgement follows the CDC physical activity and talk-test guidance; injury proportion follows a Journal of Athletic Training systematic review; multi-factor performance and measurement differences follow a 2026 physiology review. This is a general framework, not individual assessment. Verified 2026-11-06

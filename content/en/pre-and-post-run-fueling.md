@@ -2,8 +2,8 @@
 entityId: knowledge:pre-and-post-run-fueling
 locale: en
 title: "What to eat before and after running: timing, amount and tolerance"
-summary: "More food before a run is not automatically better, and recovery is not only a short “window”. Carbohydrate, protein, timing and gut tolerance matter more than a fixed menu."
-aliases: ["What to eat before and after running: timing, amount and tolerance", "pre- and post-run fuelling"]
+summary: "More food before a run is not automatically better, and recovery is not only a fixed “window”. Carbohydrate, protein, timing and gut tolerance matter more than copying a menu."
+aliases: ["What to eat before and after running: timing, amount and tolerance", "pre- and post-run fuelling", "pre- and post-run fueling"]
 authors:
   - runmap-editorial
 reviewers:
@@ -11,32 +11,93 @@ reviewers:
 translationStatus: reviewed
 ---
 
-## Before: give the stomach time
+## Definition and who this applies to
 
-The goal of pre-run food is available energy without a stomach that rebels while running. A meal based on carbohydrate, with moderate fat and fibre, is usually eaten 2–3 hours before training or racing. If time is short, choose a smaller, easy-to-digest carbohydrate such as a banana, bread, rice or a carbohydrate drink. Timing depends on gastric emptying, the food and your tolerance.
+Pre- and post-run fuelling means food and fluid around a run: energy before, carbohydrate during, and carbohydrate, protein and fluid afterwards. It applies to people without acute illness requiring dietary restriction, persistent vomiting or diarrhoea, or medical limits on fluid. The approach holds when the plan matches duration, intensity, weather and gut tolerance. ISSN guidance stresses adapting timing to exercise demand, the individual and the overall diet.
 
-Fasted morning runs may be fine for short easy runs but are a poor fit for quality sessions, long runs or races. Before trying fasted training, make sure you do not become dizzy or weak, and have fuel available. People with diabetes or medication that affects blood glucose should consult a clinician first.
+## Before: available energy, not maximum volume
 
-## After: total intake matters more than a “window”
+The goal is available energy without a stomach that rebels. One assumed example is a carbohydrate-based meal with moderate fat and fibre two to three hours before training; with less time, use a banana, bread, rice or carbohydrate drink. That timing is an example, not a universal rule; gastric emptying and tolerance decide. Fasted morning runs may suit short easy runs but not quality sessions, long runs or races. Confirm you do not become dizzy or weak, and consult a clinician first if diabetes or medication affects blood glucose.
 
-Post-run carbohydrate helps restore glycogen and protein supports repair; eating both is usually more complete than a sugary drink alone. The ISSN nutrient-timing position stand stresses that timing should fit the exercise demand, the individual and the overall diet, not a fixed number of minutes. A normal meal within a few hours is often more practical than precise timing.
+## Three hours, two hours, one hour: windows and amounts
 
-If another session or race follows soon, earlier carbohydrate and protein has more value. After an easy run, total daily energy and protein distribution matter more. Replace fluid according to thirst, urine colour and sweat losses; do not force a large volume at once.
+Separate official guidance from common practice. The joint position statement of the Academy of Nutrition and Dietetics, Dietitians of Canada and ACSM recommends a meal **3–4 hours** before exercise with **1–4 g/kg body mass of carbohydrate**, low in fat and fibre; with only **1–2 hours**, about **1 g/kg**. The IOC practical guide gives a wider window for events over 60 minutes: **1–4 g/kg** of carbohydrate within the **6 hours** before exercise.
 
-## Protein and everyday eating
+| Time before start | Carbohydrate target | What to eat | Basis |
+|---|---|---|---|
+| 3–4 hours | 1–4 g/kg body mass | Carbohydrate-based meal, low fat and fibre: rice, pasta, potato, white bread, modest protein | ACSM/AND/DC 2016 |
+| 1–2 hours | About 1 g/kg | Small, easy to digest: banana, white bread, rice, carbohydrate drink | Same |
+| Within 6 hours (events over 60 min) | 1–4 g/kg, spread as tolerated | As above | IOC 2010 |
+| 15–30 minutes | 15–30 g is common practice; **no single official dose (unknown)** | Small gel, banana or sports drink | Practice, not official guidance |
 
-Protein needs depend on body weight, training, age and energy intake; spreading it across meals is easier to implement than concentrating it at dinner. Prefer ordinary foods: grains, legumes, dairy, eggs, fish, meat and nuts. Protein powder is a convenience, not a requirement.
+**Why high fat and fibre carry risk.** Fat and fibre slow gastric emptying and add mechanical and osmotic load, making bloating, nausea or diarrhoea more likely while running; the joint statement therefore recommends a low-fat, low-fibre pre-event meal. There is no universal threshold for "high fat" (**unknown**), so the practical rule is not to differ much from what you normally eat.
 
-Recovery food does not need to be expensive. Chocolate milk, yoghurt with fruit, rice with eggs or a sandwich with tofu can all work; the point is carbohydrate, protein and fluid together, in a form you will keep eating.
+**Carbohydrate just before the start.** The official windows are 3–4 hours and 1–2 hours; a 15–30-minute top-up is common in practice but has no single official dose and should never be tried for the first time on race day.
 
-## Gut problems
+**Individual tolerance beats general rules.** In a two-week gut-training study with 10 sessions at 90 g of carbohydrate per hour, gastrointestinal symptoms fell in the carbohydrate groups and one-hour distance improved by 5.2% (gels) and 4.3% (real food), while placebo fell 2.1%. Tolerance can be trained, and the race-day menu must be rehearsed in training.
 
-Bloating, nausea or diarrhoea before or after running can come from too much food, too much fat or fibre, dehydration, caffeine or a new product. Record the timing, food and symptoms, and change one variable at a time. Do not try a high-fibre meal, strong coffee or a new supplement for the first time before a race. Seek medical advice for persistent symptoms, blood in the stool, weight loss or interference with daily life.
+For a 70 kg runner: about 70–280 g of carbohydrate 3–4 hours out (1–4 g/kg), or about 70 g at 2 hours (1 g/kg). The range is wide; choose the end you tolerate, not the top.
+
+## During: carbohydrate beyond 60 minutes
+
+For high-intensity exercise longer than 60 minutes, the ISSN carbohydrate paper suggests about 30–60 grams per hour, using a 6–8% carbohydrate-electrolyte solution every 10–15 minutes. That range is a reference to practise and adjust, not a ceiling. Shorter easy runs usually need no systematic carbohydrate, but heat, heavy sweating or a small previous meal still make fluid relevant. When carbohydrate is inadequate, protein may help performance and recovery but does not replace it.
+
+## After: total intake beats a fixed “window”
+
+Post-run carbohydrate helps restore glycogen and protein supports repair; together they are more complete than a sugary drink alone. ISSN stresses timing should fit exercise demand, the individual and overall diet, not a fixed number of minutes. A normal meal within a few hours is often more practical. If another session follows soon, earlier intake matters more; after an easy run, daily distribution matters more. Replace fluid by thirst, urine colour and sweat losses; the NHS suggests clear pale yellow urine, with more fluid in heat, without forcing a large volume at once.
+
+## How to do it
+
+1. Work backwards from the run: assume a carbohydrate meal two to three hours before quality work; if short of time, use a small low-fibre carbohydrate.
+2. For high-intensity work beyond 60 minutes, prepare 30–60 grams per hour in portions every 10–15 minutes; trial it in easy sessions.
+3. After running, replace fluid, then eat carbohydrate and protein within a few hours; move intake earlier if a second session follows.
+
+## Timing and amount at a glance
+
+| Timing | Goal | Example (assumed) |
+| --- | --- | --- |
+| 2–3 hours before | Carbohydrate without stomach load | Rice, eggs and a little vegetable |
+| Within 60 minutes before | Small, easy carbohydrate | A banana or a slice of bread |
+| During, beyond 60 minutes | Maintain carbohydrate supply | Small solution every 10–15 minutes |
+| Within a few hours after | Carbohydrate, protein and fluid | Yoghurt with fruit, or rice with fish |
+
+Amounts depend on weight, duration and tolerance.
+
+## Frequency, cycle and progression
+
+Fuelling follows training frequency: assume three easy runs and one long run weekly, and practise carbohydrate only on the long run. In a race cycle, trial race-day breakfast, drink and interval in long runs, changing one variable weekly. Progress from regular fluid, to small carbohydrate portions, then concentration or amount. Record timing, amount and gut response, and reduce the portion first if discomfort recurs.
+
+## Worked example (assuming a 70 kg runner for two hours)
+
+Assume a 70 kg runner plans two hours and uses 45 grams per hour, about 90 grams total. At 6%, 90 grams needs about 1500 millilitres; eight servings every 15 minutes is about 190 millilitres each. Eat about 60 grams of carbohydrate two to three hours before and a normal carbohydrate-and-protein meal within an hour after. These are assumptions; actual amounts depend on tolerance and race rules.
+
+## Common misconceptions
+
+- “More food means more energy.” Large portions or too much fat and fibre can cause bloating, nausea or diarrhoea.
+- “Missing a fixed post-run minute wastes the session.” Total intake and daily distribution often matter more.
+- “Protein powder is essential.” Ordinary foods can meet needs; powder is a convenience.
+
+## Gut problems, stop signals and seeking care
+
+Bloating, nausea or diarrhoea can come from too much food, fat or fibre, dehydration, caffeine or a new product. Record timing, food and symptoms, and change one variable. Do not trial a high-fibre meal, strong coffee or a new supplement before a race. Seek advice for persistent symptoms, blood in stool, weight loss, repeated vomiting or daily-life interference. Stop if fasted running causes dizziness, weakness or palpitations. Diabetes, gastrointestinal disease, pregnancy, breastfeeding, disordered-eating history or medication need individual discussion.
+
+## Self-check list
+
+- [ ] Pre-run food is planned backwards from the session time
+- [ ] Sessions beyond 60 minutes have an hourly carbohydrate target and interval
+- [ ] New foods or supplements were trialled in easy training
+- [ ] Recovery includes carbohydrate, protein and fluid
 
 ## Scope and limits
 
-This page does not provide an individual nutrition prescription, calorie target or therapeutic diet. People with diabetes, gastrointestinal disease, pregnancy, breastfeeding, a history of disordered eating or medication should discuss pre- and post-run food with a doctor or registered dietitian.
+This page does not provide an individual nutrition prescription, calorie target or therapeutic diet. People with diabetes, gastrointestinal disease, pregnancy, breastfeeding, a history of disordered eating or medication should discuss fuelling with a doctor or registered dietitian.
+
+## Related reading
+
+- [Everyday fuel: get the basics before supplements](https://learn.paobu.org/en/articles/daily-fueling/)
+- [Race-day fuelling: take what you have already tested](https://learn.paobu.org/en/articles/race-day-fueling/)
+- [Carb loading — 36–48 hours, 10–12 g/kg and the absorption ceiling](https://learn.paobu.org/en/articles/carb-loading/)
 
 ## Sources and scope
 
-Pre- and post-exercise timing and individualisation follow the ISSN nutrient-timing position stand; carbohydrate during prolonged exercise follows the ISSN carbohydrate-timing paper; hydration and urine colour follow the NHS hydration page. This is general sports-nutrition education, not clinical assessment. Checked 2026-10-28.
+Pre- and post-exercise timing and individualisation follow the ISSN nutrient-timing position stand; carbohydrate amount, concentration and interval for prolonged high-intensity exercise follow the ISSN carbohydrate-timing paper; hydration and urine colour follow the NHS hydration page. Pre-event timing and amounts follow the 2016 joint position statement of the Academy of Nutrition and Dietetics, Dietitians of Canada and ACSM (3–4 hours, 1–4 g/kg, low fat and fibre; about 1 g/kg at 1–2 hours) and the IOC 2010 Nutrition for Athletes guide (1–4 g/kg within the 6 hours before events over 60 minutes). Gut-training evidence follows Costa et al. (2017; two weeks, 10 sessions, 90 g/h; one-hour distance improved 5.2% and 4.3% versus −2.1% for placebo). These are general sports-nutrition sources, not clinical assessment. Verified 2026-11-07.

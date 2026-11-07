@@ -11,43 +11,89 @@ reviewers:
 translationStatus: reviewed
 ---
 
-## Definition: you can chat and sing
+## Definition and scope
 
-The most practical test for easy running is the **talk test**: you can speak in full sentences while running, your breathing is deeper but not chaotic, and you could hum a tune if you wanted to. Public-health guidance uses "can talk, but not sing" as a typical marker of moderate-intensity aerobic activity; easy running should usually feel more relaxed than that marker. The talk test is a rule of thumb, not a precise physiological measurement.
+Easy running is aerobic work you can recover from: you finish the day still able to live normally. The test is not a pace but conversation and perceived effort: full sentences, deeper but steady breathing, and the sense that you could continue. It is for new and experienced runners. It applies when you have no active injury or restriction, sleep and weather are ordinary, and you will adjust by feel. One case where it holds: a cool, flat, well-rested day with 30 to 60 minutes at a conversational speed.
 
-Intensity is relative. The same pace can feel easy on a cool morning and hard in heat, after poor sleep or on a climb. Do not define easy running by one fixed pace; define it by breathing, conversation and perceived effort in the moment.
+## Why easy running should dominate
 
-## Why easy running matters
+Its value is sustainable volume. Low intensity means a small recovery cost, so it repeats through the week and leaves room for quality sessions. Public-health guidance recommends at least 150 to 300 minutes a week of moderate-intensity aerobic activity, or 75 to 150 minutes of vigorous activity, or an equivalent combination, plus muscle-strengthening activity on at least two days a week. That is a health floor, not a marathon plan: for most runners, easy running carries most of those 150 to 300 minutes.
 
-The value of easy running is **sustainable volume**. Because the intensity is low, the recovery cost of a single run is smaller, so it can be repeated through the week and leave room for higher-quality sessions. It also builds an aerobic base, adapts you to mileage and gives you room to practise form. For beginners, easy running lowers the risk of a single overly hard session derailing the whole plan.
+## Three signals: talk, effort, recovery
 
-Public-health guidance recommends 150 to 300 minutes of moderate-intensity aerobic activity a week, or 75 to 150 minutes of vigorous-intensity aerobic activity, or an equivalent combination, plus muscle-strengthening activity on at least two days. That is a health floor, not a marathon plan; weekly running volume should follow your own base and goal.
+The CDC uses "can talk, but not sing" as a typical marker of moderate-intensity aerobic activity and states that the talk test is a rule of thumb, not a precise measurement. Easy running sits above that: full sentences, and humming if you want. Perceived effort on a 0–10 scale is often 3–4, finishing with the sense that you could continue. Next-day recovery means mild fatigue only, with normal walking, sleep and work. Heart rate alone is affected by heat, caffeine and sleep.
 
-## How to tell it is easy enough
+## Using heart-rate zones for easy running
 
-Cross-check three signals:
+Heart rate is a **ceiling**, not a target, on an easy run. Formulas, the two conventions (%HRmax and %HRR) and their error are covered in the [heart-rate zones](https://learn.paobu.org/en/articles/heart-rate-zones/) page; this section is only about applying them.
 
-1. **Conversation**: can you say a whole sentence without gasping?
-2. **Perceived effort**: on a 0–10 scale, easy running often sits around 3–4, and you finish feeling you could continue.
-3. **Recovery**: the next day brings only mild fatigue, not a change in walking or sleep.
+Public-health guidance puts moderate intensity at 40%–59% of heart-rate reserve (about 64%–76% of maximum heart rate). Easy running belongs in the **lower half** of that band, not against the ceiling.
 
-If the signals disagree, trust how you feel. Watch heart rate is affected by heat, caffeine, sleep and strap fit, so it should not be the only judge of intensity.
+1. **Cap the top, ignore the bottom.** Slow down or walk above the moderate ceiling; do not speed up just because you are below the floor.
+2. **Read the trend, not the first three minutes.** Heart rate follows a first-order response; treadmill work gives a time constant of about 57.6 s (24 healthy men, no difference between moderate and vigorous), so it takes about 3 minutes to approach steady state. An early low reading does not mean the effort is too easy.
+3. **Use the watch for steady runs, not for variable ones.** In a 26-person ecological validation, wrist optical heart rate erred by 1.2% (bias 0.1 bpm) during steady running, but 9.5% in orienteering, 16.2% in badminton and 17.5% in soccer. With run-walk, frequent changes or rough terrain, use a chest strap or the talk test.
 
-## Common mistakes
+| Situation | Use zones as the main metric? | What to do |
+|---|---|---|
+| Cool, flat, steady pace | Yes | Use the moderate ceiling as a guardrail and the talk test to calibrate |
+| Hot and humid | No | Drift raises heart rate; run by feel and time |
+| Run-walk, trail, frequent changes | No | Optical lag and error grow; use the talk test |
+| Heart-rate medication or arrhythmia | No formula zones | Follow clinical advice |
 
-- **Turning easy runs into tempo runs**: pushing the pace a little every day lands you in a grey zone that is neither easy nor a proper quality session.
-- **Running only by a pace table**: pace tables assume cool, flat, well-rested conditions. Treating them as fixed ignores the day's real state.
-- **Using "slow" to hide fatigue**: if your easy pace now requires gritting your teeth, the problem may be recovery, not intensity.
-- **Avoiding walking**: run-walk intervals still provide an easy aerobic stimulus, especially for new runners.
+Zones do not judge whether a run was "right": heat, poor sleep and caffeine all raise heart rate at the same pace. The three signals — talk, effort, next-day recovery — still come first; zones answer one question only: **did I run this too hard today?**
 
-## Relationship to race pace
+## How to: three steps to get it right
 
-Marathon race pace should be clearly faster than easy running. Use the [pace calculator](/en/tools/pace/) to see the average pace for different finish targets, then compare it with your easy pace. If the two are too close, easy runs may be too fast; if they are very far apart, check whether the plan lacks quality work. Training structure should follow your own situation and cycle.
+1. Set the ceiling first: before leaving, check whether you could say, without gasping, "this is easy"; recheck every 10 minutes.
+2. Set time before distance: anchor on 30 to 60 minutes, shortening in heat rather than adding distance to rescue a pace.
+3. Record recovery: note next-day fatigue, sleep and soreness; if two easy runs feel like gritting your teeth, run-walk or rest next.
 
-## Recovery and adjustment
+## Table: intensity against the talk test
 
-Easy running does not have to happen every day. After poor sleep, a block of hard training or unusual pain, rest or active recovery may be the better choice. See [what to do on a recovery day](/en/articles/recovery-day/). If fatigue lasts for weeks, resting heart rate is clearly unusual or daily life is affected, reduce training and seek medical advice.
+| Intensity | Speech | Feel | Use |
+| --- | --- | --- | --- |
+| Easy | Full sentences, can hum | 3–4 out of 10, could continue | Aerobic base, recovery, volume |
+| Moderate | Can talk, cannot sing | Breathing clearly faster | Brisk walking, some tempo |
+| Vigorous | A few words before a breath | Sustainable only briefly | Intervals, racing |
+| Run-walk | Can talk normally while walking | Lower overall load | Beginners, fatigue |
+
+## Worked example: five runs a week (hypothetical)
+
+The figures are hypothetical. Assume five runs totalling 240 minutes: three easy runs of 45 minutes (135 minutes), one tempo run of 30 minutes and one long run of 75 minutes. Easy running is 135 of 240 minutes, about 56%. At 6:30 per kilometre, 45 minutes covers about 6.9 km, so the three easy runs total about 20.8 km.
+
+## Common misconceptions
+
+- Turning easy runs into a grey zone: a little faster every day is neither easy nor quality work.
+- Running only by a pace table, which assumes cool, flat, rested conditions.
+- Using "slow" to hide fatigue: if easy pace needs gritted teeth, the problem may be recovery.
+
+## When to stop and seek care
+
+Stop and seek help for chest pain, fainting, palpitations, severe breathlessness, dizziness or worsening pain. Weeks of fatigue, an abnormal resting heart rate, disturbed sleep, unplanned weight loss or menstrual change call for reduced training and medical assessment.
+
+## Frequency and progression
+
+Plan by the week. Beginners can follow the NHS Couch to 5K structure: three runs a week with rest days, over nine weeks or longer, from one-minute runs and 1.5-minute walks toward 30 minutes of continuous running. With a base, stabilise at three to four easy sessions a week, then add duration, changing one variable at a time.
+
+## Check yourself
+
+- You can speak in full sentences and hum if you want.
+- Perceived effort is around 3–4 out of 10, and you could continue at the end.
+- The next day brings only mild fatigue with normal walking and sleep.
+- Easy running makes up most of your weekly running time, with one full rest day.
+
+## Scope and limits
+
+This page gives general principles; it does not provide individual pace tables, heart-rate zones or medical clearance. People with cardiovascular, respiratory or metabolic conditions, or taking medication, should consult a clinician; pregnancy and postpartum running need individual assessment.
+
+## Related reading
+
+- [Lactate Threshold and VO₂max Testing: Definitions, Error and Practical Use](https://learn.paobu.org/en/articles/lactate-threshold-and-vo2max-testing/)
+- [Tempo and interval running: intensity, structure and progression](https://learn.paobu.org/en/articles/tempo-and-intervals/)
+- [Pace calculator](https://tools.paobu.org/en/tools/pace/)
+- [Run-walk planner](https://tools.paobu.org/en/tools/run-walk/)
+- [Treadmill running: incline, pace and safety](https://learn.paobu.org/en/articles/treadmill-running/)
 
 ## Sources and scope
 
-The talk-test description follows the U.S. CDC's explanation of physical activity intensity. The weekly activity recommendation follows the second edition of the Physical Activity Guidelines for Americans. This article offers general training concepts, not individual medical or coaching prescriptions. It was checked on 2026-10-27.
+The talk test and the moderate and vigorous markers follow the U.S. CDC intensity guidance. The weekly recommendation of 150 to 300 minutes moderate, 75 to 150 minutes vigorous and two days of strength work follows the second edition of the Physical Activity Guidelines for Americans. Three runs a week, nine weeks or longer and progression to 30 continuous minutes follow the NHS Couch to 5K page. The heart-rate time constant follows Hunt et al. (2015; 24 healthy men, τ≈57.6 s on a treadmill); the accuracy of wrist optical heart rate during steady versus variable exercise follows Ceugniez et al. (2025; 26 participants, steady running MAPE 1.2%, orienteering 9.5%). Verified 2026-11-07.

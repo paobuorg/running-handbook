@@ -2,7 +2,7 @@
 entityId: knowledge:uphill-and-downhill
 locale: en
 title: "Uphill and downhill: one hill, two ways to run it"
-summary: "Uphill running is sustained work; downhill running is eccentric control. Copying flat-road pace onto a gradient usually leaves you tired on the climb and out of control on the descent."
+summary: "Uphill running is sustained work with shorter steps and higher cadence; downhill running is eccentric control of gravity's acceleration. Copying flat pace onto a gradient usually leaves you tired on the climb and out of control on the descent."
 aliases: ["Uphill and downhill: one hill, two ways to run it", "trail climbing and descending"]
 authors:
   - runmap-editorial
@@ -11,36 +11,77 @@ reviewers:
 translationStatus: reviewed
 ---
 
-## Gradient changes the movement
+## Definition and preconditions
 
-Uphill, the body has to lift more mass against gravity, and the hip extensors and lower leg do more work. To produce propulsion in a shorter stance time, runners usually shorten the stride, increase step frequency and reduce swing and flight time. Downhill is different: gravity helps, flight time lengthens, cadence often falls, the foot is more likely to land heel-first or flat, and muscles absorb impact through eccentric work.
+Uphill running moves against gravity; downhill running moves with gravity while muscles absorb impact eccentrically. It applies to runners moving from flat running onto hills or trails. It holds when the slope is repeatable, the surface needs no hands, and there is no acute knee or ankle pain; otherwise choose a gentler slope or stay flat.
 
-So “slower uphill, faster downhill” is only half true. Uphill is slower because the same pace costs more. Downhill is not free speed, because impact and quadriceps load also rise.
+## How gradient changes the gait
 
-## Uphill: effort, not pace
+Uphill running has higher step frequency, shorter swing and aerial phase, and greater duty factor than level running. Downhill running has longer aerial time, lower step frequency and more rear-foot striking. Downhill emphasises eccentric work; uphill needs greater muscular work, particularly at the hip.
 
-Breathing and perceived effort are more useful than the pace on your watch. A steady rhythm with deeper but controlled breathing is usually more sustainable than defending a flat-road pace. On a steep, technical or high-altitude climb, walking is not a failure; in trail races, purposeful power-hiking often costs less overall than forcing a run.
+## Uphill: shorter steps and the talk test
 
-Shorten the stride, let cadence rise naturally, lean slightly from the ankles rather than folding at the waist, and let the arms support the rhythm. Do not lunge for the top. Start hill sessions with 20–60 second repeats and an easy jog down; stop when form changes.
+Do not lunge. Shorten the stride, let cadence rise, lean from the ankles, and let arms set rhythm. Use the talk test: moderate means you can talk but not sing; vigorous means only a few words before a breath. On steep or loose ground, purposeful walking often beats forcing a run.
 
-Hill running is not a replacement for strength training. It provides load and skill practice at a specific angle, not a substitute for progressive strength work, recovery and gradual load management.
+## Downhill: control the stride before speed
 
-## Downhill: control before speed
+A suddenly longer stride, foot far ahead, concentrates braking at the knee and shin. Keep steps light, never fully open the stride, land under the body, look ahead and pick footholds early. Eccentric load falls on the quadriceps; control drops with fatigue, so practise descents fresh.
 
-Gravity pulls you forward, but the muscles still work, especially the quadriceps that absorb landing forces. A suddenly longer stride with the foot far in front concentrates braking and impact in the knee and lower leg. A more controlled descent keeps the steps light, the stride from opening completely, the landing closer under the body, the eyes further ahead and the next foothold chosen early.
+## Uphill and downhill compared
 
-Technical descending is a skill. Start on short, gentle slopes and gradually add length and uneven ground. Do not try your first fast descent at the end of a fatigued session. Check the course profile and technical notes before a race, and put the steep descents into the pace and fuelling plan rather than deciding at the top.
+| Dimension | Uphill | Downhill | Warning |
+| --- | --- | --- | --- |
+| Cadence | Higher | Lower | Below flat |
+| Flight | Short | Long | Heavy landing |
+| Load | Hip and calf | Quadriceps | Knee giving way |
 
-## Gradient, weather and altitude
+## Worked example: 6 x 90 seconds uphill (hypothetical)
 
-Wet rock, loose gravel, roots and snow change grip and braking; the same gradient is a different problem in dry and wet conditions. On a technical descent, slow down, shorten the stride, turn sideways or use a handhold when needed. Altitude reduces available oxygen, so breathing and heart-rate responses can be much higher than at sea level; do not apply a sea-level effort by feel.
+Assume a dry 6% slope, 6 x 90 seconds uphill with a 2 minute jog down. Repeats 1-2 stay moderate: talking is possible, singing is not. If repeats 5-6 allow only a few words per breath, shorten the work or lengthen recovery. Assume a flat pace of 6 minutes per km; the site's grade-adjusted pace tool (Minetti 2002 running cost polynomial) puts the same metabolic cost at about 8 minutes 13 seconds per km on a 6% climb (about 1.37x), with the equivalent flat pace still 6:00. Technique, surface and fatigue can push that towards 8 minutes 30 seconds or slower. Numbers are hypothetical.
 
-Stop and seek help for chest pain, dizziness, unusual palpitations or severe breathlessness on a climb. After a fall, persistent pain, swelling, inability to bear weight or a head impact should be treated as an acute injury, not tested by running on.
+## How to do it
+
+1. Choose a gentle, clean repeat hill; set the first repeat by the talk test, treating "can talk, cannot sing" as moderate.
+2. Shorten the stride and lift cadence uphill, leaning from the ankles; downhill keep the stride compact, land under the body and look ahead.
+3. Add uphill repeats first, downhill only when form is stable; change one variable per session and adjust from knee response.
+
+## Common misconceptions
+
+- Overstriding downhill. A long stride with the foot far ahead concentrates braking at the knee and is hardest to control when tired.
+- Chasing a cadence number. Higher stride rate at a fixed speed reduced vertical centre-of-mass excursion, ground reaction force and joint energy absorption in reviewed studies, and may reduce injury factors, but studies were small and varied, so no universal target exists.
+
+## When to stop or seek care
+
+Stop descending for persistent knee pain, the knee giving way, or inability to bend. Stop climbing for chest pain, dizziness, palpitations or severe breathlessness. After a fall, persistent pain, swelling, inability to bear weight or a head impact is an acute injury, not something to test by running. Seek care if symptoms persist or worsen at night.
+
+## Frequency and progression
+
+An example plan (hypothetical): one hill session per week, reviewed every 4 to 6 weeks. Start uphill with 4 x 60 seconds and add one repeat or 15 seconds per week while the last repeat holds form. Downhill is more conservative: 4 x 30 seconds on a gentle slope, building to 60 seconds. If knee pain lasts beyond 24 hours, cut the next session or return to the flat.
+
+## Pre-session checklist
+
+- [ ] No acute knee, ankle or hip pain.
+- [ ] Repeatable slope, dry surface, clean descent.
+- [ ] Warm-up, repeats and recovery decided.
+- [ ] Set ends when form changes.
+- [ ] Downhill repeats when fresh.
 
 ## Scope and limits
 
-This page offers general uphill and downhill principles, not individual coaching, trail-navigation training or medical advice. Technical terrain, weather and altitude vary widely; the organiser and local land manager’s latest information govern the actual route.
+General principles, not individual coaching or medical advice. Gradient, surface, altitude and fatigue change the response.
+
+## Related reading
+
+- [Grade-adjusted pace](https://tools.paobu.org/en/tools/grade-adjusted-pace/)
+- [Track elevation](https://tools.paobu.org/en/tools/route-elevation/)
+- [Route comparison](https://tools.paobu.org/en/tools/route-compare/)
+- [Track simplifier](https://tools.paobu.org/en/tools/track-simplify/)
+
+- [Trail navigation: a GPX is a base map, not a safety net](https://learn.paobu.org/en/articles/trail-navigation/)
+- [Tempo and interval running: intensity, structure and progression](https://learn.paobu.org/en/articles/tempo-and-intervals/)
+- [Hills and mountain paths: a first outing](https://learn.paobu.org/en/articles/hill-and-mountain-path-basics/)
+- [Running surfaces: no absolute best, only adaptation](https://learn.paobu.org/en/articles/running-surface/)
 
 ## Sources and scope
 
-Uphill step frequency, stance time and hip work, and downhill flight time, cadence and eccentric load, follow a Sports Medicine review of uphill and downhill running biomechanics and physiology. The review describes group and laboratory patterns, not a fixed technical template for every runner. Checked 2026-10-28.
+Uphill gait and hip work, and downhill flight, cadence, rear-foot striking and eccentric load, follow a Sports Medicine review. Stride frequency and injury follow a Sports Health review whose studies were small and varied, with no universal cadence target. The talk test follows CDC guidance as a rule of thumb. Verified 2026-11-06.
