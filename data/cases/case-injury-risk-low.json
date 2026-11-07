@@ -1,0 +1,19 @@
+{
+  "caseId": "case-injury-risk-low",
+  "toolId": "tool:injury-risk-check",
+  "input": {
+    "painDuringRun": true,
+    "painAtRestOrWalking": false,
+    "swelling": false,
+    "nightOrMorningPain": false,
+    "weeklyVolumeChangePercent": 6,
+    "sleepHours": 7.5,
+    "priorInjurySameArea": true
+  },
+  "expected": {
+    "score": 2,
+    "band": "low",
+    "redFlags": false
+  },
+  "basis": "Independent arithmetic: pain during running 1 + prior injury 1 = 2. Volume change is not above 10%, sleep is not below 7 hours and no red flag is present, so the band is low (0-2)."
+}

@@ -1,0 +1,19 @@
+{
+  "caseId": "case-injury-risk-moderate",
+  "toolId": "tool:injury-risk-check",
+  "input": {
+    "painDuringRun": true,
+    "painAtRestOrWalking": false,
+    "swelling": false,
+    "nightOrMorningPain": true,
+    "weeklyVolumeChangePercent": 12,
+    "sleepHours": 6,
+    "priorInjurySameArea": false
+  },
+  "expected": {
+    "score": 4,
+    "band": "moderate",
+    "redFlags": false
+  },
+  "basis": "Independent arithmetic: pain during running 1 + night or morning pain 1 + volume change above 10% 1 + sleep below 7 hours 1 = 4. No rest pain or swelling, so no red flag; the band is moderate (3-4)."
+}

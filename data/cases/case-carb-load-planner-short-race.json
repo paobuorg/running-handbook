@@ -1,0 +1,17 @@
+{
+  "caseId": "case-carb-load-planner-short-race",
+  "toolId": "tool:carb-load-planner",
+  "input": {
+    "bodyMassKg": 60,
+    "eventDurationMinutes": 45,
+    "loadWindowHours": 36
+  },
+  "expected": {
+    "indicated": false,
+    "dailyLowGrams": 600,
+    "dailyHighGrams": 720,
+    "windowTotalLowGrams": 900,
+    "windowTotalHighGrams": 1080
+  },
+  "basis": "Independent arithmetic: daily range = 60 × 10 to 60 × 12 = 600–720 g/day. A 36-hour window is 1.5 days, so the total is 1.5 × 600 = 900 g to 1.5 × 720 = 1,080 g. The event lasts 45 minutes, which is not longer than 90 minutes, so loading is not indicated."
+}

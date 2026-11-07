@@ -1,0 +1,18 @@
+{
+  "caseId": "case-track-simplify-keep",
+  "toolId": "tool:track-simplify",
+  "input": {
+    "toleranceMeters": 5,
+    "coordinates": [
+      [0, 0],
+      [0.001, 0.0001],
+      [0.002, 0]
+    ]
+  },
+  "expected": {
+    "segmentCount": 1,
+    "originalPointCount": 3,
+    "simplifiedPointCount": 3
+  },
+  "basis": "Independent arithmetic: 0.0001 degrees of latitude is about 11.12 m. The middle point deviates from the straight chord by more than the 5 m projected tolerance, so all three points are retained."
+}

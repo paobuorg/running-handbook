@@ -1,0 +1,17 @@
+{
+  "caseId": "case-sweat-rate-ninety-minutes",
+  "toolId": "tool:sweat-rate",
+  "input": {
+    "preWeightKg": 60,
+    "postWeightKg": 59.1,
+    "fluidIntakeLiters": 0.3,
+    "durationMinutes": 90
+  },
+  "expected": {
+    "netLossLiters": 1.2,
+    "sweatRateLitersPerHour": 0.8,
+    "bodyMassLossPercent": 1.5,
+    "aboveTwoPercent": false
+  },
+  "basis": "Independent arithmetic: net loss = 60 − 59.1 + 0.3 = 1.2 L. Over 90 minutes (1.5 hours) the rate is 1.2 / 1.5 = 0.8 L/h. Body mass loss = (60 − 59.1) / 60 × 100 = 1.5%, at or below the 2% threshold."
+}

@@ -1,0 +1,17 @@
+{
+  "caseId": "case-heat-adjust-very-hot",
+  "toolId": "tool:heat-adjust",
+  "input": {
+    "temperatureC": 22,
+    "relativeHumidityPercent": 65,
+    "baselinePaceSecondsPerKm": 300,
+    "durationMinutes": 45
+  },
+  "expected": {
+    "heatScore": 24.6,
+    "adjustedPaceLowSeconds": 321,
+    "adjustedPaceHighSeconds": 330,
+    "band": "very-hot"
+  },
+  "basis": "Independent arithmetic: heat score = 22 + 0.04 × 65 = 24.6, which is at or above the very-hot threshold of 24. The very-hot band adds 7-10%: 300 × 1.07 = 321 and 300 × 1.10 = 330, both exact whole seconds."
+}

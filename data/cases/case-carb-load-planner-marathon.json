@@ -1,0 +1,17 @@
+{
+  "caseId": "case-carb-load-planner-marathon",
+  "toolId": "tool:carb-load-planner",
+  "input": {
+    "bodyMassKg": 70,
+    "eventDurationMinutes": 240,
+    "loadWindowHours": 48
+  },
+  "expected": {
+    "indicated": true,
+    "dailyLowGrams": 700,
+    "dailyHighGrams": 840,
+    "windowTotalLowGrams": 1400,
+    "windowTotalHighGrams": 1680
+  },
+  "basis": "Independent arithmetic: daily range = 70 × 10 to 70 × 12 = 700–840 g/day. A 48-hour window is 2 days, so the total is 2 × 700 = 1,400 g to 2 × 840 = 1,680 g. The event lasts 240 minutes, which is longer than 90 minutes, so loading is indicated."
+}

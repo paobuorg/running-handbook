@@ -1,0 +1,17 @@
+{
+  "caseId": "case-heat-adjust-boundary",
+  "toolId": "tool:heat-adjust",
+  "input": {
+    "temperatureC": 20,
+    "relativeHumidityPercent": 100,
+    "baselinePaceSecondsPerKm": 240,
+    "durationMinutes": 90
+  },
+  "expected": {
+    "heatScore": 24.0,
+    "adjustedPaceLowSeconds": 257,
+    "adjustedPaceHighSeconds": 264,
+    "band": "very-hot"
+  },
+  "basis": "Boundary arithmetic: heat score = 20 + 0.04 × 100 = 24.0 exactly, the inclusive lower edge of the very-hot band. The band adds 7-10%: 240 × 1.07 = 256.8, rounded to 257; 240 × 1.10 = 264 exactly."
+}
