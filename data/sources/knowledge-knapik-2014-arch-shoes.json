@@ -1,0 +1,21 @@
+{
+  "sourceId": "knowledge-knapik-2014-arch-shoes",
+  "title": "Injury-Reduction Effectiveness of Prescribing Running Shoes on the Basis of Foot Arch Height: Summary of Military Investigations",
+  "url": "https://www.jospt.org/doi/10.2519/jospt.2014.5342",
+  "publisher": "Journal of Orthopaedic & Sports Physical Therapy",
+  "publishedAt": null,
+  "accessedAt": "2026-11-07",
+  "claims": [
+    "3 项随机前瞻性研究、共 7,203 名新兵，按足弓高度配鞋与统一配稳定型鞋的伤病率差异很小。",
+    "按足底形态（足弓高度）选鞋未能降低基础训练中的伤病风险。",
+    "作者建议军队停止按静态足底形态配鞋，改为提供多种长度与宽度的鞋让新兵自选。"
+  ],
+  "license": null,
+  "verification": {
+    "access": "metadata-only",
+    "bodyRead": false,
+    "checkedAt": "2026-11-07",
+    "checkedVia": "WebFetch",
+    "note": "正文在 Results 处截断；配鞋建议未核对。"
+  }
+}

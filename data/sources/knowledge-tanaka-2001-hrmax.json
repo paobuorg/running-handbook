@@ -1,0 +1,17 @@
+{
+  "sourceId": "knowledge-tanaka-2001-hrmax",
+  "title": "Age-predicted maximal heart rate revisited",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/11153730/",
+  "publisher": "Journal of the American College of Cardiology",
+  "publishedAt": "2001-01-01",
+  "claims": [
+    "A meta-analysis collected group mean maximal heart rate values from 351 studies involving 492 groups and 18,712 subjects.",
+    "Maximal heart rate was strongly related to age (r = -0.90), with the regression equation 208 - 0.7 × age.",
+    "A laboratory-based cross-validation in 514 healthy subjects produced 209 - 0.7 × age, virtually identical to the meta-analysis equation.",
+    "The regression line was not different between men and women and was not influenced by wide variations in habitual physical activity.",
+    "The older 220 - age equation underestimates maximal heart rate in older adults.",
+    "The authors recommend 208 - 0.7 × age as a regression equation to predict maximal heart rate in healthy adults."
+  ],
+  "accessedAt": "2026-11-07",
+  "license": "Elsevier copyright; citation and summary only"
+}

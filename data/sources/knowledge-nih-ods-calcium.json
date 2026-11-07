@@ -1,0 +1,27 @@
+{
+  "sourceId": "knowledge-nih-ods-calcium",
+  "title": "Calcium — Fact Sheet for Health Professionals",
+  "url": "https://ods.od.nih.gov/factsheets/Calcium-HealthProfessional/",
+  "publisher": "NIH Office of Dietary Supplements",
+  "publishedAt": null,
+  "claims": [
+    "Recommended Dietary Allowances for calcium are 1,000 mg/day for men and women aged 19–50, 1,000 mg/day for men aged 51–70 and 1,200 mg/day for women aged 51–70, and 1,200 mg/day for both sexes above 70; adolescents aged 9–18 need 1,300 mg/day.",
+    "The Tolerable Upper Intake Level for calcium is 1,000 mg/day for infants 0–6 months, 1,500 mg/day for infants 7–12 months, 2,500 mg/day for children 1–8 years, 3,000 mg/day for children 9–18 years, 2,500 mg/day for adults 19–50 years, 2,000 mg/day for adults 51 years and older, 3,000 mg/day for pregnant and breastfeeding teens, and 2,500 mg/day for pregnant and breastfeeding women.",
+    "Milk, yogurt and cheese are rich natural sources of calcium; in the United States about 72% of calcium intake comes from dairy products and foods with added dairy ingredients.",
+    "Absorption of calcium from dairy products and fortified foods is about 30%; absorption from spinach is only about 5% because of oxalic acid, whereas absorption from milk is about 27%.",
+    "Net absorption of dietary calcium is reduced to a small extent by caffeine and phosphorus intake and to a greater extent by low vitamin D status.",
+    "Getting too little calcium can cause osteoporosis, rickets and osteomalacia.",
+    "Average daily calcium intakes from foods and beverages are 1,083 mg for men aged 20 and older and 842 mg for women; an analysis of 2007–2010 NHANES data found that 39% of individuals aged 4 and older consume less than the Estimated Average Requirement from foods and supplements.",
+    "Absorption from calcium supplements is highest with doses of 500 mg or less; the body absorbs about 36% of a 300 mg dose and 28% of a 1,000 mg dose.",
+    "High levels of calcium in the blood and urine can cause poor muscle tone, poor kidney function, low phosphate, constipation, nausea, weight loss, extreme tiredness, frequent urination and abnormal heart rhythms, but these are usually caused by a health condition rather than high calcium intake."
+  ],
+  "accessedAt": "2026-11-07",
+  "license": "US Government work; citation and summary only",
+  "verification": {
+    "access": "metadata-only",
+    "bodyRead": false,
+    "checkedAt": "2026-11-07",
+    "checkedVia": "WebFetch",
+    "note": "正文在可耐受最高摄入量段落前截断。"
+  }
+}

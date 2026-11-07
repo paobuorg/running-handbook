@@ -1,0 +1,18 @@
+{
+  "sourceId": "knowledge-mcmillan-calculator-guide",
+  "title": "The McMillan Running Calculator — Using Your Training Paces",
+  "url": "https://www.mcmillanrunning.com/wp-content/uploads/2016/08/UsingMcMillanCalculatorResults.pdf",
+  "publisher": "McMillan Running",
+  "publishedAt": "2016-08-01",
+  "accessedAt": "2026-11-07",
+  "claims": [
+    "The calculator predicts equivalent race performances at other distances from a recent race time and provides optimal training pace ranges.",
+    "Training is divided into four zones: Endurance Workouts, Stamina Workouts, Speed Workouts and Sprint Workouts.",
+    "Each zone lists pace ranges for specific workouts, alongside %HRmax, %heart-rate reserve and RPE.",
+    "The guide describes its equivalent performances as estimates whose accuracy depends on course, weather and day-to-day condition.",
+    "It states that race distances close together are more predictive than distances far apart, and that a 5 km runner is unlikely to run the equivalent marathon time without marathon training.",
+    "It recommends recalculating paces every 4–8 weeks as fitness changes.",
+    "The calculator and pace ranges are a commercial coaching service, not a governing-body or clinical standard."
+  ],
+  "license": null
+}

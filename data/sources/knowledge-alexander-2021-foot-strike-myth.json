@@ -1,0 +1,23 @@
+{
+  "sourceId": "knowledge-alexander-2021-foot-strike-myth",
+  "title": "Infographic. Running myth: switching to a non-rearfoot strike reduces injury risk and improves running economy",
+  "url": "https://bjsm.bmj.com/content/55/3/175",
+  "publisher": "British Journal of Sports Medicine",
+  "publishedAt": "2021-02-01",
+  "accessedAt": "2026-11-07",
+  "claims": [
+    "The infographic states that transitioning to a non-rearfoot strike pattern to reduce injury risk or improve running economy is not supported by evidence.",
+    "While knee loads are reduced with forefoot striking, loads to the calf, ankle and foot increase, which may raise injury risk in those areas during transition.",
+    "The authors note that retrospective evidence links rearfoot striking with greater injury risk, but that no prospective evidence supports one pattern increasing or decreasing future injury risk.",
+    "No difference in running economy was found between habitual rearfoot and habitual non-rearfoot strike runners.",
+    "The overwhelming majority of recreational shod distance runners use a rearfoot strike pattern."
+  ],
+  "license": "BMJ; citation and summary only",
+  "verification": {
+    "access": "blocked",
+    "bodyRead": false,
+    "checkedAt": "2026-11-07",
+    "checkedVia": "出版方页面",
+    "note": "仅读到导语（正文付费墙 £53）；膝/踝负荷与跑步经济性条目未核对。"
+  }
+}

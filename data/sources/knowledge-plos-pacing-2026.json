@@ -1,0 +1,17 @@
+{
+  "sourceId": "knowledge-plos-pacing-2026",
+  "title": "Pacing strategy patterns and performance outcomes in marathon running: A large-scale analysis of split time data",
+  "url": "https://doi.org/10.1371/journal.pone.0352808",
+  "publisher": "PLOS ONE",
+  "publishedAt": "2026-07-17",
+  "claims": [
+    "The study analysed split times from 78,912 finishers of the Boston Marathon between 2015 and 2017.",
+    "Four pacing patterns were identified: even pacing 47.9%, mild positive splitting 31.9%, strong positive splitting 12.2% and variable pacing 8.0%.",
+    "Even pacing was associated with the fastest finish times; mean finish time was 217 minutes for even pacing versus 276 minutes for strong positive splitting.",
+    "Variable pacing had the highest incidence of hitting the wall, defined as a pace decline greater than 20% in the final segment, at 85.4%.",
+    "High-performance runners finishing under 3:00 showed even pacing 82.0% of the time, compared with 19.6% in casual participants.",
+    "Age and sex significantly influenced pacing strategy selection (p < 0.001)."
+  ],
+  "accessedAt": "2026-11-07",
+  "license": "CC-BY-4.0"
+}

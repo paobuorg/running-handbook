@@ -1,0 +1,15 @@
+{
+  "sourceId": "knowledge-ceugniez-2025-fitbit-hr",
+  "title": "Reliability and Accuracy of the Fitbit Charge 4 Photoplethysmography Heart Rate Sensor in Ecological Conditions: Validation Study",
+  "url": "https://doi.org/10.2196/54871",
+  "publisher": "JMIR mHealth and uHealth",
+  "publishedAt": "2025-01-08",
+  "accessedAt": "2026-11-07",
+  "claims": [
+    "26 名参与者（男 15、女 11）在日常生态条件下同时佩戴 Fitbit Charge 4 与 Polar H10 胸带。",
+    "稳定跑步（11 次、3 人）中光学心率偏差 0.1 bpm、平均绝对百分比误差 1.2%（SD 4.6%），一致限 −10.7 至 10.9 bpm。",
+    "定向越野跑（5 次、5 人）误差升至 9.5%，偏差 −8.6 bpm；羽毛球 16.2%、足球 17.5%。",
+    "同一设备在稳定跑步中足够准确，但在频繁变速、间歇或复杂地形中误差明显增大。"
+  ],
+  "license": "CC-BY-4.0"
+}

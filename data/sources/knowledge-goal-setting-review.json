@@ -4,11 +4,18 @@
   "url": "https://www.tandfonline.com/doi/full/10.1080/1750984X.2022.2116723",
   "publisher": "International Review of Sport and Exercise Psychology",
   "publishedAt": null,
-  "accessedAt": "2026-10-28",
+  "accessedAt": "2026-11-07",
   "claims": [
     "Goal setting had a medium, positive effect on task performance in sport.",
     "The effect was moderated by factors including goal type, proximity, experience and feedback.",
     "The review notes mixed findings and limited cross-study evidence for some psychological outcomes."
   ],
-  "license": "All rights reserved; citation and abstract only"
+  "license": "All rights reserved; citation and abstract only",
+  "verification": {
+    "access": "metadata-only",
+    "bodyRead": false,
+    "checkedAt": "2026-11-07",
+    "checkedVia": "WebFetch",
+    "note": "仅读到摘要与方法；效应量与调节因素未核对。"
+  }
 }

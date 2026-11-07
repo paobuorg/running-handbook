@@ -1,0 +1,16 @@
+{
+  "sourceId": "knowledge-minetti-2002",
+  "title": "Energy cost of walking and running at extreme uphill and downhill slopes",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/12183501/",
+  "publisher": "Journal of Applied Physiology",
+  "publishedAt": "2002-09-01",
+  "claims": [
+    "Ten elite mountain runners ran on a treadmill at gradients from -0.45 to +0.45.",
+    "A fifth-order polynomial fitted the metabolic energy cost of running against gradient with R-squared = 0.99.",
+    "The polynomial coefficients for running are 155.4, -30.4, -43.3, 46.3, 19.5 and a constant of 3.6 joules per kilogram per metre.",
+    "The constant 3.6 joules per kilogram per metre is the fitted cost of running on the level.",
+    "The paper reports that energy cost rises on uphill slopes and falls on moderate downhill slopes before rising again on steep descents."
+  ],
+  "accessedAt": "2026-11-07",
+  "license": null
+}

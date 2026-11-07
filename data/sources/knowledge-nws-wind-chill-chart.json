@@ -1,0 +1,15 @@
+{
+  "sourceId": "knowledge-nws-wind-chill-chart",
+  "title": "Wind Chill",
+  "url": "https://www.weather.gov/arx/wind_chill",
+  "publisher": "U.S. National Weather Service",
+  "publishedAt": null,
+  "accessedAt": "2026-11-07",
+  "claims": [
+    "风寒指数只在气温 50°F（10°C）及以下、风速高于 3 mph 时定义。",
+    "风寒图用 30、10、5 分钟等区间标示暴露皮肤发生冻伤的时间。",
+    "气温 0°F、风速 15 mph 时风寒约 −19°F，暴露皮肤约 30 分钟可发生冻伤。",
+    "明亮日照可能使风寒读数高 10–18°F（即体感不如阴影中寒冷）。"
+  ],
+  "license": null
+}

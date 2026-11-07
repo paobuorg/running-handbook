@@ -1,0 +1,15 @@
+{
+  "sourceId": "knowledge-fernandes-2023-negative-splitting",
+  "title": "Against negative splitting: the case for alternative pacing strategies for elite marathon athletes in official events",
+  "url": "https://arxiv.org/abs/2311.08645",
+  "publisher": "arXiv（预印本，未经同行评审）",
+  "publishedAt": "2023-11-15",
+  "accessedAt": "2026-11-07",
+  "claims": [
+    "用能量学模型与计算流体力学（CFD）阻力值模拟精英马拉松在不同配速策略下的总时间。",
+    "结论是：在有配速员、主跑者可以跟跑减阻的条件下，正分段（前段快、后段慢）可能比负分段更省时。",
+    "模拟给出的最优结果是：受保护阶段（有兔子）比无保护阶段快 2.4%–2.6%。",
+    "这是建模研究，不是对真实比赛结果的因果试验；结论只针对有配速员且允许跟跑的精英场景。"
+  ],
+  "license": null
+}

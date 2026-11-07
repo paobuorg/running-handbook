@@ -1,0 +1,14 @@
+{
+  "sourceId": "knowledge-garmin-running-dynamics-vertical-ratio",
+  "title": "Vertical Ratio",
+  "url": "https://www.garmin.com/en-US/garmin-technology/running-science/running-dynamics/vertical-ratio/",
+  "publisher": "Garmin",
+  "publishedAt": null,
+  "accessedAt": "2026-11-07",
+  "claims": [
+    "Garmin defines vertical ratio as vertical oscillation divided by stride length, expressed as a percentage.",
+    "Garmin describes a low vertical ratio as a small energy cost for a large horizontal benefit, which it interprets as more efficient running.",
+    "Garmin publishes no threshold value for vertical ratio."
+  ],
+  "license": "Garmin; citation and summary only"
+}

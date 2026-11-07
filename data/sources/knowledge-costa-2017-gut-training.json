@@ -1,0 +1,22 @@
+{
+  "sourceId": "knowledge-costa-2017-gut-training",
+  "title": "Gut-training: the impact of two weeks repetitive gut-challenge during exercise on gastrointestinal status, glucose availability, fuel kinetics, and running performance",
+  "url": "https://doi.org/10.1139/apnm-2016-0453",
+  "publisher": "Applied Physiology, Nutrition, and Metabolism",
+  "publishedAt": "2017-05-01",
+  "accessedAt": "2026-11-07",
+  "claims": [
+    "耐力跑者进行两周、共 10 次、每小时 90 克碳水的肠道训练（凝胶或真实食物），与安慰剂组比较。",
+    "两周后，两个碳水训练组的胃肠症状减少；安慰剂组没有同等改善。",
+    "1 小时距离测试中，碳水凝胶组提高 5.2%、真实食物组提高 4.3%，安慰剂组下降 2.1%（交互作用 p=0.009）。",
+    "作者结论是：两周重复的肠道挑战可以改善胃肠症状与跑步表现；这属于训练适应，不是一次性技巧。"
+  ],
+  "license": null,
+  "verification": {
+    "access": "metadata-only",
+    "bodyRead": false,
+    "checkedAt": "2026-11-07",
+    "checkedVia": "WebFetch",
+    "note": "仅读到摘要；「共 10 次」与部分训练细节未见于摘要。"
+  }
+}

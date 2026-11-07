@@ -1,0 +1,15 @@
+{
+  "sourceId": "knowledge-blodorn-2025-running-coefficients",
+  "title": "Special endurance coefficients enable the evaluation of running performance",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12181339/",
+  "publisher": "Scientific Reports",
+  "publishedAt": "2025-06-20",
+  "accessedAt": "2026-11-07",
+  "claims": [
+    "The authors analysed over 14,000 race times from competitive male runners and introduced the coefficient of special endurance (KsA).",
+    "They noticed that times for 1500 m and above were slightly different (e.g. about 10 seconds over 5000 m) between the VDOT tables and the VDOT online calculator.",
+    "They also noticed that the exponent in Riegel's original publication is 1.07732, while the respective online calculator uses an exponent of 1.06.",
+    "The KsA-based reference ranges predict race times with less than one percent error within the studied population."
+  ],
+  "license": "CC BY 4.0"
+}

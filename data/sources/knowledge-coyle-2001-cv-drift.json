@@ -1,0 +1,18 @@
+{
+  "sourceId": "knowledge-coyle-2001-cv-drift",
+  "title": "Cardiovascular Drift During Prolonged Exercise: New Perspectives",
+  "url": "https://doi.org/10.1249/00003677-200104000-00009",
+  "publisher": "Exercise and Sport Sciences Reviews",
+  "publishedAt": "2001-04-01",
+  "claims": [
+    "Cardiovascular drift begins after about 10 minutes of prolonged moderate-intensity exercise (50-75% VO2max) in a neutral or warm environment.",
+    "Classic drift is characterised by a progressive fall in stroke volume and a parallel rise in heart rate, while cardiac output remains nearly constant.",
+    "In the reviewed control condition, stroke volume fell 13% and heart rate rose 11% between 15 and 55 minutes, with a final core temperature of 37.8 degrees Celsius.",
+    "Preventing the rise in heart rate with mild beta-1 adrenoceptor blockade eliminated the fall in stroke volume, despite unchanged cutaneous blood flow.",
+    "Dehydration of 4.9% of body mass during 120 minutes at 35 degrees Celsius reduced stroke volume by 28% and cardiac output by 18%, and raised core temperature from 38.0 to 39.3 degrees Celsius.",
+    "Cutaneous blood flow stabilised after 20-30 minutes and was not temporally linked to the fall in stroke volume; stroke volume was similar at 35 and 8 degrees Celsius despite a four-fold difference in cutaneous blood flow.",
+    "Core temperature and heart rate during drift were strongly correlated (r-squared = 0.95)."
+  ],
+  "accessedAt": "2026-11-07",
+  "license": null
+}

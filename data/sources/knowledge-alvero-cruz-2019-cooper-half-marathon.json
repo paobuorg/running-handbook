@@ -1,0 +1,15 @@
+{
+  "sourceId": "knowledge-alvero-cruz-2019-cooper-half-marathon",
+  "title": "Cooper Test Provides Better Half-Marathon Performance Prediction in Recreational Runners Than Laboratory Tests",
+  "url": "https://www.frontiersin.org/journals/physiology/articles/10.3389/fphys.2019.01349/full",
+  "publisher": "Frontiers in Physiology",
+  "publishedAt": "2019-11-05",
+  "accessedAt": "2026-11-07",
+  "claims": [
+    "Twenty-three recreational male runners completed a laboratory incremental test, the Cooper field test and a half marathon at maximal effort.",
+    "Half-marathon time correlated with Cooper test distance (r = -0.93, p < 0.001) and with speed at maximal oxygen uptake in the laboratory (r = -0.84, p < 0.0001).",
+    "The Cooper test distance was the best single predictor of half-marathon time, with R-squared 0.873 and standard error of estimate 3.78 minutes.",
+    "The authors state that these data may only be extrapolated to recreational male runners."
+  ],
+  "license": "CC BY 4.0"
+}

@@ -1,0 +1,17 @@
+{
+  "sourceId": "knowledge-sarzynski-2013-heritage-hrmax",
+  "title": "Measured maximal heart rates compared to commonly used age-based prediction equations in the HERITAGE Family Study",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3935487/",
+  "publisher": "American Journal of Human Biology",
+  "publishedAt": "2013-08-01",
+  "claims": [
+    "In 762 sedentary HERITAGE subjects, the standard error of estimate (SEE) of predicted maximal heart rate was 12.4 bpm for the Fox 220 − age formula and 11.4 bpm for the Tanaka 208 − 0.7 × age formula.",
+    "SEE was higher in Black participants (14.4/13.1 bpm) and male participants (12.6/11.7 bpm) than in White participants (11.0/10.2 bpm) and female participants (12.3/11.2 bpm).",
+    "The Fox formula is reported to have a SEE of 7–12 bpm.",
+    "Tanaka and colleagues reported a SEE of approximately 10 bpm for 208 − 0.7 × age.",
+    "Resting heart rate in the total HERITAGE sample was 65.4 bpm (standard deviation 9.1), with values ranging from 40.3 to 105.3 bpm.",
+    "The authors concluded that the prevailing age-based maximal heart rate equations do not precisely predict an individual's measured maximal heart rate."
+  ],
+  "accessedAt": "2026-11-07",
+  "license": "Wiley / PMC author manuscript; citation and summary only"
+}

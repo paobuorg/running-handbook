@@ -1,0 +1,17 @@
+{
+  "sourceId": "knowledge-nhs-osteoporosis",
+  "title": "Osteoporosis — overview",
+  "url": "https://www.nhs.uk/conditions/osteoporosis/",
+  "publisher": "NHS",
+  "publishedAt": "2022-10-13",
+  "claims": [
+    "Women lose bone rapidly in the first few years after the menopause.",
+    "Women are more at risk of osteoporosis than men, particularly if menopause begins before the age of 45 or if the ovaries have been removed.",
+    "A bone density scan reports a T score: above -1 SD is normal, between -1 and -2.5 SD is osteopenia, and below -2.5 SD is osteoporosis.",
+    "A bone density scan takes about 10 to 20 minutes.",
+    "The NHS lists not exercising regularly, low body mass index, heavy drinking, smoking, long-term steroid tablets and some other medicines or conditions as risk factors.",
+    "The NHS advises a daily vitamin D supplement of 10 micrograms for people at risk of osteoporosis."
+  ],
+  "accessedAt": "2026-11-07",
+  "license": "NHS website content; citation and summary only"
+}

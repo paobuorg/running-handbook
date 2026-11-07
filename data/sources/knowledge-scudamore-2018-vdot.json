@@ -1,0 +1,18 @@
+{
+  "sourceId": "knowledge-scudamore-2018-vdot",
+  "title": "An Evaluation of Time-Trial-Based Predictions of VO2max and Recommended Training Paces for Collegiate and Recreational Runners",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/28426511/",
+  "publisher": "Journal of Strength and Conditioning Research",
+  "publishedAt": "2018-04-01",
+  "accessedAt": "2026-11-07",
+  "claims": [
+    "The study tested Jack Daniels' VDOT Running Calculator in NCAA Division 1 track athletes (n = 11) and recreational runners (n = 9) using indoor 5 km time trials.",
+    "VDOT underestimated VO2max in athletes (t(10) = -6.00, p < 0.001, d = 1.75) and recreational runners (t(8) = -8.96, p < 0.001, d = 3.44).",
+    "The VDOT-VO2max difference was significantly greater in recreational runners than in athletes (p = 0.0031, d = 1.59); reported error was about 4.7% in athletes and 9.2% in recreational runners.",
+    "Recommended interval pace (pIN) was slower than the pace at VO2max in recreational runners (d = 1.76) but not different in athletes.",
+    "Recommended threshold pace (pTH) was faster than measured lactate threshold pace in athletes (d = 1.49) but not different in recreational runners.",
+    "The authors concluded that pTH can be confidently used for threshold training regardless of ability, while pIN may not be optimal for improving VO2max in recreational runners.",
+    "The authors advised practitioners to interpret VDOT with caution because it may underestimate VO2max."
+  ],
+  "license": null
+}

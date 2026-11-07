@@ -1,0 +1,18 @@
+{
+  "sourceId": "knowledge-drobnic-2023-garmin-pod-validity",
+  "title": "The Validity of a Three-Dimensional Motion Capture System and the Garmin Running Dynamics Pod in Connection with an Assessment of Ground Contact Time While Running in Place",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10459607/",
+  "publisher": "Sensors (Basel)",
+  "publishedAt": "2023-08-14",
+  "accessedAt": "2026-11-07",
+  "claims": [
+    "In 11 subjects running in place at three self-selected step rates, ground contact times from both a three-dimensional motion capture system and the Garmin Running Dynamics Pod differed significantly from a bilateral force plate at all three rates (p<0.001).",
+    "The smallest mean bias at the fastest step rate was 11.5 ± 14.4 ms for motion capture and -81.5 ± 18.4 ms for the Garmin pod.",
+    "The authors conclude that wearables developed for monitoring normal running cannot be assumed to be suitable for determining ground contact time while running in place.",
+    "The paper reviews validation studies in which IMU-based contact times differed from an instrumented treadmill by -29 ms with 20 ms precision, from a force plate by 4.6 ms with 12.1 ms precision, and from an instrumented treadmill by 13 ms when the IMU was mounted on the pelvis.",
+    "The paper reports contact times of approximately 140 ms at 7.8 m/s, 210 ms at 4.7 m/s and 310 ms at 2.9 m/s in trained runners, and about 104 ms at maximal sprinting speed in elite runners.",
+    "The paper states that each 1% increase in left-right ground contact time asymmetry raises metabolic cost by 3.7%.",
+    "The paper notes that some same-speed comparisons found shorter ground contact time associated with better running economy, while others found no relationship between the two."
+  ],
+  "license": "CC BY 4.0"
+}

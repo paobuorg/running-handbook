@@ -1,0 +1,24 @@
+{
+  "sourceId": "knowledge-nhs-borders-nail-disorders",
+  "title": "Nail disorders",
+  "url": "https://rightdecisions.scot.nhs.uk/borders-ref-help-toolkit/podiatry/nail-disorders/",
+  "publisher": "NHS Borders (Right Decisions)",
+  "publishedAt": "2024-05-29",
+  "accessedAt": "2026-11-07",
+  "claims": [
+    "Subungual haematoma is a deep red or black discolouration under the toenail plate, often following trauma.",
+    "In the acute phase it can be very tender with inflammation of the surrounding skin; after the acute phase there is often no pain.",
+    "There is a clear demarcation line where new healthy nail grows, and it can take up to a year for a new healthy nail to regrow.",
+    "No management is required for subungual haematoma.",
+    "Patients with nail conditions who have diabetes (moderate or high risk on screening) and/or peripheral vascular disease should be referred urgently to podiatry.",
+    "Suspected subungual melanomas should be referred urgently to dermatology."
+  ],
+  "license": null,
+  "verification": {
+    "access": "browser",
+    "bodyRead": true,
+    "checkedAt": "2026-11-07",
+    "checkedVia": "WebFetch",
+    "note": "页面正文可读；甲下血肿描述与 claim 一致。"
+  }
+}

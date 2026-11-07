@@ -1,0 +1,16 @@
+{
+  "sourceId": "knowledge-acsm-getp8-hrr",
+  "title": "ACSM's Guidelines for Exercise Testing and Prescription, 8th edition — relative intensity table",
+  "url": "https://www.pelvichealthinstitute.org/wp-content/uploads/2025/04/ACSMs-Guidelines-for-Exercise-Testing-and-Prescription-Eighth-Edition.pdf",
+  "publisher": "American College of Sports Medicine",
+  "publishedAt": null,
+  "claims": [
+    "Heart rate reserve (HRR) is the difference between maximal heart rate and resting heart rate.",
+    "Moderate exercise intensity is defined as 40–59% of heart rate reserve, equivalent to 64–76% of maximal heart rate.",
+    "Hard (vigorous) exercise intensity is defined as 60–84% of heart rate reserve.",
+    "The target heart rate for a given relative intensity is calculated from heart rate reserve plus resting heart rate.",
+    "The table presents relative intensity as a percentage of heart rate reserve and as a percentage of maximal heart rate, alongside ratings of perceived exertion and metabolic equivalents."
+  ],
+  "accessedAt": "2026-11-07",
+  "license": "ACSM copyright; citation and summary only"
+}

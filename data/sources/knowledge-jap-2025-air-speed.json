@@ -1,0 +1,21 @@
+{
+  "sourceId": "knowledge-jap-2025-air-speed",
+  "title": "Air speed and direction affect metabolic and thermoregulatory responses during walking and running in a temperate environment",
+  "url": "https://journals.physiology.org/doi/full/10.1152/japplphysiol.00159.2024",
+  "publisher": "Journal of Applied Physiology",
+  "publishedAt": null,
+  "accessedAt": "2026-11-07",
+  "claims": [
+    "在风速 ≥4 m/s 的区间内，代谢率/需氧量与相对风速的平方呈强线性关系。",
+    "逆风与顺风的关系不同。",
+    "心率反应与相对风速呈中等线性关系。"
+  ],
+  "license": null,
+  "verification": {
+    "access": "metadata-only",
+    "bodyRead": false,
+    "checkedAt": "2026-11-07",
+    "checkedVia": "WebFetch",
+    "note": "仅读到摘要与引言；claim 已按可核对范围收窄。"
+  }
+}

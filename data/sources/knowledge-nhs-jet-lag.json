@@ -1,0 +1,20 @@
+{
+  "sourceId": "knowledge-nhs-jet-lag",
+  "title": "Jet lag",
+  "url": "https://www.nhs.uk/conditions/jet-lag/",
+  "publisher": "NHS",
+  "publishedAt": "2023-05-31",
+  "claims": [
+    "Jet lag is when the normal sleep pattern is disturbed after a long flight, and it usually improves within a few days as the body adjusts to the new time zone.",
+    "Main symptoms are difficulty sleeping at bedtime and waking up in the morning, tiredness and exhaustion, difficulty staying awake during the day, poor sleep quality, and concentration and memory problems.",
+    "Jet lag can also cause indigestion, nausea, constipation, changes in appetite and mild anxiety.",
+    "Jet lag cannot be prevented, but getting plenty of rest before travel and starting to go to bed and get up earlier or later than usual, closer to the destination's time zone, can reduce its effects.",
+    "During the flight, drink plenty of water, stretch and walk around regularly, try to sleep if it is night time at the destination, and avoid too much caffeine or alcohol.",
+    "After arrival, change the sleep schedule to the new time zone as quickly as possible, set an alarm to avoid oversleeping, go outside during the day for natural light, and do not sleep during the day.",
+    "For short trips of 2 to 3 days, travellers could try not changing their eating and sleeping times, to avoid having to change the schedule again on return.",
+    "Medicines are not usually needed; sleeping tablets may help insomnia but can be addictive, so should only be used for a short time and when symptoms are severe.",
+    "Melatonin tablets are not recommended on the NHS for jet lag because there is not enough evidence to show they work."
+  ],
+  "accessedAt": "2026-11-07",
+  "license": "NHS website content; citation and summary only"
+}

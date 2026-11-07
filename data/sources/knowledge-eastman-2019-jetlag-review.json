@@ -1,0 +1,16 @@
+{
+  "sourceId": "knowledge-eastman-2019-jetlag-review",
+  "title": "How to Travel the World Without Jet Lag",
+  "url": "https://stacks.cdc.gov/view/cdc/223129/cdc_223129_DS1.pdf",
+  "publisher": "CDC Stacks (Eastman & Burgess review)",
+  "publishedAt": null,
+  "claims": [
+    "Flying east requires a phase advance of the circadian clock, whereas flying west requires a phase delay.",
+    "It takes longer to reset the circadian clock after eastward than westward flight, partly because the average free-running period of the human circadian clock is slightly longer than 24 hours, making phase advances harder than phase delays.",
+    "Early estimates from real jet travellers are that the circadian clock phase delays 92 minutes per day after westward flights and phase advances 57 minutes per day after eastward flights.",
+    "Laboratory studies with a 12-hour shift of the sleep-wake schedule found circadian rhythms shifted 9.6 hours over the first 4 days when phase delaying (2.4 hours per day) and 6.2 hours when phase advancing (1.6 hours per day).",
+    "Jet travel plans have been developed assuming phase advances of 1.5 hours per day and phase delays of 2 hours per day, given appropriately timed bright light after landing; these numbers are estimates."
+  ],
+  "accessedAt": "2026-11-07",
+  "license": "CDC Stacks; citation and summary only"
+}

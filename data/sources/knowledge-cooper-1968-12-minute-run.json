@@ -1,0 +1,22 @@
+{
+  "sourceId": "knowledge-cooper-1968-12-minute-run",
+  "title": "A Means of Assessing Maximal Oxygen Intake: Correlation Between Field and Treadmill Testing",
+  "url": "https://doi.org/10.1001/jama.1968.03140030033008",
+  "publisher": "JAMA",
+  "publishedAt": null,
+  "accessedAt": "2026-11-07",
+  "claims": [
+    "One hundred and fifteen US Air Force male officers and airmen completed a 12-minute field performance test and a treadmill maximal oxygen consumption test.",
+    "The correlation between 12-minute run distance and laboratory-determined maximal oxygen consumption was 0.897.",
+    "The author proposed that maximal oxygen consumption could be estimated from the 12-minute performance test.",
+    "The sample was limited to young military men, so the equation cannot be assumed to apply unchanged to other populations."
+  ],
+  "license": null,
+  "verification": {
+    "access": "blocked",
+    "bodyRead": false,
+    "checkedAt": "2026-11-07",
+    "checkedVia": "Crossref",
+    "note": "出版社验证页；摘要与正文均未取得。"
+  }
+}

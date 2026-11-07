@@ -1,0 +1,18 @@
+{
+  "sourceId": "knowledge-airnow-school-activity",
+  "title": "Air Quality and Outdoor Activity Guidance for Schools",
+  "url": "https://www.berkeleyschools.net/wp-content/uploads/2017/10/Air-Quality-and-Outdoor-Activity.pdf",
+  "publisher": "AirNow / U.S. Environmental Protection Agency",
+  "publishedAt": null,
+  "claims": [
+    "Green (Good): a great day to be active outside.",
+    "Yellow (Moderate): a good day to be active outside; students who are unusually sensitive could have symptoms.",
+    "Orange (Unhealthy for Sensitive Groups): short activities such as recess and physical education are still OK; for longer activities such as athletic practice, take more breaks and do less intense activities, and watch for symptoms.",
+    "Red (Unhealthy): for all outdoor activities, take more breaks and do less intense activities; consider moving longer or more intense activities indoors or rescheduling them.",
+    "Purple (Very Unhealthy): move all activities indoors or reschedule them to another day.",
+    "There is less ozone in the morning; on days when ozone is expected to be unhealthy, plan outdoor activities in the morning.",
+    "Symptoms to watch for include coughing, wheezing, difficulty breathing and chest tightness; if symptoms occur, take a break, reduce intensity, stop, go indoors or use prescribed quick-relief medicine, and get medical help if they do not improve."
+  ],
+  "accessedAt": "2026-11-07",
+  "license": "Public domain (US government work); cited with attribution"
+}

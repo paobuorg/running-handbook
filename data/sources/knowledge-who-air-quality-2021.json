@@ -1,0 +1,17 @@
+{
+  "sourceId": "knowledge-who-air-quality-2021",
+  "title": "WHO global air quality guidelines: particulate matter (PM2.5 and PM10), ozone, nitrogen dioxide, sulfur dioxide and carbon monoxide",
+  "url": "https://www.who.int/publications/i/item/9789240034228",
+  "publisher": "World Health Organization",
+  "publishedAt": "2021-09-22",
+  "claims": [
+    "The 2021 guidelines set air quality guideline levels for six pollutants: particulate matter (PM2.5 and PM10), ozone, nitrogen dioxide, sulfur dioxide and carbon monoxide.",
+    "Several updated guideline values are lower than the 2005 values because evidence now shows health effects at lower concentrations than previously understood.",
+    "The 2021 annual guideline level for PM2.5 is 5 µg/m³ and the 24-hour level is 15 µg/m³; the annual level for PM10 is 15 µg/m³ and the 24-hour level is 45 µg/m³.",
+    "PM2.5 and PM10 can penetrate deep into the lungs, and PM2.5 can enter the bloodstream, primarily producing cardiovascular and respiratory effects.",
+    "In 2019, more than 90% of the global population lived in areas where concentrations exceeded the 2005 annual PM2.5 guideline of 10 µg/m³.",
+    "Guideline levels are evidence-informed recommendations, not legally binding standards."
+  ],
+  "accessedAt": "2026-11-07",
+  "license": "CC BY-NC-SA 3.0 IGO; facts summarized with attribution"
+}

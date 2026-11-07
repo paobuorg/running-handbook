@@ -1,0 +1,15 @@
+{
+  "sourceId": "knowledge-hunt-2015-hr-kinetics",
+  "title": "Identification of heart rate dynamics during moderate-to-vigorous treadmill exercise",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4687158/",
+  "publisher": "BioMedical Engineering OnLine",
+  "publishedAt": "2015-12-21",
+  "accessedAt": "2026-11-07",
+  "claims": [
+    "24 名健康男性在跑台上完成中等与高强度测试，心率响应可用一阶传递函数描述。",
+    "总体名义时间常数 τ = 57.6 ± 23.6 秒（95% CI 50.9–64.3）；中等与高强度之间没有显著差异（55.7 vs 59.5 秒，p=0.53）。",
+    "按一阶响应推算，心率约需 3 个时间常数（约 3 分钟）才接近稳态；起步前 2–3 分钟的心率读数会低于最终稳定值。",
+    "上、下阶跃的稳态增益不同（30.2 vs 23.6 bpm/(m/s)），但时间常数没有方向差异。"
+  ],
+  "license": "CC-BY-4.0"
+}

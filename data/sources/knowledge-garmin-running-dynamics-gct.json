@@ -1,0 +1,15 @@
+{
+  "sourceId": "knowledge-garmin-running-dynamics-gct",
+  "title": "Ground Contact Time",
+  "url": "https://www.garmin.com/en-US/garmin-technology/running-science/running-dynamics/ground-contact-time/",
+  "publisher": "Garmin",
+  "publishedAt": null,
+  "accessedAt": "2026-11-07",
+  "claims": [
+    "Garmin defines ground contact time as the amount of time in each step spent on the ground, measured in milliseconds.",
+    "Garmin states that elite runners often have ground contact times of less than 200 ms and that virtually all experienced runners have ground contact times under 300 ms.",
+    "Garmin attributes longer ground contact times to overstriding, which it describes as landing the foot too far in front of the body.",
+    "Garmin's page presents descriptive ranges but gives no threshold for when a value should be considered poor or a target for gait change."
+  ],
+  "license": "Garmin; citation and summary only"
+}

@@ -1,0 +1,16 @@
+{
+  "sourceId": "knowledge-davis-2020-massage",
+  "title": "Effect of sports massage on performance and recovery: a systematic review and meta-analysis",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7228568/",
+  "publisher": "BMJ Open Sport & Exercise Medicine",
+  "publishedAt": "2020-05-07",
+  "claims": [
+    "The review identified 29 eligible randomised studies recruiting 1,012 participants.",
+    "There was no evidence that massage improves measures of strength, jump, sprint, endurance or fatigue.",
+    "Massage was associated with small but statistically significant improvements in flexibility and delayed-onset muscle soreness.",
+    "DOMS improved by approximately 13%, with SMD 1.13 (95% CI 0.44 to 1.82; 311 participants; 10 studies; I² = 86%).",
+    "Sports massage is defined in the review as manual manipulation of muscles and soft tissue by a qualified professional, with the purpose of improving performance in or recovery from sport."
+  ],
+  "accessedAt": "2026-11-07",
+  "license": "CC-BY-NC-4.0"
+}

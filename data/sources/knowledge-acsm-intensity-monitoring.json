@@ -1,0 +1,23 @@
+{
+  "sourceId": "knowledge-acsm-intensity-monitoring",
+  "title": "Tips for Monitoring Aerobic Exercise Intensity",
+  "url": "https://acsm.org/wp-content/uploads/2025/02/Exercise-intensity-infographic-PDF.pdf",
+  "publisher": "American College of Sports Medicine",
+  "publishedAt": null,
+  "accessedAt": "2026-11-07",
+  "claims": [
+    "ACSM describes exercise intensity monitoring by %HRmax, with moderate intensity estimated at 65–75% of maximal heart rate and vigorous intensity at 76–96%.",
+    "ACSM describes the talk test: a steady conversation is associated with moderate intensity, while only a few words are sustainable at vigorous intensity.",
+    "ACSM describes rating of perceived exertion on a 0–10 scale, with moderate intensity targeting an RPE of 3–4 and vigorous intensity an RPE of 5–7.",
+    "ACSM also describes step-rate and motion-sensor methods for monitoring aerobic intensity.",
+    "The document gives no race-time-derived pace-zone percentage table; intensity anchors are heart rate, perceived effort, talk test and step rate."
+  ],
+  "license": "ACSM; citation and summary only",
+  "verification": {
+    "access": "browser",
+    "bodyRead": true,
+    "checkedAt": "2026-11-07",
+    "checkedVia": "WebFetch",
+    "note": "PDF 全文可读；运动强度区间、谈话试验与步频要点均对照到原文。"
+  }
+}

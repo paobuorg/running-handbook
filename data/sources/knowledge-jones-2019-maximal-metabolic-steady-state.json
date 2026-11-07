@@ -1,0 +1,16 @@
+{
+  "sourceId": "knowledge-jones-2019-maximal-metabolic-steady-state",
+  "title": "The maximal metabolic steady state: redefining the 'gold standard'",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6533178/",
+  "publisher": "Physiological Reports",
+  "publishedAt": "2019-05-23",
+  "accessedAt": "2026-11-07",
+  "claims": [
+    "Maximal lactate steady state (MLSS) is operationally defined as the highest power output at which blood lactate rises by less than 1 mmol/L between 10 and 30 minutes of constant exercise.",
+    "MLSS was historically assumed to occur at a fixed blood lactate concentration of 2.2 mmol/L or, more often, 4 mmol/L.",
+    "The absolute blood lactate concentration at MLSS varies considerably between individuals and between exercise modalities, so MLSS is now defined by the highest sustainable intensity rather than by a fixed lactate value.",
+    "MLSS determination is protocol-dependent: 30-minute exercise bouts produce lower power outputs at MLSS than 20-minute bouts.",
+    "Conventional MLSS testing requires a series of typically four to five 30-minute constant-load bouts on separate days."
+  ],
+  "license": "CC BY 4.0"
+}

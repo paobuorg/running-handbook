@@ -1,0 +1,16 @@
+{
+  "sourceId": "knowledge-acsm-2007-fluid",
+  "title": "American College of Sports Medicine position stand: Exercise and fluid replacement",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/17277604/",
+  "publisher": "Medicine & Science in Sports & Exercise (ACSM)",
+  "publishedAt": null,
+  "claims": [
+    "The goal of drinking during exercise is to prevent excessive dehydration, defined as more than 2% body weight loss from water deficit, and excessive changes in electrolyte balance.",
+    "There is considerable variability in sweating rates and sweat electrolyte content between individuals, so customised fluid replacement programmes are recommended.",
+    "Individual sweat rates can be estimated by measuring body weight before and after exercise.",
+    "During exercise, beverages containing electrolytes and carbohydrates can provide benefits over water alone under certain circumstances.",
+    "After exercise, the goal is to replace any fluid and electrolyte deficit; the speed of replacement depends on how quickly rehydration is needed and the size of the deficit."
+  ],
+  "accessedAt": "2026-11-07",
+  "license": "ACSM copyright; citation and summary only"
+}

@@ -1,0 +1,22 @@
+{
+  "sourceId": "knowledge-ioc-2023-reds-consensus",
+  "title": "2023 International Olympic Committee's (IOC) consensus statement on Relative Energy Deficiency in Sport (REDs)",
+  "url": "https://doi.org/10.1136/bjsports-2023-106994",
+  "publisher": "British Journal of Sports Medicine",
+  "publishedAt": "2023-09-01",
+  "accessedAt": "2026-11-07",
+  "claims": [
+    "REDs is defined as a syndrome of impaired physiological and/or psychological functioning caused by exposure to problematic low energy availability.",
+    "Secondary amenorrhoea, defined as the absence of 3 to 11 consecutive menstrual cycles caused by functional hypothalamic amenorrhoea, is listed as a primary indicator of REDs.",
+    "Primary amenorrhoea is listed as a severe primary indicator, counting as two primary indicators.",
+    "Menstrual dysfunction is one of several body systems affected by low energy availability, alongside bone, metabolic, immune, cardiovascular and psychological outcomes."
+  ],
+  "license": null,
+  "verification": {
+    "access": "metadata-only",
+    "bodyRead": false,
+    "checkedAt": "2026-11-07",
+    "checkedVia": "WebFetch",
+    "note": "仅读到正文前 2 页；闭经指标条目未核对。"
+  }
+}

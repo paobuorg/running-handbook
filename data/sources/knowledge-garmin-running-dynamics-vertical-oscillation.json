@@ -1,0 +1,15 @@
+{
+  "sourceId": "knowledge-garmin-running-dynamics-vertical-oscillation",
+  "title": "Vertical Oscillation",
+  "url": "https://www.garmin.com/en-US/garmin-technology/running-science/running-dynamics/vertical-oscillation/",
+  "publisher": "Garmin",
+  "publishedAt": null,
+  "accessedAt": "2026-11-07",
+  "claims": [
+    "Garmin defines vertical oscillation as the amount of bounce in each step, measured at the torso in centimetres.",
+    "Garmin states that more experienced runners tend to have lower vertical oscillation, but that faster paces often come at the cost of somewhat higher vertical oscillation.",
+    "Garmin states that lower vertical oscillation typically means less stress on the lower body at impact.",
+    "Garmin's page gives no normal range and no threshold value for vertical oscillation."
+  ],
+  "license": "Garmin; citation and summary only"
+}

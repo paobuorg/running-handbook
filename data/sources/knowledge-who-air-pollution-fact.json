@@ -1,0 +1,16 @@
+{
+  "sourceId": "knowledge-who-air-pollution-fact",
+  "title": "Ambient (outdoor) air pollution — fact sheet",
+  "url": "https://www.who.int/news-room/fact-sheets/detail/ambient-(outdoor)-air-quality-and-health",
+  "publisher": "World Health Organization",
+  "publishedAt": "2024-10-24",
+  "claims": [
+    "In 2019, 99% of the world's population lived in places where the WHO air quality guideline levels were not met.",
+    "Ambient outdoor air pollution was estimated to cause 4.2 million premature deaths worldwide in 2019.",
+    "Of the outdoor air pollution related premature deaths in 2019, 68% were due to ischaemic heart disease and stroke, 14% to chronic obstructive pulmonary disease, 14% to acute lower respiratory infections and 4% to lung cancers.",
+    "89% of the 4.2 million premature deaths occurred in low- and middle-income countries.",
+    "Most sources of outdoor air pollution are well beyond the control of individuals and require action at policy level."
+  ],
+  "accessedAt": "2026-11-07",
+  "license": "CC BY-NC-SA 3.0 IGO; facts summarized with attribution"
+}

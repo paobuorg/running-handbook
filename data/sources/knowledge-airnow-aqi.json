@@ -1,0 +1,17 @@
+{
+  "sourceId": "knowledge-airnow-aqi",
+  "title": "Air Quality Index Levels — What Can You Do?",
+  "url": "https://www3.epa.gov/airnow/mobile/AQItable.htm",
+  "publisher": "AirNow / U.S. Environmental Protection Agency",
+  "publishedAt": null,
+  "claims": [
+    "Good (0–50): no action required; described as a good day for outdoor exercise.",
+    "Moderate (51–100): people who are unusually sensitive to air pollution should take steps to reduce prolonged or heavy exertion outdoors.",
+    "Unhealthy for Sensitive Groups (101–150): it is still OK to exercise outdoors, but sensitive groups should reduce prolonged or heavy exertion, for example by walking instead of running or exercising when air quality is better.",
+    "Unhealthy (151–200): sensitive groups should avoid prolonged or heavy exertion outdoors; everyone should reduce outdoor exertion.",
+    "Very Unhealthy (201–300): sensitive groups should avoid all outdoor exertion; everyone else should limit it.",
+    "Hazardous (301–500): health warnings of emergency conditions."
+  ],
+  "accessedAt": "2026-11-07",
+  "license": "Public domain (US government work); cited with attribution"
+}

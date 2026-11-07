@@ -1,0 +1,16 @@
+{
+  "sourceId": "knowledge-poole-jones-2017-vo2max-measurement",
+  "title": "Measurement of the maximum oxygen uptake VO2max: VO2peak is no longer acceptable",
+  "url": "https://doi.org/10.1152/japplphysiol.01063.2016",
+  "publisher": "Journal of Applied Physiology",
+  "publishedAt": "2017-02-02",
+  "accessedAt": "2026-11-07",
+  "claims": [
+    "A VO2 plateau during incremental exercise is not an obligatory outcome and is absent in at least 40% of healthy subjects even when VO2max is actually achieved.",
+    "The absence of a plateau is more common in children, older adults, very unfit people and patients with cardiovascular or pulmonary disease.",
+    "Secondary criteria such as respiratory exchange ratio, age-predicted maximal heart rate and blood lactate are unreliable substitutes for confirming VO2max.",
+    "VO2peak, defined simply as the highest VO2 reached in a test, cannot distinguish a true upper limit from test termination for other reasons.",
+    "A verification phase can be used when no plateau is observed."
+  ],
+  "license": null
+}

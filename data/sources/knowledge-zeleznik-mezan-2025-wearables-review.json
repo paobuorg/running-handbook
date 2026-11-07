@@ -1,0 +1,16 @@
+{
+  "sourceId": "knowledge-zeleznik-mezan-2025-wearables-review",
+  "title": "Accuracy of wearables for determining the maximal oxygen uptake and lactate threshold: a qualitative systematic review",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12748164/",
+  "publisher": "Frontiers in Sports and Active Living",
+  "publishedAt": "2025-12-16",
+  "accessedAt": "2026-11-07",
+  "claims": [
+    "Thirteen studies met the inclusion criteria for this review of consumer wearables.",
+    "Most included studies investigated Garmin smartwatches with chest-belt heart rate sensors and the Firstbeat algorithm.",
+    "Seven studies found wearable devices valid or acceptable for VO2max estimation, and three studies demonstrated validity for lactate threshold estimation.",
+    "The authors state that usefulness in elite endurance sport is questionable.",
+    "Consumer wearables are not subject to the same regulatory accuracy requirements as medical devices."
+  ],
+  "license": "CC BY 4.0"
+}

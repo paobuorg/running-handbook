@@ -1,0 +1,18 @@
+{
+  "sourceId": "knowledge-who-uv-qa",
+  "title": "Radiation: Ultraviolet (UV) radiation — questions and answers",
+  "url": "https://www.who.int/news-room/questions-and-answers/item/radiation-ultraviolet-(uv)",
+  "publisher": "World Health Organization",
+  "publishedAt": "2016-03-09",
+  "claims": [
+    "UVA accounts for approximately 95% of the UV radiation reaching the Earth's surface, penetrates deeper into the skin and is responsible for immediate tanning; recent studies suggest it may also enhance skin cancer development.",
+    "UVB is biologically active but cannot penetrate beyond superficial skin layers; it causes delayed tanning and burning and significantly promotes skin cancer development.",
+    "In mid-latitudes, UV levels are highest during the summer months in the four-hour period around solar noon.",
+    "UV levels increase by approximately 10% for every 1,000 m of altitude.",
+    "Grass, soil and water reflect less than 10% of incident UV; sand reflects about 15%, sea foam about 25%, and fresh snow almost doubles a person's UV exposure and can reflect as much as 80%.",
+    "Light or thin clouds have little effect on UV and may even enhance UV levels through scattering; an overcast day or cool breeze does not mean UV is low.",
+    "Most evidence suggests that altered behaviour and more outdoor activity, rather than ozone depletion, are the major cause of rising skin cancer rates."
+  ],
+  "accessedAt": "2026-11-07",
+  "license": "CC BY-NC-SA 3.0 IGO; facts summarized with attribution"
+}

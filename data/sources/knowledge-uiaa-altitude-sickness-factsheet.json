@@ -1,0 +1,16 @@
+{
+  "sourceId": "knowledge-uiaa-altitude-sickness-factsheet",
+  "title": "UIAA Medical Commission Factsheet on Altitude Sickness",
+  "url": "https://theuiaa.org/documents/safety/UIAA_Medical_AltitudeSickness.pdf",
+  "publisher": "International Climbing and Mountaineering Federation (UIAA) Medical Commission",
+  "publishedAt": null,
+  "accessedAt": "2026-11-07",
+  "claims": [
+    "Above about 2700 m, a reasonable recommendation is not to climb more than 400 m above the previous night's sleeping altitude.",
+    "A rest day after every two days of altitude gain may help; climbing high and sleeping low may support acclimatisation.",
+    "Physical fitness does not protect against altitude sickness, and very fit people may push harder and increase risk.",
+    "Alcohol and sleeping pills can depress breathing and interfere with acclimatisation; excessive exertion is a risk factor.",
+    "For people flying directly to high altitude without time to acclimatise, prophylactic acetazolamide may make sense if there is no allergy history."
+  ],
+  "license": null
+}

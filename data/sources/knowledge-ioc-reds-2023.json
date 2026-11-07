@@ -1,0 +1,22 @@
+{
+  "sourceId": "knowledge-ioc-reds-2023",
+  "title": "IOC consensus statement on Relative Energy Deficiency in Sport (REDs), 2023 update",
+  "url": "https://doi.org/10.1136/bjsports-2023-106994",
+  "publisher": "British Journal of Sports Medicine",
+  "publishedAt": null,
+  "claims": [
+    "The 2023 IOC consensus defines energy availability as energy intake minus exercise energy expenditure, divided by fat-free mass per day.",
+    "Reported prevalence of low energy availability or REDs indicators ranges from 23% to 79.5% in female athletes and 15% to 70% in male athletes.",
+    "The consensus distinguishes low energy availability that is adaptable from problematic low energy availability.",
+    "Problematic low energy availability is associated with reduced musculoskeletal health, increased injury risk and impaired performance."
+  ],
+  "accessedAt": "2026-11-07",
+  "license": "BMJ copyright; citation and summary only",
+  "verification": {
+    "access": "browser",
+    "bodyRead": true,
+    "checkedAt": "2026-11-07",
+    "checkedVia": "WebFetch",
+    "note": "官方 PDF 前 2 页含 claim 所需患病率数据。"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "sourceId": "knowledge-goodwin-2007-blood-lactate-guide",
+  "title": "Blood Lactate Measurements and Analysis during Exercise: A Guide for Clinicians",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2769631/",
+  "publisher": "Journal of Diabetes Science and Technology",
+  "publishedAt": "2007-07-01",
+  "accessedAt": "2026-11-07",
+  "claims": [
+    "MLSS is defined as the highest intensity at which blood lactate increases by no more than 1 mmol/L during the last 20 minutes of a 30-minute constant work rate test.",
+    "Reported blood lactate concentrations at MLSS range from about 1.5 mmol/L to almost 7 mmol/L, with an average of approximately 3.7 mmol/L.",
+    "An individual's MLSS and lactate threshold occur at different work rates, although the two values are correlated."
+  ],
+  "license": null
+}

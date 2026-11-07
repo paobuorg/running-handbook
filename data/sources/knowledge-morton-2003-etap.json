@@ -1,0 +1,24 @@
+{
+  "sourceId": "knowledge-morton-2003-etap",
+  "title": "Exercise related transient abdominal pain (ETAP): leader article",
+  "url": "https://bjsm.bmj.com/content/bjsports/37/4/287.full.pdf",
+  "publisher": "British Journal of Sports Medicine",
+  "publishedAt": null,
+  "claims": [
+    "More than 60% of runners report exercise-related transient abdominal pain (ETAP) in the previous year.",
+    "In a 14 km community run/walk, 31% of participants reported ETAP, and 42% of those said it affected their performance.",
+    "ETAP can occur in any abdominal region but is most common in the mid-abdomen, especially the lateral aspects; severe episodes are sharp or stabbing, while milder episodes are cramping, aching or pulling.",
+    "ETAP is most often provoked by repetitive trunk movement, is aggravated by trunk extension, is more common after meals and in younger people, and may be accompanied by shoulder-tip pain.",
+    "The traditional explanations of diaphragm ischaemia and traction on the inferior diaphragmatic ligaments have been challenged, and irritation of the parietal peritoneum has been proposed as an alternative mechanism.",
+    "Hypertonic or high-energy-density drinks provoke ETAP more than isotonic or hypotonic drinks; a hunched posture increases susceptibility, and palpation near the joint can reproduce the symptoms."
+  ],
+  "accessedAt": "2026-11-07",
+  "license": "BMJ copyright; citation and summary only",
+  "verification": {
+    "access": "browser",
+    "bodyRead": true,
+    "checkedAt": "2026-11-07",
+    "checkedVia": "WebFetch",
+    "note": "PDF 全文 2 页可读；患病率表述与 claim 一致。"
+  }
+}

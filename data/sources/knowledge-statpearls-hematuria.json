@@ -1,0 +1,19 @@
+{
+  "sourceId": "knowledge-statpearls-hematuria",
+  "title": "Gross and Microscopic Hematuria (StatPearls)",
+  "url": "https://www.ncbi.nlm.nih.gov/books/NBK534213/",
+  "publisher": "StatPearls Publishing",
+  "publishedAt": "2025-11-30",
+  "accessedAt": "2026-11-07",
+  "claims": [
+    "Microhematuria is defined as 3 or more urinary red blood cells per high-power field on microscopic urinalysis without an apparent cause, while the urine's visual appearance remains normal.",
+    "Urinary dipstick findings alone do not provide a definitive diagnosis of microscopic hematuria and require confirmation through one or more microscopic urinalyses.",
+    "The absence of microscopic red blood cells in a strongly dipstick-positive sample suggests alternative causes such as myoglobinuria, hemoglobinuria from lysed erythrocytes, or other forms of pseudohematuria.",
+    "When hematuria is accompanied by proteinuria, casts, or dysmorphic red blood cells, this usually signals glomerular pathology.",
+    "In about 50% of cases a specific cause of hematuria can be identified, meaning no definite etiology is determined about half the time.",
+    "High-risk patients require evaluation with CT of the abdomen and pelvis without and with intravenous contrast (CT urogram) plus cystoscopy.",
+    "Urine cytology is recommended when carcinoma in situ is suspected or when there is a history of gross hematuria.",
+    "The most widely used framework follows the updated 2025 American Urological Association guideline on microhematuria risk stratification."
+  ],
+  "license": "StatPearls; citation and summary only"
+}

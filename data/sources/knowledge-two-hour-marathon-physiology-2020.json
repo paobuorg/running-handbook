@@ -1,0 +1,22 @@
+{
+  "sourceId": "knowledge-two-hour-marathon-physiology-2020",
+  "title": "Physiological demands of running at 2-hour marathon race pace",
+  "url": "https://journals.physiology.org/doi/10.1152/japplphysiol.00647.2020",
+  "publisher": "Journal of Applied Physiology",
+  "publishedAt": null,
+  "accessedAt": "2026-11-07",
+  "claims": [
+    "Laboratory measurements in elite runners at 2-hour marathon race pace showed a ground contact time of 0.16 ± 0.01 s.",
+    "The same measurements showed a vertical oscillation of 0.04 ± 0.006 m.",
+    "Peak vertical force at that pace averaged 2.92 ± 0.26 body weights.",
+    "The reported values apply to a very small group of elite runners at a specific pace and cannot be generalised to recreational runners."
+  ],
+  "license": "American Physiological Society; citation and summary only",
+  "verification": {
+    "access": "metadata-only",
+    "bodyRead": false,
+    "checkedAt": "2026-11-07",
+    "checkedVia": "WebFetch",
+    "note": "PDF 正文可读但缺 Table 2；0.16 s / 0.04 m / 2.92 BW 未核对。"
+  }
+}

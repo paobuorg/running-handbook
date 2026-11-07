@@ -1,0 +1,22 @@
+{
+  "sourceId": "knowledge-aua-microhematuria-2020",
+  "title": "Microhematuria: AUA/SUFU Guideline",
+  "url": "https://www.auajournals.org/doi/full/10.1097/JU.0000000000001297",
+  "publisher": "Journal of Urology / American Urological Association",
+  "publishedAt": null,
+  "accessedAt": "2026-11-07",
+  "claims": [
+    "The guideline panel created a risk classification system for patients with microhematuria, stratified as low, intermediate or high risk for genitourinary malignancy.",
+    "Risk groups are based on factors including age, sex, smoking and other urothelial cancer risk factors, degree and persistence of microhematuria, and prior gross hematuria.",
+    "Diagnostic evaluation with cystoscopy and upper tract imaging is recommended according to patient risk and involves shared decision-making.",
+    "The guideline also addresses follow-up and repeat testing for patients whose initial evaluation is negative."
+  ],
+  "license": null,
+  "verification": {
+    "access": "browser",
+    "bodyRead": true,
+    "checkedAt": "2026-11-07",
+    "checkedVia": "WebFetch",
+    "note": "摘要与指南条文可读；风险分层表述与 claim 一致。"
+  }
+}

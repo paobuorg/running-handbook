@@ -1,0 +1,17 @@
+{
+  "sourceId": "knowledge-lu-2025-smartwatch-lactate-threshold",
+  "title": "Validity of smartwatch-derived estimates of lactate threshold heart rate and pace compared to graded exercise testing",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12309276/",
+  "publisher": "Frontiers in Physiology",
+  "publishedAt": "2025-07-04",
+  "accessedAt": "2026-11-07",
+  "claims": [
+    "One hundred healthy recreational runners underwent indoor graded exercise tests and outdoor smartwatch tests.",
+    "The success rate for a single test was 78% for Huawei, 65.22% for Garmin and 47.06% for Coros.",
+    "For lactate threshold heart rate, mean absolute percentage errors were 6.32% (Huawei), 7.15% (Garmin) and 5.95% (Coros).",
+    "For lactate threshold pace, all devices significantly overestimated pace, with mean absolute percentage errors of 12.70% (Huawei), 25.78% (Garmin) and 22.63% (Coros).",
+    "Correlations for threshold heart rate ranged from r = 0.13 to 0.67, and R-squared values ranged from 0.02 to 0.45.",
+    "The authors concluded that smartwatches can provide estimates in recreational runners but that accuracy still needs improvement."
+  ],
+  "license": "CC BY 4.0"
+}

@@ -1,0 +1,16 @@
+{
+  "sourceId": "knowledge-nhs-dvt",
+  "title": "DVT (deep vein thrombosis)",
+  "url": "https://www.nhs.uk/conditions/deep-vein-thrombosis-dvt/",
+  "publisher": "NHS",
+  "publishedAt": null,
+  "claims": [
+    "DVT is a blood clot in a vein, usually in the leg, and can be dangerous.",
+    "Symptoms in the leg include throbbing pain in one leg (rarely both), usually in the calf or thigh; swelling in one leg; red, blue or darkened skin around the painful area; and swollen veins.",
+    "People should seek urgent help if they think they have DVT.",
+    "Call emergency services or go to an emergency department if symptoms of DVT are accompanied by shortness of breath or chest pain, because the clot may have travelled to the lungs (pulmonary embolism).",
+    "Risk is higher with increasing age, previous DVT, cancer, heart failure, recent surgery, immobility, long journeys, pregnancy and dehydration."
+  ],
+  "accessedAt": "2026-11-07",
+  "license": "Crown copyright (Open Government Licence); facts summarized with attribution"
+}

@@ -1,0 +1,22 @@
+{
+  "sourceId": "knowledge-nice-ng12-suspected-cancer",
+  "title": "Suspected cancer: recognition and referral (NICE guideline NG12) — urological cancers",
+  "url": "https://www.nice.org.uk/guidance/ng12",
+  "publisher": "National Institute for Health and Care Excellence",
+  "publishedAt": null,
+  "accessedAt": "2026-11-07",
+  "claims": [
+    "Refer people using a suspected cancer pathway referral (for an appointment within 2 weeks) for bladder cancer if they are aged 45 and over and have unexplained visible haematuria without urinary tract infection.",
+    "The same referral applies if they are aged 45 and over and have visible haematuria that persists or recurs after successful treatment of urinary tract infection.",
+    "Refer people aged 60 and over with unexplained non-visible haematuria and either dysuria or a raised white cell count on a blood test.",
+    "The recommendations apply to bladder and upper tract urothelial carcinoma."
+  ],
+  "license": "NICE guidance; citation and summary only",
+  "verification": {
+    "access": "metadata-only",
+    "bodyRead": false,
+    "checkedAt": "2026-11-07",
+    "checkedVia": "WebFetch",
+    "note": "概览页可读，但泌尿系统推荐章节在截断点之前未取到。"
+  }
+}

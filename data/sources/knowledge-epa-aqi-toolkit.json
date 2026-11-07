@@ -1,0 +1,15 @@
+{
+  "sourceId": "knowledge-epa-aqi-toolkit",
+  "title": "Air Quality Index Toolkit for Weathercasters",
+  "url": "https://www3.epa.gov/airnow/weathercasters/aqi-toolkit-weathercasters-part2.pdf",
+  "publisher": "AirNow / U.S. Environmental Protection Agency",
+  "publishedAt": null,
+  "claims": [
+    "Sensitive groups for ozone pollution include active children and adults, and people with lung disease.",
+    "Sensitive groups for particle pollution include people with heart or lung disease, older adults and children.",
+    "Symptoms such as unusual coughing, pain when taking a deep breath, chest tightness or wheezing are a signal to stop the activity and choose a less strenuous one.",
+    "People with lung disease who notice these symptoms when air is polluted should check with their doctor about what to do."
+  ],
+  "accessedAt": "2026-11-07",
+  "license": "Public domain (US government work); cited with attribution"
+}

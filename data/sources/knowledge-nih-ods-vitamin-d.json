@@ -1,0 +1,28 @@
+{
+  "sourceId": "knowledge-nih-ods-vitamin-d",
+  "title": "Vitamin D — Fact Sheet for Health Professionals",
+  "url": "https://ods.od.nih.gov/factsheets/VitaminD-HealthProfessional/",
+  "publisher": "NIH Office of Dietary Supplements",
+  "publishedAt": null,
+  "claims": [
+    "Recommended Dietary Allowances for vitamin D are 10 mcg (400 IU)/day for infants 0–12 months, 15 mcg (600 IU)/day for people aged 1–70 years, and 20 mcg (800 IU)/day for people above 70 years, with the same 15 mcg (600 IU) for pregnancy and lactation.",
+    "The Tolerable Upper Intake Level for vitamin D is 25 mcg (1,000 IU)/day for infants 0–6 months, 38 mcg (1,500 IU) for 7–12 months, 63 mcg (2,500 IU) for children 1–3 years, 75 mcg (3,000 IU) for children 4–8 years, and 100 mcg (4,000 IU)/day for children 9–18 years, adults 19 years and older, and pregnant or breastfeeding teens and women.",
+    "The FNB considers people at risk of vitamin D deficiency at serum 25(OH)D below 30 nmol/L (12 ng/mL), potentially inadequate at 30 to 50 nmol/L (12–20 ng/mL), and sufficient at 50 nmol/L (20 ng/mL) or more for most people; concentrations above 125 nmol/L (50 ng/mL) can be associated with adverse effects.",
+    "One nmol/L equals 0.4 ng/mL, and 1 ng/mL equals 2.5 nmol/L.",
+    "The RDAs assume minimal sun exposure even though sunlight is a major source of vitamin D for some people.",
+    "Vitamin D is found naturally in fatty fish, fish liver oils, beef liver, egg yolks and cheese; in American diets fortified foods such as milk and breakfast cereals provide most of the vitamin D, with US milk voluntarily fortified at about 3 mcg (120 IU) per cup.",
+    "Cod liver oil provides 34.0 mcg (1,360 IU) per tablespoon, cooked sockeye salmon 14.2 mcg (570 IU) per 3 ounces, UV-exposed white mushrooms 9.2 mcg (366 IU) per half cup, and one large scrambled egg 1.1 mcg (44 IU).",
+    "Very high blood levels of vitamin D (greater than 375 nmol/L or 150 ng/mL) can cause nausea, vomiting, muscle weakness, confusion, pain, loss of appetite, dehydration, excessive urination and thirst, and kidney stones; extremely high levels can cause kidney failure, irregular heartbeat and death, and are almost always caused by excessive supplement intake.",
+    "You cannot get too much vitamin D from sunshine because the skin limits the amount it makes; sunscreen, darker skin, older age and limited sun exposure reduce vitamin D synthesis.",
+    "In the United States almost one out of four people have vitamin D blood levels that are too low or inadequate for bone and overall health."
+  ],
+  "accessedAt": "2026-11-07",
+  "license": "US Government work; citation and summary only",
+  "verification": {
+    "access": "metadata-only",
+    "bodyRead": false,
+    "checkedAt": "2026-11-07",
+    "checkedVia": "WebFetch",
+    "note": "正文在可耐受最高摄入量段落前截断。"
+  }
+}

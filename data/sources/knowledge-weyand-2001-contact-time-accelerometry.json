@@ -1,0 +1,21 @@
+{
+  "sourceId": "knowledge-weyand-2001-contact-time-accelerometry",
+  "title": "Ambulatory estimates of maximal aerobic power from foot-ground contact times and heart rates in running humans",
+  "url": "https://journals.physiology.org/doi/full/10.1152/jappl.2001.91.1.451",
+  "publisher": "Journal of Applied Physiology",
+  "publishedAt": "2001-07-01",
+  "accessedAt": "2026-11-07",
+  "claims": [
+    "Accelerometer-derived foot-ground contact times were highly correlated with contact times measured by a treadmill-mounted force plate.",
+    "On average, accelerometric contact times were 14.6 ± 0.5% longer than those measured from the force plate.",
+    "The longer accelerometer-derived contact times arose mainly from the later portion of the contact period, when no force is exerted."
+  ],
+  "license": "American Physiological Society; citation and summary only",
+  "verification": {
+    "access": "metadata-only",
+    "bodyRead": false,
+    "checkedAt": "2026-11-07",
+    "checkedVia": "WebFetch",
+    "note": "仅读到摘要与方法；结果部分未返回。"
+  }
+}

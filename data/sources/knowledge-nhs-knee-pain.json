@@ -1,0 +1,14 @@
+{
+  "sourceId": "knowledge-nhs-knee-pain",
+  "title": "Knee pain",
+  "url": "https://www.nhs.uk/conditions/knee-pain/",
+  "publisher": "National Health Service",
+  "publishedAt": "2023-12-21",
+  "accessedAt": "2026-11-07",
+  "claims": [
+    "NHS knee pain guidance advises icing for up to 20 minutes every 2 to 3 hours and avoiding prolonged standing.",
+    "NHS lists urgent signs: very painful knee, inability to move or bear weight, badly swollen or changed shape, locking, giving way or painful clicking, or fever with redness and heat around the knee.",
+    "NHS advises seeing a GP if knee pain does not improve within a few weeks."
+  ],
+  "license": "Crown copyright; cited under NHS website terms"
+}

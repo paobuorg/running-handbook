@@ -1,0 +1,18 @@
+{
+  "sourceId": "knowledge-who-uv-factsheet",
+  "title": "Ultraviolet radiation — fact sheet",
+  "url": "https://www.who.int/news-room/fact-sheets/detail/ultraviolet-radiation",
+  "publisher": "World Health Organization",
+  "publishedAt": "2022-06-21",
+  "claims": [
+    "Globally in 2020, over 1.5 million cases of skin cancers were diagnosed and over 120,000 skin cancer-associated deaths were reported.",
+    "Sun protection is recommended when the UV Index is 3 or above.",
+    "Wraparound-style sunglasses providing 99–100% UV-A and UV-B protection are recommended.",
+    "Sunscreens should not be used to extend time spent in the sun; sun protection is best achieved by seeking shade and wearing clothes.",
+    "Worldwide, an estimated 15 million people are blind due to cataracts, and about 10% of these may be due to UV exposure.",
+    "Small amounts of UV are essential for vitamin D production, but excessive exposure is carcinogenic to humans.",
+    "People taking photosensitising medication and those with a family history of skin cancer are at increased risk."
+  ],
+  "accessedAt": "2026-11-07",
+  "license": "CC BY-NC-SA 3.0 IGO; facts summarized with attribution"
+}

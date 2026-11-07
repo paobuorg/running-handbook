@@ -1,0 +1,21 @@
+{
+  "sourceId": "knowledge-corrado-2006-veneto-screening",
+  "title": "Trends in Sudden Cardiovascular Death in Young Competitive Athletes After Implementation of a Preparticipation Screening Program",
+  "url": "https://jamanetwork.com/journals/jama/fullarticle/203513",
+  "publisher": "JAMA",
+  "publishedAt": "2006-10-04",
+  "accessedAt": "2026-11-07",
+  "claims": [
+    "In the Veneto region of Italy, the annual incidence of sudden cardiovascular death in young competitive athletes decreased by 89% after implementation of a pre-participation screening program, from 3.6 to 0.4 per 100,000 person-years between 1979-1980 and 2003-2004.",
+    "The incidence of sudden death among the unscreened non-athlete population did not change significantly over the same period.",
+    "The Italian screening program included personal and family history, physical examination and 12-lead ECG."
+  ],
+  "license": "JAMA; citation and summary only",
+  "verification": {
+    "access": "blocked",
+    "bodyRead": false,
+    "checkedAt": "2026-11-07",
+    "checkedVia": "Crossref",
+    "note": "出版社验证页；摘要与正文均未取得。"
+  }
+}
