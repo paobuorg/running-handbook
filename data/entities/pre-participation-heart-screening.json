@@ -1,0 +1,47 @@
+{
+  "entityId": "knowledge:pre-participation-heart-screening",
+  "slug": "pre-participation-heart-screening",
+  "kind": "knowledge",
+  "status": "published",
+  "riskLevel": "guidance",
+  "sourceRefs": [
+    "knowledge-aha-preparticipation-screening-policy",
+    "knowledge-esc-2020-sports-cardiology",
+    "knowledge-maron-2007-preparticipation-screening",
+    "knowledge-corrado-2006-veneto-screening",
+    "knowledge-esc-2005-preparticipation-consensus",
+    "knowledge-wasfy-2016-scd-in-athletes",
+    "knowledge-maclachlan-2020-risk-based-screening",
+    "knowledge-williams-2019-14-point-vs-ecg"
+  ],
+  "relatedRefs": [
+    "knowledge:heart-rate-zones",
+    "knowledge:running-across-life",
+    "knowledge:pain-communication",
+    "knowledge:return-to-running",
+    "knowledge:training-pace-zones"
+  ],
+  "license": "CC-BY-4.0",
+  "createdAt": "2026-11-07",
+  "updatedAt": "2026-11-07",
+  "reviewedAt": "2026-11-07",
+  "reviewDueAt": "2027-11-07",
+  "translations": [],
+  "details": {
+    "primaryTopic": "health",
+    "secondaryTopics": [
+      "safety",
+      "training"
+    ],
+    "contentType": "guide",
+    "audiences": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "scenarios": [
+      "general-training",
+      "race-preparation"
+    ]
+  }
+}

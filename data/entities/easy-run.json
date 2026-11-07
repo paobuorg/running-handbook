@@ -6,17 +6,24 @@
   "riskLevel": "general",
   "sourceRefs": [
     "knowledge-cdc-intensity",
-    "knowledge-odphp-pag"
+    "knowledge-odphp-pag",
+    "knowledge-nhs-couch-to-5k",
+    "knowledge-hunt-2015-hr-kinetics",
+    "knowledge-ceugniez-2025-fitbit-hr"
   ],
   "relatedRefs": [
-    "knowledge:marathon-distance",
-    "knowledge:recovery-day"
+    "knowledge:training-week",
+    "knowledge:recovery-day",
+    "knowledge:breathing-and-rhythm",
+    "knowledge:cadence-and-stride",
+    "knowledge:heart-rate-zones",
+    "knowledge:heart-rate-drift"
   ],
   "license": "CC-BY-4.0",
   "createdAt": "2026-10-26",
-  "updatedAt": "2026-10-28",
-  "reviewedAt": "2026-10-28",
-  "reviewDueAt": "2027-10-28",
+  "updatedAt": "2026-11-07",
+  "reviewedAt": "2026-11-07",
+  "reviewDueAt": "2027-05-07",
   "translations": [],
   "details": {
     "primaryTopic": "training",

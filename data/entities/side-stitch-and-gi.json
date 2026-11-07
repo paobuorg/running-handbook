@@ -1,0 +1,39 @@
+{
+  "entityId": "knowledge:side-stitch-and-gi",
+  "slug": "side-stitch-and-gi",
+  "kind": "knowledge",
+  "status": "published",
+  "riskLevel": "guidance",
+  "sourceRefs": [
+    "knowledge-morton-2003-etap",
+    "knowledge-baart-2023-abdominal",
+    "knowledge-nhs-stomach-ache"
+  ],
+  "relatedRefs": [
+    "knowledge:race-day-fueling",
+    "knowledge:hydration",
+    "knowledge:breathing-and-rhythm",
+    "knowledge:pain-and-load"
+  ],
+  "license": "CC-BY-4.0",
+  "createdAt": "2026-11-07",
+  "updatedAt": "2026-11-07",
+  "reviewedAt": "2026-11-07",
+  "reviewDueAt": "2027-11-07",
+  "translations": [],
+  "details": {
+    "primaryTopic": "health",
+    "secondaryTopics": [
+      "nutrition"
+    ],
+    "contentType": "guide",
+    "audiences": [
+      "beginner",
+      "intermediate"
+    ],
+    "scenarios": [
+      "general-training",
+      "race-preparation"
+    ]
+  }
+}

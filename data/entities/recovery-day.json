@@ -5,16 +5,20 @@
   "status": "published",
   "riskLevel": "guidance",
   "sourceRefs": [
-    "knowledge-nhs-insomnia"
+    "knowledge-nhs-insomnia",
+    "knowledge-overtraining-guide",
+    "knowledge-nhs-running-injuries"
   ],
   "relatedRefs": [
-    "knowledge:easy-run",
-    "knowledge:long-run-fueling"
+    "knowledge:sleep-recovery",
+    "knowledge:training-week",
+    "knowledge:load-and-overtraining",
+    "knowledge:post-race-recovery"
   ],
   "license": "CC-BY-4.0",
   "createdAt": "2026-10-26",
-  "updatedAt": "2026-10-28",
-  "reviewedAt": "2026-10-28",
+  "updatedAt": "2026-11-06",
+  "reviewedAt": "2026-11-06",
   "reviewDueAt": "2027-04-28",
   "translations": [],
   "details": {

@@ -1,0 +1,40 @@
+{
+  "entityId": "knowledge:plantar-fasciitis",
+  "slug": "plantar-fasciitis",
+  "kind": "knowledge",
+  "status": "published",
+  "riskLevel": "guidance",
+  "sourceRefs": [
+    "knowledge-nhs-plantar-fasciitis",
+    "knowledge-aaos-plantar-fasciitis",
+    "knowledge-nhs-running-injuries"
+  ],
+  "relatedRefs": [
+    "knowledge:running-shoes",
+    "knowledge:return-to-running",
+    "knowledge:pain-and-load",
+    "knowledge:shoe-fit-and-cushioning"
+  ],
+  "license": "CC-BY-4.0",
+  "createdAt": "2026-11-07",
+  "updatedAt": "2026-11-07",
+  "reviewedAt": "2026-11-07",
+  "reviewDueAt": "2027-11-07",
+  "translations": [],
+  "details": {
+    "primaryTopic": "health",
+    "secondaryTopics": [
+      "gear",
+      "training"
+    ],
+    "contentType": "guide",
+    "audiences": [
+      "beginner",
+      "intermediate"
+    ],
+    "scenarios": [
+      "general-training",
+      "injury"
+    ]
+  }
+}

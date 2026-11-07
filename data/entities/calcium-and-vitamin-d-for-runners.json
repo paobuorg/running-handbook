@@ -1,0 +1,43 @@
+{
+  "entityId": "knowledge:calcium-and-vitamin-d-for-runners",
+  "slug": "calcium-and-vitamin-d-for-runners",
+  "kind": "knowledge",
+  "status": "published",
+  "riskLevel": "guidance",
+  "sourceRefs": [
+    "knowledge-nih-ods-calcium",
+    "knowledge-nih-ods-vitamin-d",
+    "knowledge-ioc-reds-2023",
+    "knowledge-aaos-shin-splints"
+  ],
+  "relatedRefs": [
+    "knowledge:iron-and-bone-health",
+    "knowledge:shin-splints",
+    "knowledge:supplements-and-evidence",
+    "knowledge:female-runners-and-red-s"
+  ],
+  "license": "CC-BY-4.0",
+  "createdAt": "2026-11-07",
+  "updatedAt": "2026-11-07",
+  "reviewedAt": "2026-11-07",
+  "reviewDueAt": "2027-11-07",
+  "translations": [],
+  "details": {
+    "primaryTopic": "nutrition",
+    "secondaryTopics": [
+      "health",
+      "recovery"
+    ],
+    "contentType": "guide",
+    "audiences": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "scenarios": [
+      "general-training",
+      "race-preparation",
+      "injury-recovery"
+    ]
+  }
+}

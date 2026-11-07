@@ -1,0 +1,48 @@
+{
+  "entityId": "knowledge:half-marathon-training-plan",
+  "slug": "half-marathon-training-plan",
+  "kind": "knowledge",
+  "status": "published",
+  "riskLevel": "guidance",
+  "sourceRefs": [
+    "knowledge-fokkema-2020-half-marathon-volume",
+    "knowledge-alvero-cruz-2019-cooper-half-marathon",
+    "knowledge-bosquet-2007-taper",
+    "knowledge-haugen-2022-distance-runners",
+    "knowledge-seiler-2010-tid",
+    "knowledge-plos-pacing-2026",
+    "knowledge-blodorn-2025-running-coefficients",
+    "knowledge-acsm-getp8-hrr"
+  ],
+  "relatedRefs": [
+    "knowledge:5k-10k-training-plan",
+    "knowledge:training-week",
+    "knowledge:training-volume-and-progression",
+    "knowledge:long-run",
+    "knowledge:race-day-pacing",
+    "knowledge:training-pace-zones"
+  ],
+  "license": "CC-BY-4.0",
+  "createdAt": "2026-11-07",
+  "updatedAt": "2026-11-07",
+  "reviewedAt": "2026-11-07",
+  "reviewDueAt": "2027-11-07",
+  "translations": [],
+  "details": {
+    "primaryTopic": "training",
+    "secondaryTopics": [
+      "recovery",
+      "health"
+    ],
+    "contentType": "guide",
+    "audiences": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "scenarios": [
+      "race-preparation",
+      "general-training"
+    ]
+  }
+}

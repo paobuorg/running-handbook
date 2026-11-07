@@ -1,0 +1,45 @@
+{
+  "entityId": "knowledge:heart-rate-zones",
+  "slug": "heart-rate-zones",
+  "kind": "knowledge",
+  "status": "published",
+  "riskLevel": "guidance",
+  "sourceRefs": [
+    "knowledge-acsm-getp8-hrr",
+    "knowledge-tanaka-2001-hrmax",
+    "knowledge-sarzynski-2013-heritage-hrmax",
+    "knowledge-cdc-intensity",
+    "knowledge-nhs-heart-palpitations"
+  ],
+  "relatedRefs": [
+    "knowledge:heart-rate-drift",
+    "knowledge:easy-run",
+    "knowledge:tempo-and-intervals",
+    "knowledge:training-week",
+    "knowledge:wearables-and-recovery-data",
+    "knowledge:race-day-pacing"
+  ],
+  "license": "CC-BY-4.0",
+  "createdAt": "2026-11-07",
+  "updatedAt": "2026-11-07",
+  "reviewedAt": "2026-11-07",
+  "reviewDueAt": "2027-11-07",
+  "translations": [],
+  "details": {
+    "primaryTopic": "training",
+    "secondaryTopics": [
+      "health",
+      "safety"
+    ],
+    "contentType": "guide",
+    "audiences": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "scenarios": [
+      "general-training",
+      "race-preparation"
+    ]
+  }
+}

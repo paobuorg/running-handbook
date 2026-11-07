@@ -5,7 +5,9 @@
   "status": "published",
   "riskLevel": "guidance",
   "sourceRefs": [
-    "knowledge-fhwa-night-visibility"
+    "knowledge-fhwa-night-visibility",
+    "knowledge-nps-hiking-safety",
+    "knowledge-nps-ten-essentials"
   ],
   "relatedRefs": [
     "knowledge:route-safety",
@@ -15,8 +17,8 @@
   ],
   "license": "CC-BY-4.0",
   "createdAt": "2026-10-28",
-  "updatedAt": "2026-10-28",
-  "reviewedAt": "2026-10-28",
+  "updatedAt": "2026-11-06",
+  "reviewedAt": "2026-11-06",
   "reviewDueAt": "2027-04-28",
   "translations": [],
   "details": {

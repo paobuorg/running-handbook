@@ -7,7 +7,9 @@
   "sourceRefs": [
     "knowledge-nps-ten-essentials",
     "knowledge-nps-hiking-safety",
-    "knowledge-nps-winter"
+    "knowledge-nps-winter",
+    "knowledge-on-trail-shoe-guide",
+    "knowledge-runners-need-trail-lug-guide"
   ],
   "relatedRefs": [
     "knowledge:running-shoes",
@@ -17,9 +19,9 @@
   ],
   "license": "CC-BY-4.0",
   "createdAt": "2026-10-27",
-  "updatedAt": "2026-10-28",
-  "reviewedAt": "2026-10-28",
-  "reviewDueAt": "2027-04-28",
+  "updatedAt": "2026-11-07",
+  "reviewedAt": "2026-11-07",
+  "reviewDueAt": "2027-05-07",
   "translations": [],
   "details": {
     "primaryTopic": "gear",

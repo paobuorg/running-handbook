@@ -8,7 +8,8 @@
     "knowledge-cdc-adult-activity",
     "knowledge-plos-taper",
     "knowledge-running-injury-review",
-    "knowledge-odphp-pag"
+    "knowledge-odphp-pag",
+    "knowledge-blagrove-2018-strength"
   ],
   "relatedRefs": [
     "knowledge:training-week",
@@ -18,9 +19,9 @@
   ],
   "license": "CC-BY-4.0",
   "createdAt": "2026-10-27",
-  "updatedAt": "2026-10-28",
-  "reviewedAt": "2026-10-28",
-  "reviewDueAt": "2027-04-28",
+  "updatedAt": "2026-11-07",
+  "reviewedAt": "2026-11-07",
+  "reviewDueAt": "2027-05-07",
   "translations": [],
   "details": {
     "primaryTopic": "training",

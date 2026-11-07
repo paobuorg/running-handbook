@@ -6,7 +6,8 @@
   "riskLevel": "guidance",
   "sourceRefs": [
     "knowledge-ioc-reds",
-    "knowledge-cdc-pregnancy-activity"
+    "knowledge-cdc-pregnancy-activity",
+    "knowledge-cdc-adult-activity"
   ],
   "relatedRefs": [
     "knowledge:running-across-life",
@@ -16,8 +17,8 @@
   ],
   "license": "CC-BY-4.0",
   "createdAt": "2026-10-28",
-  "updatedAt": "2026-10-28",
-  "reviewedAt": "2026-10-28",
+  "updatedAt": "2026-11-06",
+  "reviewedAt": "2026-11-06",
   "reviewDueAt": "2027-04-28",
   "translations": [],
   "details": {

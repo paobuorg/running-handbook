@@ -1,0 +1,52 @@
+{
+  "entityId": "knowledge:periodization",
+  "slug": "periodization",
+  "kind": "knowledge",
+  "status": "published",
+  "riskLevel": "guidance",
+  "sourceRefs": [
+    "knowledge-haugen-2022-distance-runners",
+    "knowledge-bosquet-2007-taper",
+    "knowledge-plos-taper",
+    "knowledge-issurin-2010-block-periodization",
+    "knowledge-molmen-2019-block-meta",
+    "knowledge-kiely-2018-periodization-critique",
+    "knowledge-galan-rioja-2023-cyclists-periodization",
+    "knowledge-almquist-2022-block-vs-traditional",
+    "knowledge-gonzalez-rave-2022-reverse-periodization",
+    "knowledge-casado-2022-runners-tid",
+    "knowledge-seiler-2010-tid"
+  ],
+  "relatedRefs": [
+    "knowledge:training-volume-and-progression",
+    "knowledge:polarized-training-80-20",
+    "knowledge:training-week",
+    "knowledge:strength-and-taper",
+    "knowledge:5k-10k-training-plan",
+    "knowledge:race-day-pacing",
+    "knowledge:load-and-overtraining"
+  ],
+  "license": "CC-BY-4.0",
+  "createdAt": "2026-11-07",
+  "updatedAt": "2026-11-07",
+  "reviewedAt": "2026-11-07",
+  "reviewDueAt": "2027-11-07",
+  "translations": [],
+  "details": {
+    "primaryTopic": "training",
+    "secondaryTopics": [
+      "recovery",
+      "health"
+    ],
+    "contentType": "guide",
+    "audiences": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "scenarios": [
+      "general-training",
+      "race-preparation"
+    ]
+  }
+}

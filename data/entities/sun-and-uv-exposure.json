@@ -1,0 +1,43 @@
+{
+  "entityId": "knowledge:sun-and-uv-exposure",
+  "slug": "sun-and-uv-exposure",
+  "kind": "knowledge",
+  "status": "published",
+  "riskLevel": "guidance",
+  "sourceRefs": [
+    "knowledge-epa-uv-index",
+    "knowledge-who-uv-qa",
+    "knowledge-who-uv-factsheet",
+    "knowledge-aad-sunscreen"
+  ],
+  "relatedRefs": [
+    "knowledge:heat-and-humidity",
+    "knowledge:running-apparel-and-chafing",
+    "knowledge:race-day-fueling",
+    "knowledge:route-safety"
+  ],
+  "license": "CC-BY-4.0",
+  "createdAt": "2026-11-07",
+  "updatedAt": "2026-11-07",
+  "reviewedAt": "2026-11-07",
+  "reviewDueAt": "2027-11-07",
+  "translations": [],
+  "details": {
+    "primaryTopic": "safety",
+    "secondaryTopics": [
+      "health",
+      "gear"
+    ],
+    "contentType": "guide",
+    "audiences": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "scenarios": [
+      "general-training",
+      "race-preparation",
+      "marathon"
+    ]
+  }
+}

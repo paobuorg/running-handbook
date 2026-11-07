@@ -1,0 +1,43 @@
+{
+  "entityId": "knowledge:ultra-running-basics",
+  "slug": "ultra-running-basics",
+  "kind": "knowledge",
+  "status": "published",
+  "riskLevel": "general",
+  "sourceRefs": [
+    "route-western-states-medical-2026",
+    "route-utmb-regulation",
+    "knowledge-overtraining-guide",
+    "knowledge-plos-taper",
+    "knowledge-issn-carbohydrate-timing"
+  ],
+  "relatedRefs": [
+    "knowledge:trail-gear",
+    "knowledge:trail-navigation",
+    "knowledge:long-run-fueling",
+    "knowledge:load-and-overtraining"
+  ],
+  "license": "CC-BY-4.0",
+  "createdAt": "2026-11-06",
+  "updatedAt": "2026-11-06",
+  "reviewedAt": "2026-11-06",
+  "reviewDueAt": "2027-11-06",
+  "translations": [],
+  "details": {
+    "primaryTopic": "training",
+    "secondaryTopics": [
+      "recovery",
+      "nutrition"
+    ],
+    "contentType": "guide",
+    "audiences": [
+      "beginner",
+      "intermediate"
+    ],
+    "scenarios": [
+      "trail-running",
+      "long-run",
+      "race-preparation"
+    ]
+  }
+}

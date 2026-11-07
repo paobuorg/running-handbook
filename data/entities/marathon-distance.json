@@ -5,16 +5,19 @@
   "status": "published",
   "riskLevel": "general",
   "sourceRefs": [
-    "knowledge-world-athletics-marathon"
+    "knowledge-world-athletics-marathon",
+    "knowledge-world-athletics-records",
+    "knowledge-baa-rules"
   ],
   "relatedRefs": [
-    "knowledge:easy-run",
-    "tool:pace"
+    "knowledge:records-and-course-validity",
+    "knowledge:race-day-fueling",
+    "knowledge:classic-races-and-history"
   ],
   "license": "CC-BY-4.0",
   "createdAt": "2026-10-26",
-  "updatedAt": "2026-10-28",
-  "reviewedAt": "2026-10-28",
+  "updatedAt": "2026-11-06",
+  "reviewedAt": "2026-11-06",
   "reviewDueAt": "2027-10-28",
   "translations": [],
   "details": {

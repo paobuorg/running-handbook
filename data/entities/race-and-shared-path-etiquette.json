@@ -6,7 +6,8 @@
   "riskLevel": "general",
   "sourceRefs": [
     "knowledge-baa-rules",
-    "knowledge-nps-hike-smart"
+    "knowledge-nps-hike-smart",
+    "knowledge-nps-hiking-safety"
   ],
   "relatedRefs": [
     "knowledge:running-culture",
@@ -16,8 +17,8 @@
   ],
   "license": "CC-BY-4.0",
   "createdAt": "2026-10-28",
-  "updatedAt": "2026-10-28",
-  "reviewedAt": "2026-10-28",
+  "updatedAt": "2026-11-06",
+  "reviewedAt": "2026-11-06",
   "reviewDueAt": "2027-10-28",
   "translations": [],
   "details": {

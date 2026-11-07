@@ -6,7 +6,8 @@
   "riskLevel": "guidance",
   "sourceRefs": [
     "knowledge-cdc-intensity",
-    "knowledge-running-injury-review"
+    "knowledge-running-injury-review",
+    "knowledge-physiology-determinants"
   ],
   "relatedRefs": [
     "knowledge:easy-run",
@@ -17,8 +18,8 @@
   ],
   "license": "CC-BY-4.0",
   "createdAt": "2026-10-28",
-  "updatedAt": "2026-10-28",
-  "reviewedAt": "2026-10-28",
+  "updatedAt": "2026-11-06",
+  "reviewedAt": "2026-11-06",
   "reviewDueAt": "2027-04-28",
   "translations": [],
   "details": {

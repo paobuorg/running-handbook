@@ -8,7 +8,11 @@
     "knowledge-nws-cold",
     "knowledge-nps-winter",
     "knowledge-nps-ten-essentials",
-    "knowledge-nps-hiking-safety"
+    "knowledge-nps-hiking-safety",
+    "knowledge-pugh-1970-air-resistance",
+    "knowledge-jap-2025-air-speed",
+    "knowledge-beaumont-2025-wind",
+    "knowledge-nws-wind-chill-chart"
   ],
   "relatedRefs": [
     "knowledge:route-safety",
@@ -18,9 +22,9 @@
   ],
   "license": "CC-BY-4.0",
   "createdAt": "2026-10-27",
-  "updatedAt": "2026-10-28",
-  "reviewedAt": "2026-10-28",
-  "reviewDueAt": "2027-04-28",
+  "updatedAt": "2026-11-07",
+  "reviewedAt": "2026-11-07",
+  "reviewDueAt": "2027-05-07",
   "translations": [],
   "details": {
     "primaryTopic": "safety",

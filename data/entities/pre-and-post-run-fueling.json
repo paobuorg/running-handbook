@@ -7,7 +7,10 @@
   "sourceRefs": [
     "knowledge-issn-nutrient-timing",
     "knowledge-issn-carbohydrate-timing",
-    "knowledge-nhs-hydration"
+    "knowledge-nhs-hydration",
+    "knowledge-acsm-and-dc-2016-nutrition-performance",
+    "knowledge-ioc-2010-nutrition-guide",
+    "knowledge-costa-2017-gut-training"
   ],
   "relatedRefs": [
     "knowledge:race-day-fueling",
@@ -17,9 +20,9 @@
   ],
   "license": "CC-BY-4.0",
   "createdAt": "2026-10-28",
-  "updatedAt": "2026-10-28",
-  "reviewedAt": "2026-10-28",
-  "reviewDueAt": "2027-04-28",
+  "updatedAt": "2026-11-07",
+  "reviewedAt": "2026-11-07",
+  "reviewDueAt": "2027-05-07",
   "translations": [],
   "details": {
     "primaryTopic": "nutrition",

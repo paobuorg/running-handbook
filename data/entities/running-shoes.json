@@ -7,7 +7,10 @@
   "sourceRefs": [
     "knowledge-nhs-running-injuries",
     "knowledge-shoe-cushioning",
-    "knowledge-nps-ten-essentials"
+    "knowledge-nps-ten-essentials",
+    "knowledge-nielsen-2014-pronation-injury",
+    "knowledge-knapik-2014-arch-shoes",
+    "knowledge-neal-2014-foot-posture"
   ],
   "relatedRefs": [
     "knowledge:running-form",
@@ -16,9 +19,9 @@
   ],
   "license": "CC-BY-4.0",
   "createdAt": "2026-10-27",
-  "updatedAt": "2026-10-28",
-  "reviewedAt": "2026-10-28",
-  "reviewDueAt": "2027-10-28",
+  "updatedAt": "2026-11-07",
+  "reviewedAt": "2026-11-07",
+  "reviewDueAt": "2027-05-07",
   "translations": [],
   "details": {
     "primaryTopic": "gear",

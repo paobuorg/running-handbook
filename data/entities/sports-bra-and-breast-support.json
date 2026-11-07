@@ -1,0 +1,43 @@
+{
+  "entityId": "knowledge:sports-bra-and-breast-support",
+  "slug": "sports-bra-and-breast-support",
+  "kind": "knowledge",
+  "status": "published",
+  "riskLevel": "guidance",
+  "sourceRefs": [
+    "knowledge-steele-2015-bra-biomechanics",
+    "knowledge-fong-powell-2022-bra-running-economy",
+    "knowledge-jamkrajang-2015-sports-bra-displacement",
+    "knowledge-nhs-breast-pain"
+  ],
+  "relatedRefs": [
+    "knowledge:running-apparel-and-chafing",
+    "knowledge:female-runners-and-red-s",
+    "knowledge:running-shoes",
+    "knowledge:compression-massage-and-foam-rolling",
+    "knowledge:heat-and-humidity"
+  ],
+  "license": "CC-BY-4.0",
+  "createdAt": "2026-11-07",
+  "updatedAt": "2026-11-07",
+  "reviewedAt": "2026-11-07",
+  "reviewDueAt": "2027-11-07",
+  "translations": [],
+  "details": {
+    "primaryTopic": "gear",
+    "secondaryTopics": [
+      "health",
+      "training"
+    ],
+    "contentType": "guide",
+    "audiences": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "scenarios": [
+      "general-training",
+      "race-preparation"
+    ]
+  }
+}

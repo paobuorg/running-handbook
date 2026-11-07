@@ -1,0 +1,40 @@
+{
+  "entityId": "knowledge:iron-and-bone-health",
+  "slug": "iron-and-bone-health",
+  "kind": "knowledge",
+  "status": "published",
+  "riskLevel": "guidance",
+  "sourceRefs": [
+    "knowledge-alaunyte-2015-iron",
+    "knowledge-crunkhorn-2025-bsi",
+    "knowledge-ioc-reds-2023"
+  ],
+  "relatedRefs": [
+    "knowledge:female-runners-and-red-s",
+    "knowledge:weight-and-running",
+    "knowledge:shin-splints",
+    "knowledge:return-to-running"
+  ],
+  "license": "CC-BY-4.0",
+  "createdAt": "2026-11-07",
+  "updatedAt": "2026-11-07",
+  "reviewedAt": "2026-11-07",
+  "reviewDueAt": "2027-11-07",
+  "translations": [],
+  "details": {
+    "primaryTopic": "health",
+    "secondaryTopics": [
+      "nutrition",
+      "recovery"
+    ],
+    "contentType": "guide",
+    "audiences": [
+      "intermediate",
+      "advanced"
+    ],
+    "scenarios": [
+      "general-training",
+      "race-preparation"
+    ]
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "entityId": "knowledge:foot-strike-pattern",
+  "slug": "foot-strike-pattern",
+  "kind": "knowledge",
+  "status": "published",
+  "riskLevel": "guidance",
+  "sourceRefs": [
+    "knowledge-bovalino-2021-foot-strike-meta",
+    "knowledge-hasegawa-2007-foot-strike-half-marathon",
+    "knowledge-hanley-2019-world-champs-foot-strike",
+    "knowledge-kasmer-2013-marathon-foot-strike",
+    "knowledge-lai-2020-foot-strike-speed-shoes",
+    "knowledge-burke-2021-foot-strike-injury-review",
+    "knowledge-alexander-2021-foot-strike-myth",
+    "knowledge-yang-2020-gait-retraining-minimalist",
+    "knowledge-zhang-2024-achilles-gait-retraining"
+  ],
+  "relatedRefs": [
+    "knowledge:running-form",
+    "knowledge:cadence-and-stride",
+    "knowledge:running-dynamics-metrics",
+    "knowledge:running-shoes",
+    "knowledge:achilles-tendon-pain",
+    "knowledge:return-to-running"
+  ],
+  "license": "CC-BY-4.0",
+  "createdAt": "2026-11-07",
+  "updatedAt": "2026-11-07",
+  "reviewedAt": "2026-11-07",
+  "reviewDueAt": "2027-11-07",
+  "translations": [],
+  "details": {
+    "primaryTopic": "technique",
+    "secondaryTopics": [
+      "gear",
+      "health"
+    ],
+    "contentType": "guide",
+    "audiences": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "scenarios": [
+      "general-training",
+      "injury-recovery"
+    ]
+  }
+}
