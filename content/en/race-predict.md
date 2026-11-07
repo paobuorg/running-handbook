@@ -1,9 +1,9 @@
 ---
 entityId: tool:race-predict
 locale: en
-title: "Race time prediction: the Riegel formula and its 1.06 exponent"
-summary: Use one known road race result to estimate the finish time and pace at another distance from 5 km to the marathon under the Riegel model. An empirical estimate, not a promise.
-aliases: ["race time prediction", "Riegel formula", "finish time"]
+title: "Race-time estimate: the Riegel formula with a 1.06 exponent"
+summary: "Use one known road result to estimate another distance from 5 km to the marathon with the Riegel model, plus predicted pace. It is an empirical estimate, not a guarantee."
+aliases: ["race predictor", "Riegel", "race time estimate"]
 authors:
   - runmap-editorial
 reviewers:
@@ -13,48 +13,63 @@ translationStatus: reviewed
 
 ## What this tool answers
 
-Enter the **distance** and **finish time** of a known road race, then enter a target distance. The tool applies the Riegel formula to estimate the target finish time and converts it to pace per kilometre, pace per mile and average speed.
-
-For example, estimate a 10 km time from a 5 km result, or a half marathon from a 10 km result. This is useful for a rough conversion between race distances and for checking whether a target time is broadly in line with current performance. It does not predict what you will definitely run on race day.
+Enter the distance and finish time of a known road race, then a target distance. The tool applies the Riegel formula to estimate the target finish time and converts it to pace per kilometre, pace per mile and average speed. It is for runners who already have a comparable road result between 5 km and the marathon and want to know whether two target times are broadly at the same level. It is not for trail, ultramarathon or heavily climbed courses. If you have no comparable result, or training, body weight or injury status changed markedly between races, the estimate loses value and should not become a race goal.
 
 ## Formula and units
 
-The tool uses:
+`Target time = known time × (target distance ÷ known distance)^1.06`
 
-`target time = known time × (target distance ÷ known distance)^1.06`
+Distances are converted to metres and times to seconds internally; conversion to pace and speed happens only for display.
 
-Distances are converted to metres internally and time is handled in seconds; conversion to pace per kilometre, pace per mile and km/h happens only for display. Both the known and target distance must be between 5,000 and 42,195 metres, covering common road distances such as 5 km, 10 km, the half marathon and the marathon.
+| Output | Calculation | Unit |
+| --- | --- | --- |
+| Predicted finish time | Known seconds × ratio^1.06 | Seconds, displayed whole |
+| Distance ratio | Target distance ÷ known distance | Dimensionless |
+| Pace per kilometre | Predicted seconds ÷ target kilometres | s/km |
+| Pace per mile | Pace per km × 1.609344 | s/mi |
+| Average speed | Target kilometres ÷ (predicted seconds ÷ 3600) | km/h |
 
-The exponent 1.06 is a fixed product default, not a law that holds for every runner and every distance. The Riegel formula fits a constant to each runner; this tool does not refit anything to your personal data and simply treats 1.06 as a common empirical simplification.
+Both distances must lie between 5,000 and 42,195 metres. The exponent is fixed at 1.06 as a product default; it is an empirical simplification, not a law for every runner or distance.
 
-## Scope and limits
+## Worked example
 
-- Road races only. Do not use it for trail races, ultramarathons or courses with substantial climbing.
-- Assumes the known result and the target race are broadly comparable in training, pacing and conditions.
-- No confidence interval and no probability of hitting the target time.
-- Weather, heat, altitude, course profile, start congestion and fuelling are not modelled.
-- Not a training plan. Do not use the estimate to prescribe training intensity or a race goal on its own.
+- 5,000 m in 1,200 s, target 10,000 m: ratio 2, estimate 1,200 × 2^1.06 = 2,501.918 → 2,502 s; about 250 s/km, 403 s/mi and 14.39 km/h.
+- 10,000 m in 3,000 s, target 21,097.5 m: ratio 2.10975, estimate 6,619.209 → 6,619 s; about 314 s/km, 505 s/mi and 11.47 km/h.
+- 21,097.5 m in 5,700 s, target 42,195 m: ratio 2, estimate 11,884.110 → 11,884 s; about 282 s/km, 453 s/mi and 12.78 km/h.
 
-If the two races are far apart in time, or your training volume, body weight or injury status has changed significantly, the estimate is less useful. Pacing decay over long races is usually more complex than the formula suggests, especially in the second half of a marathon.
+## Rounding and tolerance
+
+Predicted time is rounded to the nearest whole second with a ±0.5-second tolerance. Pace per kilometre and per mile are also whole seconds with a ±0.5-second tolerance. Speed keeps two decimals with ±0.01 km/h, and the distance ratio is shown to six decimals. Do not feed a rounded displayed pace back into another conversion.
 
 ## Reading the result
 
-Look at the estimated time first, then the corresponding average pace. If the target pace is much faster than a pace you can currently sustain in training, the goal is more likely too aggressive than the formula being "all that stands between you" and the time. Treat the estimate as a starting point and test it with a shorter race or a tempo effort rather than adopting it as a race goal unexamined.
+Read the predicted time first, then the average pace. If the target pace is clearly faster than a pace you can currently sustain in training, the goal is probably aggressive rather than “one formula away”. The estimate provides no confidence interval, no probability of achieving the time, and no adjustment for weather, heat, altitude, course profile, start congestion or fuelling. Slowing in the second half of a long race is usually more complex than the formula; test the estimate with a shorter race or a tempo run before treating it as a goal.
 
-To turn the estimated time into a segment plan, use the [split table](/en/tools/splits/). To check distance, time and pace conversions, use the [pace calculator](/en/tools/pace/). For background on the marathon distance, read [why the marathon is 42.195 km](https://learn.paobu.org/en/articles/marathon-distance/).
+## How to use it
 
-## Verification cases
+1. Pick a road race between 5 km and the marathon with reasonably standard conditions, and enter its distance in metres and finish time in seconds.
+2. Enter the target distance in metres, also within 5,000 to 42,195 metres.
+3. Compare the predicted time and pace with your current sustainable training pace, then decide whether to use it as a goal or refine execution with a split table.
 
-- Known 5,000 m in 1,200 s, target 10,000 m: distance ratio 2, estimate 1,200 × 2^1.06 = 2,501.918 s, displayed as 2,502 s; about 250 s/km, 403 s/mi and 14.39 km/h.
-- Known 10,000 m in 3,000 s, target 21,097.5 m: distance ratio 2.10975, estimate 6,619.209 s, displayed as 6,619 s; about 314 s/km, 505 s/mi and 11.47 km/h.
-- Known 21,097.5 m in 5,700 s, target 42,195 m: distance ratio 2, estimate 11,884.110 s, displayed as 11,884 s; about 282 s/km, 453 s/mi and 12.78 km/h.
+## Limits and when not to use it
 
-These values were checked by independent arithmetic, not by the page script itself.
+The model is for road races only, not trail, ultramarathon or heavily climbed routes. It assumes comparable training, pacing and conditions between the two races, and the fixed 1.06 exponent is a simplification. It gives no probability, confidence interval or individual fit, does not replace a training plan and should not set training intensity on its own. If the races are far apart or fitness changed, reassess instead of reusing the old result.
+
+## When this number misleads you
+
+It fixes the exponent at 1.06 and assumes comparable training, pacing and conditions between the two races. The wider the distance gap, the more the exponent assumption matters: published comparisons of Riegel exponents of 1.07732 and 1.06 differ by about 10 seconds over 5 km, and the gap grows to minutes when a half marathon is extrapolated to a marathon. After a clear change in volume, body mass or injury status, an old result no longer represents current ability. Trail, ultra, big climbs and heat are outside the model, so entering them returns a precise-looking wrong number.
+
+Do not use it for finish probabilities or confidence intervals, as a training pace prescription, or as medical or coaching advice.
+
+## Related reading
+
+- [Race-day execution: pacing, corrals and fuelling](https://learn.paobu.org/en/articles/race-day-pacing/)
+- [5K and 10K training: from result to pace](https://learn.paobu.org/en/articles/5k-10k-training-plan/)
 
 ## Privacy and data
 
-All calculations happen locally in your browser; inputs are not sent to an application database and no account is required. To restore inputs after a refresh and to support sharing, values are written into the page URL query string. Opening or refreshing that URL sends it to the static host and leaves it in browser history. File contents are never written into the URL. Clear the address-bar parameters after using a shared device.
+All calculations happen locally; no account is required. Inputs are written into the page URL query string so they survive a refresh and can be shared. Opening that URL sends it to the static host and leaves it in browser history. Clear the address-bar parameters after using a shared device.
 
-## Sources and limitations
+## Sources and scope
 
-The formula and the 1.06 exponent are documented in Blythe and Király, "Prediction and Quantification of Individual Athletic Performance of Runners", PLoS One, 2016, which describes the Riegel formula as fitting a constant to each runner while fixing the exponent at 1.06. The standard marathon distance follows World Athletics. This article and tool were checked on 2026-10-27; the model limits are part of the published scope.
+The formula and exponent background follows Blythe and Király (2016), “Prediction and Quantification of Individual Athletic Performance of Runners”, which describes fitting a constant per runner while fixing the exponent at 1.06; the 1.07732-versus-1.06 difference follows Blödorn and Döring (2025), “Running coefficients”, Scientific Reports; the standard marathon distance follows World Athletics. The tool guarantees no race result. Verified 2026-11-07.

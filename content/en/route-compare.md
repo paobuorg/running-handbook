@@ -1,9 +1,9 @@
 ---
 entityId: tool:route-compare
 locale: en
-title: "Route comparison: distance, elevation basis and technicality across published versions"
-summary: "Compare two to four published route versions field by field: distance, elevation basis, surface and technicality. Missing values stay unknown, and no safety or difficulty ranking is generated."
-aliases: ["route comparison", "course comparison", "elevation comparison"]
+title: "Course comparison: compare published versions field by field"
+summary: "Select 2 to 4 published course versions and compare distance, elevation, surface and technicality. Missing values stay unknown, and no safety or difficulty ranking is produced."
+aliases: ["course comparison", "route compare", "elevation compare"]
 authors:
   - runmap-editorial
 reviewers:
@@ -11,37 +11,72 @@ reviewers:
 translationStatus: reviewed
 ---
 
-## What this tool does
+## What this tool answers
 
-Route comparison places two to four **published** route versions in one table and shows:
+Course comparison places 2 to 4 **published** course versions in one table and shows distance and its recording basis, elevation gain and its basis when recorded, surface type when recorded, and technicality when recorded. It is for runners choosing a race and checking official fields side by side, and for editors checking that published versions of one event are consistent. It does not rank courses or read a longer distance, more climbing or a technicality value as “harder” or “more dangerous”. Suitability depends on training, weather, aid, access rules and condition on the day; a field table cannot derive it. For a safety assessment or a difficulty score, this tool is not suitable.
 
-- the course distance and how it was recorded;
-- elevation gain, when recorded, and its stated basis;
-- surface type, when recorded;
-- technicality, when recorded.
+## Decision rules and field handling
 
-It does not sort the routes, and it does not interpret a longer distance, more elevation or a particular technicality value as "harder" or "more dangerous". Whether a course suits you depends on training, weather, fuelling, access rules and race-day conditions; a field table cannot derive that.
+- Only 2 to 4 distinct published versions can be selected; fewer, more or duplicate identifiers return an error.
+- Each row is a field and each column a version; column order follows selection order.
+- Missing elevation, surface or technicality stays unknown; it is never filled with zero or inferred from another version.
+- The table records fields only: no total score, ranking, difficulty index or safety grade.
 
-## Why published versions only
+| Field | Recorded content | When missing |
+| --- | --- | --- |
+| Distance | Metres recorded for the course | Null, shown as unknown |
+| Elevation | Gain plus its basis | Null, shown as unknown |
+| Surface | Surface type from an official or source record | Null, shown as unknown |
+| Technicality | Technical description from the source | Null, shown as unknown |
 
-Course data can change before publication is complete, so unpublished versions do not take part. The tool reads only fixed versions whose status is published and shows the version identifier, so you are looking at reviewed records rather than a draft.
+Each version keeps its basis notes, so figures from different sources are not presented as one ruler.
 
-If the site does not have enough published versions (fewer than two), the page shows an empty state explaining that nothing is comparable yet. That is a content state, not a page failure.
+## Worked example
 
-## Missing values and measurement basis
+Assume two synthetic versions: alpha is 42,195 m with 300 m gain, road surface and no technicality; beta is 21,097.5 m with no elevation, surface or technicality.
 
-A missing elevation, surface or technicality field is shown as **unknown**. It is never filled with zero, and a value is not inferred for one route because another route has it. Distance may come from different official descriptions or measurement methods, and elevation may come from official gain, map estimates or track statistics. The table keeps each route's stated basis so numbers from different sources are not treated as one ruler.
+| Field | alpha | beta |
+| --- | --- | --- |
+| Distance | 42,195 m | 21,097.5 m |
+| Elevation | 300 m | Unknown |
+| Surface | road | Unknown |
+| Technicality | Unknown | Unknown |
 
-Whether track geometry is public or redistributable is separate from whether fields can be compared. A visible route page does not mean its track may be republished; follow the official link and licence note recorded for that route.
+Both columns keep their values, beta's three gaps show as unknown, and no ranking field appears.
 
-## Verification case
+## Rounding and tolerance
 
-A synthetic acceptance case contains two routes. The first has a distance of 42,195 m, 300 m of gain, surface "road" and no technicality. The second has a distance of 21,097.5 m and no elevation, surface or technicality. The comparison must keep both distance values, show the second route's missing fields as unknown and produce no ranking field. This case tests field handling only and does not represent a real race.
+Distance is shown in kilometres to three decimals with a ±0.0005 km tolerance; elevation is shown in whole metres with ±0.5 m. Missing values stay unknown, are not rounded and never become zero. Surface and technicality are text fields, kept with leading and trailing whitespace removed; no normalisation or synonym merging is applied. Values may come from different measurement methods and are not converted to one standard.
+
+## Reading the result
+
+The table helps you see differences, not draw conclusions. A longer course is not automatically harder, and more climbing does not automatically mean slower. Surface and technicality are descriptions too. A column with many gaps has incomplete verification and cannot be read as “easier”. Whether a track geometry is public and redistributable is separate from whether fields can be compared; a visible course page does not grant redistribution rights.
+
+## How to use it
+
+1. Pick 2 to 4 published versions and confirm their identifiers are distinct.
+2. Read each field, and when you see “unknown”, check the course's source notes instead of filling a value yourself.
+3. Treat the table as one input alongside training, weather, aid and access information; do not turn it into a ranking.
+
+## Limits and when not to use it
+
+Only published versions can be compared; drafts and work in progress are not verified records. Distance and elevation may come from different official sources and methods, and the table shows the basis rather than pretending to one standard. Missing means unknown, not zero. Geometry availability and licensing vary by course and are not granted by visible fields. The tool produces no safety, difficulty or suitability ranking and is not suitable for course certification, access decisions or live condition checks.
+
+## When this number misleads you
+
+Only published routes are eligible, and distance and elevation may come from different official sources and measurement methods: one certified course and one GPS trace can differ by hundreds of metres of gain that reflect method, not difficulty. A missing value means unknown, not zero; the tool never fills gaps, so a complete-looking table is not necessarily complete data. Ranking by distance plus gain ignores surface, technicality, altitude and weather.
+
+Do not use it for course certification, permit decisions or live conditions, and do not turn it into a safety, difficulty or suitability ranking. Visible geometry does not grant redistribution rights.
+
+## Related reading
+
+- [Records and course validity: when a length counts](https://learn.paobu.org/en/articles/records-and-course-validity/)
+- [Uphill and downhill running: pace, form and cost](https://learn.paobu.org/en/articles/uphill-and-downhill/)
 
 ## Privacy and data
 
-All calculations happen locally in your browser; inputs are not sent to an application database and no account is required. To restore inputs after a refresh and to support sharing, values are written into the page URL query string. Opening or refreshing that URL sends it to the static host and leaves it in browser history. File contents are never written into the URL. Clear the address-bar parameters after using a shared device.
+All comparisons happen locally; no account is required. Inputs are written into the page URL query string so they survive a refresh and can be shared. Opening that URL sends it to the static host and leaves it in browser history. Clear the address-bar parameters after using a shared device.
 
 ## Sources and scope
 
-The standard marathon distance follows World Athletics; example fields for UTMB and the Boston Marathon come from their official pages. The tool displays recorded fields only, does not certify course distance and does not judge race safety. This article and tool were checked on 2026-10-27.
+The standard marathon distance follows World Athletics; the Boston Marathon and UTMB example fields come from their official pages. The tool displays recorded fields only and does not certify distance or judge safety. Verified 2026-11-06.

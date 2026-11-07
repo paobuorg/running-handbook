@@ -1,9 +1,9 @@
 ---
 entityId: tool:run-walk
 locale: en
-title: "Run-walk planner: cycles or total duration"
-summary: Plan run-walk intervals. Enter a run and walk duration, then lay out the intervals by number of cycles or by total time, marking any truncated final segment. Time arithmetic only; no distance, pace or fitness estimate.
-aliases: ["run walk", "run-walk intervals", "walk break"]
+title: "Run-walk planner: schedule by cycles or total duration"
+summary: "For run-walk training, enter run and walk durations, then list every segment by cycle count or total duration and state whether the final segment is truncated. Time arithmetic only, with no distance, pace or fitness estimate."
+aliases: ["run-walk", "run walk intervals", "walk breaks"]
 authors:
   - runmap-editorial
 reviewers:
@@ -13,49 +13,59 @@ translationStatus: reviewed
 
 ## What this tool answers
 
-The run-walk planner turns "how long do I run, how long do I walk, and how many rounds" into a segment-by-segment schedule you can follow. It has two input modes:
+The run-walk planner turns “run for this long, walk for that long, repeat this many times” into a segment-by-segment sheet. It is for new runners, people returning after injury or a break, and runners who want a long session broken into manageable blocks. **Cycles mode** takes run seconds, walk seconds and a cycle count and lists every run and walk, including the walk in the final cycle. **Duration mode** takes the two segment lengths and a total duration, repeats them from the first cycle, and cuts the final segment at the boundary, marking it partial. If you need distance, calorie burn or a fitness estimate, this tool is not suitable.
 
-- **Cycles mode**: given a run duration, a walk duration and a number of cycles, it lists the run and walk segments for every cycle. The walk in the final cycle is part of the plan and is not dropped.
-- **Duration mode**: given a run duration, a walk duration and a total time, it starts at cycle one and keeps adding segments until the total is used up. If the total lands in the middle of a segment, that final segment is cut at the boundary and marked incomplete.
+## Calculation rules and limits
 
-The output includes the requested duration, scheduled duration, number of full cycles, every segment, total running time, total walking time and whether the plan was truncated. It does not infer how far you travelled and does not estimate calories.
+| Mode | Inputs | Scheduled total | Segment rule |
+| --- | --- | --- | --- |
+| Cycles | Run seconds, walk seconds, cycles | Cycles × (run + walk) | Run then walk each cycle; the last cycle is complete |
+| Duration | Run seconds, walk seconds, total seconds | Exactly the entered total | Repeat until full; a crossing segment is cut and marked |
+| Zero walk | Walk seconds = 0 | Run segments only | No zero-length walk rows |
+| Totals | Segment list | Run total, walk total, full cycles | Summed from whole-second segments |
 
-## How the two modes work
+Both modes avoid “rounding up to a full cycle”. Duration mode ends exactly at the entered time; cycles mode ends exactly at cycles × single-cycle duration. The output includes requested time, scheduled time, full cycles, every segment, run total, walk total and whether the last segment is truncated.
 
-**Cycles mode**: each cycle is exactly "run then walk". For example, running 2 minutes and walking 1 minute for 3 cycles gives a total of 3 × (2 + 1) = 9 minutes, with 6 minutes of running and 3 minutes of walking across 6 segments. If the walk duration is zero, no empty walk rows are produced and the plan contains only runs.
+## Worked example
 
-**Duration mode**: the tool repeats run and walk until the requested total is reached. Take a 2-minute run, 1-minute walk and a total of 6 minutes 40 seconds. The first two full cycles use 6 minutes, leaving 40 seconds, which is not enough for the third run; the plan ends with a 40-second partial run. Running totals 4 minutes 40 seconds and walking totals 2 minutes.
+- 120 s run, 60 s walk, 3 cycles: 540 seconds, 6 segments; 360 running and 180 walking.
+- 120 s run, 60 s walk, total 400 seconds: two full cycles use 360 seconds, then a 40-second partial run; 280 running and 120 walking.
+- 90 s run, 0 s walk, 2 cycles: 180 seconds, two run segments and no empty walk rows.
 
-Neither mode rounds up to a tidy number of cycles. Duration mode ends exactly at the entered total; cycles mode ends exactly at cycles multiplied by the cycle length.
+## Rounding and tolerance
 
-## Inputs and limits
+All durations are whole seconds on input and output, so there is no fractional-second rounding and the sum of segments equals the scheduled total with a tolerance of zero. A non-integer run or walk duration such as 60.5 seconds is rejected rather than silently rounded. Cycles must be integers; total duration is capped at 604,800 seconds (seven days) and the plan at 3,000 segments.
 
-- The run duration must be a positive whole number of seconds.
-- The walk duration may be zero but must be a non-negative whole number of seconds.
-- The number of cycles must be a whole number from 1 to 1000.
-- The total duration must be a positive whole number of seconds and no more than 7 days (604,800 seconds).
-- A plan generates at most 3,000 segments; a very short segment combined with a very long total will hit this limit. The scheduled total in cycles mode is also limited to 7 days.
+## Reading the result
 
-These limits only keep the arithmetic bounded. They do not mean the plan suits your fitness, injury history or training stage. The tool does not judge whether a run-walk ratio is reasonable and does not add or remove training load.
+The sheet describes time structure, not intensity. It does not infer distance from duration or estimate pace, calories, VO2 max or injury risk. The number of alternations shows how dense the rhythm is; full cycles show how many complete repetitions were scheduled. All times are clock time and exclude warm-up, cool-down, fuel stops and travel.
 
-## Using the result
+## How to use it
 
-A segment list is useful for run-walk intervals, returning to running after a break, or breaking a longer outing into manageable pieces. It can also serve as a draft for manual watch entry. All times are **clock time** and exclude warm-up, cool-down, aid stops and travel; arrange those outside the plan if you need them.
+1. Choose cycles mode when you know the repetition count, or duration mode when you know the total time.
+2. Enter whole-second run and walk durations; run must be above zero, walk may be zero, then supply cycles or total duration.
+3. Check the run total, walk total and truncation flag, then copy the segments to a watch or follow the first cycle.
 
-For pace, distance and time conversion, use the [pace calculator](/en/tools/pace/). To plan per-kilometre or per-mile splits for a target time, use the [split table](/en/tools/splits/). The NHS Couch to 5K beginner plan is a public example whose first week uses 1-minute runs with 1-minute-30-second walks; this tool cites it to show a common run-walk structure, not to copy its training prescription or to claim that any ratio suits everyone.
+## Limits and when not to use it
 
-## Verification cases
+Run duration must be a positive whole number of seconds and walk duration may be zero. Cycles range from 1 to 1,000; total duration is at most seven days; the plan is limited to 3,000 segments. These limits make the arithmetic executable, not the plan appropriate for your fitness or injury status. The tool does not judge whether a ratio is sensible. It is not suitable for distance- or pace-based sessions and is not a medical clearance. Seek qualified medical or sports advice if you are unwell, injured or at cardiovascular risk.
 
-- Run 120 seconds, walk 60 seconds, 3 cycles: 540 seconds across 6 segments; running totals 360 seconds, walking totals 180 seconds, and the final segment is complete.
-- Run 120 seconds, walk 60 seconds, total 400 seconds: two full cycles use 360 seconds, leaving a 40-second partial run; running totals 280 seconds and walking totals 120 seconds.
-- Run 90 seconds, walk 0 seconds, 2 cycles: 180 seconds in two run segments with no zero-length walk rows.
+## When this number misleads you
 
-These values were checked by independent arithmetic, not by the page script itself.
+It builds cycles by time, and the final segment ends the moment the requested duration is reached, so the realised run/walk ratio can drift from the ratio you set; the effect is larger when the duration or cycle count sits near the limits. The tool does not estimate distance or pace, so the same one-minute-on/one-minute-off covers very different distances at different paces. It also cannot judge whether that ratio suits your fitness, injury status or training phase.
+
+Do not use it as an intensity prescription, a return-to-running clearance or a race time prediction; with pain, illness or cardiovascular risk, consult a qualified medical or sports professional. This tool is not medical advice.
+
+## Related reading
+
+- [The long run: distance, pace and execution](https://learn.paobu.org/en/articles/long-run/)
+- [Return to running: stages and gates](https://learn.paobu.org/en/articles/return-to-running/)
+- [What easy running really means](https://learn.paobu.org/en/articles/easy-run/)
 
 ## Privacy and data
 
-All calculations happen locally in your browser; inputs are not sent to an application database and no account is required. To restore inputs after a refresh and to support sharing, values are written into the page URL query string. Opening or refreshing that URL sends it to the static host and leaves it in browser history. File contents are never written into the URL. Clear the address-bar parameters after using a shared device.
+All calculations happen locally; no account is required. Inputs are written into the page URL query string so they survive a refresh and can be shared. Opening that URL sends it to the static host and leaves it in browser history. Clear the address-bar parameters after using a shared device.
 
 ## Sources and scope
 
-The run-walk structure follows the NHS Couch to 5K beginner plan page. That source documents a public example of alternating short runs and walks; it is not a training recommendation for a particular person. This article and tool were checked on 2026-10-27. If you feel unwell, are injured or have cardiovascular risk factors, consult a qualified medical or sports professional.
+The run-walk structure follows the NHS Couch to 5K beginner plan, which starts with one-minute runs and 1.5-minute walks. The source illustrates a public format; it is not copied as a prescription and no ratio is claimed to suit everyone. Effort can be judged with the CDC talk test. Verified 2026-11-06.

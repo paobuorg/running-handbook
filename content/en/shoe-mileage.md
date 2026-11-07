@@ -1,9 +1,9 @@
 ---
 entityId: tool:shoe-mileage
 locale: en
-title: "Shoe mileage log: manage training-shoe use locally"
-summary: "Record each shoe's starting mileage, run distances and a user-set reminder. The tool only totals local data; it does not claim a universal replacement mileage and never uploads the log."
-aliases: ["Shoe mileage log: manage training-shoe use locally"]
+title: "Shoe mileage log: track training-shoe distance locally"
+summary: "Record each shoe's starting distance, every run and a personal reminder distance. Totals stay in local storage, with no claim of a universal replacement mileage and no upload."
+aliases: ["shoe mileage", "shoe tracker", "running shoe log"]
 authors:
   - runmap-editorial
 reviewers:
@@ -11,34 +11,66 @@ reviewers:
 translationStatus: reviewed
 ---
 
-## What to record
+## What this tool records
 
-Give each pair a name, enter any distance already on it (use 0 if new) and the mileage at which you want a reminder. After each run, record the date, shoe and distance. The tool totals mileage, run count, distance remaining to the reminder and reminder progress.
+Give each shoe a name, enter the distance already on it at purchase (zero if unknown) and the distance at which you want a reminder. After each run, log the date, shoe and distance; the tool totals accumulated distance, run count, distance remaining to the reminder and reminder progress. It is for runners rotating several pairs who want to see actual usage per shoe. It does not recommend brands or models, decide that a shoe is worn out, or diagnose foot or lower-limb pain. The reminder is your own management value, not a manufacturer recommendation or a medical lifespan line.
 
-The reminder is your own setting, not a manufacturer recommendation or a “replace at this number” lifespan. Foam, outsole, body weight, surface and training style all affect wear.
+## Calculation rules and formula
 
-## A reminder is not a lifespan
+- Total distance = starting distance + the sum of logged run distances for that shoe.
+- Remaining distance = max(0, reminder distance − total distance).
+- Reminder progress = total distance ÷ reminder distance × 100.
+- Run count = number of logged runs for that shoe.
+- Last run date = the latest date among that shoe's records.
 
-There is no universal replacement mileage for running shoes. Worn-through outsole, collapsed foam, a torn upper, markedly asymmetric wear or new pain are more useful signals than a single number. Treat the reminder as a prompt to inspect the shoe, not an automatic replacement order.
+| Input | Calculation | Output |
+| --- | --- | --- |
+| Starting 100 km, runs of 10 and 5 km | 100 + 10 + 5 | 115 km |
+| Reminder 600 km | max(0, 600 − 115) | 485 km |
+| Same | 115 ÷ 600 × 100 | 19.2% |
+| Two records | Count | 2 runs, latest date shown |
 
-Rotating several pairs may spread wear, but neither “always rotate” nor “always use one pair” is supported for everyone. Logging a few pairs helps you see which shoe feels better on which surface and distance.
+Everything is calculated locally from your records; no location, track or health data is read.
 
-## Local data and privacy
+## Worked example
 
-Records are stored in this browser's localStorage. They are not uploaded to a server and no account is required. Clearing browser data, changing devices or using a private window can remove the log; back it up yourself if it matters.
+Assume a daily trainer starts at 100 km with a 600 km reminder and logs 10 km then 5 km: total 115 km, 485 km remaining, progress 115 ÷ 600 × 100 = 19.166…%, shown 19.2%, two runs, latest date 2026-10-28.
 
-The tool does not read location, track files or health data. It stores only shoe names, dates and distances. Do not put addresses, names or other sensitive information in a shoe name.
+A trail shoe starts at 210.5 km with an 800 km reminder and logs 12.4, 8.6 and 15.0 km: total 246.5 km, 553.5 km remaining, progress 30.8125% shown 30.8%, three runs. Independent arithmetic produced both examples.
 
-## When to inspect or replace
+## Rounding and tolerance
 
-Check the outsole, toe box and upper after long runs. Consider replacement when grip falls clearly, foam loses resilience, the upper tears or the shoe keeps causing discomfort. New shoes still need gradual adaptation; do not wear them for the first time on race day.
+Total and remaining distance keep one decimal with a ±0.05 km tolerance. Reminder progress keeps one decimal with ±0.05 percentage points. Run count is an integer with no tolerance. Single-run distances also keep one decimal, so rounding can accumulate over many entries; check the total against a longer record if precision matters.
 
-If pain persists, or you notice swelling, numbness or a change in gait, stop the relevant training and seek medical or sports-professional assessment; a new shoe may not fix load or technique issues.
+## Reading the result
 
-## Tool limits
+Total distance shows how much a shoe has carried, and progress shows how far it is from your own checkpoint. It does not show remaining life: worn outsole, collapsed foam, a torn upper, asymmetric wear or a new pain matter more than any number. Reaching the reminder is a signal to inspect, not an order to replace. The tool does not automatically allocate runs across a rotation or decide which shoe a session needs.
 
-This tool does not recommend brands or models, decide whether a shoe is “dead” or diagnose foot or lower-limb pain. The reminder is a personal management value.
+## How to use it
+
+1. Add each shoe with a name, starting distance and reminder distance; use zero when the starting distance is unknown.
+2. Log date, shoe and distance after each run, and check that the total and run count match expectations.
+3. Near 100% progress, inspect outsole, foam, upper and how the shoe feels before continuing, demoting it to short runs or replacing it.
+
+## Limits and when not to use it
+
+The reminder is a user preference, not manufacturer or medical advice. Only distances entered in this browser are counted, and records stay local. A log cannot replace inspecting outsole, foam, upper and comfort, and the tool does not track rotation automatically. It is not suitable for recommending brands, declaring a shoe worn out or diagnosing pain, nor for treating mileage as causal evidence of injury. If pain persists, or there is swelling, numbness or a gait change, stop the relevant training and seek qualified medical or sports assessment.
+
+## When this number misleads you
+
+Mileage is only the distance you typed in, and the reminder threshold is your own preference. One missed long run, or logging walks and rides, immediately distorts the remaining kilometres; if rotation is not logged per shoe, two pairs share a single wrong total. Foam, outsole and load tolerance differ so much between models that the same 800 km can be the end of one shoe and early for another.
+
+Do not use it to decide a shoe is finished, to diagnose pain, to recommend a brand, or as causal evidence about injury risk. Outsole wear, foam collapse and comfort need a physical check.
+
+## Related reading
+
+- [Choosing running shoes: fit, cushioning and use](https://learn.paobu.org/en/articles/running-shoes/)
+- [Shoe technology: plates, foams and evidence](https://learn.paobu.org/en/articles/shoe-technology/)
+
+## Privacy and data
+
+Records are kept in this browser's localStorage, not uploaded and not tied to an account. Clearing browser data, switching devices or using a private window removes them; export or back them up if they matter. Only shoe names, dates and distances are stored, so avoid addresses, names or other sensitive details in shoe names.
 
 ## Sources and scope
 
-Shoe comfort and injury associations follow a secondary analysis; shoe, pain and help-seeking advice follows the NHS; carbon-plate and advanced-footwear evidence follows a systematic review. The tool only totals local records and does not guarantee shoe lifespan or safety.
+Shoe comfort and injury associations follow a secondary analysis; shoe, pain and care guidance follows the NHS; the evidence limits of carbon plates and advanced footwear follow a systematic review. The tool only totals locally and guarantees neither shoe lifespan nor safety. Verified 2026-11-06.

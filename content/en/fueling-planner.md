@@ -1,9 +1,9 @@
 ---
 entityId: tool:fueling-planner
 locale: en
-title: "Race fueling planner: estimate carbohydrate by hour"
-summary: "Use planned duration and carbohydrate per serving to get a 30–60 g/h planning range, total amount and serving count. It does not calculate fluid and does not replace testing in training."
-aliases: ["Race fueling planner: estimate carbohydrate by hour"]
+title: "Race fuelling plan: estimate carbohydrate by the hour"
+summary: "From planned duration and carbohydrate per serving, return a 30–60 g/h planning range, totals and servings. It does not calculate fluid and does not replace testing in training."
+aliases: ["fuelling planner", "carbohydrate plan", "race fuel"]
 authors:
   - runmap-editorial
 reviewers:
@@ -13,32 +13,70 @@ translationStatus: reviewed
 
 ## What this tool calculates
 
-Enter the planned exercise duration and the carbohydrate grams in one serving (gel, drink or food). The tool uses a 30–60 g/h planning range to estimate total carbohydrate, serving count and a rough distribution. Sessions under 60 minutes do not automatically add carbohydrate, so fueling does not become a task with no purpose.
+Enter a planned exercise duration and the carbohydrate grams in one serving of gel, drink or food. The tool uses a 30–60 g/h planning range to estimate total carbohydrate, servings and a rough distribution rhythm. It is for runners preparing fuel for a long session and for coaches checking a carry plan. Sessions under 60 minutes do not add carbohydrate. It is not an individual prescription and does not calculate fluid or sodium. If you have diabetes, a gastrointestinal condition, are pregnant, have a history of eating disorders or take medication, consult a clinician or dietitian rather than adopting the output directly.
 
-The plan is a starting point, not a race-day prescription. Intensity, weather, gut tolerance and training habits all change what is practical at the same duration.
+## Calculation rules and formula
 
-## The 30–60 g/h range
+For sessions of at least 60 minutes, plan 30 to 60 grams of carbohydrate per hour:
 
-The ISSN nutrient-timing position stand describes about 30–60 g of carbohydrate per hour for extended high-intensity exercise beyond 60 minutes, taken as a 6–8% carbohydrate-electrolyte solution every 10–15 minutes. That range is useful for planning, not a rule that everyone must reach the top end.
+- Duration hours = planned minutes ÷ 60.
+- Low total = 30 × duration hours.
+- High total = 60 × duration hours.
+- Low servings = ⌈low total ÷ carbohydrate per serving⌉.
+- High servings = ⌈high total ÷ carbohydrate per serving⌉.
+- Under 60 minutes: totals and servings are both zero.
 
-If a product label says something other than 25 g, enter the actual label value. Servings are rounded up so you carry enough; the distribution still needs adjustment in training. Higher intakes are not the tool's default recommendation, especially without practice.
+| Input | Calculation | Output | Use |
+| --- | --- | --- | --- |
+| 90 minutes, 25 g per serving | 1.5 hours × 30/60 | 45–90 g | Planned total |
+| Same | 45÷25 and 90÷25, rounded up | 2–4 servings | Carry count |
+| 45 minutes | Under 60 minutes | 0 g, 0 servings | No added carbohydrate |
+| 180 minutes, 30 g per serving | 3 hours × 30/60 | 90–180 g | Long-session total |
 
-## Fluid is a separate plan
+Servings round up so you carry enough; actual intake still needs adjustment in training.
 
-This tool estimates carbohydrate only, not fluid or sodium. Sweat rate varies with body size, weather, intensity, clothing and the individual; a fixed litre target easily misleads. Use the hydration guidance with thirst, urine colour, pre/post-run weight change and aid-station spacing.
+## Worked example
 
-Do not try a new gel, drink, salt tablet or concentrated formula for the first time on race day. Test it in training at similar intensity and duration, and record gut comfort and energy.
+- 90 minutes at 25 g per serving: 1.5 hours, low 30 × 1.5 = 45 g, high 60 × 1.5 = 90 g; servings 45 ÷ 25 = 1.8 → 2 and 90 ÷ 25 = 3.6 → 4.
+- 45 minutes at 25 g per serving: under 60 minutes, so 0 g and 0 servings.
+- 180 minutes at 30 g per serving: 3 hours, 90 g and 180 g, with 3 and 6 servings.
 
-## Using the result
+These values follow independent arithmetic and can be repeated from a product label.
 
-Split the total across aid stations or carried servings, and set a simple reminder such as a small amount every 20–30 minutes; do not wait for obvious hunger or fatigue. For long or trail races, carry one extra portion and check whether you can carry enough fluid and food between stations.
+## Rounding and tolerance
 
-If the plan causes bloating, nausea, frequent stops or energy swings, reduce concentration or portion size before changing products. Persistent gut problems deserve advice from a sports-nutrition or medical professional.
+Total carbohydrate is reported in whole grams with a ±0.5-gram tolerance. Servings round up to a whole serving, so the count can only be higher than the exact value, never lower. Duration is reported in hours to two decimals with a ±0.005-hour (about ±18-second) tolerance. Rounding up can exceed the high total: four servings at 25 g is 100 g, above the 90 g planning upper bound. That is a carry margin, not an instruction to eat everything.
 
-## Tool limits
+## Reading the result
 
-This tool does not provide an individual nutrition prescription, therapeutic diet, fluid target or medical clearance. People with diabetes, gastrointestinal disease, pregnancy, a history of disordered eating or medication use should discuss the plan with a clinician or registered dietitian.
+The totals and servings describe what to prepare, not what must be consumed. Actual intake depends on intensity, weather, gastrointestinal tolerance and training habits. Heat or high intensity may raise demand, while poor tolerance calls for lower concentration or smaller servings. The upper serving count is a carry reference, not a race-day prescription. Fluid, sodium, calories and blood-glucose response are not estimated.
+
+## How to use it
+
+1. Enter the planned duration (10 to 1,440 minutes) and carbohydrate grams per serving from the label (5 to 100 g).
+2. Read the low and high totals and servings, then distribute them across the aid stations.
+3. Trial the same products at a similar intensity and duration in training, note gastrointestinal response, and adjust race-day amounts.
+
+## Limits and when not to use it
+
+The 30–60 g/h range is planning guidance, not an individual prescription. Carbohydrate per serving must come from the label, because gels and drinks vary. Fluid and sodium are excluded because sweat rate and conditions vary widely. The plan must be tested in training and adjusted for tolerance, duration and intensity. The tool is not suitable for disease-specific diets or cases needing a dietitian.
+
+## When this number misleads you
+
+The 30–60 g/h range assumes each serving's carbohydrate is read accurately from the label. A 22 g gel and a 40 g gel are nearly a factor of two apart at the same "two servings per hour", and the tool will not check the packets for you. Beyond about three hours, the top of the 30–60 g/h band may be too low for some runners; going higher depends on multiple-transportable carbohydrate products and a gut already tested in training. The site's knowledge article only gives the general 30–60 g/h range, and the tool does not decide your individual ceiling. Conversely, if gastric emptying cannot keep up, the carbohydrate on the plan does not become available energy.
+
+Do not use it as an individual fluid or sodium prescription, or to diagnose gastrointestinal disease, hypoglycaemia or dehydration. It is a starting draft that must be tested in training before race day, and it is not medical or dietetic advice.
+
+## Related reading
+
+- [Long-run fuelling: from practice to race day](https://learn.paobu.org/en/articles/long-run-fueling/)
+- [Hydration: how much and when](https://learn.paobu.org/en/articles/hydration/)
+- [Race-day fuelling: take what you have already tested](https://learn.paobu.org/en/articles/race-day-fueling/)
+
+## Privacy and data
+
+All calculations happen locally; no account is required. Inputs are written into the page URL query string so they survive a refresh and can be shared. Opening that URL sends it to the static host and leaves it in browser history. Clear the address-bar parameters after using a shared device.
 
 ## Sources and scope
 
-Carbohydrate ranges follow the ISSN nutrient-timing position stand; everyday and exercise hydration guidance follows the NHS. The tool uses a conservative 30–60 g/h planning range and does not cover every sport, climate or individual.
+The carbohydrate range follows the ISSN carbohydrate and nutrient-timing position stands; hydration guidance follows the NHS; the relationship between duration and intensity can be read with the CDC intensity description. The tool uses a conservative 30–60 g/h range and does not replace sports-nutrition or medical assessment. Verified 2026-11-06.

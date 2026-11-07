@@ -1,9 +1,9 @@
 ---
 entityId: tool:track-view
 locale: en
-title: "Track viewer: read your GPX and GeoJSON"
-summary: Inspect a track's point count, start and end, distance and available elevation locally in your browser, without uploading the file. Missing elevation is shown as unknown, never filled with zero.
-aliases: ["track viewer", "GPX viewer", "elevation view"]
+title: "Track viewer: read your GPX and GeoJSON locally"
+summary: "Inspect point count, endpoints, distance and existing elevation for a track in your browser without uploading the file. Missing elevation is shown as unknown, never filled with zero."
+aliases: ["track viewer", "GPX viewer", "elevation check"]
 authors:
   - runmap-editorial
 reviewers:
@@ -11,49 +11,66 @@ reviewers:
 translationStatus: reviewed
 ---
 
-## What the tool does
+## What this tool answers
 
-The track viewer reads a GPX or GeoJSON file you select and performs parsing and statistics locally. It shows:
+The viewer reads a GPX or GeoJSON file you choose, parses and totals it locally, and shows the number of coordinates, the WGS84 geodesic distance along the ordered points, the start and end coordinates, and elevation gain when the file contains elevation. It is for runners checking an activity export, confirming that a file is complete, or getting a rough length. It does not judge pace, compare a track with an official course, or certify the track. If you need to simplify points, convert formats or analyse grades, use the dedicated tools.
 
-- The number of coordinate points.
-- The WGS84 geodesic distance when the points are connected in order.
-- The latitude and longitude of the start and end.
-- Cumulative elevation gain if the file contains elevation; otherwise it clearly marks it as unknown.
+## Calculation rules and file handling
 
-It does not judge your pace, compare the track against an official race course, or claim that the track has been authoritatively verified.
+| Measure | Rule | When elevation is missing |
+| --- | --- | --- |
+| Point count | Sum of coordinates in all segments | Unaffected |
+| Distance | Sum of WGS84 geodesic distances between consecutive points per segment | Unaffected |
+| Start and end | First point of the first segment, last point of the last segment | Unaffected |
+| Elevation gain | Sum of positive elevation differences | Unknown, never zero |
+| Segments | Each trkseg/rte or LineString is measured separately; endpoints are not joined | Unaffected |
 
-## Supported files
+- **GPX 1.1**: read track points (trkpt); fall back to route points (rtept) when no trkseg exists.
+- **GeoJSON**: read LineString coordinates in longitude, latitude order, with optional elevation.
+- Points and polygons are not treated as a route; files are limited to 20 MB and 200,000 coordinates.
+- Distance is an ellipsoidal geodesic sum, not a flat Pythagorean approximation, and no smoothing or correction is applied.
 
-- **GPX 1.1**: reads track points (trkpt) first; if there is no trkseg, it reads route points (rtept). Separate segments are measured individually; their endpoints are not joined.
-- **GeoJSON**: reads LineString coordinates. Coordinate order is longitude, latitude, with optional elevation.
+## Worked example
 
-Other geometry types, such as point collections or polygons, are not silently treated as a running line. Files are limited to 20 MB and 200,000 coordinate points. The tool explains in its warnings what it could not parse.
+- Three points along the equator from longitude 0 to 0.02, no elevation: about 2,226.39 metres, displayed 2,226 m; point count 3; elevation gain unknown.
+- Three points from longitude 0 to 0.002 with elevations 10, 20 and 15 metres: about 222.64 metres, displayed 223 m; positive gain 10 m.
+- A file with two separate segments: each segment is summed independently; a nearby end and next start are not joined into extra distance.
 
-## Distance and elevation conventions
+These values follow independent WGS84 arithmetic and can be repeated with a geodesic calculator.
 
-Distance is the sum of WGS84 ellipsoidal geodesic distances between consecutive points. It is not planar Pythagoras, and the tool does no smoothing, simplification or drift correction. GPS noise, tunnels and signal loss all affect the result, so the distance is informational, not a certified course measurement.
+## Rounding and tolerance
 
-Cumulative gain is the sum of positive changes between consecutive elevations. If the file has no elevation at all, gain is unknown and must not be written as 0 — zero reads as "flat throughout". If only some points have elevation, the tool warns and explains what the calculation covers.
+Distance and elevation gain are rounded to the nearest whole metre with a ±0.5-metre tolerance. Point and segment counts are integers with no tolerance. Coordinates keep the precision stored in the file. Whole-metre display does not mean one-metre measurement accuracy: GPS noise, tunnels and signal loss can exceed it, and jumps are not corrected.
 
-## Privacy
+## Reading the result
 
-The file is read in your browser only. It is not uploaded to this site's server or written to server logs, and its contents are not retained after a refresh. Do not open files containing a home address on a shared computer; if you share a track, remove private locations near the start and unnecessary timestamps first.
+The tool answers how many points a file has, where it starts and ends, roughly how long it is, and how much climbing it contains when elevation exists. It cannot answer the certified course distance, race-day access, surface safety or whether your pace was sensible. “Unknown” elevation means the file has no usable elevation, not a flat route. When only some points carry elevation, the tool warns instead of filling zeros, because that would undercount gain.
 
-## Questions it can and cannot answer
+## How to use it
 
-It can tell you how many points a file has, where it starts and ends, roughly how long it is, and the cumulative gain when elevation exists.
+1. Export GPX or GeoJSON from the watch or app and confirm it is line geometry, not points or polygons.
+2. Open the file locally and read point count, distance, endpoints and elevation gain; check the point count against the original export.
+3. If elevation is unknown, check whether the device recorded altitude; if you need grades or a profile, use the elevation analysis tool.
 
-It cannot tell you the official certified distance of a course, whether the route is open on race day, whether the surface is safe, or whether your pace is appropriate. A GPX file is a sequence of coordinates; it carries no race rules, access permission or live conditions.
+## Limits and when not to use it
 
-To turn a track into pace segments, use the [split table](/en/tools/splits/). To understand training load, combine your logs and recovery, not a single track.
+Coordinates are understood as WGS84 longitude and latitude. Only GPX tracks/routes and GeoJSON LineStrings are supported. The file stays in the browser and is not uploaded. GPS noise and gaps are not corrected, and distance is informational rather than a certified measurement. Files above 20 MB or 200,000 points are rejected. The tool is not suitable for deciding whether a course is official, permitted or safe, or for treating a track as proof of a race result.
 
-## Verification cases
+## When this number misleads you
 
-- A three-point track from longitude 0 to 0.02 degrees on the equator with no elevation: about 2226.3898 metres, rounded to 2226 m; 3 points; elevation gain unknown.
-- A three-point track from longitude 0 to 0.002 degrees with elevations 10, 20 and 15 m: about 222.639 metres, rounded to 223 m; positive gain 10 m.
+Coordinates are read as WGS84, and only GPX tracks/routes and GeoJSON LineStrings are supported; separate segments are never joined, so a multi-segment file understates total distance. GPS noise and gaps are not corrected, and in urban canyons, forest or multipath settings the distance error accumulates; elevation noise also makes gain jump. Files over 20 MB or 200,000 points are rejected.
 
-Both cases were checked by independent WGS84 arithmetic.
+Do not use it to decide whether a course is official, permitted or safe, and do not treat a track as evidence of a result or a finish.
+
+## Related reading
+
+- [Trail navigation: tracks, maps and backups](https://learn.paobu.org/en/articles/trail-navigation/)
+- [Route safety: plan, weather and escape route](https://learn.paobu.org/en/articles/route-safety/)
+
+## Privacy and data
+
+The file is read only in your browser, not uploaded to this site's server and not written to server logs. File contents are not retained after a refresh. Do not open files that reveal a home address on a shared computer; remove private locations near the start before sharing a track.
 
 ## Sources and scope
 
-File formats follow the GPX 1.1 specification and RFC 7946. This article and tool were checked on 2026-10-27.
+File formats follow the GPX 1.1 specification and RFC 7946 GeoJSON; distance handling follows the WGS84 ellipsoid. The tool only totals locally and does not certify a route or guarantee device accuracy. Verified 2026-11-06.
