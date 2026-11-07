@@ -4,10 +4,17 @@
   "url": "https://doi.org/10.3138/FM57-6770-U75U-7727",
   "publisher": "Cartographica",
   "publishedAt": null,
-  "accessedAt": "2026-10-26",
+  "accessedAt": "2026-11-07",
   "claims": [
     "The Douglas–Peucker procedure approximates a polyline by retaining points that lie beyond a chosen tolerance from a chord.",
     "Endpoints are retained and the approximation is refined iteratively between retained points."
   ],
-  "license": null
+  "license": null,
+  "verification": {
+    "access": "metadata-only",
+    "bodyRead": false,
+    "checkedAt": "2026-11-07",
+    "checkedVia": "WebFetch",
+    "note": "仅读到摘要；全文需付费。"
+  }
 }
