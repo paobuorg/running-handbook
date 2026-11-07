@@ -15,13 +15,13 @@
   ],
   "license": "CC-BY-4.0",
   "createdAt": "2026-10-28",
-  "updatedAt": "2026-10-28",
-  "reviewedAt": "2026-10-28",
+  "updatedAt": "2026-11-07",
+  "reviewedAt": "2026-11-06",
   "reviewDueAt": "2027-10-28",
   "translations": [],
   "details": {
     "toolId": "tool:shoe-mileage",
-    "specVersion": "1.0.0",
+    "specVersion": "1.1.0",
     "inputs": [
       {
         "name": "shoe",
@@ -86,7 +86,7 @@
         }
       }
     ],
-    "formulaDescription": "totalKm = initialKm + sum of logged run distances for that shoe. remainingKm = max(0, reminderKm - totalKm). percentOfReminder = totalKm / reminderKm × 100. The reminder is chosen by the user; the tool does not infer a universal replacement mileage.",
+    "formulaDescription": "totalKm = initialKm + the sum of logged run distances for that shoe. remainingKm = max(0, reminderKm − totalKm). percentOfReminder = totalKm / reminderKm × 100 when reminderKm is greater than zero. Total distance is rounded to one decimal place in kilometres and the percentage to one decimal place. The reminder distance is chosen by the user; the tool never infers a universal replacement mileage.",
     "assumptions": [
       "The reminder distance is a user preference, not a manufacturer or medical recommendation.",
       "Only distances entered in this browser are counted; the data is stored locally.",
@@ -95,7 +95,8 @@
     ],
     "rounding": "Distances to one decimal place in kilometres; percentage to one decimal place.",
     "caseRefs": [
-      "case-shoe-mileage-summary"
+      "case-shoe-mileage-summary",
+      "case-shoe-mileage-trail"
     ]
   }
 }

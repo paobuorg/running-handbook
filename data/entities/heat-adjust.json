@@ -1,0 +1,148 @@
+{
+  "entityId": "tool:heat-adjust",
+  "slug": "heat-adjust",
+  "kind": "tool",
+  "status": "published",
+  "riskLevel": "general",
+  "sourceRefs": [
+    "knowledge-nws-heat-illness",
+    "knowledge-nhs-hydration",
+    "knowledge-cdc-intensity"
+  ],
+  "relatedRefs": [
+    "knowledge:heat-and-humidity",
+    "knowledge:hydration",
+    "tool:race-checklist"
+  ],
+  "license": "CC-BY-4.0",
+  "createdAt": "2026-11-06",
+  "updatedAt": "2026-11-07",
+  "reviewedAt": "2026-11-06",
+  "reviewDueAt": "2027-11-06",
+  "translations": [],
+  "details": {
+    "toolId": "tool:heat-adjust",
+    "specVersion": "1.0.0",
+    "inputs": [
+      {
+        "name": "temperatureC",
+        "type": "number",
+        "unit": "°C",
+        "required": true,
+        "minimum": -20,
+        "maximum": 50,
+        "labels": {
+          "zh-CN": "气温（摄氏度）",
+          "en": "Temperature (°C)"
+        }
+      },
+      {
+        "name": "relativeHumidityPercent",
+        "type": "number",
+        "unit": "%",
+        "required": true,
+        "minimum": 0,
+        "maximum": 100,
+        "labels": {
+          "zh-CN": "相对湿度（%）",
+          "en": "Relative humidity (%)"
+        }
+      },
+      {
+        "name": "baselinePaceSecondsPerKm",
+        "type": "number",
+        "unit": "s/km",
+        "required": true,
+        "minimum": 0,
+        "labels": {
+          "zh-CN": "基准配速（秒/公里）",
+          "en": "Baseline pace (seconds per km)"
+        }
+      },
+      {
+        "name": "durationMinutes",
+        "type": "number",
+        "unit": "min",
+        "required": true,
+        "minimum": 0,
+        "labels": {
+          "zh-CN": "预计时长（分钟）",
+          "en": "Planned duration (minutes)"
+        }
+      }
+    ],
+    "outputs": [
+      {
+        "name": "heatScore",
+        "type": "number",
+        "unit": "score",
+        "required": true,
+        "labels": {
+          "zh-CN": "热负荷分",
+          "en": "Heat score"
+        }
+      },
+      {
+        "name": "adjustedPaceLowSeconds",
+        "type": "number",
+        "unit": "s/km",
+        "required": true,
+        "labels": {
+          "zh-CN": "调整后配速下限",
+          "en": "Adjusted pace low"
+        }
+      },
+      {
+        "name": "adjustedPaceHighSeconds",
+        "type": "number",
+        "unit": "s/km",
+        "required": true,
+        "labels": {
+          "zh-CN": "调整后配速上限",
+          "en": "Adjusted pace high"
+        }
+      },
+      {
+        "name": "band",
+        "type": "enum",
+        "unit": null,
+        "required": true,
+        "enumValues": [
+          "cool",
+          "moderate",
+          "hot",
+          "very-hot",
+          "extreme"
+        ],
+        "labels": {
+          "zh-CN": "冷热区间",
+          "en": "Heat band"
+        }
+      },
+      {
+        "name": "note",
+        "type": "string",
+        "unit": null,
+        "required": true,
+        "labels": {
+          "zh-CN": "文字说明与停止信号",
+          "en": "Plain-language note and stop signals"
+        }
+      }
+    ],
+    "formulaDescription": "heatScore = temperatureC + 0.04 × relativeHumidityPercent, rounded to one decimal. Bands: below 10 cool, 10 to below 18 moderate, 18 to below 24 hot, 24 to below 30 very hot, 30 or above extreme. Each band maps to an experience-based slowdown range: cool 0-2%, moderate 2-5%, hot 5-8%, very hot 7-10%, extreme 10-12%. adjustedPaceLowSeconds = round(baselinePaceSecondsPerKm × (1 + lowPercent / 100)) and adjustedPaceHighSeconds = round(baselinePaceSecondsPerKm × (1 + highPercent / 100)). Duration is recorded as exposure context and does not change the percentages.",
+    "assumptions": [
+      "The heat score is a simple monotonic weighted sum of temperature and humidity, not an official heat-index formula.",
+      "The slowdown percentages are an experience-based range, not an official conversion or a prediction of individual performance.",
+      "Baseline pace is a flat, mild-weather aerobic pace; a hilly or altitude course needs separate adjustment.",
+      "Relative humidity is the value at the planned running time and is assumed constant for the session.",
+      "Duration is used as exposure context only; longer sessions should use the upper end of the range and extra caution.",
+      "The tool does not provide medical advice; heat-illness symptoms require stopping and, for emergencies, calling emergency services."
+    ],
+    "rounding": "Heat score to one decimal place; adjusted pace low and high to the nearest whole second per kilometre; percentages are integers; the note is text and is not rounded.",
+    "caseRefs": [
+      "case-heat-adjust-very-hot",
+      "case-heat-adjust-boundary"
+    ]
+  }
+}

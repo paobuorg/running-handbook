@@ -16,13 +16,13 @@
   ],
   "license": "CC-BY-4.0",
   "createdAt": "2026-10-26",
-  "updatedAt": "2026-10-28",
-  "reviewedAt": "2026-10-28",
+  "updatedAt": "2026-11-07",
+  "reviewedAt": "2026-11-06",
   "reviewDueAt": "2027-10-28",
   "translations": [],
   "details": {
     "toolId": "tool:track-simplify",
-    "specVersion": "1.0.0",
+    "specVersion": "1.1.0",
     "inputs": [
       {
         "name": "trackFile",
@@ -127,12 +127,12 @@
       "Simplification removes points, including their elevation values; retained points keep their original coordinates and elevation.",
       "The simplified file is a new download. The original file is never modified or overwritten.",
       "Input files are limited to 20 MB and 200,000 coordinate points; larger files are rejected before simplification.",
-      "Input files are limited to 20 MB and 200,000 coordinate points; larger files are rejected before processing.",
       "The page starts with a 10 m tolerance, but the value is required and must be between 1 and 100 m."
     ],
     "rounding": "Tolerance is used as entered (1 to 100 metres); point counts are whole numbers; distances are reported to the nearest whole metre; retained coordinates are not rounded by the tool.",
     "caseRefs": [
-      "case-track-simplify-offset"
+      "case-track-simplify-offset",
+      "case-track-simplify-keep"
     ]
   }
 }

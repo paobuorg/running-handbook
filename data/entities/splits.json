@@ -5,7 +5,8 @@
   "status": "published",
   "riskLevel": "general",
   "sourceRefs": [
-    "tool-world-athletics-marathon"
+    "tool-world-athletics-marathon",
+    "knowledge-cdc-intensity"
   ],
   "relatedRefs": [
     "tool:pace",
@@ -13,13 +14,13 @@
   ],
   "license": "CC-BY-4.0",
   "createdAt": "2026-10-26",
-  "updatedAt": "2026-10-28",
-  "reviewedAt": "2026-10-28",
+  "updatedAt": "2026-11-07",
+  "reviewedAt": "2026-11-06",
   "reviewDueAt": "2027-10-28",
   "translations": [],
   "details": {
     "toolId": "tool:splits",
-    "specVersion": "1.1.0",
+    "specVersion": "1.2.0",
     "inputs": [
       {
         "name": "totalDistance",

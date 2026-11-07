@@ -1,0 +1,161 @@
+{
+  "entityId": "tool:injury-risk-check",
+  "slug": "injury-risk-check",
+  "kind": "tool",
+  "status": "published",
+  "riskLevel": "general",
+  "sourceRefs": [
+    "knowledge-running-injury-review",
+    "knowledge-nhs-running-injuries",
+    "knowledge-overtraining-guide"
+  ],
+  "relatedRefs": [
+    "knowledge:pain-and-load",
+    "knowledge:return-to-running",
+    "tool:run-walk"
+  ],
+  "license": "CC-BY-4.0",
+  "createdAt": "2026-11-06",
+  "updatedAt": "2026-11-07",
+  "reviewedAt": "2026-11-06",
+  "reviewDueAt": "2027-11-06",
+  "translations": [],
+  "details": {
+    "toolId": "tool:injury-risk-check",
+    "specVersion": "1.0.0",
+    "inputs": [
+      {
+        "name": "painDuringRun",
+        "type": "boolean",
+        "unit": null,
+        "required": true,
+        "labels": {
+          "zh-CN": "跑步时疼痛",
+          "en": "Pain during running"
+        }
+      },
+      {
+        "name": "painAtRestOrWalking",
+        "type": "boolean",
+        "unit": null,
+        "required": true,
+        "labels": {
+          "zh-CN": "休息或走路时疼痛",
+          "en": "Pain at rest or while walking"
+        }
+      },
+      {
+        "name": "swelling",
+        "type": "boolean",
+        "unit": null,
+        "required": true,
+        "labels": {
+          "zh-CN": "肿胀",
+          "en": "Swelling"
+        }
+      },
+      {
+        "name": "nightOrMorningPain",
+        "type": "boolean",
+        "unit": null,
+        "required": true,
+        "labels": {
+          "zh-CN": "夜间或晨起疼痛",
+          "en": "Night or morning pain"
+        }
+      },
+      {
+        "name": "weeklyVolumeChangePercent",
+        "type": "number",
+        "unit": "%",
+        "required": true,
+        "labels": {
+          "zh-CN": "近一周跑量变化（%）",
+          "en": "Volume change in the past week (%)"
+        }
+      },
+      {
+        "name": "sleepHours",
+        "type": "number",
+        "unit": "h",
+        "required": true,
+        "minimum": 0,
+        "maximum": 24,
+        "labels": {
+          "zh-CN": "最近睡眠（小时/晚）",
+          "en": "Recent sleep (hours per night)"
+        }
+      },
+      {
+        "name": "priorInjurySameArea",
+        "type": "boolean",
+        "unit": null,
+        "required": true,
+        "labels": {
+          "zh-CN": "同一部位曾经受伤",
+          "en": "Prior injury in the same area"
+        }
+      }
+    ],
+    "outputs": [
+      {
+        "name": "score",
+        "type": "number",
+        "unit": "points",
+        "required": true,
+        "labels": {
+          "zh-CN": "自查分数",
+          "en": "Self-check score"
+        }
+      },
+      {
+        "name": "band",
+        "type": "enum",
+        "unit": null,
+        "required": true,
+        "enumValues": [
+          "low",
+          "moderate",
+          "high"
+        ],
+        "labels": {
+          "zh-CN": "区间",
+          "en": "Band"
+        }
+      },
+      {
+        "name": "redFlags",
+        "type": "boolean",
+        "unit": null,
+        "required": true,
+        "labels": {
+          "zh-CN": "是否存在红旗信号",
+          "en": "Red flags present"
+        }
+      },
+      {
+        "name": "message",
+        "type": "string",
+        "unit": null,
+        "required": true,
+        "labels": {
+          "zh-CN": "建议文字",
+          "en": "Advice message"
+        }
+      }
+    ],
+    "formulaDescription": "Weighted self-check: painDuringRun 1 point, painAtRestOrWalking 2, swelling 2, nightOrMorningPain 1, weeklyVolumeChangePercent greater than 10 adds 1, sleepHours below 7 adds 1, priorInjurySameArea 1. Bands: 0-2 low, 3-4 moderate, 5 or above high. redFlags is true when painAtRestOrWalking or swelling is true, and the message then starts with a seek-assessment prompt. The score is a heuristic checklist, not a clinical prediction rule.",
+    "assumptions": [
+      "Each question is answered honestly for the current episode, not for a previous one.",
+      "The weights and band cut-offs are an experience-based heuristic; evidence linking volume change and injury is conflicting.",
+      "The 10% weekly volume rule is a common coaching heuristic, not a validated threshold.",
+      "Sleep below 7 hours is treated as one general load factor, not as a cause of injury.",
+      "The check cannot diagnose or rule out injury; pain at rest, pain while walking or swelling needs professional assessment."
+    ],
+    "rounding": "The score is a sum of whole points and needs no rounding; volume change and sleep hours are used only for threshold comparisons; the message is text and is not rounded.",
+    "caseRefs": [
+      "case-injury-risk-low",
+      "case-injury-risk-moderate"
+    ]
+  }
+}

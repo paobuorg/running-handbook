@@ -1,0 +1,148 @@
+{
+  "entityId": "tool:training-load",
+  "slug": "training-load",
+  "kind": "tool",
+  "status": "published",
+  "riskLevel": "general",
+  "sourceRefs": [
+    "knowledge-overtraining-guide",
+    "knowledge-running-injury-review",
+    "knowledge-cdc-adult-activity"
+  ],
+  "relatedRefs": [
+    "knowledge:load-and-overtraining",
+    "knowledge:pain-and-load",
+    "knowledge:training-log"
+  ],
+  "license": "CC-BY-4.0",
+  "createdAt": "2026-11-06",
+  "updatedAt": "2026-11-07",
+  "reviewedAt": "2026-11-06",
+  "reviewDueAt": "2027-11-06",
+  "translations": [],
+  "details": {
+    "toolId": "tool:training-load",
+    "specVersion": "1.0.0",
+    "inputs": [
+      {
+        "name": "weeklyTrainingMinutes",
+        "type": "number",
+        "unit": "min",
+        "required": true,
+        "minimum": 0,
+        "labels": {
+          "zh-CN": "本周训练时间（分钟）",
+          "en": "Training minutes this week"
+        }
+      },
+      {
+        "name": "sessionsPerWeek",
+        "type": "number",
+        "unit": "sessions",
+        "required": true,
+        "minimum": 1,
+        "maximum": 14,
+        "labels": {
+          "zh-CN": "每周训练次数",
+          "en": "Sessions per week"
+        }
+      },
+      {
+        "name": "averageRpe",
+        "type": "number",
+        "unit": "RPE 1-10",
+        "required": true,
+        "minimum": 1,
+        "maximum": 10,
+        "labels": {
+          "zh-CN": "平均主观用力（1–10）",
+          "en": "Average perceived exertion (1–10)"
+        }
+      },
+      {
+        "name": "acuteLoad",
+        "type": "number",
+        "unit": "load units",
+        "required": true,
+        "minimum": 0,
+        "labels": {
+          "zh-CN": "近 7 天负荷",
+          "en": "Load in the last 7 days"
+        }
+      },
+      {
+        "name": "chronicLoad",
+        "type": "number",
+        "unit": "load units",
+        "required": true,
+        "minimum": 0,
+        "labels": {
+          "zh-CN": "28 天平均负荷",
+          "en": "28-day average load"
+        }
+      }
+    ],
+    "outputs": [
+      {
+        "name": "acuteChronicRatio",
+        "type": "number",
+        "unit": "ratio",
+        "required": true,
+        "labels": {
+          "zh-CN": "急慢比（28 天平均为 0 时无值）",
+          "en": "Acute:chronic ratio (no value when the 28-day average is zero)"
+        }
+      },
+      {
+        "name": "weeklyRampPercent",
+        "type": "number",
+        "unit": "%",
+        "required": true,
+        "labels": {
+          "zh-CN": "周变化百分比",
+          "en": "Weekly ramp percent"
+        }
+      },
+      {
+        "name": "band",
+        "type": "enum",
+        "unit": null,
+        "required": true,
+        "enumValues": [
+          "low",
+          "typical",
+          "elevated",
+          "spike",
+          "unknown"
+        ],
+        "labels": {
+          "zh-CN": "负荷区间",
+          "en": "Load band"
+        }
+      },
+      {
+        "name": "note",
+        "type": "string",
+        "unit": null,
+        "required": true,
+        "labels": {
+          "zh-CN": "文字说明",
+          "en": "Plain-language note"
+        }
+      }
+    ],
+    "formulaDescription": "Both loads must use the same session-load method, typically duration in minutes multiplied by a 1-10 perceived-exertion score and summed over the period. When chronicLoad > 0, acuteChronicRatio = acuteLoad / chronicLoad rounded to two decimals, and weeklyRampPercent = (acuteLoad - chronicLoad) / chronicLoad × 100 rounded to one decimal. Bands use the rounded ratio: below 0.8 low, 0.8 to 1.3 inclusive typical, above 1.3 up to 1.5 elevated, above 1.5 spike. When chronicLoad is 0 the ratio and ramp are undefined and the band is unknown. WeeklyTrainingMinutes, sessionsPerWeek and averageRpe are validation and context inputs; they do not alter the ratio.",
+    "assumptions": [
+      "Acute and chronic load use the same session-load formula; mixing methods makes the ratio meaningless.",
+      "The 0.8, 1.3 and 1.5 thresholds are an experience-based heuristic; the evidence linking training load to injury is conflicting.",
+      "The 28-day average is treated as a stable reference even though training patterns change week to week.",
+      "A low ratio may reflect a planned recovery week or incomplete records rather than undertraining.",
+      "The tool does not diagnose overtraining syndrome; persistent fatigue and performance decline need clinical assessment."
+    ],
+    "rounding": "Ratio to two decimal places; weekly ramp percent to one decimal place; the band is assigned from the rounded ratio, so no further tolerance is applied; the note is text and is not rounded.",
+    "caseRefs": [
+      "case-training-load-typical",
+      "case-training-load-boundary"
+    ]
+  }
+}

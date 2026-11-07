@@ -1,0 +1,121 @@
+{
+  "entityId": "tool:grade-adjusted-pace",
+  "slug": "grade-adjusted-pace",
+  "kind": "tool",
+  "status": "published",
+  "riskLevel": "general",
+  "sourceRefs": [
+    "knowledge-minetti-2002"
+  ],
+  "relatedRefs": [
+    "knowledge:uphill-and-downhill",
+    "knowledge:hill-and-mountain-path-basics",
+    "knowledge:race-day-pacing"
+  ],
+  "license": "CC-BY-4.0",
+  "createdAt": "2026-11-07",
+  "updatedAt": "2026-11-07",
+  "reviewedAt": "2026-11-07",
+  "reviewDueAt": "2027-11-07",
+  "translations": [],
+  "details": {
+    "toolId": "tool:grade-adjusted-pace",
+    "specVersion": "1.0.0",
+    "inputs": [
+      {
+        "name": "actualPaceSecondsPerKm",
+        "type": "number",
+        "unit": "s/km",
+        "required": true,
+        "minimum": 0,
+        "labels": {
+          "zh-CN": "实际配速（秒/公里）",
+          "en": "Actual pace (seconds per km)"
+        }
+      },
+      {
+        "name": "gradientPercent",
+        "type": "number",
+        "unit": "%",
+        "required": true,
+        "minimum": -45,
+        "maximum": 45,
+        "labels": {
+          "zh-CN": "坡度（%）",
+          "en": "Gradient (%)"
+        }
+      }
+    ],
+    "outputs": [
+      {
+        "name": "costJoulesPerKgPerM",
+        "type": "number",
+        "unit": "J/kg/m",
+        "required": true,
+        "labels": {
+          "zh-CN": "该坡度的跑步能耗",
+          "en": "Running cost at this gradient"
+        }
+      },
+      {
+        "name": "costRatio",
+        "type": "number",
+        "unit": "ratio",
+        "required": true,
+        "labels": {
+          "zh-CN": "相对平路的能耗倍数",
+          "en": "Cost relative to the flat"
+        }
+      },
+      {
+        "name": "flatEquivalentPaceSeconds",
+        "type": "number",
+        "unit": "s/km",
+        "required": true,
+        "labels": {
+          "zh-CN": "平路等效配速",
+          "en": "Flat-equivalent pace"
+        }
+      },
+      {
+        "name": "direction",
+        "type": "enum",
+        "unit": null,
+        "required": true,
+        "enumValues": [
+          "uphill",
+          "downhill",
+          "flat"
+        ],
+        "labels": {
+          "zh-CN": "方向",
+          "en": "Direction"
+        }
+      },
+      {
+        "name": "note",
+        "type": "string",
+        "unit": null,
+        "required": true,
+        "labels": {
+          "zh-CN": "文字说明",
+          "en": "Plain-language note"
+        }
+      }
+    ],
+    "formulaDescription": "Let i = gradientPercent / 100. Metabolic cost Cr = 155.4 i^5 − 30.4 i^4 − 43.3 i^3 + 46.3 i^2 + 19.5 i + 3.6 joules per kilogram per metre, the fifth-order polynomial fitted to treadmill running between gradients of −0.45 and +0.45. costRatio = Cr / 3.6, where 3.6 is the flat cost. flatEquivalentPaceSeconds = round(actualPaceSecondsPerKm / costRatio). A positive gradient adds cost, so the flat-equivalent pace is faster than the actual pace; a moderate negative gradient reduces cost, so the flat-equivalent pace is slower.",
+    "assumptions": [
+      "The model comes from treadmill running by ten elite mountain runners and applies to steady running between −45% and +45% gradient.",
+      "Flat-equivalent pace means the flat pace with the same modelled metabolic cost; it is not a predicted race performance.",
+      "The model assumes a constant gradient over the segment; real courses vary continuously.",
+      "Downhill cost saving in the model is not adjusted for braking, eccentric muscle damage, technical terrain or fatigue.",
+      "Altitude, heat, wind, surface and body mass are outside the model.",
+      "The tool does not give medical or coaching advice."
+    ],
+    "rounding": "Cost to three decimal places in joules per kilogram per metre; cost ratio to three decimal places; flat-equivalent pace to the nearest whole second per kilometre. The final pace is computed from the unrounded ratio.",
+    "caseRefs": [
+      "case-grade-adjusted-pace-uphill",
+      "case-grade-adjusted-pace-downhill"
+    ]
+  }
+}

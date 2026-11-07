@@ -1,0 +1,142 @@
+{
+  "entityId": "tool:sweat-rate",
+  "slug": "sweat-rate",
+  "kind": "tool",
+  "status": "published",
+  "riskLevel": "general",
+  "sourceRefs": [
+    "knowledge-acsm-2007-fluid"
+  ],
+  "relatedRefs": [
+    "knowledge:heat-and-humidity",
+    "knowledge:race-day-fueling",
+    "knowledge:air-quality-and-running",
+    "tool:fueling-planner"
+  ],
+  "license": "CC-BY-4.0",
+  "createdAt": "2026-11-07",
+  "updatedAt": "2026-11-07",
+  "reviewedAt": "2026-11-07",
+  "reviewDueAt": "2027-11-07",
+  "translations": [],
+  "details": {
+    "toolId": "tool:sweat-rate",
+    "specVersion": "1.0.0",
+    "inputs": [
+      {
+        "name": "preWeightKg",
+        "type": "number",
+        "unit": "kg",
+        "required": true,
+        "minimum": 30,
+        "maximum": 200,
+        "labels": {
+          "zh-CN": "运动前体重（公斤）",
+          "en": "Body mass before exercise (kg)"
+        }
+      },
+      {
+        "name": "postWeightKg",
+        "type": "number",
+        "unit": "kg",
+        "required": true,
+        "minimum": 30,
+        "maximum": 200,
+        "labels": {
+          "zh-CN": "运动后体重（公斤）",
+          "en": "Body mass after exercise (kg)"
+        }
+      },
+      {
+        "name": "fluidIntakeLiters",
+        "type": "number",
+        "unit": "L",
+        "required": true,
+        "minimum": 0,
+        "maximum": 10,
+        "labels": {
+          "zh-CN": "运动中饮用量（升）",
+          "en": "Fluid consumed during exercise (L)"
+        }
+      },
+      {
+        "name": "durationMinutes",
+        "type": "number",
+        "unit": "min",
+        "required": true,
+        "minimum": 1,
+        "maximum": 1440,
+        "labels": {
+          "zh-CN": "运动时长（分钟）",
+          "en": "Exercise duration (minutes)"
+        }
+      }
+    ],
+    "outputs": [
+      {
+        "name": "netLossLiters",
+        "type": "number",
+        "unit": "L",
+        "required": true,
+        "labels": {
+          "zh-CN": "净失水量",
+          "en": "Net fluid loss"
+        }
+      },
+      {
+        "name": "sweatRateLitersPerHour",
+        "type": "number",
+        "unit": "L/h",
+        "required": true,
+        "labels": {
+          "zh-CN": "估算出汗率",
+          "en": "Estimated sweat rate"
+        }
+      },
+      {
+        "name": "bodyMassLossPercent",
+        "type": "number",
+        "unit": "%",
+        "required": true,
+        "labels": {
+          "zh-CN": "体重下降百分比",
+          "en": "Body mass loss"
+        }
+      },
+      {
+        "name": "aboveTwoPercent",
+        "type": "boolean",
+        "unit": null,
+        "required": true,
+        "labels": {
+          "zh-CN": "是否超过 2% 体重下降",
+          "en": "Whether body mass loss exceeds 2%"
+        }
+      },
+      {
+        "name": "note",
+        "type": "string",
+        "unit": null,
+        "required": true,
+        "labels": {
+          "zh-CN": "文字说明",
+          "en": "Plain-language note"
+        }
+      }
+    ],
+    "formulaDescription": "netLossLiters = preWeightKg − postWeightKg + fluidIntakeLiters. sweatRateLitersPerHour = netLossLiters / (durationMinutes / 60). bodyMassLossPercent = (preWeightKg − postWeightKg) / preWeightKg × 100. aboveTwoPercent = bodyMassLossPercent (rounded to 2 decimals) > 2. The weighing method for estimating individual sweat rate and the 2% body-mass-loss threshold come from the 2007 ACSM position stand on exercise and fluid replacement.",
+    "assumptions": [
+      "The calculation assumes body mass change over the session reflects mainly sweat loss plus consumed fluid; urine, stool, substrate oxidation and metabolic water are not measured separately.",
+      "The method requires the same scale, similar clothing and a consistent weighing routine before and after exercise; scale precision limits the result.",
+      "Fluid intake must be the volume actually swallowed during the session, in litres.",
+      "A single session gives one estimate; sweat rate varies with weather, intensity, clothing, acclimatisation, menstrual cycle and illness.",
+      "The 2% flag follows the ACSM definition of excessive dehydration; it is a screening flag, not a diagnosis and not a drinking prescription.",
+      "The tool does not account for sodium losses, medical conditions, medication or pregnancy, and gives no medical advice."
+    ],
+    "rounding": "Net loss and sweat rate are rounded to 2 decimal places; body mass loss percentage is rounded to 2 decimal places before the 2% flag is evaluated.",
+    "caseRefs": [
+      "case-sweat-rate-hour-run",
+      "case-sweat-rate-ninety-minutes"
+    ]
+  }
+}

@@ -16,13 +16,13 @@
   ],
   "license": "CC-BY-4.0",
   "createdAt": "2026-10-26",
-  "updatedAt": "2026-10-28",
-  "reviewedAt": "2026-10-28",
+  "updatedAt": "2026-11-07",
+  "reviewedAt": "2026-11-06",
   "reviewDueAt": "2027-10-28",
   "translations": [],
   "details": {
     "toolId": "tool:route-compare",
-    "specVersion": "1.0.0",
+    "specVersion": "1.1.0",
     "inputs": [
       {
         "name": "routeIds",
@@ -67,7 +67,8 @@
     ],
     "rounding": "Distance is displayed to three decimal places in kilometres; elevation gain to the nearest whole metre; missing values remain unknown and are not rounded to zero.",
     "caseRefs": [
-      "case-route-compare-missing"
+      "case-route-compare-missing",
+      "case-route-compare-complete"
     ]
   }
 }

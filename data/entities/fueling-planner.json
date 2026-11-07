@@ -16,13 +16,13 @@
   ],
   "license": "CC-BY-4.0",
   "createdAt": "2026-10-28",
-  "updatedAt": "2026-10-28",
-  "reviewedAt": "2026-10-28",
+  "updatedAt": "2026-11-07",
+  "reviewedAt": "2026-11-06",
   "reviewDueAt": "2027-04-28",
   "translations": [],
   "details": {
     "toolId": "tool:fueling-planner",
-    "specVersion": "1.0.0",
+    "specVersion": "1.1.0",
     "inputs": [
       {
         "name": "durationMinutes",
@@ -101,7 +101,7 @@
         }
       }
     ],
-    "formulaDescription": "For sessions of at least 60 minutes, plan 30-60 grams of carbohydrate per hour. totalLow = 30 × durationHours, totalHigh = 60 × durationHours. servings = ceil(total / carbohydratePerServing). Sessions under 60 minutes return zero planned carbohydrate.",
+    "formulaDescription": "For sessions of at least 60 minutes, plan 30 to 60 grams of carbohydrate per hour. totalLow = 30 × durationHours and totalHigh = 60 × durationHours. servingsLow = ceil(totalLow / carbohydratePerServing) and servingsHigh = ceil(totalHigh / carbohydratePerServing), so a partial serving is never counted as a whole one by rounding down. Sessions under 60 minutes return zero planned carbohydrate. Totals are whole grams.",
     "assumptions": [
       "The 30-60 g/h range is a planning range from sports-nutrition guidance, not an individual prescription.",
       "Carbohydrate per serving is read from the product label; gels and drinks vary.",
