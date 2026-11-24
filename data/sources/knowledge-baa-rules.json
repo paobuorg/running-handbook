@@ -8,8 +8,41 @@
   "claims": [
     "Race bibs are non-transferable.",
     "Participants may not run with anyone who is not registered as an official race participant on any part of the course.",
-    "Portable music devices may be used with headphones only if participants maintain awareness of their surroundings; professional, wheelchair and para athletics divisions have stricter rules.",
+    "Portable music devices may be used with headphones only if participants maintain awareness of their surroundings at all times and do not disturb others; participants in the Professional Start, Wheelchair Division and Para Athletics Division are not permitted to wear headphones.",
     "Participants must follow the event code of conduct and the race's competition rules."
   ],
-  "license": null
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "https://www.baa.org/wp-content/uploads/docs/2025-08/2026%20Boston%20Marathon%20Rules%20and%20Policies.pdf",
+    "note": "BAA 2026 规则 PDF 5.2.4/5.2.5；2026-11-20 补回“不干扰他人”与三组“完全禁止”。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文 4.3.4：“Participants must not transfer their B.A.A. issued bib or timing devise or the right to obtain it to any person or organization for any purpose including charity auction, lottery, or other fundraising efforts.” 附录 A 亦：“your entry is non-transferable”。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文 5.3.1：“Participants are not permitted to run with any other person not registered as an official race participant in the Boston Marathon on any portion of the course, including the final few hundred yards of the race.”"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-20",
+      "note": "原文 5.2.4 两个并列条件：保持警觉且不干扰他人；5.2.5 明确禁止 Professional Start、Wheelchair、Para Athletics 组佩戴耳机。原 claim 的“stricter rules”弱化了完全禁止。"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文 5.6.1：“Participants must abide by AWMM Athlete Code of Conduct”；第 5 节标题即“COMPETITION RULES”（含计时、违禁物品、非参赛者、反兴奋剂等）。"
+    }
+  ]
 }

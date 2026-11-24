@@ -55,7 +55,7 @@ translationStatus: reviewed
 | 男子世锦赛/奥运冠军（14 场） | 负分段更明显；变异系数 2.91% ± 0.75% | 目标是名次，战术变化大 |
 | 女子世锦赛/奥运冠军（14 场） | 更明显的负分段与终点冲刺；变异系数 3.18% ± 0.88% | 同上 |
 
-两组数据的差别不是「谁更专业」，而是**比赛目标不同**：纪录跑要的是最短时间，跟住配速员、少变速最省；锦标赛要的是名次，最后 2 公里加速比全程匀速更值。Casado 等（2024）的结论是：男子世界纪录「前 5 公里更快、随后匀速」，男子锦标赛则「更负分段」，两者不能互相套用。
+两组数据的差别不是「谁更专业」，而是**比赛目标不同**：纪录跑要的是最短时间，跟住配速员、少变速最省；锦标赛要的是名次，最后 2 公里加速比全程匀速更值。Casado 等（2024）的结论是：男子世界纪录「前 5 公里更快、随后匀速」，男子锦标赛则「更负分段」，两类赛事的配速分布不同，训练需求应按目标赛事分别设计。
 
 **反方证据也要放进来。** Fernandes 与 Maldonado（2023，arXiv 预印本，未经同行评审）用能量学模型加计算流体力学模拟：当精英选手有配速员、可以在后面跟跑减阻时，最优策略反而可能是**正分段**——受保护阶段比无保护阶段快 2.4%–2.6%。这是建模结果，不是真实比赛的因果试验，只适用于有兔子且允许跟跑的精英场景；但它足以说明「负分段一定最优」不是共识。
 
@@ -79,7 +79,7 @@ Minetti 等（2002）测量了 −45% 到 +45% 坡度的跑步代谢代价，曲
 
 ### 炎热天气：目标从「PB 配速」改成「PB 的 93%–95%」
 
-Beal 等（2022）分析 2019 年多哈女子世锦赛：32.0°C、77.9% 相对湿度、WBGT 29.6°C，68 人出发 28 人未完赛（41%），而 2017 年伦敦同一赛事为 15%。多哈前 10 名的开局平均是个人最好成绩配速的 **93.7%**，第 21–40 名是 **96.6%**；各组在 15 公里前没有差异，之后较慢组先掉速。
+Beal 等（2022）分析 2019 年多哈女子世锦赛：32.0°C、74% 相对湿度，68 人出发 40 人完赛（28 人未完赛，41%），而 2017 年伦敦同一赛事为 15%。多哈前 10 名的开局平均是个人最好成绩配速的 **93.7%**，第 21–40 名是 **96.6%**；各组在 15 公里前没有差异，之后较慢组先掉速。
 
 执行上的改判：
 
@@ -214,6 +214,6 @@ Beal 等（2022）分析 2019 年多哈女子世锦赛：32.0°C、77.9% 相对�
 - New York Road Runners，The Start（2026 纽约马拉松）：按最好成绩或报名时提交的预计完赛时间分配起跑区与批次；各批次关闭时间为 8:45、9:25、10:00、10:40、11:15。
 - New York Road Runners，Race Procedures 与 Bag Pre-Check：建议提前 60 分钟到场、起跑前 10 分钟进入起跑区；预存包在比赛前一天 17:00 关闭，赛后领取至 19:00。以上均为该赛事规则，不是通用标准。
 - Casado 等，Pacing strategies in men's and women's world-record marathon performances and Olympic Games and World Championship's winning performances（Kinesiology，2024）：12 场男子与 8 场女子世界纪录、14+14 场锦标赛冠军；男子纪录跑变异系数 1.52% 对锦标赛 2.91%，女子 1.61% 对 3.18%；纪录跑接近匀速、锦标赛更负分段。
-- Beal 等，Marathon Performance and Pacing in the Doha 2019 Women's IAAF World Championships（International Journal of Sports Physiology and Performance，2022）：32.0°C、77.9% 相对湿度、WBGT 29.6°C；41% 未完赛（伦敦 15%）；前 10 名开局为 PB 配速 93.7%、第 21–40 名为 96.6%；15 公里后掉速。
+- Beal 等，Marathon Performance and Pacing in the Doha 2019 Women's IAAF World Championships（International Journal of Sports Physiology and Performance，2022）：32.0°C、74% 相对湿度；68 人出发 40 人完赛（28 人未完赛，41%；伦敦 15%）；前 10 名开局为 PB 配速 93.7%、第 21–40 名为 96.6%；15 公里后掉速。
 - Minetti 等，Energy cost of walking and running at extreme uphill and downhill slopes（Journal of Applied Physiology，2002）：−45% 到 +45% 坡度；上坡代谢代价大于同等下坡的节省。
 - Fernandes 与 Maldonado，Against negative splitting（arXiv 预印本，2023）：跟跑减阻模型下正分段可能更省时，受保护阶段快 2.4%–2.6%；未经同行评审，只适用于有配速员的精英场景。

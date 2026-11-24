@@ -1,0 +1,30 @@
+{
+  "sourceId": "knowledge-barkley-runraid-history",
+  "title": "L'histoire de la Barkley Marathons",
+  "url": "https://runraid.fr/courses/histoire_barkley_marathons",
+  "publisher": "Runraid",
+  "publishedAt": "2026-02-17",
+  "claims": [
+    "La Barkley est inspirée par l'évasion ratée de James Earl Ray, qui n'avait parcouru que 13 km en 54 heures après s'être échappé de la prison voisine en 1977.",
+    "Sur environ 1000 coureurs qui ont tenté l'aventure en 40 éditions, seulement 20 personnes différentes ont terminé l'épreuve dans le délai de 60 h.",
+    "La première Barkley Marathons a lieu en 1986 avec un parcours d'environ 80-90 km et 7 600 à 8 200 mètres de dénivelé, à terminer en 24 heures, et aucun coureur ne termine dans le délai.",
+    "La course a été créée par Gary « Lazarus Lake » Cantrell et son ami Karl « Raw Dog » Henn.",
+    "En 1988, Ed Furtaw devient le premier à terminer la version courte de la Barkley, en 32:14."
+  ],
+  "accessedAt": "2026-11-08",
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "WebFetch",
+    "note": "2026-11-08 直取法文赛事史页面。二手汇编，未列出逐条原始出处；只用于记录“流传数字之间有分歧”，不作为官方数据。页面自身把 1986 年写作 80–90 km / 7 600–8 200 m，与 RUN247 的 50–55 miles / 约 25,000 ft 是同一量级的不同单位表述，正文并列。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-08", "note": "原句：\"qui n'avait parcouru que 13 km en 54 heures après s'être échappé de la prison voisine en 1977\"" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-08", "note": "原句：\"sur environ 1000 coureurs… en 40 éditions, seulement 20 personnes différentes ont terminé l'épreuve dans le délai de 60 h\"" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-08", "note": "原句：\"un parcours d'environ 80-90 km et 7 600 à 8 200 mètres de dénivelé, à terminer en 24 heures. Aucun coureur ne termine dans le délai.\"" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-08", "note": "原句：\"Créée par… Gary \"Lazarus Lake\" Cantrell et son ami Karl \"Raw Dog\" Henn\"" },
+    { "index": 4, "status": "supported", "checkedAt": "2026-11-08", "note": "原句：\"En 1988, Ed Furtaw de Caroline du Nord devient le premier à terminer la version courte de la Barkley (en 32h14)\"" }
+  ]
+}

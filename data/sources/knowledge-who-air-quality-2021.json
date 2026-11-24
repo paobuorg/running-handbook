@@ -8,10 +8,55 @@
     "The 2021 guidelines set air quality guideline levels for six pollutants: particulate matter (PM2.5 and PM10), ozone, nitrogen dioxide, sulfur dioxide and carbon monoxide.",
     "Several updated guideline values are lower than the 2005 values because evidence now shows health effects at lower concentrations than previously understood.",
     "The 2021 annual guideline level for PM2.5 is 5 µg/m³ and the 24-hour level is 15 µg/m³; the annual level for PM10 is 15 µg/m³ and the 24-hour level is 45 µg/m³.",
-    "PM2.5 and PM10 can penetrate deep into the lungs, and PM2.5 can enter the bloodstream, primarily producing cardiovascular and respiratory effects.",
+    "The guideline states that air pollution increases morbidity and mortality from cardiovascular and respiratory disease; PM2.5 is classified as fine particulate matter.",
     "In 2019, more than 90% of the global population lived in areas where concentrations exceeded the 2005 annual PM2.5 guideline of 10 µg/m³.",
     "Guideline levels are evidence-informed recommendations, not legally binding standards."
   ],
   "accessedAt": "2026-11-07",
-  "license": "CC BY-NC-SA 3.0 IGO; facts summarized with attribution"
+  "license": "CC BY-NC-SA 3.0 IGO; facts summarized with attribution",
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-20",
+    "checkedVia": "WebFetch https://www.who.int/publications/i/item/9789240034228 + 官方全文 PDF（IRIS bitstream，pypdf 抽取）及执行摘要 PDF",
+    "note": "出版物页只给概览，不含数值；分档数值与逐条表述核于 WHO 官方 290 页 PDF（ISBN 9789240034228）与执行摘要 Table 0.1，两处一致。PDF 全文文本为嵌入字形编码，需解码后检索，正文可读。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "标题与 Objectives 列出六项：“for PM2.5, PM10, ozone, nitrogen dioxide, sulfur dioxide and carbon monoxide for relevant averaging times”。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "第 160 页“Important AQG level updates to Global update 2005”原文：“The PM2.5 annual AQG level has been lowered from 10 µg/m3 to 5 µg/m3. This reflects the new evidence of effects on mortality occurring at concentrations below 10 µg/m3.”；同节明确 PM10 24 小时值“is not much lower in 2021 than in 2005”，故“several（若干项）更低”成立，但不可写成“全部下调”。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "执行摘要 Table 0.1：PM2.5 年均 5、24 小时 15 µg/m³；PM10 年均 15、24 小时 45 µg/m³，四个数值逐项吻合（24 小时为 99th percentile）。"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-20",
+      "note": "指南正文支持“increases morbidity and mortality from cardiovascular and respiratory disease”及 PM2.5 属细颗粒物；全文无 bloodstream 句，已删除“进入血液”。"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "第 30 页原文：“more than 90% of the global population in 2019 lived in areas where concentrations exceeded the 2005 WHO air quality guideline of 10 µg/m3”。"
+    },
+    {
+      "index": 5,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Objectives 段原文：“These guidelines are not legally binding standards; however, they do provide WHO Member States with an evidence-informed tool that they can use to inform legislation and policy.”"
+    }
+  ]
 }

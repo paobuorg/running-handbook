@@ -45,6 +45,8 @@ Assume a dry 6% slope, 6 x 90 seconds uphill with a 2 minute jog down. Repeats 1
 2. Shorten the stride and lift cadence uphill, leaning from the ankles; downhill keep the stride compact, land under the body and look ahead.
 3. Add uphill repeats first, downhill only when form is stable; change one variable per session and adjust from knee response.
 
+Keep the effort repeatable rather than maximal. If the last repeat looks nothing like the first, the session has already crossed from technique practice into fatigue practice, and the downhill form will degrade first.
+
 ## Common misconceptions
 
 - Overstriding downhill. A long stride with the foot far ahead concentrates braking at the knee and is hardest to control when tired.

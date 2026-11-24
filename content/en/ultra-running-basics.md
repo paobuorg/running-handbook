@@ -37,7 +37,7 @@ Night needs a headlamp, spare batteries, extra warmth and a conservative pace; m
 
 ## Tapering
 
-A meta-analysis of 14 studies found time-trial and time-to-exhaustion improvements after tapering; a 41 to 60% volume reduction with maintained intensity and frequency, up to 21 days, was associated with better time-trial performance.
+A meta-analysis of 14 studies found time-trial and time-to-exhaustion improvements after tapering; a 41 to 60% volume reduction with maintained intensity and frequency, up to 21 days, was associated with better time-trial performance. The authors also note that the optimal taper duration varies between individuals.
 
 ## How to do it: three steps
 

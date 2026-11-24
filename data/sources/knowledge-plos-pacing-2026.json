@@ -12,6 +12,51 @@
     "High-performance runners finishing under 3:00 showed even pacing 82.0% of the time, compared with 19.6% in casual participants.",
     "Age and sex significantly influenced pacing strategy selection (p < 0.001)."
   ],
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "摘要：分析 2015–2017 年波士顿马拉松 78,912 名完赛者的分段成绩。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "摘要：四种配速模式占比 47.9% / 31.9% / 12.2% / 8.0%。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "摘要：匀速最快，平均 217 分钟 vs 强正分段 276 分钟。"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "摘要：变速跑“撞墙”（末段配速下降 >20%）发生率最高，85.4%。"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "摘要：<3:00 的高水平跑者匀速占 82.0%，休闲组 19.6%。"
+    },
+    {
+      "index": 5,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "摘要：年龄与性别显著影响配速策略选择（p<0.001）。"
+    }
+  ],
   "accessedAt": "2026-11-07",
-  "license": "CC-BY-4.0"
+  "license": "CC-BY-4.0",
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "PLOS 页面 + PubMed 摘要",
+    "note": "PLOS 页面与 PubMed 摘要可读；78,912、四类占比与 85.4% 均一致。"
+  }
 }

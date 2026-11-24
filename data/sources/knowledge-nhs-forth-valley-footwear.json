@@ -9,8 +9,47 @@
     "A good fit includes maintaining a thumb's width between the end of the shoe and the longest toe.",
     "The shoe should be rounded at the front and deep enough to allow the toes room to move.",
     "The shoe should have an adjustable fastening such as laces, straps or Velcro to hold the foot firmly and reduce friction.",
-    "Shoes that are too tight press on the toes and can cause pressure-related problems.",
+    "Pointed or narrow shoes squeeze the toes and can cause corneas and joint problems.",
     "Always try both shoes on, because most people have one foot slightly bigger than the other."
   ],
-  "license": null
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-20",
+    "checkedVia": "NHS Forth Valley 足病科鞋履建议页（正文）",
+    "note": "页面正文可读；第 4 条把尖头/窄鞋说法概括为过紧鞋，属部分支持。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "页面：鞋头与最长趾留一拇指宽。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "页面：鞋头圆、够深，趾可活动。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "页面：鞋带/搭扣/魔术贴可调，固定足部并减少摩擦。"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-20",
+      "note": "页面写尖头/窄鞋挤压脚趾致老茧与关节问题；未直述“过紧鞋压趾”，已改为页面原意。"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "页面：两脚都试，多数人一脚略大。"
+    }
+  ]
 }

@@ -4,12 +4,45 @@
   "url": "https://odphp.health.gov/sites/default/files/2019-09/Physical_Activity_Guidelines_2nd_edition.pdf",
   "publisher": "U.S. Department of Health and Human Services, Office of Disease Prevention and Health Promotion",
   "publishedAt": "2018-11-12",
-  "accessedAt": "2026-11-07",
+  "accessedAt": "2026-11-08",
   "claims": [
     "Adults gain substantial health benefits from regular physical activity.",
     "The guidelines recommend moving more and sitting less throughout the day.",
     "For substantial health benefits, adults need at least 150 to 300 minutes a week of moderate-intensity aerobic activity, or 75 to 150 minutes a week of vigorous-intensity aerobic activity, or an equivalent combination.",
     "Adults should do muscle-strengthening activities on at least 2 days a week."
   ],
-  "license": null
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "curl.exe + pypdf（118 页 PDF）",
+    "note": "PDF 正文成功提取，核对第 8、56 页 Key Guidelines。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "第 56 页：\"Adults who are physically active are healthier, feel better, and are less likely to develop many chronic diseases\"。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "第 8 页：\"Adults should move more and sit less throughout the day.\""
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "第 8 页：\"150 to 300 minutes… moderate-intensity, or 75 to 150 minutes… vigorous-intensity… or an equivalent combination\"。"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "第 8 页：\"muscle-strengthening activities… on 2 or more days a week\"。"
+    }
+  ]
 }

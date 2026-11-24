@@ -11,5 +11,38 @@
     "Insomnia means regularly having problems sleeping and usually improves by changing sleeping habits.",
     "Persistent sleep problems can affect daily life and may need medical advice."
   ],
-  "license": null
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "https://www.nhs.uk/conditions/insomnia/",
+    "note": "已读 NHS 页面正文（定义、睡眠时长、就医条件），逐条核对。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：“Everyone needs different amounts of sleep.”"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：“On average: adults need 7 to 9 hours”。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：“Insomnia means you regularly have problems sleeping. It usually gets better by changing your sleeping habits.”"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：“See a GP if: changing your sleeping habits has not helped your insomnia；you've had trouble sleeping for months；your insomnia is affecting your daily life in a way that makes it hard for you to cope”。"
+    }
+  ]
 }

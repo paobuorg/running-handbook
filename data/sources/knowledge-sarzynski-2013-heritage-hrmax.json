@@ -13,5 +13,50 @@
     "The authors concluded that the prevailing age-based maximal heart rate equations do not precisely predict an individual's measured maximal heart rate."
   ],
   "accessedAt": "2026-11-07",
-  "license": "Wiley / PMC author manuscript; citation and summary only"
+  "license": "Wiley / PMC author manuscript; citation and summary only",
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3935487/（Am J Hum Biol 2013;25(5):695-701 PMC 作者稿全文 HTML，含 Table 1-2、Results、Discussion）",
+    "note": "已读到 Methods（762 人筛选过程）、Table 1/2（各组 SEE）、Results 与 Discussion 全文；SEE 与分组数值均可核对。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文 Results：“Overall, the SEE was 12.4 and 11.4 bpm for the prediction of measured-HRmax using the Fox-HRmax and Tanaka-HRmax formulas, respectively.” 样本“762 sedentary subjects”见 Methods。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Table 2：“SEE of Fox-HRmax prediction”＝12.4（总）、11.0（White）、14.4（Black）、12.3（Female）、12.6（Male）；“SEE of Tanaka-HRmax prediction”＝11.4、10.2、13.1、11.2、11.7。正文：“The SEE of the prediction was greater in Blacks as compared to Whites for both formulas, with the Fox-HRmax formula in Blacks showing the largest SEE value of 14.4 bpm.”"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文引言：“The Fox et al. formula is known to be quite variable, with a standard error of estimate (SEE) of predicted HRmax of 7–12 beats per minute (bpm) (Robergs and Landwehr, 2002; Thompson, 2010).” claim 用“is reported to have”保留了转述语气。"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文引言：“the authors derived the following formula to predict HRmax: 208 – 0.7 × age, which was the same for both men and women, and had a SEE of ~10 bpm (Tanaka et al., 2001).”"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Table 1 总样本：“Resting heart rate, bpm 65.4 (9.1) 40.3 to 105.3”。"
+    },
+    {
+      "index": 5,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文结论：“our results fail to validate the effectiveness of either of the two most widely used age-based HRmax prediction equations in sedentary, healthy adults.” 摘要：“the prevailing age-based estimated HRmax equations do not precisely predict an individual’s measured-HRmax.” claim 的“do not precisely predict”与摘要逐字一致。"
+    }
+  ]
 }

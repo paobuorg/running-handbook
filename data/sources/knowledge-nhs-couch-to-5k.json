@@ -1,14 +1,41 @@
 {
   "sourceId": "knowledge-nhs-couch-to-5k",
   "title": "Get running with Couch to 5K",
-  "url": "https://www.nhs.uk/live-well/exercise/get-running-with-couch-to-5k/",
+  "url": "https://www.nhs.uk/better-health/get-active/get-running-with-couch-to-5k/",
   "publisher": "NHS",
   "publishedAt": null,
   "claims": [
     "Couch to 5K schedules three runs a week with rest days between, over nine weeks or longer.",
-    "It starts with one-minute runs and 1.5-minute walks and builds toward 30 minutes of continuous running.",
+    "Week 1 alternates 1-minute runs with 1.5-minute walks, and the programme builds toward 30 minutes of continuous running over 9 weeks or longer.",
     "The NHS advises going at your own pace and speaking to a GP if you are worried about your health before starting."
   ],
-  "accessedAt": "2026-10-27",
-  "license": null
+  "accessedAt": "2026-11-08",
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-20",
+    "checkedVia": "WebFetch / general_search 当前 NHS Couch to 5K 页面",
+    "note": "该 URL 为旧版 get-running-with-couch-to-5k 页面。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "\"3 runs a week, with a day of rest in between… 9 weeks\"，且可延长。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-20",
+      "note": "当前 NHS 页面已迁移到 /better-health/get-active/get-running-with-couch-to-5k/：首周 1 分钟跑 + 1 分 30 秒走；9 周或更久后连续跑 30 分钟。已更新 URL。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "\"or longer if you want to go at your own pace\"；有健康顾虑先看 GP。"
+    }
+  ]
 }

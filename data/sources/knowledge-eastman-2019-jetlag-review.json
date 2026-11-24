@@ -12,5 +12,44 @@
     "Jet travel plans have been developed assuming phase advances of 1.5 hours per day and phase delays of 2 hours per day, given appropriately timed bright light after landing; these numbers are estimates."
   ],
   "accessedAt": "2026-11-07",
-  "license": "CDC Stacks; citation and summary only"
+  "license": "CDC Stacks; citation and summary only",
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "https://stacks.cdc.gov/view/cdc/223129/cdc_223129_DS1.pdf",
+    "note": "读到 CDC Stacks 所存作者稿 PDF 全文（时差症状、相位反应、光照与褪黑素方案各节），非仅摘要。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：“Flying east requires a phase advance of the circadian clock, whereas flying west requires a phase delay.”"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：“It takes longer to reset or re-entrain … following eastward than westward flight, which can be explained, at least in part, by the fact that the average free-running period … is slightly longer than 24 hours”；claim 的 “partly” 保留了原文的 “at least in part”。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：“Early estimates from real jet travelers are that the circadian clock phase delays 92 minutes per day after westward flights and phase advances 57 minutes per day after eastward flights.”"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：“in a study in which the sleep schedule was shifted 12 hours … circadian rhythms shifted 9.6 hours over the first 4 days when they phase delayed (2.4 h/d or 144 min/d) and 6.2 hours when they phase advanced (1.6 h/d or 93 min/d)”。补充：该数字来自单一研究（Eastman & Martin），且是在“适时强光”条件下实现的，claim 未提强光；原文上一句为 “the circadian clock can phase shift faster when people are exposed to bright light at the appropriate time”。"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：“we have developed jet travel plans assuming phase advances of 1.5 hours per day and phase delays of 2 hours per day, given appropriately timed bright light after landing. These numbers are estimates”。"
+    }
+  ]
 }

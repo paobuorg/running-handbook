@@ -11,5 +11,38 @@
     "The pooled time-trial result showed a moderate effect favoring polarized over threshold training (ES = -0.66; 95% CI -1.17 to -0.15).",
     "The authors concluded that polarized training may lead to greater improvement in endurance sport performance than threshold training, based on a small evidence base."
   ],
-  "license": null
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "摘要：检索获 329 条结果，4 项进入定性分析、3 项进入 meta 分析。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "摘要：4 项研究的 PEDro 评分为 2 项 4/10、2 项 5/10。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "摘要：合并 TT 效应 ES −0.66（95% CI −1.17 至 −0.15），偏向极化。"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "摘要：作者称极化可能带来更大耐力表现改善，但证据基础小。"
+    }
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "PubMed 摘要",
+    "note": "摘要可读，全文付费；检索数、PEDro 与合并效应见摘要。"
+  }
 }

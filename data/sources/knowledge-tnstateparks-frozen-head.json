@@ -1,0 +1,32 @@
+{
+  "sourceId": "knowledge-tnstateparks-frozen-head",
+  "title": "Frozen Head State Park",
+  "url": "https://tnstateparks.com/parks/frozen-head",
+  "publisher": "Tennessee State Parks",
+  "publishedAt": "2026-11-08",
+  "claims": [
+    "Frozen Head State Park encompasses over 24,000 acres of rugged wilderness in the Cumberland Mountains.",
+    "The park is named for the 3,324-foot peak often shrouded in ice during winter.",
+    "The park office address is 964 Flat Fork Road, Wartburg, TN 37887.",
+    "The park page gives a geolocation of 36.150234142456, -84.503453623082.",
+    "As of the access date, the park page lists renovations that close all Big Cove and Flat Fork campsites, the visitor center, Shelters B and C, the Rocky Fork Area, and a number of trails.",
+    "During the renovation the only accessible trail listed is the Chimney Top Trail behind the visitor center, described as strenuous with significant elevation gain and up to a 14-mile hike."
+  ],
+  "accessedAt": "2026-11-08",
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "WebFetch",
+    "note": "2026-11-08 直取田纳西州立公园官方页面。这是公园管理方页面，不是赛事发布；闭园与步道状态是核查当日页面内容，会随施工变化，不能当作赛事期间的通行保障。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-08", "note": "原句：\"Frozen Head State Park encompasses over 24,000 acres of rugged wilderness in the Cumberland Mountains.\"" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-08", "note": "原句：\"Named for the 3,324-foot peak often shrouded in ice during winter\"" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-08", "note": "页面 Park Office：\"964 Flat Fork Road / Wartburg, TN 37887\"" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-08", "note": "页面 Geolocation：\"36.150234142456, -84.503453623082\"" },
+    { "index": 4, "status": "supported", "checkedAt": "2026-11-08", "note": "页面 Currently Closed 列表逐项可读。" },
+    { "index": 5, "status": "supported", "checkedAt": "2026-11-08", "note": "原句：\"The only accessible trail at this time is the Chimney Top Trail… considered strenuous with significant elevation gain and up to a 14-mile hike.\"" }
+  ]
+}

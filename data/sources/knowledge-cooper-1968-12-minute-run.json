@@ -13,10 +13,36 @@
   ],
   "license": null,
   "verification": {
-    "access": "blocked",
-    "bodyRead": false,
-    "checkedAt": "2026-11-07",
-    "checkedVia": "Crossref",
-    "note": "出版社验证页；摘要与正文均未取得。"
-  }
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "WebFetch bootcampmilitaryfitnessinstitute.com 托管的 JAMA 1968 原文扫描 PDF（含 jama.ama-assn.org 下载水印）；DOI 页与 PubMed 均无摘要",
+    "note": "JAMA 官方页付费且无摘要，改读可公开访问的原文扫描件全文（Methods/Results/Comment）。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：“One hundred and fifteen US Air Force male officers and airmen were evaluated on a 12-minute field performance test and on a treadmill maximal-oxygen-consumption test.”"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：“The correlation of the field-test data with the laboratory-determined oxygen-consumption data was 0.897.”"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：“The significance of this relationship makes it possible to estimate with considerable accuracy the maximal oxygen consumption from only the results of the 12-minute performance test.”"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：“Since the majority of the subjects tested were less than 25 years of age, it is difficult to predict the accuracy of this test in an older age group.”样本均为 USAF 男性（平均 22 岁，17–52 岁）；原文仅就年龄与动机讨论外推限制，未单独讨论女性或其他人群。"
+    }
+  ]
 }

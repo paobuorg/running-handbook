@@ -9,14 +9,40 @@
     "Refer people using a suspected cancer pathway referral (for an appointment within 2 weeks) for bladder cancer if they are aged 45 and over and have unexplained visible haematuria without urinary tract infection.",
     "The same referral applies if they are aged 45 and over and have visible haematuria that persists or recurs after successful treatment of urinary tract infection.",
     "Refer people aged 60 and over with unexplained non-visible haematuria and either dysuria or a raised white cell count on a blood test.",
-    "The recommendations apply to bladder and upper tract urothelial carcinoma."
+    "The guideline gives separate suspected-cancer referral recommendations for bladder cancer and renal cancer, both keyed to visible haematuria in adults."
   ],
   "license": "NICE guidance; citation and summary only",
   "verification": {
-    "access": "metadata-only",
-    "bodyRead": false,
-    "checkedAt": "2026-11-07",
-    "checkedVia": "WebFetch",
-    "note": "概览页可读，但泌尿系统推荐章节在截断点之前未取到。"
-  }
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-20",
+    "checkedVia": "NICE NG12 现行页 + NCBI Bookshelf 收录 NG12 第12章表 ch12.t8",
+    "note": "NICE NG12 现行页 1.6.4（膀胱癌）与 1.6.6（肾癌）均以肉眼血尿为核心；未找到 upper tract urothelial carcinoma 的独立适用范围句，故第 4 条已收窄为页面实际支持的两类癌症。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "NG12 膀胱癌条文：45 岁以上、无 UTI 的肉眼血尿走 2 周疑似癌症通道。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "同条：UTI 治愈后仍持续/复发的肉眼血尿，45 岁以上同样转诊。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "同条：60 岁以上、非肉眼血尿且伴排尿困难或白细胞升高亦转诊。"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-20",
+      "note": "页面 1.6.4 膀胱癌、1.6.6 肾癌两节分别给出成人肉眼血尿的转诊条件；不再声称覆盖 upper tract urothelial carcinoma。"
+    }
+  ]
 }

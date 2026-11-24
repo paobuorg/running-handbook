@@ -11,5 +11,38 @@
     "The book is a coaching methodology published commercially, not a standard issued by a sports governing body or clinical guideline body.",
     "The publisher's description presents the system as the author's coaching framework rather than a consensus standard."
   ],
-  "license": null
+  "license": null,
+  "verification": {
+    "access": "metadata-only",
+    "bodyRead": false,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "WebFetch 抓取 Human Kinetics 商品页（描述、目录、版本信息）",
+    "note": "书籍无公开可读正文；商品页仅提供描述、目录、作者与版本信息，未提供正文或配速表，bodyRead 保持 false。2026-11-20 复核后按可得证据分层：书目信息与“作者个人体系”表述记 supported；VDOT 换算细节与“非官方标准”分类记 partial，不把商品文案升级为正文证据。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "商品页可见 ©2022、320 页、ISBN 9781718203662 及 \"31 proven training plans\"；版本与页数属书目信息，可判 supported。"
+    },
+    {
+      "index": 1,
+      "status": "partial",
+      "checkedAt": "2026-11-08",
+      "note": "描述只有 \"Building upon his revolutionary VDOT system\"，可证明本书以 VDOT 为核心；\"成绩→体能值→训练配速\"的完整换算属正文方法，商品页未展开，书籍无公开正文，故 partial。"
+    },
+    {
+      "index": 2,
+      "status": "partial",
+      "checkedAt": "2026-11-08",
+      "note": "商品页可证 Human Kinetics 商业出版、作者教练身份；\"非管理机构或临床标准\"是外部分类判断，本轮未逐家核验，故 partial，不冒充正文结论。"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "商品描述以 \"his methods\"、\"his revolutionary VDOT system\" 呈现作者个人体系，未称 consensus 或官方标准，与该条一致。"
+    }
+  ]
 }

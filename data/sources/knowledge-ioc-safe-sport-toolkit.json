@@ -1,15 +1,41 @@
 {
-    "sourceId":  "knowledge-ioc-safe-sport-toolkit",
-    "title":  "IOC Safe Sport: safeguarding resources and toolkit for International Federations and National Olympic Committees",
-    "url":  "https://olympics.com/ioc/safe-sport",
-    "publisher":  "International Olympic Committee",
-    "publishedAt":  null,
-    "claims":  [
-                   "The IOC provides safeguarding guidance and toolkits so that sports organisations can adopt policies, reporting channels and education.",
-                   "The resources describe safeguarding as an organisational duty covering all participants, not only elite athletes.",
-                   "Reporting routes are expected to be clear, accessible and independent of the person or body being reported."
-               ],
-    "license":  null,
-    "accessedAt":  "2026-11-07"
+  "sourceId": "knowledge-ioc-safe-sport-toolkit",
+  "title": "IOC Safe Sport: safeguarding resources and toolkit for International Federations and National Olympic Committees",
+  "url": "https://olympics.com/ioc/safe-sport",
+  "publisher": "International Olympic Committee",
+  "publishedAt": null,
+  "claims": [
+    "The IOC provides safeguarding guidance and toolkits so that sports organisations can adopt policies, reporting channels and education.",
+    "The IOC Safe Sport resources describe strengthening safeguarding across the Olympic Movement, not only within elite competition.",
+    "The toolkit routes reports first to the relevant International Federation and, during the Olympic Games, to the IOC hotline."
+  ],
+  "license": null,
+  "accessedAt": "2026-11-08",
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "WebFetch",
+    "note": "IOC Safe Sport 页面阅读；2026-11-20 去掉两条页面未写的覆盖范围与独立性推断。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "\"the IOC Safeguarding Toolkit for IFs and NOCs … help NOCs and IFs develop and implement policies and procedures\"；另有 education 与 Integrity Hotline。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-20",
+      "note": "页面写“strengthen safeguarding across the Olympic Movement”；原 claim 的“覆盖所有参与者、不仅是精英运动员”是推断，已收窄。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-20",
+      "note": "页面给出上报去向：先向 IF；奥运期间向 IOC Hotline。原 claim 的“独立于被举报个人或机构”页面未写。"
+    }
+  ]
 }
-

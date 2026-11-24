@@ -107,7 +107,7 @@ If you can only run three times a week, compress the structure to one quality se
 The purpose of a taper is to remove fatigue while keeping the stimulus, not to stop training. Three verifiable anchors:
 
 - **Bosquet et al. 2007** screened 182 studies and included 27 in a meta-analysis: the optimal taper was about **2 weeks**, with training volume decreased exponentially by **41%–60%**, while **intensity and frequency were maintained**.
-- **PLOS ONE 2023** reviewed and pooled **14 studies**: a 41%–60% volume reduction, maintained intensity and frequency, and a taper lasting up to about **21 days** was associated with improved time-trial performance. A pre-taper overload produced a larger effect in some studies, but the authors note that individual adaptation is still required.
+- **PLOS ONE 2023** reviewed and pooled **14 studies**: a 41%–60% volume reduction, maintained intensity and frequency, and a taper lasting up to about **21 days** was associated with improved time-trial performance. A pre-taper overload produced a larger effect in some studies, but the authors also note that the optimal taper duration varies between individuals.
 - **Haugen et al. 2022** describe world-class 5K/10K and marathon runners starting their taper **7–10 days** before the main competition.
 
 These three do not fully agree: the elite 7–10 day description and the meta-analytic "about two weeks" are not the same thing. A practical reading: a 5K goal can use the shorter 7–10 day pattern; a 10K or a race preceded by a heavy block can sit inside the two-week frame. **There is no direct comparison showing one is better**, so do not claim that.

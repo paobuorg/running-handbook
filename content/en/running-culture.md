@@ -17,7 +17,7 @@ Running culture here means the conventions around race rules, record recognition
 
 ## Race etiquette is written into the rules
 
-The Boston Marathon rules state that bibs are non-transferable, that participants may not run with anyone not registered as an official participant on any part of the course, and that headphones may be used only while staying aware of your surroundings. Professional, wheelchair and para divisions have stricter limits. Read the rules before entering; do not stop mid-course, cut across others or drop wrappers.
+The Boston Marathon rules state that bibs are non-transferable, that participants may not run with anyone not registered as an official participant on any part of the course, and that headphones may be used only while staying aware and not disturbing others. The Professional Start, Wheelchair Division and Para Athletics Division may not wear headphones at all. Read the rules before entering; do not stop mid-course, cut across others or drop wrappers.
 
 ## A record is recognition, not legend
 
@@ -56,7 +56,7 @@ Assume one runner finishes in 3 hours 40 minutes on a course with 80 metres of c
 
 ## Race day as shared culture
 
-A race is a temporary community with rules that everyone accepts for the day. The bib is non-transferable, so running under someone else's number is not a harmless shortcut; entering the course without registering is equally outside the agreement, and organisers ask participants to follow the code of conduct and competition rules throughout. Portable music is usually permitted with headphones only where awareness of surroundings is maintained, which places the responsibility on the runner rather than the organiser.
+A race is a temporary community with rules that everyone accepts for the day. The bib is non-transferable, so running under someone else's number is not a harmless shortcut; entering the course without registering is equally outside the agreement, and organisers ask participants to follow the code of conduct and competition rules throughout. Portable music is usually permitted with headphones only where awareness of surroundings is maintained and others are not disturbed, except in the Professional Start, Wheelchair Division and Para Athletics Division, where headphones are banned.
 
 Spectators are part of that culture too. Standing behind the barrier, keeping the finish funnel clear and handing food at aid stations only where the rules allow are small acts that keep the event predictable for everyone. When a race publishes a rule, it is usually describing the conditions under which thousands of people can share one course safely; following it is part of participation rather than an administrative extra.
 

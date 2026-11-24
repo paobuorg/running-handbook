@@ -11,5 +11,38 @@
     "The Cooper test distance was the best single predictor of half-marathon time, with R-squared 0.873 and standard error of estimate 3.78 minutes.",
     "The authors state that these data may only be extrapolated to recreational male runners."
   ],
-  "license": "CC BY 4.0"
+  "license": "CC BY 4.0",
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "https://www.frontiersin.org/journals/physiology/articles/10.3389/fphys.2019.01349/full",
+    "note": "Frontiers 开放获取全文（CC BY），已读摘要、方法、结果与讨论，含 Participants/Cooper Test 细节与局限性句。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：“Twenty-three participants ... underwent ... a maximum incremental graded exercise laboratory test”；“Cooper's original protocol was performed on an athletic track”；“all participants completed a half-marathon race at the maximum possible speed”；Participants 节：“23 amateur male athletes”。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：“Significant correlations were found between the time in the half marathon and the distance in the Cooper test (r = −0.93; p < 0.001) ... speed reached at maximum oxygen consumption (vVO2max), (r = −0.84; p < 0.0001)”。数值一致。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：“The distance covered in the Cooper test was the best predictor of time in the half-marathon ... (R2 = 0.873, SEE: 3.78 min)”；实验室模型 R2 = 0.77、SEE 5.28 min，故“best single predictor”成立。"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：“it is important to note that these data may only be extrapolated to recreational male runners.” 与 claim 语气一致。"
+    }
+  ]
 }

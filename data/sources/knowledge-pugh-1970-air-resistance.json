@@ -4,11 +4,38 @@
   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1348744/",
   "publisher": "The Journal of Physiology",
   "publishedAt": null,
-  "accessedAt": "2026-11-07",
+  "accessedAt": "2026-11-08",
   "claims": [
     "克服空气阻力所需的额外摄氧量随风速的平方增加。",
     "田径跑中空气阻力约占总能量消耗的 8%（21.5 km/h，5000 米比赛速度）。",
     "100 米跑 10 秒时，空气阻力约占 16%。"
   ],
-  "license": null
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "curl.exe（PMC 扫描件摘要）",
+    "note": "摘要第 5、6 条即三条断言出处。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "\"The extra O2 intake (ΔV̇O2) associated with wind increased as the square of wind velocity.\""
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "\"about 8% of total energy cost at 21·5 km/hr (5000 m races)\"。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "\"16% for sprinting 100 m in 10·0 sec\"。"
+    }
+  ]
 }

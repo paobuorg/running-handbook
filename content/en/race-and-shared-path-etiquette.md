@@ -17,7 +17,7 @@ Race and shared-path etiquette is the set of actions that let entrants, pedestri
 
 ## Race rules are entry conditions
 
-The Boston Marathon rules state that bibs are non-transferable; participants may not run with anyone not registered as an official participant on any part of the course; portable music devices may be used with headphones only while maintaining awareness, with stricter rules for professional, wheelchair and para divisions; and all must follow the event code of conduct and competition rules. Bib swapping, unofficial pacing, bypassing check-in, moving against aid-station flow or cutting across the course can affect safety and lead to disqualification.
+The Boston Marathon rules state that bibs are non-transferable; participants may not run with anyone not registered as an official participant on any part of the course; portable music devices may be used with headphones only while maintaining awareness and not disturbing others, and the Professional Start, Wheelchair Division and Para Athletics Division may not wear headphones at all; all must follow the event code of conduct and competition rules. Bib swapping, unofficial pacing, bypassing check-in, moving against aid-station flow or cutting across the course can affect safety and lead to disqualification.
 
 ## Start, passing and aid stations
 

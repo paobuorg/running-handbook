@@ -1,0 +1,44 @@
+{
+  "sourceId": "knowledge-nhs-dexa",
+  "title": "Bone density scan (DEXA scan) — How it is performed",
+  "url": "https://www.nhs.uk/tests-and-treatments/dexa-scan/what-happens/",
+  "publisher": "NHS",
+  "publishedAt": "2022-10-05",
+  "claims": [
+    "A bone density scan compares bone density with that expected for a young healthy adult; the difference is expressed as a standard deviation score, and the T score compares the measurement with a young healthy adult.",
+    "The World Health Organization classifies T scores as: above -1 SD normal; between -1 and -2.5 SD mildly reduced bone mineral density; at or below -2.5 SD osteoporosis.",
+    "The scan usually takes 10 to 20 minutes, and the person can go home afterwards.",
+    "A Z score compares bone density with someone of the same age; Z scores are usually used for children and people under 30 who are still growing."
+  ],
+  "accessedAt": "2026-11-19",
+  "license": "NHS website content; citation and summary only",
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-19"
+    }
+  ],
+  "verification": {
+    "checkedAt": "2026-11-19",
+    "checkedVia": "web_fetch（官方页面正文）",
+    "access": "direct",
+    "bodyRead": true,
+    "note": "2026-11-19 直接读取官方页面可读正文，逐条核对 claims；页面为公开官方说明。"
+  }
+}

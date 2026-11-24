@@ -50,7 +50,7 @@ World Athletics publishes records by event and category; road tables distinguish
 
 ## Race rules and bibs
 
-The BAA 2026 Boston Marathon rules state that bibs are non-transferable, participants may not run with anyone not registered on any part of the course, headphones are allowed only with awareness of surroundings, professional, wheelchair and para divisions have stricter rules, and all must follow the code of conduct. Transferring a bib misaligns medical and identity information and removes the result's validity.
+The BAA 2026 Boston Marathon rules state that bibs are non-transferable, participants may not run with anyone not registered on any part of the course, headphones are allowed only while maintaining awareness and not disturbing others, the Professional Start, Wheelchair Division and Para Athletics Division may not wear headphones at all, and all must follow the code of conduct. Transferring a bib misaligns medical and identity information and removes the result's validity.
 
 ## When to stop and seek care
 
@@ -78,4 +78,4 @@ This page does not decide whether a result can be ratified as a record, and does
 
 ## Sources and scope
 
-The definition of the marathon as 42.195 kilometres, or 26 miles and 385 yards, follows the World Athletics marathon discipline page. Record categories, mixed-gender and women-only tables, pending ratification and governing-body recognition follow the World Athletics records page. Non-transferable bibs, the ban on unregistered companions, headphone limits and the code of conduct follow the BAA 2026 Boston Marathon rules. Verified 2026-11-06.
+The definition of the marathon as 42.195 kilometres, or 26 miles and 385 yards, follows the World Athletics marathon discipline page. Record categories, mixed-gender and women-only tables and pending ratification follow the World Athletics records page. Non-transferable bibs, the ban on unregistered companions, headphone limits and the code of conduct follow the BAA 2026 Boston Marathon rules. Verified 2026-11-06.

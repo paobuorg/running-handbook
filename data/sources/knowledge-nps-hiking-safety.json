@@ -9,6 +9,33 @@
     "Carry a map, compass, headlamp with spare batteries, whistle, first aid and extra layers.",
     "GPS can be unreliable; carry alternative navigation and do not rely on it alone."
   ],
-  "accessedAt": "2026-10-27",
-  "license": null
+  "accessedAt": "2026-11-08",
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "WebFetch",
+    "note": "White Sands 徒步安全页可读。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "\"When your water is half-gone, go back to your car.\""
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "\"park map, a compass, a flashlight/headlamp and extra batteries, a whistle… first-aid kit, and extra clothes\"。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "\"GPS signals can be unreliable… have an alternative form of navigation… don't solely rely on your GPS\"。"
+    }
+  ]
 }

@@ -13,10 +13,36 @@
   ],
   "license": null,
   "verification": {
-    "access": "browser",
+    "access": "direct",
     "bodyRead": true,
-    "checkedAt": "2026-11-07",
-    "checkedVia": "WebFetch",
-    "note": "摘要与指南条文可读；风险分层表述与 claim 一致。"
-  }
+    "checkedAt": "2026-11-08",
+    "checkedVia": "Journal of Urology 全文页（摘要与正文前段）",
+    "note": "AUA/SUFU 2020 指南全文页可读，摘要列明风险分层、评估与随访；4 条均核对到原文。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "摘要：建立低/中/高危泌尿生殖系恶性肿瘤风险分层。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "摘要列年龄、性别、吸烟、其他尿路上皮癌风险、血尿程度与持续性、既往肉眼血尿。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "摘要：按风险行膀胱镜与上尿路影像，并共同决策。"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "摘要：条目亦涉及初次评估阴性后的随访。"
+    }
+  ]
 }

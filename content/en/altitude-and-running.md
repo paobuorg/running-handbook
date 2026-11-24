@@ -13,7 +13,7 @@ translationStatus: reviewed
 
 ## What this page covers
 
-This page is for runners travelling to altitude for training, trekking or a race. It answers four questions: how to recognise altitude illness, how fast to ascend, what to do in the first 24-48 hours, and when to descend. Conventional bands are low altitude 500-2000 m, moderate 2000-3000 m and high 3000-5500 m. Acute altitude illness can occur above 2500 m, but individual susceptibility varies widely and symptoms can appear lower.
+This page is for runners travelling to altitude for training, trekking or a race. It answers four questions: how to recognise altitude illness, how fast to ascend, what to do in the first 24-48 hours, and when to descend. Conventional bands are low altitude 500-2000 m, moderate 2000-3000 m and high 3000-5500 m. Unacclimatised lowlanders travelling above 2500 m are at risk of acute altitude illness, but individual susceptibility varies widely and symptoms can appear lower.
 
 This is not a diagnostic tool and does not replace a doctor. Diagnosis depends on symptoms, functional status and ascent history, not on a watch oxygen reading or on feeling fine.
 
@@ -42,7 +42,7 @@ The numbers differ, which shows there is no single acclimatisation dose. Use the
 - No quality sessions, long runs or intensity in the first 24 hours. Treat day one as a check of how you respond to altitude, not as a chance to catch up on training.
 - Avoid alcohol and sleeping pills: both can depress breathing and interfere with acclimatisation; alcohol also worsens dehydration and mimics AMS.
 - Do not force large volumes of fluid. WMS states that forced or over-hydration has not been shown to prevent altitude illness; drink normally and check urine colour.
-- Fitness is not protection. UIAA explicitly notes that very fit people may push harder and increase risk, marathon runners included.
+- Fitness is not protection. The UIAA states that there is no evidence that fitness prevents altitude illness; very fit people may be more susceptible because they push harder, marathon runners included.
 - There is no single evidence-based training volume for the first days (unknown). This page gives a sequence, not a kilometre target.
 
 ## How early to arrive before a race
@@ -70,7 +70,7 @@ The WMS 2024 guideline discusses acetazolamide and dexamethasone for prevention 
 
 ## Common misconceptions
 
-- "Fitness prevents altitude sickness." No. Fitness does not protect, and very fit people may push harder.
+- "Fitness prevents altitude sickness." No. There is no evidence that fitness protects, and very fit people may push harder.
 - "Drinking more prevents it." Forced hydration has no supporting evidence and over-drinking can cause hyponatraemia.
 - "A few hits of oxygen fix it." Short-term commercial oxygen does not replace acclimatisation or descent; WMS does not recommend relying on portable oxygen canisters.
 - "Once acclimatised, HAPE cannot happen." Acclimatisation lowers risk but does not guarantee protection; fast ascent, overexertion and respiratory infection change the picture.
@@ -109,4 +109,4 @@ This page does not provide an individual training plan, drug doses or a diagnosi
 
 ## Sources and verification
 
-Ascent rates, AMS/HACE/HAPE recognition, descent and the role of medication follow the Wilderness Medical Society 2024 clinical practice guideline (Wilderness Environ Med, DOI 10.1016/j.wem.2023.05.013); the 2700 m/400 m rule, rest days, fitness and hydration not protecting, and alcohol/sleeping pills come from the UIAA Medical Commission altitude factsheet; arrival about 2 weeks ahead, 5-7 days of partial acclimatisation and 1-2 days of rest come from the IOC 2012 environmental consensus (Br J Sports Med 46:770-779); 14 hours versus 2 hours, 5-7 days versus 14-19 days and marginal gains beyond 19 days come from Foss 2017 (J Appl Physiol, DOI 10.1152/japplphysiol.00314.2017). Verified 2026-11-07. General education, not medical advice.
+Ascent rates, AMS/HACE/HAPE recognition, descent and the role of medication follow the Wilderness Medical Society 2024 clinical practice guideline (Wilderness Environ Med, DOI 10.1016/j.wem.2023.05.013); the 2700 m/400 m rule, rest days, alcohol and sleeping pills, and the absence of evidence that fitness protects come from the UIAA Medical Commission altitude factsheet; arrival about 2 weeks ahead, 5-7 days of partial acclimatisation and 1-2 days of rest come from the IOC 2012 environmental consensus (Br J Sports Med 46:770-779); 14 hours versus 2 hours, 5-7 days versus 14-19 days and marginal gains beyond 19 days come from Foss 2017 (J Appl Physiol, DOI 10.1152/japplphysiol.00314.2017). Verified 2026-11-07. General education, not medical advice.

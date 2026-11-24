@@ -54,7 +54,7 @@ The authors are explicit that correlation is not causation. You cannot conclude 
 | Men's world/Olympic champions (14 races) | More negative; CV 2.91% ± 0.75% | Position matters, tactics vary |
 | Women's world/Olympic champions (14 races) | More negative with a fast finish; CV 3.18% ± 0.88% | Same |
 
-The difference is the goal, not professionalism: record attempts reward even pace behind pacers, while championships reward a fast last 2 km. Casado et al. (2024) describe men's records as a fast first 5 km followed by even pacing, and men's championships as more negative; the two cannot be transferred.
+The difference is the goal, not professionalism: record attempts reward even pace behind pacers, while championships reward a fast last 2 km. Casado et al. (2024) describe men's records as a fast first 5 km followed by even pacing, and men's championships as more negative; because the distributions differ, training should be specific to the target event.
 
 Counter-evidence belongs here too. Fernandes and Maldonado (2023, arXiv preprint, not peer reviewed) modelled elite racing with drafting and found that **positive splitting** can be fastest when a pacer is present: the protected phase 2.4%–2.6% faster than the unprotected phase. That is a simulation, not a causal trial, and applies only to elite races with pacers — but it shows there is no consensus that negative splitting is optimal.
 
@@ -78,7 +78,7 @@ Minetti et al. (2002) measured the metabolic cost of running from −45% to +45%
 
 ### Heat: move the target from PB pace to 93%–95% of PB pace
 
-Beal et al. (2022) analysed the 2019 Doha women's World Championships: 32.0°C, 77.9% relative humidity, WBGT 29.6°C, with 28 of 68 starters failing to finish (41%), against 15% at London 2017. The top 10 started at **93.7%** of personal-best pace; places 21–40 started at **96.6%**. Groups did not differ before 15 km; the slower group then faded first.
+Beal et al. (2022) analysed the 2019 Doha women's World Championships: 32.0°C, 74% relative humidity, with 40 of 68 starters finishing (28 non-finishers, 41%), against 15% at London 2017. The top 10 started at **93.7%** of personal-best pace; places 21–40 started at **96.6%**. Groups did not differ before 15 km; the slower group then faded first.
 
 - Set the opening target at 93%–95% of PB pace and take another 2%–3% off the first half, instead of "run PB pace and see".
 - Pace is no longer the main metric: heart rate drifts with heat and dehydration (see [heart-rate drift](https://learn.paobu.org/en/articles/heart-rate-drift/)), so use feel, breathing and cooling points.
@@ -207,7 +207,7 @@ This page rests on two observational analyses: 78,912 Boston Marathon finishers 
 
 - Dong and Li, Pacing strategy patterns and performance outcomes in marathon running (PLOS ONE, 2026): 78,912 Boston finishers, four pattern shares, 217 versus 276 minutes, 85.4% wall rate in the variable group (fall of more than 20% in the final segment), 82.0% versus 19.6% even pacing under 3:00 versus casual runners, age and sex effects.
 - Casado et al., Pacing strategies in men's and women's world-record marathon performances and Olympic Games and World Championship's winning performances (Kinesiology, 2024): 12 men's and 8 women's world records plus 14 + 14 championship wins; pace CV 1.52% versus 2.91% in men and 1.61% versus 3.18% in women; records close to even, championships more negative.
-- Beal et al., Marathon Performance and Pacing in the Doha 2019 Women's IAAF World Championships (International Journal of Sports Physiology and Performance, 2022): 32.0°C, 77.9% relative humidity, WBGT 29.6°C; 41% non-finishers versus 15% in London; top 10 opening at 93.7% of PB pace and places 21–40 at 96.6%; fading after 15 km.
+- Beal et al., Marathon Performance and Pacing in the Doha 2019 Women's IAAF World Championships (International Journal of Sports Physiology and Performance, 2022): 32.0°C, 74% relative humidity; 40 of 68 starters finished (28 non-finishers, 41%; London 15%); top 10 opening at 93.7% of PB pace and places 21–40 at 96.6%; fading after 15 km.
 - Minetti et al., Energy cost of walking and running at extreme uphill and downhill slopes (Journal of Applied Physiology, 2002): −45% to +45% grade; uphill metabolic cost exceeds the saving from the same downhill.
 - Fernandes and Maldonado, Against negative splitting (arXiv preprint, 2023): with drafting behind pacers, positive splitting may be fastest, with the protected phase 2.4%–2.6% faster; not peer reviewed and only applicable to elite races with pacers.
 - World Athletics, Marathon Mathematics (2016): Chicago 2005–2016 data, even/negative/positive averages of 242/256/280 minutes, fastest runners varying by less than 5%, wall defined as at least 33% slower in the second half, about half of wall-hitters fastest in the first 5 km, slowest openers never hitting the wall and finishing about 50 minutes faster, about five times the even-split rate with a pacing group, men 3–4 times more likely to hit the wall, women better at even splits beyond 150 minutes, about 19% repeat entrants.

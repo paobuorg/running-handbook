@@ -17,7 +17,7 @@ Goal setting is defined as turning “run better” into observable standards; r
 
 ## Outcome, performance and process goals
 
-Outcome goals point to a finish, placing or time. Performance goals point to your pace, distance or technique. Process goals point to weekly actions. A systematic review and meta-analysis found a medium positive effect of goal setting on task performance, moderated by goal type, proximity, experience and feedback, with mixed evidence for some psychological outcomes and limited cross-study evidence. Outcome goals depend on weather, course, competitors and daily condition; process goals are closer to control.
+Outcome goals point to a finish, placing or time. Performance goals point to your pace, distance or technique. Process goals point to weekly actions. A systematic review and meta-analysis found that goal setting improved task performance, with effects differing by goal type (process goals d = 1.36, performance goals d = 0.44, outcome goals d = 0.09); specific and non-specific goals did not differ significantly (d = 0.37 vs 0.72). The abstract did not report moderation by proximity, experience or feedback; performance findings were mixed, and cross-study evidence for some psychological outcomes was limited. Outcome goals depend on weather, course, competitors and daily condition; process goals are closer to control.
 
 ## Proximity: weekly and 12-week goals
 
@@ -81,4 +81,4 @@ This page does not provide an individual plan or guarantee a result, and does no
 
 ## Sources and scope
 
-The medium positive effect and its moderators follow a systematic review and meta-analysis; the goal-choice and tracking approach follows the ODPHP activity planner; 150 weekly minutes and 2 strength days follow CDC adult guidance. Verified 2026-11-06.
+The performance effect sizes by goal type, and the non-significant specific vs non-specific comparison, follow a systematic review and meta-analysis; the goal-choice and tracking approach follows the ODPHP activity planner; 150 weekly minutes and 2 strength days follow CDC adult guidance. Verified 2026-11-06.

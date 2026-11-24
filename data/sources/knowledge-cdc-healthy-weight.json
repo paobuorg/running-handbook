@@ -11,5 +11,38 @@
     "People who are physically active can still gain weight if they take in more calories than they use.",
     "A health care provider is the best person to ask whether illnesses or medications are contributing to weight gain or making weight loss difficult."
   ],
-  "license": null
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "WebFetch https://www.cdc.gov/healthy-weight-growth/about/tips-for-balancing-food-activity.html",
+    "note": "CDC 页面正文完整可读，落地 URL 与源 URL 一致；页面标注 Mar. 27, 2026，与 publishedAt 2026-03-27 一致。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Physical activity 小节原文：“Healthy pregnant or postpartum women need at least 150 minutes of moderate-intensity aerobic physical activity per week, such as brisk walking.”，人群限定保留。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "关键点原文：“Other factors such as sleep, age, genes, and medications can influence weight.”"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：“People who are physically active can still gain weight if they take in more calories than they use.”"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：“Your health care provider is the best person to ask whether illnesses or medications are contributing to weight gain or making weight loss hard.”"
+    }
+  ]
 }

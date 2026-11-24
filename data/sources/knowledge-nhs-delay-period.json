@@ -12,5 +12,44 @@
     "如果平时不服用复方避孕药，需要在希望推迟的时间前几周开始服用。",
     "2026-11-07 复核：原「How can I delay my period?」页面已重定向至 Periods 总页，原页列出的恶心、呕吐、腹泻、意外出血等副作用清单已不在当前页面；相关断言已按当前页面收窄。"
   ],
-  "license": null
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "NHS Periods 总页 HTML（含推迟经期段）",
+    "note": "原 How can I delay my period 页已重定向至 Periods 总页；推迟方法与用药段可读，副作用清单确已不在当前页。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Periods 总页推迟经期段：复方口服避孕药可推迟，方法随药片类型。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "页面：不用复方避孕药时可处方 norethisterone，但非人人适用。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "页面：咨询 GP、药师或性健康门诊。"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "页面：需提前数周开始服用。"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "复核注记：当前 URL 确为 Periods 总页，含推迟经期段，但不含原副作用清单；该负向描述成立。"
+    }
+  ]
 }

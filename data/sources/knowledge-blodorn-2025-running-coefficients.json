@@ -9,7 +9,40 @@
     "The authors analysed over 14,000 race times from competitive male runners and introduced the coefficient of special endurance (KsA).",
     "They noticed that times for 1500 m and above were slightly different (e.g. about 10 seconds over 5000 m) between the VDOT tables and the VDOT online calculator.",
     "They also noticed that the exponent in Riegel's original publication is 1.07732, while the respective online calculator uses an exponent of 1.06.",
-    "The KsA-based reference ranges predict race times with less than one percent error within the studied population."
+    "The paper reports that KsA values predict race times with less than one percent error, and that the reference ranges allow performance to be evaluated."
   ],
-  "license": "CC BY 4.0"
+  "license": "CC BY 4.0",
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "WebFetch 抓取 Nature/PMC 开放全文，并用 Europe PMC 全文 XML 核对",
+    "note": "Blödorn 2025 全文；2026-11-20 拆分“预测误差”和“参考区间用途”。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "摘要原文：\"we analysed over 14,000 race times from competitive male runners and introduce the coefficient of special endurance (KsA)\"。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：\"We noticed that the times for 1500 m and above were slightly different (e.g., ~ 10 s over 5000 m) from the VDOT tables and the VDOT online calculator\"。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：\"the exponent in Riegel's original publication is 1.07732, while the respective online calculator uses an exponent of 1.06\"。"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-20",
+      "note": "原文：KsA values predict race times with less than one percent；reference ranges “allow performance to be evaluated”。原 claim 把“用于分级评价”写成“参考区间预测”。"
+    }
+  ]
 }

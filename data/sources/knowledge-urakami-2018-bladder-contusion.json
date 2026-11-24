@@ -15,5 +15,62 @@
     "The article cites a prevalence of running-induced haematuria of about 20–25%, and reports that macroscopic haematuria is rarer, with about 2% prevalence in marathon runners.",
     "The authors recommend urological evaluation including cytology and CT in addition to cystoscopy for running-induced gross haematuria."
   ],
-  "license": null
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "Europe PMC 全文 XML（PMC7292097）",
+    "note": "病例系列全文可读，8 条逐条核对；属 12 例单中心病例报告，不能外推为普遍结论。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "病例系列：2014-01 至 2017-12 共 12 例跑步后无症状肉眼血尿。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "9/12（75%）膀胱镜见后壁中央红斑/充血黏膜挫伤，部位一致。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "作者机制：排空膀胱内后壁随跑动垂直运动反复撞击固定膀胱颈。"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "全部男性，中位 48 岁（40–66），跑距均>10 km。"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "停跑后肉眼血尿数日缓解；4 例复查膀胱镜数月内恢复；5 例重启跑步后复发。"
+    },
+    {
+      "index": 5,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "3/12（25%）另患非肌层浸润性膀胱癌、下段输尿管肿瘤、输尿管结石。"
+    },
+    {
+      "index": 6,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "文中引用运动相关血尿约 20–25%，马拉松肉眼血尿约 2%。"
+    },
+    {
+      "index": 7,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "作者建议除膀胱镜外行尿细胞学与 CT 等上尿路评估。"
+    }
+  ]
 }

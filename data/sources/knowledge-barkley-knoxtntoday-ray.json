@@ -1,0 +1,34 @@
+{
+  "sourceId": "knowledge-barkley-knoxtntoday-ray",
+  "title": "James Earl Ray's escape inspired Barkley Marathon",
+  "url": "https://www.knoxtntoday.com/james-earl-rays-escape-inspired-barkley-marathon/",
+  "publisher": "Knox TN Today",
+  "publishedAt": "2024-03-26",
+  "claims": [
+    "Only 26 have ever finished the 100-mile course, as of the article's publication after the 2024 race.",
+    "Ray only managed to cover something between 8 to 12 miles during his 54.5 hours hiding out in the mountains that became Frozen Head State Park.",
+    "By June 13, Ray and the others were recaptured, and he had another year added to his sentence.",
+    "The race selects 35 participants.",
+    "The race was named after one of Cantrell's running buddies, Barry Barkley.",
+    "The race was created by Gary Cantrell and Karl Henn.",
+    "Cantrell thought Ray's mileage while on the run was fairly pitiful and that he himself could have covered at least 100 miles."
+  ],
+  "accessedAt": "2026-11-08",
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "WebFetch",
+    "note": "2026-11-08 直取正文。地方史专栏，文末自列来源为 Knoxville Journal 与 Associated Press 的数字档案以及 Runner's World，但未逐句对应。它给出的 26 人完赛与其它来源的 14/20 口径不同，正文据此说明“完赛次数”与“不同完赛者”混用的问题，不判定哪一个是官方数字。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-08", "note": "原句：\"Only 26 have ever finished the 100-mile course.\" 发布于 2024-03-26，即 2024 届之后。" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-08", "note": "原句：\"Ray only managed to cover something between 8 to 12 miles during his 54.5 hours hiding out in the mountains\"" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-08", "note": "原句：\"By June 13, he and the others were recaptured, and he had another year added to his sentence.\"" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-08", "note": "原句：\"usually last-minute demands for a license plate… for the 35 selected to compete\"" },
+    { "index": 4, "status": "supported", "checkedAt": "2026-11-08", "note": "原句：\"named after one of Cantrell's running buddies, Barry Barkley\"" },
+    { "index": 5, "status": "supported", "checkedAt": "2026-11-08", "note": "原句：\"The race was created by Gary Cantrell and Karl Henn\"" },
+    { "index": 6, "status": "supported", "checkedAt": "2026-11-08", "note": "原句：\"Cantrell thought Ray's mileage while on the run was fairly pitiful and that he himself could have covered at least 100.\"" }
+  ]
+}

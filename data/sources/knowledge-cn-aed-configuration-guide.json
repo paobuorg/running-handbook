@@ -1,15 +1,41 @@
 {
-    "sourceId":  "knowledge-cn-aed-configuration-guide",
-    "title":  "公共场所自动体外除颤器配置指南（试行）（国卫办医函〔2021〕602 号）",
-    "url":  "https://www.gov.cn/zhengce/zhengceku/2021-12/31/content_5665718.htm",
-    "publisher":  "国家卫生健康委办公厅",
-    "publishedAt":  "2021-12-13",
-    "claims":  [
-                   "文件要求各地在公共场所推进自动体外除颤器（AED）配置。",
-                   "配置强调可及性：设备应便于公众在紧急情况下快速取用，并有清晰的标识与指引。",
-                   "文件要求做好设备维护、人员培训与科普，使配置真正可用。"
-               ],
-    "license":  null,
-    "accessedAt":  "2026-11-07"
+  "sourceId": "knowledge-cn-aed-configuration-guide",
+  "title": "公共场所自动体外除颤器配置指南（试行）（国卫办医函〔2021〕602 号）",
+  "url": "https://www.gov.cn/zhengce/zhengceku/2021-12/31/content_5665718.htm",
+  "publisher": "国家卫生健康委办公厅",
+  "publishedAt": "2021-12-13",
+  "claims": [
+    "The document is issued for local areas to refer to when configuring AEDs in public places, and recommends gradually expanding configuration in crowded venues and emergency vehicles; it is not a mandatory \"must configure\" decree.",
+    "配置强调可及性：设备应便于公众在紧急情况下快速取用，并有清晰的标识与指引。",
+    "The installation requirements make daily inspection by the venue unit mandatory; the notice says training should be organised, while public education through screen playback is encouraged."
+  ],
+  "license": null,
+  "accessedAt": "2026-11-07",
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "WebFetch https://www.gov.cn/zhengce/zhengceku/2021-12/31/content_5665718.htm",
+    "note": "国务院网站指南与通知全文；2026-11-20 区分“参照使用/建议逐步推进”与“日常巡检强制、培训应组织、科普鼓励”，不再统一写成“要求”。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-20",
+      "note": "通知原文“供各地在公共场所配置自动体外除颤器时参照使用”；指南“建议在……人员密集场所和警车、消防车等应急载具内，逐步推进配置工作”。原文不是强制“必须配置”口径。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "安装要求（五）：“外箱或机柜门应方便、快捷开启（不上锁、不扫码），避免错失抢救时间”；（七）：“应安装在位置显眼、易于发现、方便取用的固定位置”；（二）（八）规定统一标识及出入口、放置处的导向标识。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-20",
+      "note": "安装要求（九）“设备安装场所所在单位负责开展……日常巡检并做好记录”；通知正文“应组织……培训工作”；科普为“鼓励”设显示屏播放。"
+    }
+  ]
 }
-

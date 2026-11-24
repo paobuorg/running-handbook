@@ -33,7 +33,7 @@ Both come from biomechanics research and are not predictions for every individua
 | Study | Sample | Condition | Key result |
 |---|---|---|---|
 | Jamkrajang & Limroongreungrat (2015) | 30 female collegiate athletes, B75–C70 | Treadmill at 9 km/h, no bra / encapsulation / compression | Vertical displacement during running: no bra 42.6 / 48.8 mm, encapsulation 23.3 / 22.8 mm, compression 18.9 / 19.1 mm (right/left) |
-| Same study | Same | Jogging at 6 km/h | Both sports bras reduced vertical displacement by more than 50% |
+| Same study | Same | Jogging at 6 km/h | Vertical displacement reduced by 39.4% right / 36.4% left with the encapsulation bra and 55.8% right / 47.5% left with the compression bra; only the compression bra's right-side figure exceeded 50% |
 | Fong & Powell (2022) | 15 recreational runners, B–DD cup | 10-minute treadmill run, low versus high support | Relative oxygen consumption 30.9 to 28.7 ml/kg/min; running economy 88.6 to 95.2 m/L O2 |
 
 In Jamkrajang's study, the compression bra produced significantly less vertical displacement than the encapsulation bra during running (p < 0.05), while the encapsulation bra allowed more independent motion of each breast. The sample was only 30 women with B75–C70 sizes, so it does not generalise to every body.
@@ -53,6 +53,12 @@ The same review offers several practical observations:
 - Moving straps from a traditional vertical alignment to a crossed-back design reduced slipping without reducing overall support;
 - Commercially available strap cushions did not reduce strap pressure in the cited study;
 - A correctly fitted sports bra did not significantly affect maximal exercise performance or respiratory function during submaximal exercise.
+
+Use this three-step fitting test rather than relying on a "high support / low support" label:
+
+1. **Measure the underband first:** measure the ribcage snugly; the band should sit close without digging in. You should still breathe normally with two fingers fitting under it.
+2. **Then check straps and cups:** straps should not slip or cut deep furrows; the cups should contain the whole breast, with no spill at the armpit or lower edge and no centre gapping.
+3. **Finally do a movement test:** run in place for 30 seconds, take several deep breaths and raise your arms; if a strap slips, the band rides up, or breathing is restricted, change size or construction rather than padding the problem.
 
 "Tighter" is not "better". An over-tight underband and straps transfer pressure to the ribs, shoulders and skin, creating a new problem while solving another.
 
@@ -107,9 +113,7 @@ In a survey of 74 breast cancer survivors, 70.3% reported bra discomfort during 
 - **"Breast pain means cancer"**: the NHS says breast pain alone is unlikely to be cancer, but a hard lump, bloody discharge, shape change, orange-peel skin or an inverted nipple needs urgent assessment.
 - **"A new bra treats breast pain"**: a well-fitted bra is one comfort measure, not a diagnosis or treatment. Persistent, non-cyclical pain or any red flag should be reviewed.
 
-## How to choose: four fitting steps and one example
-
-Step one: measure the underband (snug against the ribs) and the bust (fullest point). Step two: compare the difference with the brand's size chart — the same label is not equivalent across brands. Step three: try it on and jump and swing your arms, checking whether the band rides up, the straps dig in, or the skin rubs. Step four: review it over a run of at least 30 minutes rather than a minute in the changing room.
+### One sizing example
 
 Example (hypothetical): underband 76 cm and bust 90 cm gives a 14 cm difference, which falls between B and C on many charts; because brands differ, the deciding test is no displacement, no pressure and no rubbing during the jump test.
 

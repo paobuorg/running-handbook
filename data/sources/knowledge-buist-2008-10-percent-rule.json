@@ -12,5 +12,44 @@
     "The introduction reports injury incidence ranges of 30% to 79% and 7 to 59 injuries per 1000 hours of running, and an estimate that 60% of running injuries can be attributed to training errors."
   ],
   "accessedAt": "2026-11-07",
-  "license": null
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "https://research.rug.nl/files/2727628/Buist_2008_Am_J_Sports_Med.pdf",
+    "note": "读到 University of Groningen 仓储的出版社版 PDF（引言、方法、结果、讨论与结论），非仅摘要。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：“Participants were novice runners (N = 532) preparing for a recreational 4-mile (6.7-km) running event”；“a standard 8-week training program (control group) and an adapted, graded, 13-week training program … based on the 10% training rule”。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：“An RRI was defined as any musculoskeletal complaint of the lower extremity or back causing a restriction of running for at least 1 week.”"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文结果：“The graded training program was not preventive for sustaining an RRI (χ2 = 0.016, df = 1, P = .90). The incidence of RRI was 20.8% in the graded training program group and 20.3% in the standard training program group.”数字、统计量完全一致。"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文结论：“no effect of a graded training program (13 weeks) in novice runners, applying the 10% rule, on the incidence of RRI compared with a standard 8-week training program.”"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文引言：“incidence rates of RRI vary from 30% to 79%, and from 7 to 59 RRIs per 1000 hours of running”；“It is estimated that 60% of all RRIs can be attributed to training errors”。三个数字与 claim 一致。"
+    }
+  ]
 }

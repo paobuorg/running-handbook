@@ -9,7 +9,40 @@
     "26 名参与者（男 15、女 11）在日常生态条件下同时佩戴 Fitbit Charge 4 与 Polar H10 胸带。",
     "稳定跑步（11 次、3 人）中光学心率偏差 0.1 bpm、平均绝对百分比误差 1.2%（SD 4.6%），一致限 −10.7 至 10.9 bpm。",
     "定向越野跑（5 次、5 人）误差升至 9.5%，偏差 −8.6 bpm；羽毛球 16.2%、足球 17.5%。",
-    "同一设备在稳定跑步中足够准确，但在频繁变速、间歇或复杂地形中误差明显增大。"
+    "同一设备在稳定跑步中足够准确；定向越野、羽毛球和足球等手臂与手腕快速随机动作场景中误差明显增大，作者不建议用于需要高可靠性与准确性的场景。"
   ],
-  "license": "CC-BY-4.0"
+  "license": "CC-BY-4.0",
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-20",
+    "checkedVia": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11735015/fullTextXML",
+    "note": "JMIR 页面抓取被截断，改用 Europe PMC 全文 XML；核对参与者、Table 2 场次/人数与 Table 3 偏差、LOA、MAPE。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：“A total of 26 young adults (11 women and 15 men) were included in this study”；共 77.5 小时、55 次训练；每次同时佩戴 FC4 与 Polar H10 胸带。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文 Table 2：Run 11 sessions、3 participants；Table 3：bias 0.1 bpm，upper/lower LOA 10.9; −10.7，MAPE 1.2 (SD 4.6)%。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文 Table 2：Orienteering running 5 sessions、5 participants；Table 3：bias −8.6 bpm、MAPE 9.5 (SD 10.4)%；badminton MAPE 16.2%、soccer 17.5%。"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-20",
+      "note": "原文结论把误差归因于 sharp 和 random arm and wrist movements（足球、拍类），定向越野 MAPE 9.5%；并称 “we cannot recommend the use of the FC4 for specific purposes requiring high reliability and accuracy”。"
+    }
+  ]
 }

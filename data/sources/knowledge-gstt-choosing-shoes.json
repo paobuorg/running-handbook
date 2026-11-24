@@ -13,5 +13,50 @@
     "Slip-on shoes hold on by fitting tightly round the toes, which can cause pain and pressure at the forefoot.",
     "Shop at the end of the day so the feet are at their largest if they tend to swell."
   ],
-  "license": null
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "Guy's and St Thomas' NHS 选鞋减痛页（正文）",
+    "note": "页面正文可读，6 条逐条核对。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "页面：最长趾与鞋头约 1 cm。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "页面：鞋头需够深，避免压趾背致鸡眼。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "页面：窄/尖头鞋挤压足部，久而久之致甲问题、鸡眼或神经损伤。"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "页面：鞋带/魔术贴固定于足弓，给趾活动空间。"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "页面：一脚蹬靠紧包足趾固定，可致前足疼痛与压迫。"
+    },
+    {
+      "index": 5,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "页面：傍晚试鞋，足部肿胀时最大。"
+    }
+  ]
 }

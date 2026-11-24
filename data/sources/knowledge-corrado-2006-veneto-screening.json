@@ -4,7 +4,7 @@
   "url": "https://jamanetwork.com/journals/jama/fullarticle/203513",
   "publisher": "JAMA",
   "publishedAt": "2006-10-04",
-  "accessedAt": "2026-11-07",
+  "accessedAt": "2026-11-20",
   "claims": [
     "In the Veneto region of Italy, the annual incidence of sudden cardiovascular death in young competitive athletes decreased by 89% after implementation of a pre-participation screening program, from 3.6 to 0.4 per 100,000 person-years between 1979-1980 and 2003-2004.",
     "The incidence of sudden death among the unscreened non-athlete population did not change significantly over the same period.",
@@ -14,8 +14,14 @@
   "verification": {
     "access": "blocked",
     "bodyRead": false,
-    "checkedAt": "2026-11-07",
-    "checkedVia": "Crossref",
-    "note": "出版社验证页；摘要与正文均未取得。"
-  }
+    "checkedAt": "2026-11-20",
+    "checkedVia": "curl.exe via local 7890 proxy + PubMed efetch abstract (PMID 17018804); JAMA page still behind Cloudflare human check",
+    "note": "2026-11-20 经 7890 代理读取 PubMed 结构化摘要。JAMA 页面仍返回 Cloudflare 验证且全文需订阅，bodyRead 保持 false。前两条数字与方向由摘要直接支持；第三条 screening 具体组成不在摘要，保留 partial，不外推。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-20", "note": "摘要：annual incidence decreased by 89%（3.6/100,000 person-years in 1979-1980 to 0.4/100,000 in 2003-2004），Veneto、12–35 岁、26 年。" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-20", "note": "摘要：incidence of sudden death among the unscreened nonathletic population did not change significantly。" },
+    { "index": 2, "status": "partial", "checkedAt": "2026-11-20", "note": "摘要仅说 nationwide systematic preparticipation athletic screening，未列个人史、家族史、体检和 12 导联 ECG；该细节来自全文/指南，本轮未读，故不判 supported。" }
+  ]
 }
+

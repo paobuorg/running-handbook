@@ -12,5 +12,44 @@
     "Adding high-intensity training three to four times per week for several weeks can temporarily suppress performance and induce overreaching.",
     "Studies involving intensification of training in already well-trained athletes have shown equivocal results at best."
   ],
-  "license": null
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "正文：精英耐力运动员 80% 以上训练在乳酸阈以下，高强度用得很少。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "正文：3 名世界/奥运冠军、逾 15,000 次课，约 85% 为 ≤2 mM 的持续低中强度。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "正文：约 80% 课次在 VT1 以下或 ≤2 mM，其余约 20% 分配于阈值与 90–100% VO2max 间歇。"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "正文：连续 2–8 周、每周 3–4 次高强度，可暂时压低表现并诱发过度伸展/过度训练症状。"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "正文：对已训练者强化训练的研究结果“至多模棱两可”（equivocal at best）。"
+    }
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "作者 PDF 全文",
+    "note": "PDF 全文可读；15,000 次课、85%、80:20 与过度伸展均有原文。"
+  }
 }

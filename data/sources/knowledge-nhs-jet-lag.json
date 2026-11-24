@@ -16,5 +16,59 @@
     "Melatonin tablets are not recommended on the NHS for jet lag because there is not enough evidence to show they work."
   ],
   "accessedAt": "2026-11-07",
-  "license": "NHS website content; citation and summary only"
+  "license": "NHS website content; citation and summary only",
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "index": 5,
+      "status": "supported",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "index": 6,
+      "status": "supported",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "index": 7,
+      "status": "supported",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "index": 8,
+      "status": "supported",
+      "checkedAt": "2026-11-19"
+    }
+  ],
+  "verification": {
+    "checkedAt": "2026-11-19",
+    "checkedVia": "web_fetch（官方页面正文）",
+    "access": "direct",
+    "bodyRead": true,
+    "note": "2026-11-19 直接读取官方页面可读正文，逐条核对 claims；页面为公开官方说明。"
+  }
 }

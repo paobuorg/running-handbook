@@ -14,5 +14,56 @@
     "In one study, vegetarian runners had a significantly lower serum ferritin (7.4 micrograms per litre) than meat eaters (19.8 micrograms per litre) despite similar total iron intake, with absorbable iron of 0.66 versus 0.91 mg per day."
   ],
   "accessedAt": "2026-11-07",
-  "license": "CC-BY-4.0"
+  "license": "CC-BY-4.0",
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "WebFetch 直连 PMC 全文（PMC4596414）",
+    "note": "CC-BY 全文完整读取，含表 1 的铁蛋白数据；无付费墙。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：\"inverse relationship between iron absorption and serum ferritin (sFer) concentration up to the level of 60 μg/L\"；\"absorption of both haem and non-haem iron was 40 % in subjects with sFer of 10 μg/L\"，高铁蛋白时尤其非血红素铁下降。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：血红素铁 \"uptake can be as efficient as 40 %\"、\"only about 10 % of all dietary iron\"；非血红素铁 \"varies greatly from 2 to 20 %\"；\"In Western diets 50 % of total dietary iron comes from grain products\"。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文分三阶段：储存耗竭、\"erythropoiesis, where transport iron is decreased\"、最后 \"haemoglobin synthesis falls ... resulting in anaemia\"。"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：\"physiological range of serum ferritin in adult females is 15 to 200 μg/L\"；活跃女性下限 \"varies ... from 12 to 35 μg/L\"；\"A value of 12 μg/L ... absence of marrow iron stores\"。"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "表 1：Pate 等距离跑者 n=111、切点 <20 μg/L、50%；Koehler 等运动员 n=97、切点 <35 μg/L、57%。"
+    },
+    {
+      "index": 5,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：UK RNI \"14.8 mg\"、US RDA \"18 mg\"；耐力女性需求 \"increased by approximately 70 %\"，若照此执行 \"10 mg of iron would be added\"。"
+    },
+    {
+      "index": 6,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：素食跑者铁蛋白 7.4 μg/L vs 肉食者 19.8 μg/L，可吸收铁 0.66 vs 0.91 mg/day，总铁摄入相近。"
+    }
+  ]
 }

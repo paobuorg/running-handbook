@@ -10,8 +10,53 @@
     "No participant had urinary red blood cell counts above the reference interval (≥3 cells per high-power field) before the race; post-race, 12 of 20 finishers (60%) had hematuria.",
     "Post-race urine showed statistically significant increases in red blood cells, myoglobin, protein, microalbumin, specific gravity, osmolality and creatinine compared with pre-race values.",
     "Running speed was not associated with the degree of hematuria (p = 0.368), proteinuria or myoglobinuria.",
-    "The authors note that post-exercise hematuria and proteinuria are usually temporary and resolve within a few days without medical support.",
+    "The introduction describes post-exercise hematuria and proteinuria as usually transient and resolving within a few days without medical support; this is literature background, not a follow-up finding of this 20-person study.",
     "The introduction cites that acute kidney injury criteria are met in approximately 16%–50% of athletes participating in long-distance races."
   ],
-  "license": "CC BY 4.0"
+  "license": "CC BY 4.0",
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-20",
+    "checkedVia": "Frontiers 全文 HTML",
+    "note": "全文可读；20 名男性超马选手自身前后对照，摘要与结果段核对。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "20 名男性台湾超马选手，100 km 越野赛前、赛后即刻采样。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "赛前均<3 RBC/HPF；赛后 12/20（60%）出现血尿。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "RBC、肌红蛋白、蛋白、微量白蛋白、比重、渗透压、肌酐均显著升高。"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "跑速与血尿程度无关（p=0.368），与蛋白尿、肌红蛋白尿亦无关。"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-20",
+      "note": "该表述位于引言文献背景，不是本研究随访结果；样本 20 人，未测症状持续时间。"
+    },
+    {
+      "index": 5,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "引言引用长距离赛事运动员约 16%–50% 达到 AKI 标准。"
+    }
+  ]
 }

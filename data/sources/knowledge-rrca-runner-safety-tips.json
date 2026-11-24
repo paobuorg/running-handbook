@@ -1,15 +1,41 @@
 {
-    "sourceId":  "knowledge-rrca-runner-safety-tips",
-    "title":  "Runner Safety Tips",
-    "url":  "https://www.rrca.org/education/for-runners/runner-safety-tips/",
-    "publisher":  "Road Runners Club of America",
-    "publishedAt":  null,
-    "claims":  [
-                   "Runners are advised to stay alert, trust their intuition and avoid a person or area that feels unsafe.",
-                   "Varying routes and routines is recommended to reduce predictability.",
-                   "Running against traffic and obeying traffic signals are listed as basic street-safety practices."
-               ],
-    "license":  null,
-    "accessedAt":  "2026-11-07"
+  "sourceId": "knowledge-rrca-runner-safety-tips",
+  "title": "Runner Safety Tips",
+  "url": "https://www.rrca.org/education/for-runners/runner-safety-tips/",
+  "publisher": "Road Runners Club of America",
+  "publishedAt": null,
+  "claims": [
+    "Runners are advised to stay alert, trust their intuition and avoid a person or area that feels unsafe.",
+    "Varying routes and routines is recommended to reduce predictability.",
+    "Running against traffic and obeying traffic signals are listed as basic street-safety practices."
+  ],
+  "license": null,
+  "accessedAt": "2026-11-08",
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "WebFetch",
+    "note": "RRCA 条目式安全清单可读。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "\"Be Alert…\"；\"Trust your intuition… Avoid a person or area if it feels unsafe.\""
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "\"Vary your routine: Select various routes so your routine is not too predictable\"。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "\"Run against traffic… Obey traffic signals.\""
+    }
+  ]
 }
-

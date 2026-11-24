@@ -14,5 +14,56 @@
     "The NHS lists urgent review for a hard lump that does not move around, nipple discharge that may be streaked with blood, a change in breast shape, skin dimpling like orange peel, or a rash on or around the nipple or a nipple that has sunk into the breast."
   ],
   "accessedAt": "2026-11-07",
-  "license": "NHS website content; citation and summary only"
+  "license": "NHS website content; citation and summary only",
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "NHS 官网页面",
+    "note": "页面全文读取；Page last reviewed 22 June 2020，Next review due 22 June 2023，已过期未更新，属一般健康建议而非诊疗指南。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：“begins up to 2 weeks before a period, gets worse and then goes away when the period ends”；“feels dull, heavy or aching”；“affects both breasts and sometimes spreads to the armpit”。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文 Other causes 清单：injuries or sprains to the neck, shoulder or back；contraceptive pill and some antidepressants；mastitis or a breast abscess；pregnancy；hormone changes during the menopause。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：“Breast pain by itself is unlikely to be a symptom of cancer.”"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：“wear a properly fitted bra during the day and a soft bra to sleep in”；“There's little evidence that vitamin E tablets or evening primrose oil help with breast pain.”"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Non-urgent advice 三项：not improving or painkillers not helping；history of breast cancer in your family；any signs of pregnancy。"
+    },
+    {
+      "index": 5,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Urgent advice：“breast pain and have a very high temperature or feel hot and shivery”；“any part of your breast is red, hot or swollen”。"
+    },
+    {
+      "index": 6,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "同一 Urgent advice 清单列出：hard lump that does not move around；nipple discharge possibly streaked with blood；breasts change shape；skin dimpled like orange peel；rash on/around nipple or nipple sunk into breast。"
+    }
+  ]
 }

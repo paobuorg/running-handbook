@@ -7,9 +7,42 @@
   "accessedAt": "2026-11-07",
   "claims": [
     "系统综述纳入 21 项研究、6,228 人。",
-    "有较强证据表明内旋足是胫骨内侧应力综合征（MTSS）的风险因素，但效应量小（0.28–0.33）。",
-    "内旋足与髌股疼痛只有非常有限的证据；与足踝伤、骨应力反应和非特异性下肢过度使用伤未发现关联。",
-    "静态足姿只应作为 MTSS 与髌股疼痛多因素评估的一部分，不能单独用来配鞋或预测伤病。"
+    "There is strong evidence that a pronated foot posture is a risk factor for medial tibial stress syndrome (MTSS), with a small pooled effect size of 0.28; the same review reported 0.33 for patellofemoral pain.",
+    "Static measures of foot posture should be used as part of a multifactorial injury risk assessment and not considered in isolation.",
+    "Static foot posture should be used as part of a multifactorial injury-risk assessment and not considered in isolation."
   ],
-  "license": null
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-20",
+    "checkedVia": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC4282737/fullTextXML",
+    "note": "Neal 2014 系统综述全文；2026-11-20 修正 MTSS 与髌股疼痛的效应量归属，并删除配鞋外推。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文 Results：“Twenty-one studies were included (total n = 6,228; EAI 0.8 to 1.7 out of 2.0)”。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-20",
+      "note": "原文 Clinical implications：MTSS pooled SMD 0.28、patellofemoral pain 0.33；原 claim 把两个数字合并成 MTSS 的 0.28–0.33 区间，已改正归属。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-20",
+      "note": "原文 Conclusions 原句；删除正文没有的“不能单独用来配鞋”。"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-20",
+      "note": "原文 Conclusions：“Static measures of foot posture should be used as part of a multifactorial injury risk assessment and not considered in isolation.” 删除“不能单独用来配鞋”的外推。"
+    }
+  ]
 }

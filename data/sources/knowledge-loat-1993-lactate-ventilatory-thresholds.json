@@ -11,5 +11,38 @@
     "The two thresholds measure different physiological signals, so they should not be treated as equivalent.",
     "The individual anaerobic threshold is described as an intensity that can be sustained for at least about 50 minutes in trained subjects."
   ],
-  "license": null
+  "license": null,
+  "verification": {
+    "access": "metadata-only",
+    "bodyRead": false,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "Springer 文章页（桌面 UA 直连 HTTP 200，仅 Summary 可读）+ Europe PMC 记录（PMID 8446822）",
+    "note": "2026-11-08 重试：Springer 文章页可读，正文仍需订阅，只读到 Summary（摘要）与参考文献。claim 0、1 有摘要原句，改为 supported；claim 3 的“trained subjects”限定不在摘要原句中，维持 partial；claim 2 是对摘要的概括，维持 partial。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Summary 原句：The anaerobic threshold is commonly measured by either blood lactate (lactate threshold) or ventilatory gases (ventilatory threshold)。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Summary 原句：however, the relationship between these 2 methods is not conclusive。"
+    },
+    {
+      "index": 2,
+      "status": "partial",
+      "checkedAt": "2026-11-08",
+      "note": "Summary 提到 McArdle 病等反例，但“measure different physiological signals / 不应等同”仍是对摘要的概括，正文未读。"
+    },
+    {
+      "index": 3,
+      "status": "partial",
+      "checkedAt": "2026-11-08",
+      "note": "Summary 原句支持“performance is maximal and able to be sustained for at least 50 minutes”，但未出现 claim 中的“trained subjects”限定，故不升为 fully supported。"
+    }
+  ]
 }

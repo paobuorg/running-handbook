@@ -12,5 +12,44 @@
     "It advises talking to a doctor or physiotherapist before starting if you have had spinal fractures or many broken bones, or are recovering from a broken bone."
   ],
   "accessedAt": "2026-11-07",
-  "license": "Royal Osteoporosis Society copyright; citation and summary only"
+  "license": "Royal Osteoporosis Society copyright; citation and summary only",
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "WebFetch https://theros.org.uk/information-and-support/exercise/exercise-for-bones/strength-exercise-to-help-make-your-bones-stronger/",
+    "note": "ROS 页面正文完整可读，页脚 Last reviewed 1 June 2026。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：“on 2 to 3 days of the week - leave at least a day's rest in between”“for 20 to 30 minutes - work on your legs, arms, back and stomach muscles”。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：“Try to build up to 3 sets of each exercise. Aim to do 8 to 12 repetitions in each set.”"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：“do one exercise from each of these groups every time you do strength training”（hinge, push, pull, squat）；“Add a brace and either a lunge or step into your routine, once or twice a week.”"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：“If you are not able to do 8 repetitions with good technique, try a lighter weight. If you are able to do 12 repetitions of the exercise and feel you can keep going, try a heavier weight.”"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：“Talk to your doctor or physiotherapist before starting any exercise if you: have a history of many broken bones or spinal fractures / are recovering from a broken bone”。"
+    }
+  ]
 }

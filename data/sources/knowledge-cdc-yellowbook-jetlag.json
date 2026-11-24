@@ -16,5 +16,59 @@
     "Melatonin taken when the internal clock thinks it is morning produces a phase delay that can facilitate adaptation to westward travel, and taken when the internal clock thinks it is early evening produces a phase advance that can facilitate adaptation to eastward travel."
   ],
   "accessedAt": "2026-11-07",
-  "license": "CDC Yellow Book; citation and summary only"
+  "license": "CDC Yellow Book; citation and summary only",
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "index": 5,
+      "status": "supported",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "index": 6,
+      "status": "supported",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "index": 7,
+      "status": "supported",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "index": 8,
+      "status": "supported",
+      "checkedAt": "2026-11-19"
+    }
+  ],
+  "verification": {
+    "checkedAt": "2026-11-19",
+    "checkedVia": "web_fetch（官方页面正文）",
+    "access": "direct",
+    "bodyRead": true,
+    "note": "2026-11-19 直接读取官方页面可读正文，逐条核对 claims；页面为公开官方说明。"
+  }
 }

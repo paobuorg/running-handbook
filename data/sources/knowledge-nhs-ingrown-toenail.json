@@ -13,5 +13,50 @@
     "See a GP if the toe is painful and swollen with pus, or if you have a very high temperature or feel hot, cold or shivery.",
     "People with diabetes and an ingrown toenail should see a GP because foot problems can be more serious with diabetes."
   ],
-  "license": null
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "NHS 嵌甲页 HTML（正文）",
+    "note": "NHS 页面正文可读，6 条逐条核对。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "预防：不要剪太短。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "平剪，不剪两侧。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "不穿过紧或不合脚鞋。"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "感染征象：流脓、发热/寒战。"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "GP 指征：红肿流脓痛，或高热/寒热感。"
+    },
+    {
+      "index": 5,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "糖尿病合并嵌甲应看 GP，足部问题更严重。"
+    }
+  ]
 }

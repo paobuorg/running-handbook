@@ -21,7 +21,7 @@ Running lifts and decelerates body mass, so weight affects energy cost per kilom
 
 ## Risks of low energy availability
 
-Chronic low energy availability is linked to RED-S. The 2023 International Olympic Committee consensus updated the female athlete triad framework to RED-S, which applies to male and female athletes and describes endocrine, bone, metabolic and psychological effects; it requires clinical assessment. Rapid weight loss, menstrual changes, recurrent stress fractures, persistent fatigue or loss of control around food are signals; long-term under-fuelling can reduce recovery, bone density and immunity.
+Chronic low energy availability is linked to RED-S. The 2023 International Olympic Committee consensus applies to male and female athletes and describes endocrine, bone, metabolic and psychological effects of low energy availability; it requires clinical assessment. RED-S was introduced in 2014 and updated in 2018. Rapid weight loss, menstrual changes, recurrent stress fractures, persistent fatigue or loss of control around food are signals; long-term under-fuelling can reduce recovery, bone density and immunity.
 
 ## Race goals and weight
 

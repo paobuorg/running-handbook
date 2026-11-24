@@ -1,0 +1,26 @@
+{
+  "sourceId": "knowledge-barkley-ferrett-2026",
+  "title": "Barkley Marathons 2026",
+  "url": "https://barkley.ferrett.io/",
+  "publisher": "barkley.ferrett.io（粉丝维护的赛事追踪页）",
+  "publishedAt": "2026-02-17",
+  "claims": [
+    "The 2026 Barkley Marathons has ended. There are no finishers.",
+    "The conch was blown at Sat, Feb 14, 2026 18:00, the race started at Sat, Feb 14, 2026 19:00, and the race ended at Tue, Feb 17, 2026 07:00.",
+    "2026 年赛果表中，Sébastien Raichon 完成三圈 Fun Run，第三圈完成时间记为 38:05:46。"
+  ],
+  "accessedAt": "2026-11-08",
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "WebFetch",
+    "note": "2026-11-08 直取 2026 年页面。粉丝维护的追踪页，不是赛事官方；选手姓名在表中带问号或链接到选手页，属于追踪页的推断，正文不据此确认身份。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-08", "note": "页面原文：\"The 2026 Barkley Marathons has ended. There are no finishers. #BM100\"" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-08", "note": "页面原文：\"The conch was blown at Sat, Feb 14, 6:00:00 PM… the race started at Sat, Feb 14, 7:00:00 PM… the race ended at Tue, Feb 17, 7:00:00 AM\"" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-08", "note": "Loops 表：Sébastien Raichon 第三圈完成栏为 38:05:46，并标 FUN。" }
+  ]
+}

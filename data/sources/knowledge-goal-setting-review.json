@@ -4,18 +4,38 @@
   "url": "https://www.tandfonline.com/doi/full/10.1080/1750984X.2022.2116723",
   "publisher": "International Review of Sport and Exercise Psychology",
   "publishedAt": null,
-  "accessedAt": "2026-11-07",
+  "accessedAt": "2026-11-08",
   "claims": [
-    "Goal setting had a medium, positive effect on task performance in sport.",
-    "The effect was moderated by factors including goal type, proximity, experience and feedback.",
-    "The review notes mixed findings and limited cross-study evidence for some psychological outcomes."
+    "Goal setting improved task performance in sport, with effects differing by goal type: process goals d = 1.36, performance goals d = 0.44 and outcome goals d = 0.09.",
+    "The review reports a non-significant performance difference between specific (d = 0.37) and non-specific goals (d = 0.72), and effects differing by goal type; the abstract does not report moderation by proximity, experience or feedback.",
+    "The review reports mixed performance findings and limited cross-study evidence for some psychological outcomes."
   ],
   "license": "All rights reserved; citation and abstract only",
   "verification": {
-    "access": "metadata-only",
-    "bodyRead": false,
-    "checkedAt": "2026-11-07",
-    "checkedVia": "WebFetch",
-    "note": "仅读到摘要与方法；效应量与调节因素未核对。"
-  }
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-20",
+    "checkedVia": "WebFetch（tandfonline 摘要与正文开头）",
+    "note": "摘要完整取得，全文在 Methods 中途截断。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "摘要：\"Process goals had the largest effect… (d = 1.36) compared to performance goals (d = 0.44) and outcome goals (d = 0.09).\""
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "摘要：\"No significant difference… between specific (d = 0.37) and non-specific goals (d = 0.72)\"；摘要未报告 proximity/experience/feedback 调节。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-20",
+      "note": "摘要支持 performance 的 mixed findings 与部分心理结局“limited cross-study evidence”；原文未说心理结局本身 mixed。"
+    }
+  ]
 }

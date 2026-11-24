@@ -14,5 +14,56 @@
     "The review notes that compression improved running economy and some biomechanical variables, but garment wear was not associated with improved sports performance during high-intensity exercise."
   ],
   "accessedAt": "2026-11-07",
-  "license": "Springer Nature copyright; citation and summary only"
+  "license": "Springer Nature copyright; citation and summary only",
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC9388468/fullTextXML（Sports Med 2022;52:2759-2774 全文 XML，含 Table 3/4 与亚组分析）",
+    "note": "已读到 Methods、The Overall Effects of CG、Subgroup Analyses、Discussion 全文；“19 项 RCT/350 人”只在摘要 Methods 中出现，正文结果按纳入研究表逐项列出，未再复述合计。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文摘要 Methods：“Data from 19 randomized controlled trials (RCTs) including 350 healthy participants were extracted and meta-analytically computed.” 正文未复述该合计，仅以 Table 2 列出各项试验并以“Three additional RCTs were included in the qualitative analysis only”说明其中 3 项仅作定性分析。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文 Results：“After physical exercise, CG versus no CG revealed no effects on muscle strength at any time point: (a) immediately ≤ t < 24 h: SMD = −0.02 (−0.22 to 0.19), p = 0.87; (b) 24 ≤ t < 48 h: SMD = −0.00 (−0.22 to 0.21), p = 0.98; (c) 48 ≤ t < 72 h: SMD = −0.03 (−0.43 to 0.37), p = 0.87; (d) 72 ≤ t < 96 h: SMD = 0.14 (−0.21 to 0.49), p = 0.43; (e) 96 h ≤ t: SMD = 0.26 (−0.33 to 0.85), p = 0.38.” 数值与 claim 完全一致。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：“The body area where the CG was applied did not affect strength-related outcomes after exercise (Supplementary Figs. 6–10).”"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文正文：“There was a small and unlikely beneficial dose–response effect of CG after PLYO (SMD = 0.42 [−0.03 to 0.87], p = 0.07, three RCTs)”；摘要作“CGs revealed weak strength-sparing effects after plyometric exercise.” claim 的“weak”取自摘要，但原文同时强调效应不显著（p = 0.07）且仅 3 项 RCT。"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：“no likely recovery benefits from CGs were demonstrated following running [57] most likely due to the lower levels of muscle damage caused by running compared with RES [58–60].” 注意这是引言转述文献 57 的结果，并非本文 meta 分析所得；claim 未声称是本文发现。"
+    },
+    {
+      "index": 5,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：“In 2019, worldwide sales of CGs reached 5 million pieces with an overall value of $45 million [21].”"
+    },
+    {
+      "index": 6,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：“whilst the use of CGs improved running economy, biomechanical variables (i.e., ground contact time, step frequency, step length, swing time), and perceived body temperature [40], garment wear was not associated with improved sports performance during high-intensity exercise [41].”"
+    }
+  ]
 }

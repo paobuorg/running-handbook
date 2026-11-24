@@ -11,5 +11,38 @@
     "OBLA showed good concordance with MLSS (ICC = 0.83), while RLT showed excellent concordance (ICC = 0.98).",
     "The authors describe fixed threshold concepts such as OBLA as arbitrary or empirically derived and therefore not fully consistent with the physiological principle of MLSS."
   ],
-  "license": "CC BY-NC 3.0"
+  "license": "CC BY-NC 3.0",
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "WebFetch https://pmc.ncbi.nlm.nih.gov/articles/PMC8139357/（PMC 全文 HTML）",
+    "note": "读到摘要、引言及 Study 1/2 方法与统计部分；原文为正式期刊论文（Biol Sport 2021;38(2):285-290，2020-10-22 在线），非预印本。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "摘要：“The mean difference in MLSS was +0.06 ± 0.05 m·s-1 for RLT”；Study 1 为 16 名受试者。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "摘要：“and +0.13 ± 0.23 m·s-1 for OBLA”。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "摘要：“OBLA showed a good concordance with the MLSS (ICC = 0.83), whereas RLT revealed excellent concordance with the MLSS with an ICC = 0.98.”"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "引言原文：“the most common threshold concepts, such as the onset of blood lactate accumulation (OBLA, 4 mmol·L-1), are arbitrary or empirically derived … and therefore do not take sufficient account of the physiological principle of MLSS”。"
+    }
+  ]
 }

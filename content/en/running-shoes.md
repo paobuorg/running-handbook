@@ -35,7 +35,7 @@ Choose by comfort, stability and fit during walking, easy jogging and direction 
 |---|---|---|
 | Shoes assigned by arch height vs one stability shoe for all | 3 randomised prospective trials, 7,203 recruits | Injury rates differed little; assigning by plantar shape did not reduce injury (Knapik 2014) |
 | One-year follow-up in neutral shoes | 927 novice runners, 1,854 feet, 326,803 km | Pronators were not at higher risk; their injury rate per 1,000 km was 0.37 lower (Nielsen 2014) |
-| Foot posture and lower-limb overuse injury | 21 studies, 6,228 people | Strong but small association between pronation and medial tibial stress syndrome (0.28–0.33); no association with foot/ankle injury, bone stress reactions or non-specific overuse injury (Neal 2014) |
+| Foot posture and lower-limb overuse injury | 21 studies, 6,228 people | Strong but small association between pronation and medial tibial stress syndrome (pooled SMD 0.28); the same review reported 0.33 for patellofemoral pain; no association with foot/ankle injury, bone stress reactions or non-specific overuse injury (Neal 2014) |
 
 Use a decision table rather than ordering by arch label:
 

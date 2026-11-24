@@ -27,7 +27,7 @@ Length depends on weekly volume, goal distance, surface and recovery capacity. A
 
 ## Practise fuelling and route judgement together
 
-The ISSN nutrient-timing position stand says carbohydrate timing and amount around exercise can affect performance and recovery, but guidance must fit exercise demand, diet and individual tolerance. The NHS notes that long activity or heat can increase fluid needs. Do not debut a new gel, drink or breakfast on race day.
+The ISSN nutrient-timing position stand says carbohydrate timing and amount around exercise can affect performance and recovery, but guidance must fit exercise demand, duration and individual tolerance. The NHS notes that long activity or heat can increase fluid needs. Do not debut a new gel, drink or breakfast on race day.
 
 Choose routes with water, escape points, low traffic risk and familiarity. A GPX shows geometry only, not closures, water or phone coverage; check the weather and leave a trip plan.
 

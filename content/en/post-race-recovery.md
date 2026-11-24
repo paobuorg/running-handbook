@@ -25,7 +25,7 @@ The first week needs little running. Walk, move lightly and sleep, watching sore
 
 ## The protein and carbohydrate frame
 
-The ISSN protein position stand states that 1.4 to 2.0 g per kilogram per day is sufficient for most exercising individuals; per serving about 0.25 g/kg, or 20 to 40 g, every 3 to 4 hours. Whole foods can meet the need; supplements are an option. For endurance athletes carbohydrate remains the priority for performance, while protein may offset muscle damage and support recovery. The ISSN nutrient-timing paper adds that carbohydrate timing and amount affect performance and recovery, adapted to the individual, the demand and the diet.
+The ISSN protein position stand states that 1.4 to 2.0 g per kilogram per day is sufficient for most exercising individuals; per serving about 0.25 g/kg, or 20 to 40 g, every 3 to 4 hours. Whole foods can meet the need; supplements are an option. For endurance athletes carbohydrate remains the priority for performance, while protein may offset muscle damage and support recovery. The ISSN nutrient-timing paper adds that carbohydrate timing and amount affect performance and recovery, adapted to the individual, the duration and the demand.
 
 ## How to do it: three steps for three weeks
 

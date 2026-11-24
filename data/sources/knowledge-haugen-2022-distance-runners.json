@@ -15,5 +15,62 @@
     "Some marathon runners apply a reverse linear periodization model, with the highest running volumes recorded in the weeks before the taper as competition approaches.",
     "African runners often live and train at 2000–2500 m altitude for most of the year, while most lowland athletes use relatively long altitude camps during preparation."
   ],
-  "license": null
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "摘要原文：场地 5000/10000 m 选手每年 9±3 场，马拉松选手 6±2 场。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "摘要原文：赛前中期周跑量 130–190 km（场地）与 160–220 km（马拉松）。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "摘要原文：两组均 11–14 次/周，全年 ≥80% 总跑量为低强度。"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "摘要原文：TID 随中周期变化且两组不同，临近主赛比赛配速跑量增加。"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "摘要原文：减量自主赛前 7–10 天开始。"
+    },
+    {
+      "index": 5,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "正文：过渡期通常 1–2 周，部分运动员完全休息约 4 周。"
+    },
+    {
+      "index": 6,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "正文：部分马拉松选手采用反向线性周期化，减量前周跑量最高。"
+    },
+    {
+      "index": 7,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "摘要原文：非洲选手多全年住训 2000–2500 m，低海拔选手用较长高原营。"
+    }
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "PMC 全文",
+    "note": "PMC8975965 全文可读；8 条数字与摘要/正文一致。"
+  }
 }

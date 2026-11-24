@@ -9,6 +9,33 @@
     "Evidence linking weekly distance, duration, frequency, intensity or recent changes to injury was conflicting.",
     "The authors caution against recommending one optimal training progression for every runner."
   ],
-  "accessedAt": "2026-10-27",
-  "license": null
+  "accessedAt": "2026-11-08",
+  "license": null,
+  "verification": {
+    "access": "metadata-only",
+    "bodyRead": false,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "NCBI efetch（仅摘要）",
+    "note": "仅摘要（J Athl Train 2022;57(7):650-671）。 R53 回扫：2026-11-08 用桌面 UA 直连重试 2 次，出版商均返回 203 反爬/订阅门，仅摘要或元数据可读，正文需订阅；属外部条件，不是官方没有。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "\"36 articles… 23 047 runners… 6043 runners (26.2%) sustained an RRI\"。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "\"evidence about the association between weekly running distance, duration, frequency, intensity… was conflicting\"。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "CONCLUSIONS：\"caution should be taken when recommending optimal parameters or progressions\"。"
+    }
+  ]
 }

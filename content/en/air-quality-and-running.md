@@ -43,7 +43,7 @@ Running is not "the same air in a different posture". Exercise raises ventilatio
 
 That does not make running harmful by definition. It means that **at the same AQI, running produces a higher exposure dose than walking**. This is why AirNow suggests walking instead of running at 101–150, and a gym session at 151–200. "I feel fine" is not a safe criterion, because it underestimates the dose.
 
-WHO's 2021 guidelines set the annual PM2.5 guideline level at 5 µg/m³ and the 24-hour level at 15 µg/m³; for PM10 the values are 15 µg/m³ annual and 45 µg/m³ 24-hour. PM2.5 reaches the alveoli and can enter the bloodstream, with effects falling mainly on the cardiovascular and respiratory systems. Keep the distinction clear: **WHO guideline values are health-based targets, while AQI bands are a local communication tool** — they are not the same ruler. In 2019, 99% of the world's population lived where WHO guideline levels were not met; outdoor air pollution was estimated to cause 4.2 million premature deaths that year, with 68% attributed to ischaemic heart disease and stroke.
+WHO's 2021 guidelines set the annual PM2.5 guideline level at 5 µg/m³ and the 24-hour level at 15 µg/m³; for PM10 the values are 15 µg/m³ annual and 45 µg/m³ 24-hour. PM2.5 is fine particulate matter, and the guideline states that air pollution increases morbidity and mortality from cardiovascular and respiratory disease. Keep the distinction clear: **WHO guideline values are health-based targets, while AQI bands are a local communication tool** — they are not the same ruler. In 2019, 99% of the world's population lived where WHO guideline levels were not met; outdoor air pollution was estimated to cause 4.2 million premature deaths that year, with 68% attributed to ischaemic heart disease and stroke.
 
 ## A decision order for real sessions
 
@@ -111,7 +111,7 @@ Keep a weekly note of three things through a training block: cough, eye or nose 
 - AirNow / U.S. EPA, Air Quality and Outdoor Activity Guidance for Schools: orange, red and purple activity changes, lower ozone in the morning, symptom list.
 - AirNow / U.S. EPA, Air Quality Index Toolkit for Weathercasters: sensitive-group definitions for ozone and particles, symptom response.
 - U.S. EPA, Wildfire Smoke and Your Patients' Health: The Air Quality Index: avoid strenuous activity such as running when it looks or smells smoky.
-- WHO, WHO global air quality guidelines (2021): PM2.5 annual 5 µg/m³ and 24-hour 15 µg/m³; PM10 annual 15 µg/m³ and 24-hour 45 µg/m³; PM2.5 can enter the bloodstream.
+- WHO, WHO global air quality guidelines (2021): PM2.5 annual 5 µg/m³ and 24-hour 15 µg/m³; PM10 annual 15 µg/m³ and 24-hour 45 µg/m³; PM2.5 is fine particulate matter; air pollution increases cardiovascular and respiratory morbidity and mortality.
 - WHO, Ambient (outdoor) air pollution fact sheet (24 October 2024): 99% of the population above guideline levels in 2019, 4.2 million premature deaths and the attribution split.
 - DeFlorio-Barker et al., Acute effects of short-term exposure to air pollution while being physically active (Preventive Medicine, 2020): higher ventilation, more air bypassing the nose, particles reaching the lower respiratory tract.
 

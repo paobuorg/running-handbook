@@ -15,5 +15,62 @@
     "Urine cytology is recommended when carcinoma in situ is suspected or when there is a history of gross hematuria.",
     "The most widely used framework follows the updated 2025 American Urological Association guideline on microhematuria risk stratification."
   ],
-  "license": "StatPearls; citation and summary only"
+  "license": "StatPearls; citation and summary only",
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-20",
+    "checkedVia": "WebFetch 工具抓取 https://www.ncbi.nlm.nih.gov/books/NBK534213/ 与 /?report=reader（桌面 UA）",
+    "note": "2026-11-20 读取 NCBI Bookshelf 全文 High-Risk Patients 段：高风险需 CT urogram + cystoscopy；怀疑 CIS 或既往肉眼血尿时建议尿细胞学。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "定义：≥3 RBC/HPF，肉眼外观正常。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "试纸阳性不能单独确诊，需一次以上镜检确认。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "试纸强阳性而镜检无 RBC，提示肌红蛋白尿、溶血性血红蛋白尿等假性血尿。"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "伴蛋白尿、管型或畸形红细胞多提示肾小球病变。"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "约半数病例可找到明确病因，另一半病因未明。"
+    },
+    {
+      "index": 5,
+      "status": "supported",
+      "checkedAt": "2026-11-20",
+      "note": "原文 High-Risk Patients：CT of abdomen and pelvis without and with IV contrast (CT urogram) along with cystoscopy."
+    },
+    {
+      "index": 6,
+      "status": "supported",
+      "checkedAt": "2026-11-20",
+      "note": "原文：Urine cytology is recommended when carcinoma in situ is suspected or when a history of gross hematuria is present."
+    },
+    {
+      "index": 7,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "正文明确采用 2025 AUA 微血尿风险分层框架。"
+    }
+  ]
 }

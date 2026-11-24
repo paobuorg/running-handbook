@@ -9,5 +9,26 @@
     "NHS lists these as reasons to seek urgent medical advice: pain that is clearly getting worse, pain that lasts or keeps returning, difficulty swallowing, pregnancy, unintended weight loss, a sudden change in urination, blood in the stool, unusual vaginal bleeding, or diarrhoea that does not settle after several days."
   ],
   "accessedAt": "2026-11-07",
-  "license": "NHS copyright; citation and summary only"
+  "license": "NHS copyright; citation and summary only",
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "WebFetch https://www.nhs.uk/conditions/stomach-ache/",
+    "note": "NHS 页面正文完整可读；页面标注 last reviewed 26 May 2023、next review due 26 May 2026，已过复审日期但内容仍在线。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "逐条对应“Call 999 or go to A&E if”列表：“a stomach ache came on very suddenly or is severe”“it hurts when you touch your stomach”“vomiting blood or your vomit looks like ground coffee”“your poo is bloody or black and sticky…”“you cannot pee”“you cannot poo or fart”“you cannot breathe”“you have chest pain”“you have diabetes and you're vomiting”“someone has collapsed”。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "逐条对应“Ask for an urgent GP appointment or get help from NHS 111 if”列表：“it gets much worse”“it does not go away or keeps coming back”“problems with swallowing food”“you're pregnant”“losing weight without trying to”“suddenly pee more often or less often”“peeing is suddenly painful”“you bleed from your bottom”“unusual bleeding or abnormal discharge from your vagina”“diarrhoea that does not go away after a few days”；页面另列 bloating，claim 未列也未声称穷尽。"
+    }
+  ]
 }

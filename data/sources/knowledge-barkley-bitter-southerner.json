@@ -1,0 +1,50 @@
+{
+  "sourceId": "knowledge-barkley-bitter-southerner",
+  "title": "Good Luck, Morons: Lazarus Lake and His Impossible Race",
+  "url": "https://bittersoutherner.com/lazarus-lake-barkley-marathons-good-luck-morons",
+  "publisher": "The Bitter Southerner",
+  "publishedAt": "2017-04-27",
+  "claims": [
+    "Out the 1,000 or so runners who've attempted the race, only 14 people have ever finished.",
+    "With 59,100 feet of climb, it's the equivalent of climbing Mount Everest…twice.",
+    "The Barkley is entirely unmarked, so Laz and Raw Dog hide books throughout the course to serve as benchmarks.",
+    "When a runner gets to a book, she tears out the page that corresponds to her number, and brings it back to Laz as proof she completed the full loop.",
+    "By finding the last book page the runner tore out, search parties can narrow down where the runner might be.",
+    "Though they typically won't go looking for someone until the full 60 hours are up.",
+    "There are 13 books this year.",
+    "The race will begin sometime between midnight and noon on Saturday; no one knows exactly when.",
+    "At some point in those 12 hours, Laz will blow a conch shell, which means the runners have exactly one hour to be at the starting gate.",
+    "The race starts when Laz lights his cigarette.",
+    "文章把创始人写作 Lazarus Lake（本名 Gary Cantrell）和他的朋友兼同事 Raw Dog。",
+    "地形与路段名称包括 Big Hell、Rat Jaw、Bird Mountain、The Bad Thing、Son of a Bitch Ditch 与 Leonard's Butt Slide。",
+    "There are no stunning vistas and verdant flora in early spring when the race is held. It's wintry and barren with blankets of blinding fog.",
+    "The Barkley Marathons were already famous among extreme athletes, and then, a 2014 documentary film brought the wider world's attention.",
+    "They train for years, for decades, to vie for a spot they usually don't get."
+  ],
+  "accessedAt": "2026-11-08",
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "WebFetch",
+    "note": "Sara Estes 撰写的现场长文，2026-11-08 直取正文。Longreads 转载页标注 2017-04-27，原文自述“Thirty years ago”，因此文中描述的届次年份不能由发布日期直接推定；本文所有数字只按“该文写作时”的叙述处理，不当作 2026 年现状。二手报道，不是赛事官方发布。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-08", "note": "原句：\"Out the 1,000 or so runners who've attempted the race, only 14 people have ever finished.\"" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-08", "note": "原句：\"With 59,100 feet of climb, it's the equivalent of climbing Mount Everest…twice.\"" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-08", "note": "原句：\"The Barkley is entirely unmarked, so Laz and Raw Dog hide books throughout the course to serve as benchmarks.\"" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-08", "note": "原句：\"she tears out the page that corresponds to her number, and brings it back to Laz as proof she completed the full loop\"" },
+    { "index": 4, "status": "supported", "checkedAt": "2026-11-08", "note": "原句：\"By finding the last book page the runner tore out, search parties can narrow down where the runner might be.\"" },
+    { "index": 5, "status": "supported", "checkedAt": "2026-11-08", "note": "原句：\"Though they typically won't go looking for someone until the full 60 hours are up.\"" },
+    { "index": 6, "status": "supported", "checkedAt": "2026-11-08", "note": "原句：\"There are 13 books this year.\" 该“this year”指文章所写那一届，不是 2026 届。" },
+    { "index": 7, "status": "supported", "checkedAt": "2026-11-08", "note": "原句：\"The race will begin sometime between midnight and noon on Saturday; no one knows exactly when.\"" },
+    { "index": 8, "status": "supported", "checkedAt": "2026-11-08", "note": "原句：\"at some point in those 12 hours, Laz will blow a conch shell, which means the runners have exactly one hour to be at the starting gate\"" },
+    { "index": 9, "status": "supported", "checkedAt": "2026-11-08", "note": "原句：\"The race starts when Laz lights his cigarette.\"" },
+    { "index": 10, "status": "supported", "checkedAt": "2026-11-08", "note": "原文：\"Lazarus Lake is standing next to a red Honda…\"；\"Laz, whose real name is Gary Cantrell\"；\"his friend and colleague, Raw Dog\"" },
+    { "index": 11, "status": "supported", "checkedAt": "2026-11-08", "note": "原文：\"Big Hell, Rat Jaw, or Bird Mountain… The Bad Thing… Son of a Bitch Ditch… Leonard's Butt Slide\"" },
+    { "index": 12, "status": "supported", "checkedAt": "2026-11-08", "note": "原句：\"There are no stunning vistas and verdant flora in early spring when the race is held. It's wintry and barren with blankets of blinding fog.\"" },
+    { "index": 13, "status": "supported", "checkedAt": "2026-11-08", "note": "原句：\"The Barkley Marathons were already famous among extreme athletes, and then, a 2014 documentary film brought the wider world's attention.\"" },
+    { "index": 14, "status": "supported", "checkedAt": "2026-11-08", "note": "原句：\"They train for years, for decades, to vie for a spot they usually don't get\"" }
+  ]
+}

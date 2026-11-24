@@ -1,15 +1,41 @@
 {
-    "sourceId":  "knowledge-cn-civil-code-article-184",
-    "title":  "中华人民共和国民法典 第一百八十四条",
-    "url":  "http://gongbao.court.gov.cn/Details/51eb6750b8361f79be8f90d09bc202.html",
-    "publisher":  "最高人民法院公报",
-    "publishedAt":  "2020-05-28",
-    "claims":  [
-                   "第一百八十四条规定：因自愿实施紧急救助行为造成受助人损害的，救助人不承担民事责任。",
-                   "该条为自愿施救者提供了民事责任上的保护。",
-                   "条文本身不规定急救操作规范，操作规范来自急救指南与培训。"
-               ],
-    "license":  null,
-    "accessedAt":  "2026-11-07"
+  "sourceId": "knowledge-cn-civil-code-article-184",
+  "title": "中华人民共和国民法典 第一百八十四条",
+  "url": "http://gongbao.court.gov.cn/Details/51eb6750b8361f79be8f90d09bc202.html",
+  "publisher": "最高人民法院公报",
+  "publishedAt": "2020-05-28",
+  "claims": [
+    "第一百八十四条规定：因自愿实施紧急救助行为造成受助人损害的，救助人不承担民事责任。",
+    "该条为自愿施救者提供了民事责任上的保护。",
+    "条文本身只规定民事责任承担，不规定急救操作规范。"
+  ],
+  "license": null,
+  "accessedAt": "2026-11-07",
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-20",
+    "checkedVia": "WebFetch 最高人民法院公报页 + 抓取司法部《民法典》全文页 HTML 定位条文",
+    "note": "源 URL（最高人民法院公报）抓取正文仅呈现至第八十五条，未含第一百八十四条；条文改由司法部“《中华人民共和国民法典》全文”专题页（www.moj.gov.cn/…/t20260520_535295.html）HTML 全文定位核对，为同一法律文本，位于第一编第八章民事责任。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：“第一百八十四条　因自愿实施紧急救助行为造成受助人损害的，救助人不承担民事责任。”（司法部全文页，第一编第八章民事责任；前一条为第一百八十三条见义勇为补偿条款）"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "条文为免责规范：要件是“自愿实施紧急救助行为”且“造成受助人损害”，法律效果为“救助人不承担民事责任”；未附加重大过失例外。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-20",
+      "note": "该条全文只写自愿实施紧急救助造成受助人损害不承担民事责任，未涉及急救操作规范。"
+    }
+  ]
 }
-

@@ -11,5 +11,38 @@
     "People with lung disease who notice these symptoms when air is polluted should check with their doctor about what to do."
   ],
   "accessedAt": "2026-11-07",
-  "license": "Public domain (US government work); cited with attribution"
+  "license": "Public domain (US government work); cited with attribution",
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "WebFetch https://www3.epa.gov/airnow/weathercasters/aqi-toolkit-weathercasters-part2.pdf",
+    "note": "PDF 正文可读，抓取到的是该件第 27 页起的 Civic Groups 章节，敏感人群定义与症状处置建议均在这一段正文中。PDF 无出版日期，属较早版本（AQI 最高档仍写作 very unhealthy/purple，为 2012 年前的分档表述），引用时应避免当作现行 AirNow 六档口径。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：“Sensitive groups for ozone pollution include active children and adults, and people with lung disease.”"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：“Sensitive groups for particle pollution include people with heart or lung disease, older adults, and children.”"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：“If you notice symptoms when you’re outside, such as coughing, pain when taking a deep breath, chest tightness, or wheezing, stop what you’re doing and switch to a less strenuous activity.”（claim 的“unusual”在此段无对应词，属轻微修饰）。"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：“Check with your doctor if you have these symptoms.”（针对所有出现症状者，不限肺病患者）；同段另有“People with heart disease should check with their doctor before engaging in vigorous outdoor exertion when particle levels are high.”，claim 只保留了其中一半，改写时勿省略心脏病提示。"
+    }
+  ]
 }

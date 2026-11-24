@@ -11,5 +11,38 @@
     "In the women's marathon at the same championships, 57 of 78 finishers (73%) were rearfoot strikers, 19 (24%) midfoot and 2 (3%) forefoot during lap 4.",
     "The results show that rearfoot striking is common even at world-championship level."
   ],
-  "license": "Publisher terms; citation and summary only"
+  "license": "Publisher terms; citation and summary only",
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "https://eprints.leedsbeckett.ac.uk/id/eprint/6018/4/MostMarathonRunnersAtThe2017IAAFWorldChampionshipsAM-HANLEY.pdf",
+    "note": "读取 Leeds Beckett 机构库作者接受稿全文；核对正文 115/149、37/34/21/32 与 Table 2 女子 Lap 4 数据。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：“Overall, more than 75% of athletes (115/149) had consistent footstrike pattern between laps. In other words, less than one quarter (34/149) of all athletes changed footstrike pattern during the race.”"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：“34 (92%) of 37 men classified as RFS and 21 (66%) of 32 classified as NRFS during Lap 1 maintained their footstrike pattern.”"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文 Table 2 女子 Lap 4：RFS 57 (73%)、MFS 19 (24%)、FFS 2 (3%)。"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文摘要与结果：“RFS ... proportions never less than 54% of men or 67% of women at any distance”；“As most athletes were RFS ... there appears to be no clear advantage to NRFS in marathon running.”"
+    }
+  ]
 }

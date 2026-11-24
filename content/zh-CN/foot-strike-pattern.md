@@ -57,9 +57,9 @@ translationStatus: reviewed
 
 - **比赛中确实会变，但方向多是往前掌转后跟。** Bovalino 2021 的 meta 分析中，随距离增加有 **11%** 的跑者改变着地方式，其中多数是**从非后跟转为后跟**——更像是疲劳后回到更省力的模式。
 - **穿鞋时，速度几乎不改变选择。** Lai 2020 让 20 名规律跑步的男性在跑步机上由慢到快跑，穿鞋时 **95%** 使用后跟着地，到最快速度也只下降 5%。
-- **赤足时后跟比例低得多，但与速度无关。** 同一研究里赤足只有 **23.8%** 后跟着地，着地分布随速度变化不显著（χ² = 2.26，p = 0.89）。穿鞋与赤足的差异显著（χ² = 99.07，p < 0.01）。
+- **赤足时后跟比例低得多，但与速度无关。** 同一研究里赤足只有 **23.8%** 后跟着地，着地分布随速度变化不显著（χ² = 2.26，p = 0.89）。着地分布与穿鞋/赤足条件显著相关（χ² = 99.07，p < 0.01）。
 
-所以更准确的说法是：**着地方式与穿不穿鞋、鞋的结构关系更大，与速度的关系比想象中小。** 换鞋比提速更容易改变着地方式，这一点在[跑鞋](https://learn.paobu.org/articles/running-shoes/)页有展开。
+所以更准确的说法是：**着地方式与是否穿鞋、鞋的结构关联更强，与速度的关联较弱。** 这是列联表上的关联，不能推断「换鞋会直接改变着地方式」；机制与个体差异仍需单独研究，[跑鞋](https://learn.paobu.org/articles/running-shoes/)页有展开。
 
 ## 与伤病的关系：结论不一致，需要两栏并列
 
@@ -69,7 +69,7 @@ translationStatus: reviewed
 |---|---|
 | Burke 2021 综述中，6 项分类研究里有 **3 项**发现后跟着地者的回顾性伤病率显著更高 | 同一综述中另有 **1 项**发现中足/前掌着地者风险更高 |
 | 部分回顾性研究把后跟着地与膝部问题关联 | 7 项使用连续指标的研究里，只有 **1 项**与伤病显著相关 |
-| — | Burke 2021 将总体证据等级评为 **low**：回顾性设计、样本小、着地判定方法粗糙 |
+| — | Burke 2021 的 GRADE 表把总体证据终评为 **very low**（结构化摘要写作 low）：回顾性设计、样本小、着地判定方法粗糙 |
 | — | Alexander 2021 指出：**没有前瞻性证据**支持任何一种着地方式会增加或减少未来伤病 |
 
 关键区别在于**回顾性**与**前瞻性**。回顾性研究问的是「已经受伤的人过去怎么着地」，它无法回答「改着地方式能不能预防受伤」。目前公开来源没有给出「改成前掌后受伤率下降多少」的一致数字，这个数字写 **unknown**。
@@ -168,7 +168,7 @@ translationStatus: reviewed
 - Hanley 等，Most marathon runners at the 2017 IAAF World Championships were rearfoot strikers, and most did not change footstrike pattern，J Biomech 2019：149 人中 >75%（115/149）全程保持同一模式；女子马拉松第 4 圈 73% 后跟、24% 中足、3% 前掌；男子后跟者 92% 保持、非后跟者 66% 保持。
 - Kasmer 等，Foot-Strike Pattern and Performance in a Marathon，IJSPP 2013：8.1 公里处 2112 人，1991 人可分类，后跟 93.67%；成绩越好越少后跟（p < .0001）；与性别无关；横断面研究。
 - Lai 等，Will the Foot Strike Pattern Change at Different Running Speeds with or without Wearing Shoes?，IJERPH 2020：20 名男性；穿鞋 95% 后跟且各速度不变（最快速度仅降 5%）；赤足 23.8% 后跟且与速度无关（χ² = 2.26，p = 0.89）；穿鞋 vs 赤足 χ² = 99.07，p < 0.01。
-- Burke 等，Risk Factors for Injuries in Runners: A Systematic Review of Foot Strike Technique and Its Classification at Impact，OJSM 2021：13 项研究；6 项分类研究中 3 项发现后跟者回顾性伤病更多、1 项发现中足/前掌更多；7 项连续指标研究仅 1 项显著；总体证据等级 low。
+- Burke 等，Risk Factors for Injuries in Runners: A Systematic Review of Foot Strike Technique and Its Classification at Impact，OJSM 2021：13 项研究；6 项分类研究中 3 项发现后跟者回顾性伤病更多、1 项发现中足/前掌更多；7 项连续指标研究仅 1 项显著；GRADE 终评 very low（摘要写 low）。
 - Alexander 等，Infographic. Running myth: switching to a non-rearfoot strike reduces injury risk and improves running economy，BJSM 2021：改非后跟缺少证据支持；膝负荷下降但小腿/踝/足负荷上升；无前瞻证据；两种习惯性着地方式跑步经济性无差异；绝大多数穿鞋休闲跑者后跟着地。
 - Yang 等，Alterations in Running Biomechanics after 12 Week Gait Retraining with Minimalist Shoes，IJERPH 2020：30 名男性随机分组，17 人完成；联合组后跟转前掌 78%（7/9）；负荷率下降，踝关节力矩上升。
 - Zhang 等，Effects of a 12-week gait retraining program on the Achilles tendon adaptation of habitually shod runners，Scand J Med Sci Sports 2024：30 名男性随机分组，28 人完成；57%（8/14）转为前掌；跟腱长度与横截面积显著增加。

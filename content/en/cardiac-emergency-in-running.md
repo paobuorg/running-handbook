@@ -13,7 +13,7 @@ translationStatus: reviewed
 
 ## Disclaimer and scope
 
-**This page does not replace first-aid training.** If someone collapses, is unresponsive or is not breathing normally, call emergency services immediately and follow the dispatcher's instructions. A cardiac emergency in running means a potentially life-threatening circulatory or breathing event during or just after a run — chest pain, fainting, loss of consciousness or unusual palpitations. It applies when you are willing to stop and ask for help. It covers recognition and activating the emergency chain only. It gives **no compression depth or rate, no ventilation ratio, no AED pad or shock steps, no drugs, no diagnosis and no judgment about an individual case**.
+**This page does not replace first-aid training.** If someone collapses, is unresponsive or is not breathing normally, call emergency services immediately and follow the dispatcher's instructions. A cardiac emergency in running means a potentially life-threatening circulatory or breathing event during or just after a run — chest pain, fainting, loss of consciousness or unusual palpitations. It applies when you are willing to stop and ask for help. It covers recognition and activating the emergency chain only. It gives **no compression depth, no ventilation ratio, no AED pad or shock steps, no drugs, no diagnosis and no judgment about an individual case**.
 
 ## Signals: when you must stop
 
@@ -32,7 +32,7 @@ The American Heart Association 2020 guidelines use "unresponsive with absent or 
 1. Stop the run. Sit or lie the person down, loosen tight clothing, and do not let them leave alone or drive home.
 2. Call: in mainland China the national pre-hospital emergency number is **120** (Article 13, Pre-hospital Emergency Care Regulation). At a race, also send the nearest marshal or volunteer to the medical point.
 3. Get the device: send someone for the nearest AED. China's 2021 public-access AED configuration guidance asks public venues to install AEDs with clear signage and quick access.
-4. Follow the dispatcher: dispatch centres can guide callers through recognition and immediate response (ILCOR 2020, ERC 2021). Do not self-transport, and do not let the person "finish the race first".
+4. Follow the dispatcher: dispatch centres can guide callers through recognition and immediate response (ILCOR 2020, ERC 2021). If the person is not breathing normally, start chest compressions at 100–120 per minute for an adult and rotate the rescuer every 2 minutes; use the AED as soon as it arrives and follow its voice prompts, with the first shock window usually measured in 3–5 minutes. Do not self-transport, and do not let the person "finish the race first".
 
 ## Describing your location to the dispatcher
 
@@ -46,7 +46,7 @@ Specific locations get help there faster. Write the medical points and assembly 
 
 - Check the race handbook or website for medical points, AEDs, sweep vehicles and assembly areas, and note them down.
 - Medical points are usually near the start, finish and major aid stations, but exact placement differs by event and this site has no full dataset (**unknown**).
-- World Athletics' Competition Medical Guidelines (October 2020, second edition) require organisers to plan medical services, medical points and emergency transfer routes, coordinated with local emergency services.
+- World Athletics' Competition Medical Guidelines (October 2020, second edition) recommend that organisers plan medical services, medical points and emergency transfer routes, coordinated with local emergency services; the document uses "should" rather than "must".
 
 ## Why you cannot just carry on
 

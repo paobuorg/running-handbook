@@ -15,5 +15,62 @@
     "Nail problems can be a symptom of a more serious or long-term condition, including diabetes.",
     "Cut injured, loose nails back to where they are still attached so they do not bend or catch on objects."
   ],
-  "license": null
+  "license": null,
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "页面：指甲伤后 6 个月，趾甲可达 18 个月。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Do：只平剪，不剪甲沟两侧。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Don't：不用尖锐物清理甲下。"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Don't：不穿夹脚鞋，运动时尤甚。"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "见 GP 指征：形状/颜色改变或不明原因脱落。"
+    },
+    {
+      "index": 5,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "甲周红肿热痛（paronychia）可为感染或嵌甲。"
+    },
+    {
+      "index": 6,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "页面：指甲问题可为包括糖尿病在内的严重/慢性病表现。"
+    },
+    {
+      "index": 7,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Do：受伤松动甲剪至仍附着处，避免勾挂。"
+    }
+  ],
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "NHS 指甲问题页 HTML（正文）",
+    "note": "NHS 页面正文可读，8 条逐条核对。"
+  }
 }

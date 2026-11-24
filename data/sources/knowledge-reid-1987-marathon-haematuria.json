@@ -14,5 +14,56 @@
     "The authors concluded that non-glomerular bleeding, possibly from bladder contusions, predominates at shorter distances, while glomerular bleeding occurs with greater distances.",
     "The authors stated that these abnormalities disappear with rest and do not appear to signify underlying urinary tract disease."
   ],
-  "license": null
+  "license": null,
+  "verification": {
+    "access": "metadata-only",
+    "bodyRead": false,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "PubMed 摘要（PMID 3828707）",
+    "note": "仅读摘要，Wiley 全文未订阅；7 条断言均出自摘要，未核对全文方法学细节。 R53 回扫：2026-11-08 用桌面 UA 直连重试 2 次，出版商均返回 203 反爬/订阅门，仅摘要或元数据可读，正文需订阅；属外部条件，不是官方没有。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "前瞻观察 98 名半马/全马跑者，赛前及赛后即刻留尿。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "摘要：蛋白尿半马 35%、全马 69%。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "血尿（伴或不伴蛋白尿）半马 21%、全马 22%。"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "血尿者中畸形红细胞半马 30%、全马 81%。"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "赛后 4–12 周复查未见尿异常。"
+    },
+    {
+      "index": 5,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "作者据畸形红细胞比例推断短距离以非肾小球（可能膀胱挫伤）为主，长距离出现肾小球出血。"
+    },
+    {
+      "index": 6,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "作者结论：异常随休息消失，不提示潜在尿路疾病。"
+    }
+  ]
 }

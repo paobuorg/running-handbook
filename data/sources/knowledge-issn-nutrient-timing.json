@@ -4,11 +4,38 @@
   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5596471/",
   "publisher": "Journal of the International Society of Sports Nutrition",
   "publishedAt": "2017-08-29",
-  "accessedAt": "2026-11-07",
+  "accessedAt": "2026-11-08",
   "claims": [
     "The timing and amount of carbohydrate intake around exercise can affect performance and recovery.",
-    "Nutrient timing guidance should be adapted to the individual, the exercise demand and the overall diet.",
+    "Nutrient-timing recommendations should accommodate a wide range of individuals and be adjusted to exercise duration.",
     "Carbohydrate availability is relevant to prolonged endurance exercise."
   ],
-  "license": null
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-20",
+    "checkedVia": "WebFetch + NCBI efetch（PMC 全文）",
+    "note": "J Int Soc Sports Nutr 2017;14:33 全文可读。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Position statement 第 1 条与 Background 均写碳水时机影响恢复与糖原再合成。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-20",
+      "note": "全文有 “recommendations must capture the needs of a wide range of individuals” 与按时长调整；未同时涵盖“整体膳食”，已删除该并列项。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Background：\"glycogen stores… predominant source of fuel for up to a few hours\"；Practical applications 写 >60-90 分钟依赖内源碳水。"
+    }
+  ]
 }

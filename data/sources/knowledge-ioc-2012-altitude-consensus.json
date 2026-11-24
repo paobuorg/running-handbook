@@ -11,5 +11,38 @@
     "Most athletic events are held at altitudes that pose little or no health risk, but even modest altitude can affect performance.",
     "Altitude ranges are conventionally described as low (500-2000 m), moderate (2000-3000 m) and high (3000-5500 m)."
   ],
-  "license": null
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "https://stillmed.olympics.com/media/Documents/Athletes/Medical-Scientific/Consensus-Statements/2012_thermoregulatory-altitude-challenges-high-level-athletes.pdf（桌面 UA 直连 HTTP 200，765,669 字节；PyMuPDF 提取 11 页全文）",
+    "note": "2026-11-08 重试成功：前两次超时的官方 PDF 本次直连返回 200，全文可读，altitude 章节（第 774–776 页）已核对。4 条 claim 均由正文原句支持，不再记 unknown。BMJ 页面仍 403，但不影响本来源。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "正文原句：Arriving 2 weeks before competition at moderate altitude and allowing 1 or 2 days of rest before taking up regular training, is the typical recommended approach."
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "正文原句：At moderate altitude, most athletes will acclimatise within 2 weeks. Partial acclimatisation leading to improved performance can be achieved within 5–7 days."
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "正文原句：most athletic events are held at altitudes that pose little to no health risks; yet even modest altitudes can affect performance."
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Table 1 原文分级：Above 500–2000 m Low altitude；Above 2000–3000 m Moderate altitude；Above 3000–5500 m High altitude。"
+    }
+  ]
 }

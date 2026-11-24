@@ -9,7 +9,40 @@
     "Advanced footwear technology commonly combines compliant, resilient foam with a full-length carbon fiber plate that increases longitudinal bending stiffness.",
     "Whether the plate itself produces metabolic benefits is debated.",
     "The systematic review and meta-analysis found carbon-plated shoes associated with lower metabolic demand across running-economy measures, while individual responses and study limitations remain relevant.",
-    "The evidence does not establish that every runner will improve or that carbon-plated shoes prevent injury."
+    "The review assessed metabolic outcomes and states that the plate contribution cannot be fully disentangled from midsole foam and geometry; it did not assess injury outcomes."
   ],
-  "license": null
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12827780/fullTextXML",
+    "note": "碳板鞋综述全文；2026-11-20 去掉未评估的伤害结局结论，只写代谢结局与归因限制。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文摘要：“Advanced footwear technology (AFT) commonly combines compliant, resilient foams with a full-length carbon fiber plate that increases longitudinal bending stiffness (LBS).”"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文摘要：“Whether the plate itself yields metabolic benefits remains debated.”"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文结论：“carbon-plated running shoes were associated with lower metabolic demand across running economy, metabolic cost, oxygen consumption, and energetic cost of transport, by approximately 2.75%”；限制段承认方法学异质性、性别失衡和体重调节反应。"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-20",
+      "note": "原文评估代谢结局，并明确“the specific contribution of the plate cannot be fully disentangled from that of midsole foam and geometry”；综述没有伤害结局。原 claim 的“不预防伤害”是追加结论。"
+    }
+  ]
 }

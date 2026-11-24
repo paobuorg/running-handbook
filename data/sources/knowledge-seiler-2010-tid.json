@@ -11,5 +11,38 @@
     "Training intensification studies in already well-trained athletes do not provide convincing evidence that greater emphasis on high-intensity interval training gives long-term performance gains.",
     "The predominance of low-intensity, long-duration training combined with fewer highly intensive bouts may be complementary for adaptive signalling, technical mastery and acceptable stress."
   ],
-  "license": null
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "摘要：每周训练 10–13 次的高水平耐力运动员，约 80% 课次为低强度（2 mM 血乳酸）。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "摘要：约 20% 课次以高强度为主，如约 90% VO2max 的间歇训练。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "摘要：对已训练者的强化训练研究，无令人信服的长期表现增益证据。"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "摘要：低强度长时为主配合少量高强度，可能在适应信号、技术掌握与可接受应激间互补。"
+    }
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "PubMed 摘要",
+    "note": "摘要可读，全文付费；4 条均见摘要。"
+  }
 }

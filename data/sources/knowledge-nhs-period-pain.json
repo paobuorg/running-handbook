@@ -12,5 +12,44 @@
     "The page advises seeing a GP if period pain stops usual daily activities, or if periods become more painful, heavier or irregular.",
     "Bleeding between periods is listed as a reason to see a GP."
   ],
-  "license": null
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "NHS 痛经页 HTML（正文）",
+    "note": "NHS 页面正文可读，5 条逐条核对。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "页面：通常持续≤3 天，可影响日常。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "页面自护：温浴、热敷、瑜伽/游泳/步行/骑行、按摩。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "页面：剧痛或较平时加重且止痛药无效，urgent GP 或 111。"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "页面：疼痛影响日常，或经期更痛/更多/不规律应看 GP。"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "页面将经间出血列为看 GP 理由。"
+    }
+  ]
 }

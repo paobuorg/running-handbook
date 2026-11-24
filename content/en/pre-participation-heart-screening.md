@@ -36,7 +36,7 @@ This page therefore covers **differences between organisations, symptoms that re
 
 | Organisation and document | Population | First round | Place of the ECG |
 |---|---|---|---|
-| AHA, 2007 statement and policy guidance | Young competitive athletes | Annual 14-element personal history, family history and physical examination | **Not a mandatory screen**; ECG and echocardiography follow positive findings |
+| AHA, 2007 statement (12 elements) and policy guidance (14 elements) | Young competitive athletes | Annual personal history, family history and physical examination (12 elements in 2007; policy guidance later expanded to 14) | **Not a mandatory screen**; ECG and echocardiography follow positive findings |
 | ESC, 2020 sports cardiology guidelines | Competitive athletes | Family history, symptoms, examination + resting 12-lead ECG | **Recommended** (IIa, C) |
 | IOC (as summarised in a 2016 review) | Competitive athletes | History, examination + resting 12-lead ECG | **Recommended** |
 
@@ -136,7 +136,7 @@ This page is health education and source summarisation. It does not provide clin
 
 - AHA, Pre-participation Cardiovascular Screening of Young Competitive Athletes: Policy Guidance (updated September 2021): annual 14-element history and examination; no mandatory ECG or echocardiogram; SCD incidence 1 in 23,000 to 1 in 300,000; ECG false positives 1.3%–2.8% (up to 6.8% in Arab and Black athletes) and 2.3%–5% for computer interpretation; 10% ECG false-negative rate for hypertrophic cardiomyopathy.
 - ESC, 2020 ESC Guidelines on sports cardiology and exercise in patients with cardiovascular disease: screening of competitive athletes includes resting 12-lead ECG (IIa, C); low-to-moderate-risk recreational sport without further evaluation (IIa, C); limited evidence over 35 with a focus on coronary artery disease; routine exercise testing for ischaemia in asymptomatic adults not recommended.
-- Maron et al., Recommendations and considerations related to preparticipation screening… 2007 update, Circulation 2007: source of the 14-element screen; routine ECG not recommended as a mandatory test.
+- Maron et al., Recommendations and considerations related to preparticipation screening… 2007 update, Circulation 2007: source of the 12-element screen (8 history + 4 examination), later expanded to 14 elements by AHA policy guidance; routine ECG not recommended as a mandatory test.
 - Corrado et al., Trends in Sudden Cardiovascular Death in Young Competitive Athletes After Implementation of a Preparticipation Screening Program, JAMA 2006: 89% fall in annual SCD incidence (3.6 to 0.4 per 100,000 person-years); no significant change in unscreened non-athletes; the programme included history, examination and 12-lead ECG.
 - ESC, Cardiovascular pre-participation screening of young competitive athletes…, Eur Heart J 2005: warning-symptom list (exertional chest pain, syncope or near-syncope, palpitations, disproportionate breathlessness or fatigue) and examination components.
 - Wasfy et al., Sudden Cardiac Death in Athletes, Methodist DeBakey Cardiovasc J 2016: ESC and IOC advocate screening including a resting 12-lead ECG, unlike US recommendations; ECG-inclusive screening increases sensitivity, while false positives and cost remain concerns.

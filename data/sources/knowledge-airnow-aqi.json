@@ -13,5 +13,50 @@
     "Hazardous (301–500): health warnings of emergency conditions."
   ],
   "accessedAt": "2026-11-07",
-  "license": "Public domain (US government work); cited with attribution"
+  "license": "Public domain (US government work); cited with attribution",
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "WebFetch https://www3.epa.gov/airnow/mobile/AQItable.htm",
+    "note": "页面仍在 www3.epa.gov/airnow/mobile/ 旧版路径，正文为完整的 AQI 六级颜色表，未改版、未跳转；表格无发布日期与文号，无法核对 publishedAt（源为 null）。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "表内 Good (0-50) 行原文：“No action required. A good day for outdoor exercise!”"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "表内 Moderate (51-100) 行原文：“Some people are unusually sensitive to air pollution. If you are one of them, take steps to reduce prolonged or heavy exertion outdoors”。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "表内 101-150 行原文：“It’s still OK to exercise outdoors, but if you’re in a sensitive group, take steps to reduce prolonged or heavy exertion. Examples: Take a walk instead of a run … or exercise when air quality is better”，与 claim 的“仍可户外运动、减量、走代替跑”一致。"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "表内 Unhealthy (151-200) 行原文：“Sensitive groups should avoid prolonged or heavy exertion outdoors … Everyone should take steps to reduce outdoor exertion.”"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "表内 Very Unhealthy (201-300) 行原文：“Sensitive groups should avoid all outdoor exertion. Everyone else should limit it.”"
+    },
+    {
+      "index": 5,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "表内 Hazardous (301-500) 行原文：“Health warnings of emergency conditions.”，页面未再展开具体行动建议。"
+    }
+  ]
 }

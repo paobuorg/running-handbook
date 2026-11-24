@@ -12,5 +12,44 @@
     "Unlike the traditional model's simultaneous development of many abilities, block-periodized training presupposes consecutive development of selected target abilities.",
     "The block model is set out through general principles, a taxonomy of mesocycle blocks, and guidelines for compiling an annual plan."
   ],
-  "license": null
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "摘要：训练理论约五十年前（1960 年代）确立，将赛季划分为更小周期与训练单元。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "摘要逐条列出传统周期化四项局限：混合训练的生理反应冲突、长期多目标训练致过度疲劳、中低集中负荷刺激不足、无法多峰。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "摘要：板块周期化为高度集中的专项负荷块，指向最少的目标能力。"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "摘要：传统模型以多能力同时发展为主，板块模型依次发展选定能力。"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "摘要：板块模型由一般原则、中周期块分类与年度计划指南构成。"
+    }
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "出版社摘要页（Springer）",
+    "note": "摘要页可读，全文付费；5 条内容均在摘要内。"
+  }
 }

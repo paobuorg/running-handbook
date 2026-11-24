@@ -27,9 +27,19 @@
   "translations": [],
   "details": {
     "primaryTopic": "health",
-    "secondaryTopics": ["safety", "training"],
+    "secondaryTopics": [
+      "safety",
+      "training"
+    ],
     "contentType": "guide",
-    "audiences": ["beginner", "intermediate", "advanced"],
-    "scenarios": ["race-day", "general-training"]
+    "audiences": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "scenarios": [
+      "race-day",
+      "general-training"
+    ]
   }
 }

@@ -11,5 +11,38 @@
     "Garmin attributes longer ground contact times to overstriding, which it describes as landing the foot too far in front of the body.",
     "Garmin's page presents descriptive ranges but gives no threshold for when a value should be considered poor or a target for gait change."
   ],
-  "license": "Garmin; citation and summary only"
+  "license": "Garmin; citation and summary only",
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "https://www.garmin.com/en-US/garmin-technology/running-science/running-dynamics/ground-contact-time/",
+    "note": "厂商科普页（Garmin Human Performance Lab），不是研究论文；4 条 claim 均按“Garmin 页面如何定义/表述”核验，未把厂商说法当作研究结论。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：“This is the amount of time in each step that you spend on the ground while running ... it is measured in milliseconds.”"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：“elite runners ... will often have ground contact times of less than 200 ms. Virtually all experienced runners have ground contact times under 300 ms.”"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：“Overstriding describes a running style where the foot lands too far in front of the body ... and, typically, longer ground contact times.”"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "全文只给出 <200 ms 与 <300 ms 的描述性范围，未给出“差”或“需要改变步态”的阈值；claim 是对页面内容的准确概括。"
+    }
+  ]
 }

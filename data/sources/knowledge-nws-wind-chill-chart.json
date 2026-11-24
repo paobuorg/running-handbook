@@ -11,5 +11,38 @@
     "气温 0°F、风速 15 mph 时风寒约 −19°F，暴露皮肤约 30 分钟可发生冻伤。",
     "明亮日照可能使风寒读数高 10–18°F（即体感不如阴影中寒冷）。"
   ],
-  "license": null
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "https://www.weather.gov/arx/wind_chill；https://www.weather.gov/safety/cold-wind-chill-chart",
+    "note": "已读 arx 本地页（图表与冻伤时间）及 NWS 全国 wind chill 页正文。arx 页本身没有 50°F/3 mph 定义句和日照句，这两句原文见 NWS 全国页。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "arx 页只有图表；NWS 全国页原文：“The Wind Chill Temperature is defined only for temperatures at or below 50°F and wind speeds above 3 mph.”"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "arx 页原文：“Frostbite Times” 下列出 “30 minutes / 10 minutes / 5 minutes”，与图表按风寒区间着色对应。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "NWS 全国页原文：“If the temperature is 0°F and the wind is blowing at 15 mph, the wind chill is -19°F. At this wind chill temperature, exposed skin can freeze in 30 minutes.”；arx 图表 15 mph × 0°F 格亦为 −19。"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "NWS 全国页原文：“Bright sunshine may increase the wind chill temperature by 10°F to 18°F.”；该页并注“Assumes no impact from the sun, i.e., clear night sky”，与 claim 的“体感不如阴影中寒冷”方向一致。"
+    }
+  ]
 }

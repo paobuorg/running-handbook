@@ -10,5 +10,29 @@
     "ECG screening outperformed the AHA 14-point questionnaire by all measures of statistical performance when interpreted by experienced clinicians.",
     "The authors recommended that routine use of the AHA 14-point evaluation or similar history-based questionnaires as the principal screening tool should be reevaluated."
   ],
-  "license": "CC BY-NC-ND; citation and summary only"
+  "license": "CC BY-NC-ND; citation and summary only",
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-07",
+    "checkedVia": "Europe PMC full-text XML (PMC6662133)",
+    "note": "全文 XML 已读；敏感性、阳性预测值与作者建议逐条核对。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-07"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-07"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-07"
+    }
+  ]
 }

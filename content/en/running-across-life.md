@@ -38,7 +38,7 @@ CDC guidance for adults 65 and older includes aerobic, strengthening and balance
 
 ## Chronic conditions and medication
 
-Adults with chronic conditions or disabilities can be active and gain benefits. When able, aim for at least 150 minutes of moderate aerobic activity weekly plus two days of strengthening; some activity beats none, and it can improve function, sleep, mental and cardiovascular health.
+Adults with chronic conditions or disabilities can be active and gain benefits. When able, aim for at least 150 minutes of moderate aerobic activity weekly plus two days of strengthening; some activity beats none. Regular activity can improve sleep, mental and cardiovascular health, and in people with arthritis it can decrease pain and improve function.
 
 Medicines may affect heart rate, temperature regulation or blood glucose. Discuss intensity and monitoring with a clinician who knows your condition, and never change medication yourself.
 

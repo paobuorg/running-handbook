@@ -90,7 +90,7 @@ Stop using the pair and return to a familiar shoe for new or worsening ankle, pl
 
 ## Scope and limits
 
-This page does not recommend brands or models or diagnose foot, ankle or knee problems. Metabolic evidence is group-level and cannot guarantee personal improvement or injury prevention; persistent symptoms need professional assessment.
+This page does not recommend brands or models or diagnose foot, ankle or knee problems. Metabolic evidence is group-level and cannot guarantee personal improvement; the reviews did not assess injury outcomes, so the shoes should not be treated as injury prevention. Persistent symptoms need professional assessment.
 
 ## Related reading
 

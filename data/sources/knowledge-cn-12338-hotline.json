@@ -6,9 +6,36 @@
   "publishedAt": "2010-04-01",
   "claims": [
     "12338 是全国妇联系统面向妇女的维权服务热线。",
-    "热线提供咨询、投诉受理与转介服务，覆盖婚姻家庭与人身权益等问题。",
+    "热线提供反映诉求、解疑释惑与维权服务。",
     "各省市设有对应的地方妇联维权渠道。"
   ],
   "license": null,
-  "accessedAt": "2026-11-07"
+  "accessedAt": "2026-11-08",
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-20",
+    "checkedVia": "WebFetch + curl.exe",
+    "note": "2010 年讲话全文可读。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "正文称“12338妇女维权公益服务热线”，并写 31 个省区市妇联已开通。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-20",
+      "note": "正文：“反映诉求、解疑释惑、提供维权服务”；未写投诉受理、转介、婚姻家庭或人身权益。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "正文：\"1400多个县级妇联开通，下一步将在全国2862个县级妇联逐步覆盖\"。"
+    }
+  ]
 }

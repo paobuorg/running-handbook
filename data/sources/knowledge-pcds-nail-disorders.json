@@ -11,7 +11,52 @@
     "A subungual haematoma is usually red or red-black depending on the age of the bleed and moves distally with nail growth.",
     "A new or changing solitary black or brown longitudinal band should raise concern for subungual melanoma.",
     "Pigment extending onto the surrounding skin (Hutchinson sign) is highly suspicious for melanoma.",
-    "Onychomycosis is usually yellow-white and spreads from the distal edge proximally, unlike a haematoma growing out from the matrix."
+    "Onychomycosis is usually yellow-white and spreads from the distal edge proximally, while a subungual haematoma moves distally with nail growth."
   ],
-  "license": null
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-20",
+    "checkedVia": "PCDS Nail disorders 临床指南页（正文）",
+    "note": "页面 Subungual haematoma/黑色素瘤/甲癣段可读；第 6 条比较对象与原文不符，判 partial。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "PCDS：甲下血为甲床与甲板间积血，常与外伤或剧烈活动相关。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "PCDS：趾甲尤其可无外伤史。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "PCDS：多呈红或红黑，随甲生长向远端移动。"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "PCDS：新发/变化的单条黑褐纵带需警惕甲下黑色素瘤。"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "PCDS：色素越过甲周皮肤（Hutchinson 征）高度怀疑黑色素瘤。"
+    },
+    {
+      "index": 5,
+      "status": "supported",
+      "checkedAt": "2026-11-20",
+      "note": "原文支持甲真菌为黄白色、从远端向近端；血肿随甲生长向远端移动。删除“血肿从甲母质长出”的错误对比。"
+    }
+  ]
 }

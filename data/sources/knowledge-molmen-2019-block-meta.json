@@ -12,5 +12,44 @@
     "For endurance performance and workload at different exercise thresholds, block periodization generally showed moderate- to large-effect sizes compared with traditional periodization.",
     "The authors caution that the results come from small studies with generally low methodological quality, with a mean PEDro score of 3.7/10."
   ],
-  "license": null
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "摘要：筛查 2905 条记录，20 项符合纳入标准。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "摘要：6 项研究合并分析 VO2max 与 Wmax。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "摘要：VO2max SMD 0.40（95% CI 0.02–0.79），Wmax SMD 0.28（0.01–0.54）。"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "摘要：不同运动阈值下的耐力表现与负荷，板块周期化多为中到大效应。"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "摘要：作者提示研究样本小、方法质量低，平均 PEDro 3.7/10。"
+    }
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "PMC 全文",
+    "note": "全文可读；2905/20/6、SMD 与 PEDro 3.7 均见摘要。"
+  }
 }

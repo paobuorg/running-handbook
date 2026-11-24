@@ -4,11 +4,38 @@
   "url": "https://pubmed.ncbi.nlm.nih.gov/28919842/",
   "publisher": "Journal of the International Society of Sports Nutrition",
   "publishedAt": "2017-08-29",
-  "accessedAt": "2026-10-28",
+  "accessedAt": "2026-11-08",
   "claims": [
     "For extended bouts of high-intensity exercise longer than 60 minutes, carbohydrate should be consumed at about 30-60 grams per hour in a 6-8% carbohydrate-electrolyte solution every 10-15 minutes.",
-    "Carbohydrate intake during exercise should be practiced and adjusted to the individual and the event.",
-    "When carbohydrate delivery is inadequate, adding protein may help performance and recovery, but it does not replace adequate carbohydrate."
+    "Carbohydrate intake during exercise should be adjusted to individual tolerance and the duration of the event.",
+    "When carbohydrate delivery is inadequate, adding protein may help performance and recovery."
   ],
-  "license": null
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "NCBI E-utilities + PMC5596471 全文",
+    "note": "ISSN 碳水时机立场声明全文；2026-11-20 去掉两处超出原文的限定与建议。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Position statement 第 4 条：约 30-60 g/h、6-8% 碳水电解质溶液、每 10-15 分钟。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-20",
+      "note": "摘要/全文支持按个体耐受与赛事时长调整；删除摘要未写的“应在训练中练习”。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-20",
+      "note": "原文支持“adding protein may help performance and recovery”；删除原文未写的“不能替代足量碳水”。"
+    }
+  ]
 }

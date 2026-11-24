@@ -13,10 +13,36 @@
   ],
   "license": null,
   "verification": {
-    "access": "metadata-only",
-    "bodyRead": false,
-    "checkedAt": "2026-11-07",
-    "checkedVia": "WebFetch",
-    "note": "仅读到正文前 2 页；闭经指标条目未核对。"
-  }
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "bjsm.bmj.com 文章页、IOC 托管 PDF 与 IOC 官方 REDs CAT2 v2",
+    "note": "文章正文读到定义、LEA 概念与患病率；指标表所在页因 Cloudflare 验证与 PDF 提取截断未直接取到，指标条款改以 IOC 官方 REDs CAT2 v2（该文件明示依据 2023 共识制定）核对。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "定义原文：\"a syndrome of impaired physiological and/or psychological functioning experienced by female and male athletes that is caused by exposure to problematic (prolonged and/or severe) low energy availability\"；claim 仅省略人群与“持续/严重”限定，未外扩。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "IOC REDs CAT2 v2 原文列于 \"Primary Indicators (1 point)\"：\"Secondary amenorrhea (females: absence of 3 to 11 consecutive menstrual cycles) caused by FHA\"。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "IOC REDs CAT2 v2 将 \"Primary amenorrhea (females: failure to reach menarche by age 15 ...)\" 列于 \"Severe Primary Indicators (2 points)\"，即计两项。"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "共识定义列出受影响系统：\"decreases in energy metabolism, reproductive function, musculoskeletal health, immunity, glycogen synthesis and cardiovascular and haematological health\" 及心理功能；月经功能对应 reproductive function/menstrual indicators，未超出原文范围。"
+    }
+  ]
 }

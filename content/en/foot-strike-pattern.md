@@ -56,9 +56,9 @@ The common assumption is that running faster naturally produces a forefoot strik
 
 - **Patterns do change during races, but mostly towards rearfoot.** In Bovalino 2021, **11%** of runners changed pattern as distance increased, and most changed from non-rearfoot to rearfoot — consistent with reverting to a more economical pattern when fatigued.
 - **In shoes, speed barely matters.** Lai 2020 had 20 regular male runners run from slow to fast on a treadmill; shod, **95%** used a rearfoot strike, falling by only 5% at the fastest speed.
-- **Barefoot, rearfoot share is much lower but unrelated to speed.** In the same study only **23.8%** of barefoot landings were rearfoot, and the distribution did not change significantly with speed (chi-square = 2.26, p = 0.89). Shod versus barefoot differed significantly (chi-square = 99.07, p < 0.01).
+- **Barefoot, rearfoot share is much lower but unrelated to speed.** In the same study only **23.8%** of barefoot landings were rearfoot, and the distribution did not change significantly with speed (chi-square = 2.26, p = 0.89). Strike distribution was significantly associated with shoe condition (chi-square = 99.07, p < 0.01).
 
-A more accurate statement: **foot strike is tied more to whether shoes are worn and how they are built than to speed.** Changing shoes changes landing pattern more easily than changing pace; see [running shoes](https://learn.paobu.org/en/articles/running-shoes/).
+A more accurate statement: **foot strike is associated more strongly with whether shoes are worn and how they are built than with speed.** This is a contingency-table association, not evidence that changing shoes directly changes landing pattern; mechanisms and individual variation need separate study. See [running shoes](https://learn.paobu.org/en/articles/running-shoes/).
 
 ## Injury relationship: the findings disagree, so show both columns
 
@@ -68,7 +68,7 @@ This is where caution matters most. Only by placing "rearfoot is riskier" and "n
 |---|---|
 | In Burke 2021, **3 of 6** categorical studies found rearfoot strikers had a significantly higher retrospective injury rate | In the same review, **1** study found greater risk with midfoot/forefoot striking |
 | Some retrospective studies link rearfoot striking with knee problems | Of 7 studies using continuous measures, only **1** reported a significant relationship with injury |
-| — | Burke 2021 graded the overall evidence **low**: retrospective designs, small samples, crude strike classification |
+| — | The Burke 2021 GRADE table rated the overall evidence **very low** (the structured abstract says low): retrospective designs, small samples, crude strike classification |
 | — | Alexander 2021 notes there is **no prospective evidence** that any pattern increases or decreases future injury |
 
 The key distinction is **retrospective versus prospective**. Retrospective studies ask how injured runners used to land; they cannot answer whether changing pattern prevents injury. No public source gives a consistent figure for how much injury risk falls after switching to forefoot, so that number is **unknown**.
@@ -167,7 +167,7 @@ This is exercise-science education, not a diagnosis or individual prescription. 
 - Hanley et al., Most marathon runners at the 2017 IAAF World Championships were rearfoot strikers, and most did not change footstrike pattern, J Biomech 2019: more than 75% (115/149) kept a consistent pattern; women's marathon lap 4: 73% rearfoot, 24% midfoot, 3% forefoot; 92% of male rearfoot strikers and 66% of non-rearfoot strikers maintained their pattern.
 - Kasmer et al., Foot-Strike Pattern and Performance in a Marathon, IJSPP 2013: 2,112 runners at 8.1 km, 1,991 classified, 93.67% heel strike; faster performers less likely to heel strike (p < .0001); no association with sex; cross-sectional.
 - Lai et al., Will the Foot Strike Pattern Change at Different Running Speeds with or without Wearing Shoes?, IJERPH 2020: 20 men; shod 95% rearfoot at all speeds (5% lower at the fastest); barefoot 23.8% rearfoot with no speed effect (chi-square = 2.26, p = 0.89); shod vs barefoot chi-square = 99.07, p < 0.01.
-- Burke et al., Risk Factors for Injuries in Runners: A Systematic Review of Foot Strike Technique and Its Classification at Impact, OJSM 2021: 13 studies; 3 of 6 categorical studies found more retrospective injury in rearfoot strikers, 1 found more with midfoot/forefoot; only 1 of 7 continuous-measure studies was significant; overall evidence graded low.
+- Burke et al., Risk Factors for Injuries in Runners: A Systematic Review of Foot Strike Technique and Its Classification at Impact, OJSM 2021: 13 studies; 3 of 6 categorical studies found more retrospective injury in rearfoot strikers, 1 found more with midfoot/forefoot; only 1 of 7 continuous-measure studies was significant; GRADE very low (abstract says low).
 - Alexander et al., Infographic. Running myth: switching to a non-rearfoot strike reduces injury risk and improves running economy, BJSM 2021: switching is not evidence-supported; knee load falls while calf, ankle and foot load rise; no prospective evidence; no running-economy difference; most shod recreational runners rearfoot strike.
 - Yang et al., Alterations in Running Biomechanics after 12 Week Gait Retraining with Minimalist Shoes, IJERPH 2020: 30 men randomised, 17 completed; 78% (7/9) converted in the combined group; loading rate fell, ankle joint moment rose.
 - Zhang et al., Effects of a 12-week gait retraining program on the Achilles tendon adaptation of habitually shod runners, Scand J Med Sci Sports 2024: 30 men randomised, 28 completed; 57% (8/14) converted to forefoot; Achilles tendon length and cross-sectional area increased significantly.

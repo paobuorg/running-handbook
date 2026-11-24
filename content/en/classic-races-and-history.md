@@ -87,4 +87,4 @@ This page does not decide entry, eligibility, route access or ratification, and 
 
 ## Sources and scope
 
-Marathon distance follows the World Athletics marathon page; record rules follow its records page; Boston conduct, bib and device rules follow the BAA’s current rules document. History is background, not the current notice. Verified 2026-11-06.
+Marathon distance follows the World Athletics marathon page; record categories, mixed-gender and women-only tables and pending ratification follow its records page; Boston conduct, bib and device rules follow the BAA’s current rules document. History is background, not the current notice. Verified 2026-11-06.

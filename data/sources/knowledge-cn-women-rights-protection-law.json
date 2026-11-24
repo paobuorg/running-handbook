@@ -10,5 +10,32 @@
     "受害妇女可以通过投诉、举报和司法途径主张权利。"
   ],
   "license": null,
-  "accessedAt": "2026-11-07"
+  "accessedAt": "2026-11-08",
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "curl.exe（中国政府网全文）",
+    "note": "2022 年修订全文可读。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "第二十三条原文与 claim 一致。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "第二十五条列“设置投诉电话、信箱等”“建立和完善调查处置程序……保护当事人隐私和个人信息”。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "第二十三条列投诉、报案、民事诉讼；第七十二条另列控告、检举、调解、仲裁、起诉与法律援助。"
+    }
+  ]
 }

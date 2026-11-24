@@ -11,5 +11,34 @@
     "Uncovered skin and the extremities, such as hands and feet, are most prone to frostbite.",
     "Hypothermia occurs when the body loses heat faster than it can produce it."
   ],
-  "license": null
+  "license": null,
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-19"
+    }
+  ],
+  "verification": {
+    "checkedAt": "2026-11-19",
+    "checkedVia": "web_fetch（官方页面正文）",
+    "access": "direct",
+    "bodyRead": true,
+    "note": "2026-11-19 直接读取官方页面可读正文，逐条核对 claims；页面为公开官方说明。"
+  }
 }

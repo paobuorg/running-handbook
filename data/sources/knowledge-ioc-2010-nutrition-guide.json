@@ -4,11 +4,38 @@
   "url": "https://stillmed.olympics.com/media/Document%20Library/OlympicOrg/IOC/Who-We-Are/Commissions/Medical-and-Scientific-Commission/EN-Nutrition-Booklet.pdf",
   "publisher": "International Olympic Committee",
   "publishedAt": "2012-04-01",
-  "accessedAt": "2026-11-07",
+  "accessedAt": "2026-11-08",
   "claims": [
     "基于 2010 年洛桑 IOC 营养共识会议编写，2012 年 4 月由 Ron Maughan 与 Louise Burke 修订。",
-    "对持续超过约 60 分钟的赛事，建议在赛前 6 小时内摄入 1–4 g/kg 体重的碳水，或在赛前 2–3 天已完成碳水负荷且比赛不在当天较晚时选择不补。",
-    "赛中碳水需求随项目时长增加；超过约 3 小时的赛事可达每小时 90 克，需要在训练中练习。"
+    "For events longer than 60 minutes, the booklet advises using the pre-event meal to top up carbohydrate; pre-event meals that enhance performance in longer events generally provide 1–4 g/kg body mass, and an intake below 1 g/kg in the 1–6 h before exercise followed by no carbohydrate during exercise is described as a mistake.",
+    "For ultra-endurance exercise lasting more than about 2.5–3 hours, carbohydrate intake can reach up to 90 g/hour and should be practised in training."
   ],
-  "license": null
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-20",
+    "checkedVia": "WebFetch（PDF 前段）",
+    "note": "2026-11-20 用 WebFetch 读取 PDF 的 Carbohydrates in competition 章节：赛前餐 1–4 g/kg、1–6 h 前低于 1 g/kg 且赛中不补为 mistake；>2.5–3 h 可达 90 g/h 并需在训练中练习。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "封面：\"Based on an International Consensus Conference held at the IOC in Lausanne in October 2010\"；\"Revised and Updated in April 2012 by Professor Ron Maughan and Professor Louise Burke\"。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-20",
+      "note": "PDF 原文：longer than 60 minutes 用赛前餐补碳水；增强表现的赛前餐通常 1–4 g/kg；1–6 h 前 <1 g/kg 且赛中不补被称为 mistake。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-20",
+      "note": "PDF 表格：ultra-endurance >2.5–3 h，up to 90 g/h；正文要求在训练中练习。"
+    }
+  ]
 }

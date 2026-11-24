@@ -2,7 +2,7 @@
 entityId: knowledge:training-volume-and-progression
 locale: en
 title: Training volume progression — the 10% rule, the 30% ceiling and a workable framework
-summary: A 532-runner randomised trial and an 874-runner one-year cohort show why "add 10% a week" is not an evidence rule. A four-week framework uses the 24-hour response as the gate. It does not diagnose injuries or give medication advice.
+summary: A 532-runner randomised trial and a 874-recruited, 873-analysed one-year cohort show why "add 10% a week" is not an evidence rule. A four-week framework uses the 24-hour response as the gate. It does not diagnose injuries or give medication advice.
 aliases:
   - training volume progression
   - 10% rule
@@ -25,7 +25,7 @@ Weekly volume is one handle, not the whole load. Frequency, session duration, in
 | Common advice | Evidence | How to use it |
 |---|---|---|
 | Increase by no more than 10% a week | The 2008 GRONORUN randomised controlled trial: 532 novice runners preparing for a 4-mile (6.7 km) event; injury incidence was 20.8% in the 13-week graded group and 20.3% in the 8-week standard group, P = .90 | A discussion starting point, not a personal safety line |
-| Increasing more than 30% within two weeks is riskier | A 2014 one-year cohort of 874 novice runners: no significant difference in overall injury rates across three groups (below 10%, 10–30%, above 30%); distance-related injuries had a hazard ratio of 1.59 (95% CI 0.96–2.66, P = .07) | The authors advise less than 30% within two weeks; this is observational and cannot prove causation |
+| Increasing more than 30% within two weeks is riskier | A 2014 one-year cohort: 874 novice runners recruited, 873 analysed; no significant difference in overall injury rates across three groups (below 10%, 10–30%, above 30%); distance-related injuries had a hazard ratio of 1.59 (95% CI 0.96–2.66, P = .07) | The authors advise less than 30% within two weeks; this is observational and cannot prove causation |
 | No single progression formula fits everyone | A 2022 systematic review: 36 studies and 23,047 runners, conflicting evidence, no universal recommendation | It explains why this page offers a framework rather than a number |
 
 GRONORUN defined injury as a lower-limb or back complaint that restricted running for **at least one week**. That is much stricter than "a bit sore after a run", and it is a reminder that percentages from different studies rest on different definitions, populations and follow-up periods. The trial's 20.8% sits below the 30–79% incidence range quoted in its own introduction precisely because definitions and populations differ; the larger range should not be presented as the "true" injury rate.
@@ -119,5 +119,5 @@ This page is training education, not a personal plan or medical advice. The two 
 ## Sources
 
 - Buist et al., No effect of a graded training program on the number of running-related injuries in novice runners (GRONORUN randomised controlled trial, 2008): 532 runners, 4-mile event, 13-week versus 8-week programmes, 20.8% versus 20.3%, P = .90, injury definition, 30–79% and 7–59 per 1000 hours, about 60% attributed to training errors.
-- Nielsen et al., Excessive progression in weekly running distance and risk of running-related injuries (2014): 874 novice runners, 202 injuries, no significant difference across three groups, hazard ratio 1.59 (95% CI 0.96–2.66, P = .07), authors advise less than 30% within two weeks.
+- Nielsen et al., Excessive progression in weekly running distance and risk of running-related injuries (2014): 874 novice runners recruited, 873 analysed, 202 injuries, no significant difference across three groups, hazard ratio 1.59 (95% CI 0.96–2.66, P = .07), authors advise less than 30% within two weeks.
 - Fredette et al., The Association Between Running Injuries and Training Parameters (systematic review, 2022): 36 studies, 23,047 runners, 26.2% injury rate, conflicting evidence, no universal progression recommendation.

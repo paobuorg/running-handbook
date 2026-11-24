@@ -13,30 +13,29 @@ translationStatus: reviewed
 
 ## Definition and who this applies to
 
-Pre- and post-run fuelling means food and fluid around a run: energy before, carbohydrate during, and carbohydrate, protein and fluid afterwards. It applies to people without acute illness requiring dietary restriction, persistent vomiting or diarrhoea, or medical limits on fluid. The approach holds when the plan matches duration, intensity, weather and gut tolerance. ISSN guidance stresses adapting timing to exercise demand, the individual and the overall diet.
+Pre- and post-run fuelling means food and fluid around a run: energy before, carbohydrate during, and carbohydrate, protein and fluid afterwards. It applies to people without acute illness requiring dietary restriction, persistent vomiting or diarrhoea, or medical limits on fluid. The approach holds when the plan matches duration, intensity, weather and gut tolerance. ISSN guidance stresses adapting timing to exercise demand, exercise duration and the individual.
 
 ## Before: available energy, not maximum volume
 
 The goal is available energy without a stomach that rebels. One assumed example is a carbohydrate-based meal with moderate fat and fibre two to three hours before training; with less time, use a banana, bread, rice or carbohydrate drink. That timing is an example, not a universal rule; gastric emptying and tolerance decide. Fasted morning runs may suit short easy runs but not quality sessions, long runs or races. Confirm you do not become dizzy or weak, and consult a clinician first if diabetes or medication affects blood glucose.
 
-## Three hours, two hours, one hour: windows and amounts
+## One to four hours before: windows and amounts
 
-Separate official guidance from common practice. The joint position statement of the Academy of Nutrition and Dietetics, Dietitians of Canada and ACSM recommends a meal **3–4 hours** before exercise with **1–4 g/kg body mass of carbohydrate**, low in fat and fibre; with only **1–2 hours**, about **1 g/kg**. The IOC practical guide gives a wider window for events over 60 minutes: **1–4 g/kg** of carbohydrate within the **6 hours** before exercise.
+Separate official guidance from common practice. The joint position statement of the Academy of Nutrition and Dietetics, Dietitians of Canada and ACSM recommends a meal **1–4 hours** before exercise with **1–4 g/kg body mass of carbohydrate**, low in fat and fibre. The IOC practical guide gives a window of **1–4 g/kg** of carbohydrate within the **6 hours** before events over 60 minutes.
 
 | Time before start | Carbohydrate target | What to eat | Basis |
 |---|---|---|---|
-| 3–4 hours | 1–4 g/kg body mass | Carbohydrate-based meal, low fat and fibre: rice, pasta, potato, white bread, modest protein | ACSM/AND/DC 2016 |
-| 1–2 hours | About 1 g/kg | Small, easy to digest: banana, white bread, rice, carbohydrate drink | Same |
+| 1–4 hours | 1–4 g/kg body mass | Carbohydrate-based meal or snack, low fat and fibre: rice, pasta, potato, white bread, modest protein | ACSM/AND/DC 2016 |
 | Within 6 hours (events over 60 min) | 1–4 g/kg, spread as tolerated | As above | IOC 2010 |
 | 15–30 minutes | 15–30 g is common practice; **no single official dose (unknown)** | Small gel, banana or sports drink | Practice, not official guidance |
 
 **Why high fat and fibre carry risk.** Fat and fibre slow gastric emptying and add mechanical and osmotic load, making bloating, nausea or diarrhoea more likely while running; the joint statement therefore recommends a low-fat, low-fibre pre-event meal. There is no universal threshold for "high fat" (**unknown**), so the practical rule is not to differ much from what you normally eat.
 
-**Carbohydrate just before the start.** The official windows are 3–4 hours and 1–2 hours; a 15–30-minute top-up is common in practice but has no single official dose and should never be tried for the first time on race day.
+**Carbohydrate just before the start.** The official window is 1–4 hours before, at 1–4 g/kg; a 15–30-minute top-up is common in practice but has no single official dose and should never be tried for the first time on race day.
 
-**Individual tolerance beats general rules.** In a two-week gut-training study with 10 sessions at 90 g of carbohydrate per hour, gastrointestinal symptoms fell in the carbohydrate groups and one-hour distance improved by 5.2% (gels) and 4.3% (real food), while placebo fell 2.1%. Tolerance can be trained, and the race-day menu must be rehearsed in training.
+**Individual tolerance beats general rules.** In a two-week gut-training study at about 90 g of carbohydrate per hour, gastrointestinal symptoms fell in the carbohydrate groups and one-hour distance improved by 5.2% (gels) and 4.3% (real food), while placebo fell 2.1%. Tolerance can be trained, and the race-day menu must be rehearsed in training.
 
-For a 70 kg runner: about 70–280 g of carbohydrate 3–4 hours out (1–4 g/kg), or about 70 g at 2 hours (1 g/kg). The range is wide; choose the end you tolerate, not the top.
+For a 70 kg runner: about 70–280 g of carbohydrate 1–4 hours out (1–4 g/kg), with the exact point depending on time to the start and tolerance. The range is wide; choose the end you tolerate, not the top.
 
 ## During: carbohydrate beyond 60 minutes
 
@@ -44,7 +43,7 @@ For high-intensity exercise longer than 60 minutes, the ISSN carbohydrate paper 
 
 ## After: total intake beats a fixed “window”
 
-Post-run carbohydrate helps restore glycogen and protein supports repair; together they are more complete than a sugary drink alone. ISSN stresses timing should fit exercise demand, the individual and overall diet, not a fixed number of minutes. A normal meal within a few hours is often more practical. If another session follows soon, earlier intake matters more; after an easy run, daily distribution matters more. Replace fluid by thirst, urine colour and sweat losses; the NHS suggests clear pale yellow urine, with more fluid in heat, without forcing a large volume at once.
+Post-run carbohydrate helps restore glycogen and protein supports repair; together they are more complete than a sugary drink alone. ISSN stresses timing should fit exercise demand, duration and the individual, not a fixed number of minutes. A normal meal within a few hours is often more practical. If another session follows soon, earlier intake matters more; after an easy run, daily distribution matters more. Replace fluid by thirst, urine colour and sweat losses; the NHS suggests clear pale yellow urine, with more fluid in heat, without forcing a large volume at once.
 
 ## How to do it
 
@@ -100,4 +99,4 @@ This page does not provide an individual nutrition prescription, calorie target 
 
 ## Sources and scope
 
-Pre- and post-exercise timing and individualisation follow the ISSN nutrient-timing position stand; carbohydrate amount, concentration and interval for prolonged high-intensity exercise follow the ISSN carbohydrate-timing paper; hydration and urine colour follow the NHS hydration page. Pre-event timing and amounts follow the 2016 joint position statement of the Academy of Nutrition and Dietetics, Dietitians of Canada and ACSM (3–4 hours, 1–4 g/kg, low fat and fibre; about 1 g/kg at 1–2 hours) and the IOC 2010 Nutrition for Athletes guide (1–4 g/kg within the 6 hours before events over 60 minutes). Gut-training evidence follows Costa et al. (2017; two weeks, 10 sessions, 90 g/h; one-hour distance improved 5.2% and 4.3% versus −2.1% for placebo). These are general sports-nutrition sources, not clinical assessment. Verified 2026-11-07.
+Pre- and post-exercise timing and individualisation follow the ISSN nutrient-timing position stand; carbohydrate amount, concentration and interval for prolonged high-intensity exercise follow the ISSN carbohydrate-timing paper; hydration and urine colour follow the NHS hydration page. Pre-event timing and amounts follow the 2016 joint position statement of the Academy of Nutrition and Dietetics, Dietitians of Canada and ACSM (1–4 hours, 1–4 g/kg, low fat and fibre) and the IOC 2010 Nutrition for Athletes guide (1–4 g/kg within the 6 hours before events over 60 minutes). Gut-training evidence follows Costa et al. (2017; two weeks of repeated gut challenge at about 90 g/h; one-hour distance improved 5.2% and 4.3% versus −2.1% for placebo). These are general sports-nutrition sources, not clinical assessment. Verified 2026-11-07.

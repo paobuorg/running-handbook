@@ -11,5 +11,38 @@
     "Most people feel anxious sometimes; GAD is more likely when anxiety is present most of the time and affects everyday life.",
     "Adults can see a GP or refer themselves to NHS talking therapies for anxiety and depression."
   ],
-  "license": null
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "https://www.nhs.uk/mental-health/conditions/generalised-anxiety-disorder-gad/",
+    "note": "已读 NHS 页面正文（症状、判断标准、就医路径），逐条核对。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：“Generalised anxiety disorder (GAD) is a common mental health condition where you often feel very anxious about lots of different things”；“feelings of stress or worry that affect your daily life and are difficult to control”。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文症状列表：“difficulty sleeping”“feeling restless, irritable or finding it difficult to concentrate”“getting tired easily”“feeling tense”“stomach problems”“a more noticeable or unusual heartbeat (palpitations)”。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：“Most people feel anxious sometimes. It does not always mean you have GAD. It's more likely to be GAD if you feel anxious most of the time and it affects your everyday life.”"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：“If you're 18 years old or over, you can also refer yourself directly to an NHS talking therapies service without a referral from a GP.”；页面同时列出“See a GP if…”。"
+    }
+  ]
 }

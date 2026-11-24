@@ -48,7 +48,7 @@ Cycling, swimming and elliptical work add low-impact volume and help when injure
 
 ## Taper evidence and cycle
 
-A review and meta-analysis of 14 studies found tapering improved time-trial and time-to-exhaustion performance. A common effective pattern cut volume by 41–60% while maintaining intensity and frequency, lasting up to 21 days; pre-taper overload showed a larger effect in some studies. Amateur runners can reduce 20–30% in week one and to 50–60% of normal in week two, keeping short easy running and brief accelerations.
+A review and meta-analysis of 14 studies found tapering improved time-trial and time-to-exhaustion performance. A common effective pattern cut volume by 41–60% while maintaining intensity and frequency, lasting up to 21 days; pre-taper overload showed a larger effect in some studies. The authors also note that the optimal taper duration varies between individuals. Amateur runners can reduce 20–30% in week one and to 50–60% of normal in week two, keeping short easy running and brief accelerations.
 
 ## How to taper in three steps
 

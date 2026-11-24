@@ -7,8 +7,35 @@
   "claims": [
     "NHS advises buying proper running shoes and getting fitted at a running shop, while noting that expensive shoes are not essential.",
     "Unsupportive or worn-out shoes are listed among factors that can contribute to heel pain.",
-    "Do not run while in pain; seek medical or physiotherapy advice when pain is severe, persistent or accompanied by swelling."
+    "Do not run if you are in pain; for knee pain, severe pain or swelling means seeing a GP straight away, and for shin pain, severe pain, swelling or no improvement after a few weeks means seeing a GP or physiotherapist."
   ],
   "accessedAt": "2026-10-27",
-  "license": null
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-20",
+    "checkedVia": "WebFetch https://www.nhs.uk/live-well/exercise/knee-pain-and-other-running-injuries/",
+    "note": "正文全文可读；页面未见 last reviewed 日期。claim 2 把分伤种建议合并为统一规则，判 partial。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：“buy the correct running shoes, and it's best to go to a running shop to get fitted. But you do not have to spend a lot of money.”"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文 heel pain 可因“your shoes are not supportive enough or are worn out”，与 sudden increase in running、run uphill 并列。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-20",
+      "note": "页面按伤种给阈值：膝“severe or swollen, see a GP straight away”；胫“swollen, severe or does not improve in a few weeks, see a GP or physiotherapist”。删除统一三条件。"
+    }
+  ]
 }

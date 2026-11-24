@@ -11,5 +11,38 @@
     "Physically active people can meet protein needs with whole foods, while supplements can be a practical way to ensure adequate intake.",
     "Endurance athletes should focus on adequate carbohydrate intake for performance; protein may help offset muscle damage and support recovery."
   ],
-  "license": null
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC5477153/fullTextXML",
+    "note": "已读 PMC 全文（Europe PMC XML），position stand 各条原文逐句核对。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：“For building muscle mass and for maintaining muscle mass through a positive muscle protein balance, an overall daily protein intake in the range of 1.4–2.0 g protein/kg body weight/day (g/kg/d) is sufficient for most exercising individuals”。数字一致；原文把这句限定在“增肌/维持肌肉量”的目的下，claim 省略了该前提。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：“General recommendations are 0.25 g of a high-quality protein per kg of body weight, or an absolute dose of 20–40 g”；“These protein doses should ideally be evenly distributed, every 3–4 h, across the day.”"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：“While it is possible for physically active individuals to obtain their daily protein requirements through the consumption of whole foods, supplementation is a practical way of ensuring intake of adequate protein quality and quantity”。"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：“Endurance athletes should focus on achieving adequate carbohydrate intake to promote optimal performance; the addition of protein may help to offset muscle damage and promote recovery.”"
+    }
+  ]
 }

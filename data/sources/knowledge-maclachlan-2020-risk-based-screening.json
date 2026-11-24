@@ -10,5 +10,32 @@
     "The review states that the AHA recommends screening all athletes with a 14-element assessment via medical history and physical examination, with secondary evaluation for any positive element.",
     "The review describes the AHA's history-and-physical approach as widely practised but limited, and argues for a risk-based approach to screening."
   ],
-  "license": "CC BY 4.0"
+  "license": "CC BY 4.0",
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "Europe PMC REST fullTextXML（PMC7403680）+ WebFetch PMC 页面",
+    "note": "PMC 页面抓取在正文中段被截断，全文经 Europe PMC REST fullTextXML 取得并逐段核对；文章为 CC BY 4.0 开放获取，页码 906-914。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "第 5 节 CURRENT PPCS PRACTICE 原文：“The AHA's pragmatic approach is widely practiced but limited when one considers that up to 80% of young athletes are asymptomatic prior to their SCA/SCD.”"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "同节原文：“The AHA recommends that all athletes are screened with a 14-element assessment via a medical history and a physical examination. Secondary evaluation is considered for any athlete with a positive response to any one of the 14 elements.”"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：“The AHA's pragmatic approach is widely practiced but limited…”；标题与摘要主张风险分层：“Selective ECG screening using a risk-based approach may, therefore, offer a more cost-effective and feasible approach to PPCS…”"
+    }
+  ]
 }

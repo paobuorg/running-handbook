@@ -93,7 +93,7 @@ This example shows how to use morning pain and the 24-hour response to set dose.
 ## Common misconceptions
 
 - **"Roll a golf ball or tennis ball harder, even if it hurts."** The sources support cold-bottle rolling and gentle stretching, not rolling into sharp pain. Rolling until bruising has no supporting evidence.
-- **"The heel spur is the cause."** AAOS states that a heel spur results from longstanding tension but **most people with heel spurs do not have heel pain**, and the spur is not the cause of plantar fascia pain. Do not treat a spur on an imaging report as a verdict.
+- **"The heel spur is the cause."** AAOS states that a heel spur can result from longstanding tension but **most people with heel spurs do not have heel pain**, and the spur is not the cause of plantar fascia pain. Do not treat a spur on an imaging report as a verdict.
 - **"The softest shoe will fix it."** NHS asks for heel cushioning plus arch support, not softness alone; very soft shoes may lack support over long distances.
 - **"A steroid injection is the fastest fix."** This page gives no injection or medication advice. AAOS mentions steroid injections or shock-wave therapy when conservative treatment fails, but whether and when to use them is a clinical decision.
 

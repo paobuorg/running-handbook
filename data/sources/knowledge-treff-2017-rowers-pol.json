@@ -7,9 +7,42 @@
   "accessedAt": "2026-11-07",
   "claims": [
     "Fourteen national elite rowers completed an eleven-week preparation comparing polarized and pyramidal intensity distributions.",
-    "The polarized group trained 94% zone 1, 3% zone 2 and 6% zone 3; the pyramidal group trained 93% zone 1, 3% zone 2 and 2% zone 3.",
+    "The polarized group trained 94% zone 1, 1% zone 2 and 6% zone 3; the pyramidal group trained 93% zone 1, 3% zone 2 and 2% zone 3.",
     "There were no significant differences between groups in 2000 m ergometer performance, power at 4 mmol/L lactate, or VO2max.",
     "Elite rowing training distributions reported in the literature vary widely, including 95-3-2, 77-17-6, 45% zone 1 with 55% zone 2, and 93-2-5."
   ],
-  "license": null
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "摘要：14 名国家精英男子赛艇运动员完成 11 周备赛比较。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-20",
+      "note": "摘要：POL Z1 94±3%、Z2 1±1%、Z3 6±3%；PYR 93±2%、3±2%、2±1%。原 claim 把 POL 的 Z2 写成 3%，已改正。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "摘要：2000 m 测功、4 mmol/L 功率与 VO2max 的组间变化均无显著差异。"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "引言：文献中 95-3-2、77-17-6、45/55、93-2-5 等赛艇分布差异很大。"
+    }
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-20",
+    "checkedVia": "PMC 全文",
+    "note": "全文可读；POL 实际分布为 94/1/6，非 claim 的 94/3/6。"
+  }
 }

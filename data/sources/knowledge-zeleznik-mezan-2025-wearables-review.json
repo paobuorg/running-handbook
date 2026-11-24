@@ -7,10 +7,49 @@
   "accessedAt": "2026-11-07",
   "claims": [
     "Thirteen studies met the inclusion criteria for this review of consumer wearables.",
-    "Most included studies investigated Garmin smartwatches with chest-belt heart rate sensors and the Firstbeat algorithm.",
+    "Most included studies used Garmin smartwatches; in five of eight smartwatch studies a chest-belt sensor was used, and Garmin devices use the Firstbeat algorithm.",
     "Seven studies found wearable devices valid or acceptable for VO2max estimation, and three studies demonstrated validity for lactate threshold estimation.",
     "The authors state that usefulness in elite endurance sport is questionable.",
     "Consumer wearables are not subject to the same regulatory accuracy requirements as medical devices."
   ],
-  "license": "CC BY 4.0"
+  "license": "CC BY 4.0",
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-20",
+    "checkedVia": "Europe PMC fullTextXML（PMC12748164，JATS 全文，本地解析）；PMC 页面仅取到前半部分",
+    "note": "Frontiers in Sports and Active Living 正式发表的系统综述（2025-12-16 期次），非预印本或会议摘要；读到方法、结果、讨论与结论全文。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "结果与 PRISMA 图注：“13 studies were included in the review.”"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-20",
+      "note": "原文：“most studies … were conducted with Garmin smartwatches”；“In five of eight studies examining smartwatches, a chest belt sensor was used”；Firstbeat 仅在讨论中说明 Garmin 使用。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：“The authors of seven studies (3, 8, 17–19, 28, 29) concluded that the analyzed wearable device was valid or acceptable for V̇O2max estimation”；“Five studies … investigated LT estimates from WT. Three of these (18, 29, 30) demonstrated the validity of a device, which in two cases was not a smartwatch”。即 LT 有效性三项中仅 1 项为智能手表，引用时须保留该限定。"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "结论原文：“there is a lack of studies proving the accuracy of WT for use in elite endurance sports”；“the validity … in highly trained runners is questionable”。"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "引言原文：“these consumer wearables are not subject to regulation … there is no regulatory body to ensure their accuracy”；结论亦称“largely unregulated market”。"
+    }
+  ]
 }

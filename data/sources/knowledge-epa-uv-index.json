@@ -12,5 +12,39 @@
     "Shadow rule: if your shadow is taller than you, UV exposure is likely lower; if your shadow is shorter than you, UV exposure is higher and you should seek shade and protect skin and eyes."
   ],
   "accessedAt": "2026-11-07",
-  "license": "Public domain (US government work); cited with attribution"
+  "license": "Public domain (US government work); cited with attribution",
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-19"
+    }
+  ],
+  "verification": {
+    "checkedAt": "2026-11-19",
+    "checkedVia": "web_fetch（官方页面正文）",
+    "access": "direct",
+    "bodyRead": true,
+    "note": "2026-11-19 直接读取官方页面可读正文，逐条核对 claims；页面为公开官方说明。"
+  }
 }

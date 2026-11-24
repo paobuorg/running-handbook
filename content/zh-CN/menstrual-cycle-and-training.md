@@ -64,7 +64,7 @@ Ekenros 2022 调查了 **1,086 名**来自 **57 个运动项目**的女性运动
 
 - **复方口服避孕药（OCP）使用者没有自然的激素波动**，取而代之的是服药周期与撤退性出血。
 - Elliott-Sale 2020 的 meta 分析纳入 **42 项研究、590 名参与者**：OCP 使用者的表现平均可能略低于自然周期女性，但组间效应**最可能为 trivial**；**83%** 的研究质量仅为中等、低或极低。
-- 同一分析发现，表现在整个 OCP 周期内**相对一致**，因此不需要按「服药日/停药日」给不同指导。
+- 同一分析发现，表现在整个 OCP 周期内**相对一致**；因此作者不主张按「是否使用 OCP」统一推断表现，也没有比较服药日与停药日的训练指导。
 - Ekenros 2022 则发现，**安慰剂/停药期**与更负面的主观影响相关；如果你在这个阶段明显不适，可以记录并与医生讨论，但不要自行改药。
 - 不同避孕方式（复方口服、孕激素单方、宫内节育器、皮下埋植等）不能互相外推；本页没有足够证据逐一比较。
 
@@ -138,8 +138,8 @@ Ekenros 2022 调查了 **1,086 名**来自 **57 个运动项目**的女性运动
 - Elliott-Sale 等，The Effects of Oral Contraceptives on Exercise Performance in Women: A Systematic Review and Meta-analysis，Sports Medicine 2020：42 项研究、590 人；83% 为中等/低/极低质量；OCP 使用者表现可能略低但效应 trivial；整个 OCP 周期表现相对一致；不支持通用指导。
 - Ekenros 等，Perceived impact of the menstrual cycle and hormonal contraceptives on physical exercise and performance in 1,086 athletes from 57 sports，Frontiers in Physiology 2022：1,086 名运动员；未用激素避孕者中痛经 74%、经前症状 78%；63% 使用激素避孕，40% 自报副作用；仅 18% 在安排训练/比赛时考虑周期；停药期主观影响更负面。
 - Mountjoy 等，2023 International Olympic Committee's (IOC) consensus statement on Relative Energy Deficiency in Sport (REDs)，British Journal of Sports Medicine 2023：REDs 由问题性低能量可用性导致；功能性下丘脑性闭经导致的继发性闭经（连续 3–11 个周期）是主要指标；原发性闭经是严重主要指标。
-- NHS，Heavy periods：每 1–2 小时更换卫生用品、经期超过 7 天、血块大于约 2.5 cm、渗透衣物等属于大量出血信号，应看 GP。
-- NHS，Missed or late periods：连续 3 次月经不来、周期变得不规律、经间出血或性交后出血应就医。
+- NHS，Heavy periods：每 1–2 小时更换卫生用品、经期超过 7 天、血块大于约 2.5 cm、渗透衣物等属于大量出血信号；若影响生活或已持续一段时间，应看 GP。经间出血或性交后出血也应就医。
+- NHS，Missed or late periods：连续 3 次月经不来、周期变得不规律，或伴体重变化、乏力、面毛与皮肤改变应就医。
 - NHS，Period pain：疼痛通常持续不超过 3 天；保暖、热敷、轻柔运动与按摩可缓解；剧痛且止痛无效应尽快看 GP 或联系急诊服务；痛到影响日常活动应就医。
 - NHS，Periods（Delaying your period）：延迟经期可通过复方口服避孕药实现，具体取决于药片类型；不使用复方药时医生可开具炔诺酮，但并非适合所有人；需要医生、药师或性健康门诊评估，不能自行操作。原「How can I delay my period?」页面已重定向至该总页，原页的副作用清单不再可核对。
 

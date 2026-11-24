@@ -9,7 +9,40 @@
     "The meta-analysis included 14 studies and found significant improvements in time-trial and time-to-exhaustion performance after tapering.",
     "A taper that reduced training volume by 41-60%, maintained training intensity and frequency, and lasted up to 21 days was associated with improved time-trial performance.",
     "Tapering combined with pre-taper overload training showed a larger effect on time-trial performance than conventional tapering.",
-    "The authors note that tapering practices still need individual adaptation."
+    "The authors note that recovery and the optimal taper duration vary between individuals and call for future individualised research."
   ],
-  "license": null
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "摘要：纳入 14 项；TT SMD −0.45、TTE SMD 1.28，均 P<0.05。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "摘要：量降 41%–60%、强度频率不变、持续 ≤21 天可显著改善 TT。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "摘要：减量前加负荷组的 TT 改善显著大于常规减量（P<0.05）。"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-20",
+      "note": "摘要/结论写恢复与最佳减量时长存在个体差异、未来需研究个体化；删除“实践仍需个体适配”的推论。"
+    }
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-20",
+    "checkedVia": "PLOS ONE 全文",
+    "note": "全文可读；14 项、41–60%、≤21 天与减量前加负荷结果均见摘要。"
+  }
 }

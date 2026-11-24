@@ -9,7 +9,40 @@
     "In a nine-week randomized comparison of four training models, the polarized group showed the greatest increase in VO2peak.",
     "The polarized group increased VO2peak by 6.8 mL/min/kg, or 11.7%.",
     "The polarized group increased time to exhaustion during a ramp protocol by 17.4% and peak velocity/power by 5.1%.",
-    "Velocity or power at 4 mmol/L lactate increased after polarized training by about 4%."
+    "Velocity or power at 4 mmol/L lactate increased after polarized training by 8.1 ± 4.6% (P<0.01)."
   ],
-  "license": null
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "摘要/正文：9 周随机四组比较，POL 组 VO2peak 增幅最大。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "正文：VO2peak 提高 6.8 mL/min/kg，即 11.7±8.4%。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "正文：TTE 提高 17.4%，峰值速度/功率提高 5.1%。"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-20",
+      "note": "正文表：POL 在 4 mmol/L 的速度/功率提高 8.1±4.6%（P<0.01）。"
+    }
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-20",
+    "checkedVia": "Frontiers 全文",
+    "note": "全文可读；4 mmol/L 行显示 8.1±4.6%，已按原文改正 claim。"
+  }
 }

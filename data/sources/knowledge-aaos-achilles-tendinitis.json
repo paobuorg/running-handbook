@@ -13,5 +13,50 @@
     "AAOS notes even with early treatment pain may last longer than 3 months, and surgery is considered only after 6 months of nonsurgical treatment.",
     "AAOS advises not using NSAIDs for more than 1 month without talking to a primary care doctor."
   ],
-  "license": "All rights reserved; facts summarized with attribution"
+  "license": "All rights reserved; facts summarized with attribution",
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "WebFetch 原 URL，301 后读取实际落地页",
+    "note": "原 https://orthoinfo.aaos.org/en/diseases--conditions/achilles-tendinitis/ 返回 301，实际落地 https://www.orthoinfo.org/bodypart/foot-ankle/achilles-tendinitis/；正文完整，关键句逐条定位。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：“Noninsertional tendinitis more commonly affects younger, active people, especially runners.” Insertional 段：“frequently caused by calf muscle tightness”“Bone spurs often form on the back of the heel with insertional Achilles tendinitis”。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：“If you have experienced a sudden pop in the back of your calf or heel, you may have torn your Achilles tendon. See your doctor immediately if you think you may have torn your tendon.”"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：“cortisone injections into the Achilles tendon are not recommended because they can cause the tendon to rupture”；“research has shown significantly decreased tendon strength after steroid injection”。"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：“Heel drop exercises should be performed only for noninsertional Achilles tendinitis. Do not perform these exercises if you have insertional Achilles tendinitis.”"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：“Even with early treatment, the pain may last longer than 3 months”；“Surgery ... should be considered only if the pain does not improve after 6 months of nonsurgical treatment.”"
+    },
+    {
+      "index": 5,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：“You should not use NSAIDs for more than 1 month without talking to your primary care doctor.”"
+    }
+  ]
 }

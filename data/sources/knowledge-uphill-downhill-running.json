@@ -9,6 +9,33 @@
     "Downhill running has longer aerial time, lower step frequency and more rear-foot striking than level running.",
     "Downhill running emphasises eccentric work and energy dissipation; uphill running requires greater muscular work, particularly at the hip."
   ],
-  "accessedAt": "2026-10-27",
-  "license": null
+  "accessedAt": "2026-11-08",
+  "license": null,
+  "verification": {
+    "access": "metadata-only",
+    "bodyRead": false,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "NCBI efetch（仅摘要）",
+    "note": "综述全文需订阅，仅摘要（Sports Med 2017;47(4):615-629）。 R53 回扫：2026-11-08 用桌面 UA 直连重试 2 次，出版商均返回 203 反爬/订阅门，仅摘要或元数据可读，正文需订阅；属外部条件，不是官方没有。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "摘要：\"UR is characterized by a higher step frequency… shorter swing/aerial phase… greater duty factor\"。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "摘要：\"DR is characterized by increased aerial time, reduced step frequency…\"；并写 DR 更多后跟着地。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "摘要：\"In DR, energy dissipation is generally prevalent\"；\"increase in power output at all joints, particularly the hip\"；摘要未用 eccentric 一词。"
+    }
+  ]
 }

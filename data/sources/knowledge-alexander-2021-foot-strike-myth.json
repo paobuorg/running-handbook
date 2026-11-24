@@ -4,7 +4,7 @@
   "url": "https://bjsm.bmj.com/content/55/3/175",
   "publisher": "British Journal of Sports Medicine",
   "publishedAt": "2021-02-01",
-  "accessedAt": "2026-11-07",
+  "accessedAt": "2026-11-20",
   "claims": [
     "The infographic states that transitioning to a non-rearfoot strike pattern to reduce injury risk or improve running economy is not supported by evidence.",
     "While knee loads are reduced with forefoot striking, loads to the calf, ankle and foot increase, which may raise injury risk in those areas during transition.",
@@ -16,8 +16,15 @@
   "verification": {
     "access": "blocked",
     "bodyRead": false,
-    "checkedAt": "2026-11-07",
-    "checkedVia": "出版方页面",
-    "note": "仅读到导语（正文付费墙 £53）；膝/踝负荷与跑步经济性条目未核对。"
-  }
+    "checkedAt": "2026-11-20",
+    "checkedVia": "BMJ 原页仍被 Cloudflare 拦截；2026-11-20 经 7890 代理检索到该文全文的搜索索引镜像并逐句核对",
+    "note": "BMJ 原页与 PDF 仍返回 403/人机验证，bodyRead 保持 false，没有把镜像当成原文可访问。镜像含正文与 infographic 面板文字：MYTH 段、THE FACTS 段及“no prospective evidence”句均可读，五条 claim 逐条有对应原文；镜像地址不作为公开引用链接。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-20", "note": "THE FACTS 面板：Transitioning to a non-rearfoot strike pattern to reduce injury risk or improve running economy is not supported by evidence。" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-20", "note": "正文：While switching may reduce load on the knee; the foot, ankle and lower leg will experience a rapid increase in loads... elevated risk during transition。面板：may increase injury risk to these areas。" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-20", "note": "正文：limited retrospective evidence of lower rates of past injury; no prospective evidence supported an association of one pattern with increased or decreased risk of future injury。" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-20", "note": "正文：no difference was found between habitual rearfoot and habitual non-rearfoot strike runners; 后句补充短期换姿对跑步经济性为降低或无影响。" },
+    { "index": 4, "status": "supported", "checkedAt": "2026-11-20", "note": "正文首段：The overwhelming majority of recreational shod distance runners run with a rearfoot strike pattern。" }
+  ]
 }

@@ -21,7 +21,7 @@ Hardness, evenness, grip, camber and unpredictability change mechanics. Asphalt 
 
 ## What the research can say
 
-A small study of 30 male habitual rear-foot strikers compared artificial grass, rubber and concrete. It found no significant differences in several joint-motion and loading variables, but concrete was associated with lower braking and mediolateral forces, higher ankle moments and higher frontal-plane hip and knee moments. The authors suggested harder surfaces might raise overuse risk for rear-foot strikers, but evidence is limited. The sample cannot prove that concrete causes injury; surfaces redistribute load.
+A small study of 30 male habitual rear-foot strikers compared artificial grass, rubber and concrete. It found no significant differences in several joint-motion and loading variables, but concrete was associated with lower braking and mediolateral forces, higher ankle moments and higher frontal-plane hip and knee moments. The authors suggested harder surfaces might raise overuse risk for rear-foot strikers; this was a 30-person short-term mechanics comparison and cannot show that a surface causes injury. The sample cannot prove that concrete causes injury; surfaces redistribute load.
 
 ## Where injury evidence stops
 

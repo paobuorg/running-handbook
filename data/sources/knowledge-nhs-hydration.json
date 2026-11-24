@@ -4,10 +4,31 @@
   "url": "https://www.nhs.uk/live-well/eat-well/food-guidelines-and-food-labels/water-drinks-nutrition/",
   "publisher": "National Health Service",
   "publishedAt": null,
-  "accessedAt": "2026-10-26",
+  "accessedAt": "2026-11-08",
   "claims": [
     "Most people should aim to drink enough during the day so their urine is a clear pale yellow colour.",
     "People may need to drink more fluids when they are physically active for long periods or in a hot environment."
   ],
-  "license": null
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "WebFetch",
+    "note": "NHS Water, drinks and hydration 页面可读。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "\"drink enough during the day so their pee is a clear pale yellow colour\"。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文列 hot environment、physically active for long periods，并建议运动出汗后多喝。"
+    }
+  ]
 }

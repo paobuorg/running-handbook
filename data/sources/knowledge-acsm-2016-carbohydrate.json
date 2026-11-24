@@ -7,9 +7,42 @@
   "claims": [
     "For sustained or intermittent exercise longer than 90 minutes, the position statement recommends 10 to 12 grams of carbohydrate per kilogram of body mass per day during the 36 to 48 hours before exercise.",
     "The carbohydrate intake framework advises 30 to 60 grams per hour for exercise lasting 1 to 2.5 hours and up to 90 grams per hour for exercise longer than 2.5 hours.",
-    "Carbohydrate loading is presented as a strategy for events longer than 90 minutes, not for shorter sessions.",
+    "Carbohydrate loading may benefit events longer than 90 minutes, where higher glycogen stores can be achieved by increasing carbohydrate intake and reducing training load.",
     "The statement recommends that athletes seek individualised advice from a registered sports dietitian rather than applying general targets unchanged."
   ],
   "accessedAt": "2026-11-07",
-  "license": "ACSM, AND and DC copyright; citation and summary only"
+  "license": "ACSM, AND and DC copyright; citation and summary only",
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "https://forening.sls.se/media/1uadrrmt/idrottsnutrition_nutrition_and_athletic_performance-1.pdf（Med Sci Sports Exerc 2016;48(3):543-568 全文 26 页，页眉/DOI 10.1249/MSS.0000000000000852 已核对）",
+    "note": "ACSM 2016 碳水与运动表现全文；2026-11-20 删除原文未写的短时赛事排除结论。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Table 2：“Carbohydrate loading – Preparation for events > 90 min of sustained/intermittent exercise – 36–48 h of 10–12 g/kg body weight per 24 h”。正文亦：“Events >90 minutes in duration may benefit from higher glycogen stores ... carbohydrate loading.”"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Table 2：“During endurance exercise including 'stop and start' sports – 1–2.5 h – 30–60 g/h”；“During ultra-endurance exercise – >2.5–3 h – Up to 90 g/h”。正文亦：“in very prolonged events (2.5+ h) ... higher intakes (up to 90 g/h) are associated with better performance”。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-20",
+      "note": "原文只写正向适用范围：events >90 min may benefit from higher glycogen stores achieved by carbohydrate loading；删除原文没有的“较短比赛不要做”排除性结论。"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：“Athletes should be referred to a registered dietitian/nutritionist for a personalized nutrition plan.”“These general recommendations can be adjusted by sports dietitians to accommodate the unique issues of individual athletes”。claim 的“registered sports dietitian”对应原文的 sports dietitian/CSSD 表述。"
+    }
+  ]
 }

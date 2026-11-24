@@ -84,7 +84,7 @@ Trail shoes are not “the stiffer the better”. Use the conditions below; the 
 |---|---|---|---|---|---|
 | Hardpack, gravel, fire road | 2–4 mm | Start at 4–8 mm | Toe cap is enough | Not needed | Shallow lugs give more contact and stability on firm ground (On; Runners Need 3–4 mm) |
 | Mixed terrain | 4–5 mm, multi-directional | 4–8 mm | Rock plate optional | Weather-dependent | The most versatile compromise (Runners Need) |
-| Mud, wet grass, soft ground | 5 mm or more | Personal | Abrasion-resistant upper | Optional | Deep lugs grip but feel unstable and wear fast on firm ground (On; Runners Need 6 mm+) |
+| Mud, wet grass, soft ground | 5 mm or more | Personal | Abrasion-resistant upper | Optional | Deep lugs grip but feel unstable and wear fast on firm ground (On; Runners Need 5 mm+) |
 | Rocky, rooty technical trails | 4–6 mm, sticky rubber | Personal | Rock plate preferred | Not needed | A plate spreads point pressure; unnecessary on smooth trails (On) |
 | Cold, wet snow, long wet exposure | 5 mm or more | Personal | Rock plate plus reinforced upper | Yes | Warmer but less breathable and slower to dry (On) |
 | Warm, dry forest paths | 2–4 mm | 4–8 mm | Not needed | No | Mesh breathes and dries faster (On) |

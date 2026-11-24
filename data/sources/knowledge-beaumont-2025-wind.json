@@ -4,11 +4,38 @@
   "url": "https://hal.science/hal-05046298v1/file/beaumont-polidori-2025-aerodynamic-challenges-in-running-understanding-headwind-and-tailwind-effects.pdf",
   "publisher": "HAL open archive",
   "publishedAt": null,
-  "accessedAt": "2026-11-07",
+  "accessedAt": "2026-11-08",
   "claims": [
     "数值模拟中，30 km/h 顺风约降低 9% 能量消耗，同速逆风约增加 37%。",
     "风速与方向改变跑者身后的湍流尾迹，从而改变代谢功率需求。",
     "逆风的代价明显大于同速顺风的收益。"
   ],
-  "license": null
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "WebFetch（HAL PDF）",
+    "note": "PDF 正文与 Table 1 可读。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "摘要：\"30 km/h tailwind leads to a modest 9% reduction… headwind of the same speed results in a substantial 37% increase\"。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "摘要：\"alter the turbulent wake behind the runner, ultimately affecting metabolic power requirements\"。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "摘要：\"temporary tailwind advantages do not sufficiently offset headwind effects\"。"
+    }
+  ]
 }

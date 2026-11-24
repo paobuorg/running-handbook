@@ -11,5 +11,38 @@
     "Garmin states that lower vertical oscillation typically means less stress on the lower body at impact.",
     "Garmin's page gives no normal range and no threshold value for vertical oscillation."
   ],
-  "license": "Garmin; citation and summary only"
+  "license": "Garmin; citation and summary only",
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "https://www.garmin.com/en-US/garmin-technology/running-science/running-dynamics/vertical-oscillation/",
+    "note": "厂商科普页（Garmin Human Performance Lab），不是研究论文；4 条 claim 均按“Garmin 页面如何定义/表述”核验，未把厂商说法当作研究结论。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：“This reflects the amount of 'bounce' in each step while you run. Measured at the torso, it tells you, in centimeters, how much distance you are traveling up and down with each step.”"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：“In general, more experienced runners tend to have lower vertical oscillation. However, faster paces often come at a cost of somewhat higher vertical oscillation.”"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：“Another advantage of lower vertical oscillation is that it typically means less stress on the lower body at impact.”"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "页面通篇没有给出正常范围或阈值数值；claim 的否定性描述与全文一致。"
+    }
+  ]
 }

@@ -12,5 +12,44 @@
     "After exercise, the goal is to replace any fluid and electrolyte deficit; the speed of replacement depends on how quickly rehydration is needed and the size of the deficit."
   ],
   "accessedAt": "2026-11-07",
-  "license": "ACSM copyright; citation and summary only"
+  "license": "ACSM copyright; citation and summary only",
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "https://www.medscape.com/viewarticle/717055_2 ; https://www.medscape.com/viewarticle/717055_6",
+    "note": "PubMed 仅提供摘要；改从 Medscape 转载的同一篇 Position Stand 全文（同作者、同刊同卷，含各节 Recommendations）读取正文。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文（During Exercise 一节）：“The goal of drinking during exercise is to prevent excessive dehydration (>2% BW loss from water deficit) and excessive changes in electrolyte balance to avert compromised exercise performance.”"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：“There is considerable variability for water and electrolyte losses between individuals and between different activities”；“Individuals should develop customized fluid replacement programs…”"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：“it is recommended that individuals should monitor body weight changes during training/competition sessions to estimate their sweat lost … This allows customized fluid replacement programs to be developed for each person's particular needs.”"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：“Consumption of beverages containing electrolytes and carbohydrates can help sustain fluid-electrolyte balance and exercise performance”；同段说明“The need for these different components … will depend on the specific exercise task … and weather conditions”，与“under certain circumstances”相符。"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：“After exercise, the goal is to fully replace any fluid and electrolyte deficit. The aggressiveness to be taken depends on the speed that rehydration must be accomplished and the magnitude of the fluid-electrolyte deficit.”"
+    }
+  ]
 }

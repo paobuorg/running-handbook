@@ -11,5 +11,38 @@
     "模拟给出的最优结果是：受保护阶段（有兔子）比无保护阶段快 2.4%–2.6%。",
     "这是建模研究，不是对真实比赛结果的因果试验；结论只针对有配速员且允许跟跑的精英场景。"
   ],
-  "license": null
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "摘要方法：用能量学模型并结合 CFD 阻力值进行模拟。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "摘要结论：有配速员时可跟跑减阻，正分段可能更省时。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "摘要：受保护阶段比无保护阶段快 2.4%–2.6%。"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "摘要：属建模模拟，结论限定于至少有一名配速员的正式马拉松场景。"
+    }
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "arXiv 摘要",
+    "note": "arXiv 摘要可读；方法、2.4–2.6% 与适用条件均见摘要。"
+  }
 }

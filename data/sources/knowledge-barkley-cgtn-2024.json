@@ -1,0 +1,50 @@
+{
+  "sourceId": "knowledge-barkley-cgtn-2024",
+  "title": "British ultrarunner, mom Jasmin Paris first woman to conquer hellacious Barkley Marathons",
+  "url": "https://news.cgtn.com/news/2024-03-24/Jasmin-Paris-first-woman-to-conquer-hellacious-Barkley-Marathons-1se7R8gSXsY/p.html",
+  "publisher": "CGTN",
+  "publishedAt": "2024-03-24",
+  "claims": [
+    "Jasmin Paris finished the 2024 Barkley Marathons in 59 hours, 58 minutes and 21 seconds, with 99 seconds to spare of the 60-hour cut-off.",
+    "Five ultrarunners completed the 2024 edition.",
+    "The race spans approximately 160 kilometres and features about 60,000 feet of elevation gain and descent, roughly twice the height of Everest.",
+    "Since the race was extended to its current 100-mile distance in 1989, only 20 people have completed it within the 60-hour timeframe.",
+    "There are no aid stations along the course, save for two locations offering water.",
+    "The race was conceived by Gary Cantrell and Karl Henn in 1986.",
+    "The race was inspired by the escape of James Earl Ray, who covered approximately 12 miles over 54 hours after escaping from a nearby prison in 1977.",
+    "The course is altered each year but typically consists of five loops of around 20 miles each.",
+    "Only 35 participants are granted entry each year.",
+    "Entry requires a 1.60 US dollar fee and an essay explaining why the applicant should be allowed to run; successful applicants receive a letter of condolence.",
+    "The race starts at any time between midnight and noon on the race day, and the blowing of a conch shell signals the final hour before the start.",
+    "There are no course markings; competitors must commit the route to memory before the race.",
+    "Mark Williams became the first runner to complete the race within the 60-hour limit, in 1995.",
+    "Brett Maune holds the fastest finish, 52 hours, 3 minutes and 8 seconds, set in 2012.",
+    "Paris reached the fourth lap in both 2022 and 2023, the first woman to do so since 2001."
+  ],
+  "accessedAt": "2026-11-08",
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "WebFetch",
+    "note": "2026-11-08 直取 CGTN 英文报道正文（页面标注 12:59, 24-Mar-2024，更新 11-03, 17-Oct-2024）。这是新闻通稿性质的综合报道，不是赛事官方发布；其完赛人数、距离与爬升按报道原文记录，正文会与其它来源并列。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-08", "note": "原句：\"she finished the annual race in 59 hours, 58 minutes, 21 seconds, with a mere 99 seconds to spare of the 60-hour cut-off\"" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-08", "note": "原句：\"Paris was among a select group of five ultrarunners who managed to complete this year's Barkley Marathons\"" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-08", "note": "原句：\"a grueling race spanning approximately 160 kilometers and featuring a staggering 60,000 feet of elevation gain and descent\"" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-08", "note": "原句：\"Since the race was extended to its current 100-mile distance in 1989, only 20 people have completed it within the allotted 60-hour timeframe.\"" },
+    { "index": 4, "status": "supported", "checkedAt": "2026-11-08", "note": "原句：\"With no aid stations along the course, save for two locations offering water\"" },
+    { "index": 5, "status": "supported", "checkedAt": "2026-11-08", "note": "原句：\"The Barkley Marathons, conceived by Gary Cantrell and Karl Henn in 1986\"" },
+    { "index": 6, "status": "supported", "checkedAt": "2026-11-08", "note": "原句：\"who managed to cover approximately 12 miles over 54 arduous hours after escaping from a nearby prison in 1977\"" },
+    { "index": 7, "status": "supported", "checkedAt": "2026-11-08", "note": "原句：\"The race course undergoes alterations each year but typically consists of five loops spanning around 20 miles each.\"" },
+    { "index": 8, "status": "supported", "checkedAt": "2026-11-08", "note": "原句：\"only 35 fortunate participants are granted entry each year\"" },
+    { "index": 9, "status": "supported", "checkedAt": "2026-11-08", "note": "原句：\"submit a modest entrance fee of $1.60 but also craft a persuasive 'Why I should be allowed to run in the Barkley' essay… receive a rather unconventional letter of condolence\"" },
+    { "index": 10, "status": "supported", "checkedAt": "2026-11-08", "note": "原句：\"commences at any time between midnight and noon on the designated race day, with the blowing of a conch shell signifying the final hour before the start\"" },
+    { "index": 11, "status": "supported", "checkedAt": "2026-11-08", "note": "原句：\"one of the distinctive aspects… is the lack of course markings. Competitors must commit the route to memory\"" },
+    { "index": 12, "status": "supported", "checkedAt": "2026-11-08", "note": "原句：\"In 1995, Mark Williams became the first runner to complete the race within the 60-hour time limit.\"" },
+    { "index": 13, "status": "supported", "checkedAt": "2026-11-08", "note": "原句：\"the record for the fastest finish belongs to Brett Maune, who achieved a remarkable time of 52 hours, 3 minutes, and 8 seconds in 2012\"" },
+    { "index": 14, "status": "supported", "checkedAt": "2026-11-08", "note": "原句：\"Paris had previously attempted the Barkley race in both 2022 and 2023, making history as the first woman since 2001 to reach the fourth lap.\"" }
+  ]
+}

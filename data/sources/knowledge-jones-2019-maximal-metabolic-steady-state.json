@@ -12,5 +12,44 @@
     "MLSS determination is protocol-dependent: 30-minute exercise bouts produce lower power outputs at MLSS than 20-minute bouts.",
     "Conventional MLSS testing requires a series of typically four to five 30-minute constant-load bouts on separate days."
   ],
-  "license": "CC BY 4.0"
+  "license": "CC BY 4.0",
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "WebFetch https://pmc.ncbi.nlm.nih.gov/articles/PMC6533178/（PMC 全文 HTML）",
+    "note": "读到摘要、引言及 MLSS 定义/测定部分正文；未逐条核对全部参考文献。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：“the MLSS is defined as the highest speed or power output that does not result in a rise of blood [lactate] of greater than 1 mmol/L between 10 and 30 min”。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：“Initially, MLSS was considered to occur at a fixed blood [lactate] of 2.2 mmol/L … or, more often, 4 mmol/L”。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：“the absolute blood [lactate] at MLSS varied considerably both between individuals … and between exercise modalities … later led to MLSS being reconsidered to represent the speed or power output at MLSS, irrespective of the absolute blood [lactate]”。"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：“Beneke (2003) reported a protocol‐dependency of MLSS determination, with 30 min exercise bouts producing lower power output at MLSS than 20 min exercise bouts.”"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：“conventionally derived from a series (typically 4–5) of 30 min continuous exercise bouts, completed on separate days”。"
+    }
+  ]
 }

@@ -78,4 +78,4 @@ This page does not diagnose RED-S, menstrual disorders, eating disorders or oste
 
 ## Sources and scope
 
-The definition of RED-S, the 2023 update to the female athlete triad framework and its multi-system effects follow the International Olympic Committee RED-S consensus page. Pregnancy activity safety and the goal of at least 150 minutes of moderate activity per week follow CDC pregnancy activity information; adult weekly activity and two days of strength work follow the CDC adult activity overview. Verified 2026-11-06.
+The definition of RED-S, the 2023 IOC consensus and its applicability to male and female athletes, and the multi-system effects follow the International Olympic Committee RED-S consensus page; RED-S was introduced in 2014 and updated in 2018. Pregnancy activity safety and the goal of at least 150 minutes of moderate activity per week follow CDC pregnancy activity information; adult weekly activity and two days of strength work follow the CDC adult activity overview. Verified 2026-11-06.

@@ -1,0 +1,51 @@
+{
+  "sourceId": "knowledge-barkley-run247-history",
+  "title": "How did the Barkley Marathons start? The story behind the world's toughest ultramarathon",
+  "url": "https://run247.com/running-news/trail/how-did-barkley-marathons-start-when-where-history",
+  "publisher": "RUN247",
+  "publishedAt": "2026-02-15",
+  "accessedAt": "2026-11-08",
+  "claims": [
+    "The first Barkley Marathons took place in 1986 and was named after Gary Cantrell's neighbour and friend Barry Barkley.",
+    "The first editions covered about 50-55 miles with about 25,000 feet of climbing, and the course was extended in 1989.",
+    "The modern format is five loops of about 20 miles within 60 hours, described by Cantrell as 100 miles, while some claim the real distance is closer to 130 miles.",
+    "No GPS is allowed, so the true distance of the course cannot be measured by runners.",
+    "The 2026 edition started on 14 February, the earliest start by a wide margin, while the race is usually held in March or early April.",
+    "The event is held in Frozen Head State Park, a 24,000 acre park with 14 peaks between 1,340 ft and 3,000 ft and very few roads or man-made structures.",
+    "The article states that of approximately 1,000 runners who have started, only 20 people have finished the Barkley Marathons.",
+    "The article quotes Frozen Ed Furtaw, the first finisher, writing in 1996 that Barkley is intentionally set up to minimise the number of finishers while staying within the limits of possibility.",
+    "Since 2017 runners are given an analogue watch set to 00:00 at the start instead of the real time.",
+    "The route is altered every year and there is no website and no route map.",
+    "Entry is not published: runners have to work out when and where to send an essay along with a 1.60 US dollar entry fee, and first-time runners must bring a number plate from their home town.",
+    "The article states that Jasmin Paris became the first woman to complete the Barkley Marathons in 2024.",
+    "The article describes the Barkley as having no GPS, no waymarks and no aid stations, with checkpoints marked only by books from which runners tear a page.",
+    "The article states that a sombre rendition of Taps is played each time a runner drops out.",
+    "The article lists route section nicknames including Danger Dave's Climbing Wall, Leonard's ButtSlide, Rat Jaw and Testicle Spectacle.",
+    "The article states that a finisher's total climb and descent over five loops is equivalent to going up and down Mount Everest twice."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "note": "2026-11-08 直取 RUN247 英文长文（161 行）；这是二手报道，不是赛事官方发布；用于文化稿时按二手来源标注，涉及数字的句子在正文说明其非官方性质"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-08", "note": "'The first Barkley Marathons took place in 1986. The event was named after Lake's neighbour and friend, Barry Barkley'" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-08", "note": "'around 50-55 miles, with approximately 25,000 feet of climbing'；'In 1989, the course was extended'" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-08", "note": "'five brutally difficult 20 mile loops within 60 hours'；'closer to 130 miles'" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-08", "note": "'With no GPS devices allowed, no one can really know how long the Barkley truly is.'" },
+    { "index": 4, "status": "supported", "checkedAt": "2026-11-08", "note": "'the February 14 start in 2026 was such a curveball – the earliest ever'" },
+    { "index": 5, "status": "supported", "checkedAt": "2026-11-08", "note": "'This 24,000 acre park... 14 different peaks ranging from 1340ft to 3000ft'" },
+    { "index": 6, "status": "supported", "checkedAt": "2026-11-08", "note": "'of the approximately 1,000 runners who've started, only 20 people have been able to finish'" },
+    { "index": 7, "status": "supported", "checkedAt": "2026-11-08", "note": "Furtaw 1996 引语原句" },
+    { "index": 8, "status": "supported", "checkedAt": "2026-11-08", "note": "'Since 2017, runners are handed an analogue watch which is set to read 00:00'" },
+    { "index": 9, "status": "supported", "checkedAt": "2026-11-08", "note": "'There's no website, no route maps.'；'The route is altered every year'" },
+    { "index": 10, "status": "supported", "checkedAt": "2026-11-08", "note": "'send an essay (along with the $1.60 entry fee)'；'number plate from their home town'" },
+    { "index": 11, "status": "supported", "checkedAt": "2026-11-08", "note": "'In 2024, British ultrarunner Jasmin Paris... became the first woman to complete'" },
+    { "index": 12, "status": "supported", "checkedAt": "2026-11-08", "note": "'no GPS. No waymarks, and no aid stations... checkpoints are marked only by books'" },
+    { "index": 13, "status": "supported", "checkedAt": "2026-11-08", "note": "'a sombre rendition of The Taps played each time'" },
+    { "index": 14, "status": "supported", "checkedAt": "2026-11-08", "note": "nickname 列表原文" },
+    { "index": 15, "status": "supported", "checkedAt": "2026-11-08", "note": "'climbed and descended the equivalent of going up and down Mountain Everest. Twice.'" }
+  ]
+}

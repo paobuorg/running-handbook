@@ -6,17 +6,43 @@
   "publishedAt": "2017-05-01",
   "accessedAt": "2026-11-07",
   "claims": [
-    "耐力跑者进行两周、共 10 次、每小时 90 克碳水的肠道训练（凝胶或真实食物），与安慰剂组比较。",
+    "耐力跑者进行两周重复肠道挑战（凝胶或真实食物），运动中每 20 分钟补充 30 克碳水（约 90 克/小时），与安慰剂组比较；摘要未报告训练总次数。",
     "两周后，两个碳水训练组的胃肠症状减少；安慰剂组没有同等改善。",
     "1 小时距离测试中，碳水凝胶组提高 5.2%、真实食物组提高 4.3%，安慰剂组下降 2.1%（交互作用 p=0.009）。",
-    "作者结论是：两周重复的肠道挑战可以改善胃肠症状与跑步表现；这属于训练适应，不是一次性技巧。"
+    "作者结论是：两周重复的肠道挑战可以改善胃肠症状与跑步表现；这属于可训练的适应。"
   ],
   "license": null,
   "verification": {
-    "access": "metadata-only",
-    "bodyRead": false,
-    "checkedAt": "2026-11-07",
-    "checkedVia": "WebFetch",
-    "note": "仅读到摘要；「共 10 次」与部分训练细节未见于摘要。"
-  }
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-20",
+    "checkedVia": "https://tspace.library.utoronto.ca/bitstream/1807/76273/1/apnm-2016-0453.pdf",
+    "note": "读取作者接受稿 PDF（apnm-2016-0453.R4）；正文方法写明“ten days over a period of two weeks”，摘要确实未写总次数。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文方法：“for ten days over a period of two weeks participants performed 1 h running exercise ... whilst consuming ... 30 g ... every 20 min”；摘要只写“2 weeks of repetitive gut-challenge”，未报告总次数。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文摘要：“Gastrointestinal symptoms reduced in GC2 on CHO-S (60%; p = 0.008) and CHO-F (63%; p = 0.046); reductions were greater than PLA (p < 0.05)。”"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文摘要：“Distance test improved on CHO-S (5.2%) and CHO-F (4.3%) in GC2, but not on PLA (−2.1%) (trial × time: p = 0.009).”"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-20",
+      "note": "原文结论 “Two weeks of gut-training with CHO-S and CHO-F improved gastrointestinal symptoms and running performance compared with PLA”；引言称 “the gut can be trained”。删除未经单次方案对照的“不是一次性技巧”。"
+    }
+  ]
 }

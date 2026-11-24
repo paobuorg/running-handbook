@@ -43,7 +43,7 @@ Shorten stride and keep breathing easy uphill. Downhill, control speed instead o
 
 ## Surface differences are limited but real
 
-A small study compared 30 habitual rear-foot strikers on artificial grass, rubber and concrete. Most joint-motion and loading variables did not differ significantly, but concrete produced higher ankle moments and frontal-plane hip and knee moments. The authors suggested harder surfaces may raise overuse risk, with limited evidence. On hard ground with fatigue, reduce intensity.
+A small study compared 30 habitual rear-foot strikers on artificial grass, rubber and concrete. Most joint-motion and loading variables did not differ significantly, but concrete produced higher ankle moments and frontal-plane hip and knee moments. The authors suggested harder surfaces may raise overuse risk; this was a 30-person short-term mechanics comparison and cannot show that a surface causes injury. On hard ground with fatigue, reduce intensity.
 
 ## How to run a small technique experiment in three steps
 

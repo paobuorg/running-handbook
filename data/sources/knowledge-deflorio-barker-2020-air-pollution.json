@@ -10,5 +10,32 @@
     "Changes in nasal resistance due to physical activity can allow particle pollution to reach the lower respiratory tract."
   ],
   "accessedAt": "2026-11-07",
-  "license": "All rights reserved; citation and summary only"
+  "license": "All rights reserved; citation and summary only",
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "WebFetch https://pmc.ncbi.nlm.nih.gov/articles/PMC8043242/",
+    "note": "页面为作者稿（PMCID PMC8043242，NIHMS1684410），正文 Introduction/Methods/Results 完整可读；正式版为 Prev Med. 2020 Jul 9;139:106195。三条 claim 均在 Introduction 第 2 段，非摘要转述。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Introduction 原文：“During physical activity, increases in an individual’s ventilation rate increases exposure to harmful air pollutants.”"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：“As the ventilation rate increases, a larger proportion of air bypasses the nasal passageways, which typically provide protection against particles reaching the lower parts of the lung.”（claim 的 normally provide some protection 属同义改写）。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：“Changes in nasal resistance, due to physical activity, can allow particle pollution to reach the lower respiratory tract.”"
+    }
+  ]
 }

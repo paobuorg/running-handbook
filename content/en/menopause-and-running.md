@@ -132,7 +132,8 @@ Stop and seek medical help during a race if you develop chest pain, marked breat
 - NHS, Menopause — overview (17 May 2022): age range, perimenopause definition, 12-month criterion, symptoms before and after the final period.
 - NHS, Menopause — symptoms (17 May 2022): symptom list, first sign, duration, referral advice, effect of hormonal contraception.
 - NHS, Menopause — things you can do (17 May 2022): weight-bearing and resistance exercise, calcium, vitamin D, hot-flush triggers, HRT and osteoporosis.
-- NHS, Osteoporosis — overview (13 October 2022): rapid bone loss in the first postmenopausal years, early menopause risk, T score, DEXA, 10 µg vitamin D.
+- NHS, Osteoporosis — overview (13 October 2022): rapid bone loss in the first postmenopausal years, early menopause and ovary-removal risk, exercise/low BMI/alcohol/smoking/steroid risk factors, vitamin D sources and boundaries.
+- NHS, Bone density scan (DEXA) — How it is performed (5 October 2022): T-score bands (normal, reduced bone mineral density, osteoporosis), Z-score use, and the usual 10–20 minute scan time.
 - NHS, Postmenopausal bleeding (24 September 2026): any postmenopausal bleeding should be reviewed, two-week referral, common causes.
 - NHS, Heart palpitations: menopause-related palpitations, GP versus emergency boundaries.
 - Daley et al., Cochrane Database of Systematic Reviews (2014, CD006108.pub4): five RCTs, 762 women; no significant effect of exercise on hot flushes; small hormone therapy comparison.

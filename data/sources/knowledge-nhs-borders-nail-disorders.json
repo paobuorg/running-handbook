@@ -15,10 +15,48 @@
   ],
   "license": null,
   "verification": {
-    "access": "browser",
+    "access": "direct",
     "bodyRead": true,
-    "checkedAt": "2026-11-07",
-    "checkedVia": "WebFetch",
-    "note": "页面正文可读；甲下血肿描述与 claim 一致。"
-  }
+    "checkedAt": "2026-11-08",
+    "checkedVia": "NHS Borders 足病 nail disorders 页（正文）",
+    "note": "页面正文可读，6 条逐条核对。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Subungal haematoma：甲板下深红/黑，常继发于外伤。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "急性期触痛、周围皮肤炎症；急性期后常无痛。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "可见新甲生长的分界线，新甲再生可达一年。"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：No management required。"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "糖尿病中/高危或 PVD 的甲病患者应紧急转足病科。"
+    },
+    {
+      "index": 5,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "疑似甲下黑色素瘤应紧急转皮肤科。"
+    }
+  ]
 }

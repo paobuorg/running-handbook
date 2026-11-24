@@ -12,5 +12,44 @@
     "The paper reports that energy cost rises on uphill slopes and falls on moderate downhill slopes before rising again on steep descents."
   ],
   "accessedAt": "2026-11-07",
-  "license": null
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "https://www.skyrunning.com/wp-content/uploads/2020/05/Scientific-Research.pdf",
+    "note": "PubMed 无正文；改读 J Appl Physiol 93:1039-1046 的 PDF 全文（Methods、Table 1、Fig. 1 与多项式回归段）。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：“10 subjects were admitted to the study … They were all elite athletes practicing endurance mountain racing”，跑步机坡度范围 −0.45 至 +0.45。补充：在 +0.40 与 +0.45 两个最陡上坡，有 4 名受试者无法跑动，该两点实际为 n=6。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：“5th-order polynomial regressions were performed, that yielded … (R2 = 0.99)”（步行式为 R2 = 0.999），故“五阶多项式、R²=0.99”成立。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "刊出的跑步多项式为 155.4 i⁵ − 30.4 i⁴ − 43.3 i³ + 46.3 i² + 19.5 i + 3.6，与 claim 各系数、常数完全一致。注：抓到的 PDF 文本层该式首项显示为 “55.4 i5”，同段步行式显示为 “0.5 i5”（通行值为 280.5 i5），两处都少了行首数字，判断为文本层提取截断，而非论文原式不同。"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "拟合式在 i=0 时取值 3.6，即平地的拟合能耗成本；实测平地 Cr 为 “3.40 ± 0.24 J·kg⁻¹·m⁻¹, independent of speed”，与拟合常数 3.6 略有差异。"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：Cr “increased on positive slopes, attained 18.93 ± 1.74 … at 0.45, and was reduced to 1.73 ± 0.36 … at −0.20. At steeper slopes, it increased to reach 3.92 ± 0.81 … at −0.45”，即在约 −0.20 处最低后重新上升。"
+    }
+  ]
 }

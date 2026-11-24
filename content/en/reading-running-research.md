@@ -44,7 +44,7 @@ Look at effect size and uncertainty, not only "significant". A significant resul
 
 A systematic review of 36 studies covering 23,047 runners found 26.2% reported a running-related injury; it also found conflicting evidence on weekly distance, duration, frequency, intensity and recent change, and warned against one "optimal" progression for everyone.
 
-A meta-analysis of tapering included 14 studies and found significant improvements in time-trial and time-to-exhaustion performance. A taper cutting volume by 41-60%, keeping intensity and frequency and lasting up to 21 days was associated with better time-trial performance, though individual adaptation is still needed. The first review means "no universal formula"; the second means "the direction has support".
+A meta-analysis of tapering included 14 studies and found significant improvements in time-trial and time-to-exhaustion performance. A taper cutting volume by 41-60%, keeping intensity and frequency and lasting up to 21 days was associated with better time-trial performance, though the authors note that the optimal taper duration varies between individuals. The first review means "no universal formula"; the second means "the direction has support".
 
 ## How to read one study in three steps
 

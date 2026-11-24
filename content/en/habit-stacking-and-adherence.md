@@ -37,7 +37,7 @@ After two misses in a row, the third is the minimum within 24 hours, regardless 
 
 ## Environment and tracking
 
-Reduce friction: shoes by the door, kit packed, route decided, time blocked. Record date, sessions or duration, intensity and feel. Goal-setting research found a medium positive effect on task performance, moderated by goal type, proximity, experience and feedback.
+Reduce friction: shoes by the door, kit packed, route decided, time blocked. Record date, sessions or duration, intensity and feel. Goal-setting research found that goal setting improved task performance, with the largest effects for process goals; performance findings were mixed, and cross-study evidence for some psychological outcomes was limited.
 
 ## How to do it: three steps
 

@@ -14,5 +14,56 @@
     "Core temperature and heart rate during drift were strongly correlated (r-squared = 0.95)."
   ],
   "accessedAt": "2026-11-07",
-  "license": null
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "http://www.cibr.es/ka/apps/cibr/docs/04_2001_Cardiovascular_drift_during_prolonged_exercise_and_the_effects_of_dehydration.pdf（Exerc Sport Sci Rev 2001;29(2):88-92 已发表版 PDF；doi.org 原站为 Ovid 付费墙并触发验证码）",
+    "note": "已读到正文第 88–91 页（引言、机制、脱水段、Table/Figure 说明），7 条 claim 所依据的段落全部覆盖；PDF 文本抽取在第 91 页末段的机制讨论处截断，但不影响被引内容的核对。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：“some CV responses begin a continuous time-dependent change, or ‘drift,’ after ~ 10 min of prolonged moderate-intensity exercise (e.g., 50–75% V̇O2max) in a neutral or warm environment.”"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：“characterized by a progressive decline in stroke volume (SV) and pulmonary and systemic mean arterial pressures (MAPs) and a parallel increase in heart rate (HR), whereas cardiac output is maintained nearly constant.”"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：“During the 15- to 55-min period of control, SV declined 13%, HR increased 11%, and the final core temperature was 37.8°C; all of which are typical of CV drift.”"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：“the decline in SV from 15 to 55 min was totally eliminated with prevention of the increase in HR through the use of mild β-blockade”，并且“despite a normal cutaneous blood flow response”。原文明确药物为小剂量 β1 受体阻滞剂（Atenolol）。"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：“endurance-trained cyclists exercising at 62% V̇O2max for 120 min in a hot environment (i.e., 35°C with fan) that produces a 4.9% loss of body weight… the 28% reduction in SV, an 18% decline in cardiac output, and the elevation in core temperature from 38.0°C to 39.3°C.”"
+    },
+    {
+      "index": 5,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：“cutaneous blood flow actually remains fairly stable after 20–30 min, when core temperature reaches a plateau”；“the increase in cutaneous blood flow is not temporally related to the progressive reduction in SV”；“we recently observed the same SV during moderately intense exercise in the heat (35°C) and cold (8°C) in trained subjects, despite a four-fold difference in cutaneous blood flow.”"
+    },
+    {
+      "index": 6,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：“Increases in core temperature and HR during CV drift are strongly correlated (r² = 0.95; see Fritzsche et al. [3]).”"
+    }
+  ]
 }

@@ -11,5 +11,34 @@
     "The review describes ongoing debate about the optimal mechanism for sudden cardiac death prevention, including the role of ECG and cardiac imaging.",
     "The review notes that false-positive results and cost remain concerns for ECG-inclusive screening."
   ],
-  "license": "Publisher terms; citation and summary only"
+  "license": "Publisher terms; citation and summary only",
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-07",
+    "checkedVia": "PMC4969030 full text",
+    "note": "PMC 全文已读；4 条 claim 与正文对应段落核对。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-07"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-07"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-07"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-07"
+    }
+  ]
 }

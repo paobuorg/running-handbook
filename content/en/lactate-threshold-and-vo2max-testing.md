@@ -88,7 +88,7 @@ Lu et al. (2025) had **100** healthy recreational runners complete an indoor inc
 | Garmin | 65.22% | 7.15% | 25.78% |
 | Coros | 47.06% | 5.95% | 22.63% |
 
-All three devices **significantly overestimated threshold pace**; correlations for threshold heart rate were only **r = 0.13–0.67**, with R² of **0.02–0.45**. In other words, watch-derived threshold heart rate is at best weakly to moderately correlated with laboratory values, and threshold pace can be off by roughly a quarter.
+All three devices **overestimated threshold pace**; the Huawei and Garmin differences were significant, while Coros had p = 0.08, so they should not be lumped together as "all significantly overestimated". Correlations for threshold heart rate were only **r = 0.13–0.67**, with R² of **0.02–0.45**. In other words, watch-derived threshold heart rate is at best weakly to moderately correlated with laboratory values, and threshold pace can be off by roughly a quarter.
 
 A 2025 systematic review included **13** studies: **7** found wearable VO₂max estimates valid or acceptable, and **3** supported valid lactate threshold estimation. The authors explicitly question usefulness in elite endurance sport. **Models and algorithms not covered by these studies have no public validation data and are unknown.**
 

@@ -9,6 +9,33 @@
     "Mobile coverage may be absent; consider a locator beacon and conserve battery.",
     "Check the weather, prepare for lightning and flash flooding, and keep a Plan B."
   ],
-  "accessedAt": "2026-10-27",
-  "license": null
+  "accessedAt": "2026-11-08",
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "WebFetch",
+    "note": "NPS Hike Smart 页面可读。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "\"Leave a Trip Plan… where…, contact information, when you plan to arrive and return, and who is coming with you… with a trusted friend or family member\"。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "\"there may not be cellular coverage… Consider having a personal locator beacon… keep the battery fully charged\"。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "\"Check the weather\"、\"know what to do in case of lightning or flash flooding\"、\"Have a Plan B ready\"。"
+    }
+  ]
 }

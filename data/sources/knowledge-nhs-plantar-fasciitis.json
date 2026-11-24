@@ -12,5 +12,44 @@
     "Risk factors listed by NHS include age 40 to 60, recently starting exercise on hard surfaces, tight calf or heel, a sudden large increase in standing, walking or running, poorly cushioned shoes, and being overweight.",
     "NHS advises not walking or standing for long periods, not wearing high heels, tight pointy shoes, flip-flops or backless slippers, and trying not to walk barefoot on hard surfaces."
   ],
-  "license": "Crown copyright; cited under NHS website terms"
+  "license": "Crown copyright; cited under NHS website terms",
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "WebFetch https://www.nhs.uk/conditions/plantar-fasciitis/",
+    "note": "正文全文可读；页面 last reviewed 14 February 2025。五条 claim 均在 Do/Don't、See a GP if 与 causes 段落中定位。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：“much worse when you first start walking after sleeping or resting”；“gradually gets better when you start moving around, but gets worse if you stand, walk or run for a long time”。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文 Do 清单：rest and raise your foot；ice“up to 20 minutes every 2 to 3 hours”；cushioned heels and good arch support；insoles or heel pads；regular gentle stretches；swimming。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文 See a GP if：severe or stopping normal activities / getting worse or keeps coming back / not improved after 2 weeks of self-treatment / tingling or loss of feeling in the foot。"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文 causes 列表：40 to 60 years、recently started exercising on hard surfaces、tight calf or heel、a lot more standing/walking/running than usual、poor cushioning or support、overweight。"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文 Don't 清单：do not walk or stand for long periods；no high heels or tight pointy shoes；no flip-flops or backless slippers；try not to walk barefoot on hard surfaces。"
+    }
+  ]
 }

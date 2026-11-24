@@ -13,5 +13,50 @@
     "Physical performance was reported as equally affected across the pill chart except during the inactive-pill period, which was associated with a more negative impact.",
     "Only 18% of athletes considered menstrual cycle or hormonal contraceptive issues when planning training or competitions."
   ],
-  "license": "CC BY 4.0"
+  "license": "CC BY 4.0",
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "Europe PMC 全文 XML（PMC9468598）",
+    "note": "横断面问卷调查全文可读，摘要与结果表核对；6 条均支持。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "1,086 名女性运动员、57 个项目、各水平。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "非激素避孕组（n=407）：痛经 74%、经前症状 78%。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "症状影响自评的有氧、肌力、思维清晰度、平衡与睡眠。"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "63% 使用激素避孕，40% 报告副作用。"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "除停用激素期负面影响更大外，各时间点表现相近。"
+    },
+    {
+      "index": 5,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "仅 18% 在训练/比赛计划中考虑月经或激素避孕问题。"
+    }
+  ]
 }

@@ -19,7 +19,7 @@ This applies to runners who already run continuously for about an hour or more a
 
 ## The two direct goals of fuelling
 
-The aims are to maintain available energy and to avoid ending early because of dehydration or gut discomfort; performance is indirect. The nutrient-timing position stand notes that carbohydrate timing and amount around exercise can affect performance and recovery, but guidance must fit exercise demand, diet and individual variation. Carbohydrate availability matters for prolonged endurance exercise.
+The aims are to maintain available energy and to avoid ending early because of dehydration or gut discomfort; performance is indirect. The nutrient-timing position stand notes that carbohydrate timing and amount around exercise can affect performance and recovery, but guidance must fit exercise demand, duration and individual variation. Carbohydrate availability matters for prolonged endurance exercise.
 
 ## Carbohydrate: calculate actual intake per hour
 

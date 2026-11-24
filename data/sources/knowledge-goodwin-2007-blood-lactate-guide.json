@@ -10,5 +10,32 @@
     "Reported blood lactate concentrations at MLSS range from about 1.5 mmol/L to almost 7 mmol/L, with an average of approximately 3.7 mmol/L.",
     "An individual's MLSS and lactate threshold occur at different work rates, although the two values are correlated."
   ],
-  "license": null
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "WebFetch https://pmc.ncbi.nlm.nih.gov/articles/PMC2769631/（PMC 全文 HTML，另本地解析完整段落）",
+    "note": "读到方法学正文与 MLSS 段落；该文为叙述性综述，非原始研究。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：“this is the maximal intensity for which [La−]b increases ≤1 mM during the last 20 minutes of a 30-minute constant work rate exercise test”。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：“a wide range of [La−]b values at MLSS has been reported for different subjects, from as low as 1.5 mM to almost 7 mM. However, the average value is ≈3.7 mM.”"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：“while a particular individual's MLSS and LT occur at different work rates (and V̇O2 values), they are nevertheless correlated with each other.”"
+    }
+  ]
 }

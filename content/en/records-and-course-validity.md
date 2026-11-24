@@ -25,7 +25,7 @@ Gun time starts with the signal; chip time starts at the start mat. The first in
 
 ## Bibs and rules
 
-BAA rules state that bibs are non-transferable, participants may not run with anyone not registered on any part of the course, and headphones are allowed only if awareness of surroundings is maintained. Lending a bib misaligns medical and identity information and removes the result's validity.
+BAA rules state that bibs are non-transferable, participants may not run with anyone not registered on any part of the course, and headphones are allowed only if awareness of surroundings is maintained and others are not disturbed. Lending a bib misaligns medical and identity information and removes the result's validity.
 
 ## Worked example
 

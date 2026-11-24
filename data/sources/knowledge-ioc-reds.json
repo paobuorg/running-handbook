@@ -4,11 +4,38 @@
   "url": "https://doi.org/10.1136/bjsports-2023-106994",
   "publisher": "International Olympic Committee",
   "publishedAt": "2023-09-28",
-  "accessedAt": "2026-11-07",
+  "accessedAt": "2026-11-08",
   "claims": [
     "REDs describes a syndrome of health and performance effects associated with low energy availability.",
-    "The 2023 IOC consensus updated the earlier female athlete triad framework and applies to both male and female athletes.",
+    "The 2023 IOC consensus applies to male and female athletes and notes that RED-S was introduced in 2014 and updated in 2018.",
     "REDs can affect multiple body systems, including endocrine, bone, metabolic and psychological health, and requires clinical assessment."
   ],
-  "license": "IOC copyright; citation and summary only"
+  "license": "IOC copyright; citation and summary only",
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-20",
+    "checkedVia": "WebFetch（doi 跳转 BJSM）",
+    "note": "BJSM 2023;57:1073–1097 摘要、引言与 Box 1 已读。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "摘要：\"a syndrome of deleterious health and performance outcomes… exposed to low energy availability\"。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-20",
+      "note": "摘要明确 male and female athletes；已读正文写 2014 年引入、2018 年更新，未写“更新 female athlete triad 框架”。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Box 1 列 energy metabolism、reproductive function、musculoskeletal health、immunity、cardiovascular 等；“REDs Clinical Assessment Tool-Version 2”用于临床评估。"
+    }
+  ]
 }

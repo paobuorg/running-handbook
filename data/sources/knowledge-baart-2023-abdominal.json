@@ -12,5 +12,44 @@
     "Prevalence of gastrointestinal symptoms in distance runners across studies ranges from 30% to 90%."
   ],
   "accessedAt": "2026-11-07",
-  "license": "CC-BY-NC-4.0"
+  "license": "CC-BY-NC-4.0",
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "WebFetch https://pmc.ncbi.nlm.nih.gov/articles/PMC10255300/",
+    "note": "PMC 全文可读（摘要、方法、结果均可见）；横断面自报问卷设计，1,993 人为完成两份问卷并排除不可信膳食摄入后的样本。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "摘要：“1139 runners (57%) reported AC during and/or up to 3 hours after running”；方法/结果：“A total of 1993 runners… were included in the study.”"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "摘要：“302 runners (15%) reported UAC, 1115 (56%) LAC and 278 (14%) both.”"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "摘要：“In about one-third of runners with AC, these complaints negatively affected their running.”"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "摘要：“Exercise-related AC were positively associated with female gender, younger age and more intense running.”"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "引言：“Prevalence rates of AC in distance runners range from 30% to 90% with the highest rates reported in ultramarathon runners.”；AC 含恶心、呕吐、腹泻、腹痛等，claim 的 gastrointestinal symptoms 为同义归纳。"
+    }
+  ]
 }

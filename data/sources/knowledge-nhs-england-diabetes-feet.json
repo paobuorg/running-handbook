@@ -8,7 +8,34 @@
   "claims": [
     "People with diabetes should check their feet every day for blisters, breaks in the skin, pain or signs of infection such as swelling, heat or redness.",
     "Badly fitting shoes are a common cause of irritation or damage to feet.",
-    "If a break in the skin or blister is found, cover it with a sterile dressing and do not burst blisters."
+    "If a break in the skin or blister is found, contact a podiatrist or GP within 24 hours."
   ],
-  "license": null
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-20",
+    "checkedVia": "NHS England 低风险足 PDF（全文）",
+    "note": "PDF 全文可读；前 2 条支持，第 3 条按 PDF 的 24 小时联系要求改写。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "PDF：每日检查水疱、破皮、疼痛、红肿热等感染征象。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "PDF：不合脚鞋是足部刺激/损伤常见原因。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-20",
+      "note": "PDF 嘱发现破损或水疱后 24 小时内联系足病师/GP；未写无菌敷料或勿刺破水疱。"
+    }
+  ]
 }

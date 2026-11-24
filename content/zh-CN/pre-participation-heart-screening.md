@@ -37,7 +37,7 @@ translationStatus: reviewed
 
 | 机构与文件 | 对象 | 第一轮做什么 | 心电图的位置 |
 |---|---|---|---|
-| AHA，2007 年声明与政策指引 | 年轻竞技运动员 | 每年一次 14 项个人史、家族史、体格检查 | **不作为强制筛查**；阳性发现后转诊做心电图、超声等 |
+| AHA，2007 年声明（12 项）与后续政策指引（14 项） | 年轻竞技运动员 | 每年一次个人史、家族史、体格检查（2007 年声明为 12 项，政策指引扩展为 14 项） | **不作为强制筛查**；阳性发现后转诊做心电图、超声等 |
 | ESC，2020 运动心脏病学指南 | 竞技运动员 | 家族史、症状、体格检查 + 静息 12 导联心电图 | **建议纳入**（IIa, C） |
 | IOC（据 2016 年综述归纳） | 竞技运动员 | 病史、体格检查 + 静息 12 导联心电图 | **建议纳入** |
 
@@ -137,7 +137,7 @@ ESC 2020 指出，35 岁以上运动员心血管筛查的证据有限，筛查�
 
 - AHA，Pre-participation Cardiovascular Screening of Young Competitive Athletes: Policy Guidance（更新至 2021-09）：每年一次 14 项病史与体检；不推荐强制心电图或超声；猝死发生率 1/23,000–1/300,000；心电图假阳性 1.3%–2.8%（阿拉伯与黑人运动员可至 6.8%）、计算机判读 2.3%–5%；肥厚型心肌病假阴性 10%。
 - ESC，2020 ESC Guidelines on sports cardiology and exercise in patients with cardiovascular disease：竞技运动员筛查含静息 12 导联心电图（IIa, C）；低到中等风险休闲运动可不进一步评估（IIa, C）；35 岁以上证据有限、重点转向冠心病；无症状成人常规运动试验筛查缺血不推荐。
-- Maron 等，Recommendations and considerations related to preparticipation screening… 2007 update，Circulation 2007：14 项筛查的来源文件；不推荐把常规心电图作为强制筛查。
+- Maron 等，Recommendations and considerations related to preparticipation screening… 2007 update，Circulation 2007：12 项筛查（8 项个人/家族史 + 4 项体检）的来源文件，后续 AHA 政策指引扩展为 14 项；不推荐把常规心电图作为强制筛查。
 - Corrado 等，Trends in Sudden Cardiovascular Death in Young Competitive Athletes After Implementation of a Preparticipation Screening Program，JAMA 2006：Veneto 地区猝死年发生率下降 89%（3.6 → 0.4/10 万人年），未筛查非运动员人群无显著变化；筛查含病史、体检与 12 导联心电图。
 - ESC，Cardiovascular pre-participation screening of young competitive athletes…，Eur Heart J 2005：警示症状清单（运动性胸痛、晕厥或接近晕厥、心悸、与运动量不相称的气促或疲劳）与体检项目。
 - Wasfy 等，Sudden Cardiac Death in Athletes，Methodist DeBakey Cardiovasc J 2016：ESC 与 IOC 主张筛查包含静息 12 导联心电图，与美国建议不同；心电图筛查提高敏感性，但假阳性与成本仍是问题。

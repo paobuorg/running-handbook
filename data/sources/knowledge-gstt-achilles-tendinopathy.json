@@ -12,5 +12,44 @@
     "GSTT states most people need 6 to 9 months of rehabilitation before returning to full activity without pain, and flare-ups during recovery are normal.",
     "GSTT lists sudden increases in activity, tight or weak calf muscles, stiff ankle joints, overweight, and too much hill running among contributing factors."
   ],
-  "license": "Crown copyright; cited under NHS website terms"
+  "license": "Crown copyright; cited under NHS website terms",
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "WebFetch https://www.guysandstthomas.nhs.uk/health-information/achilles-tendinopathy",
+    "note": "页面为 HTML 全文（Resource 4609/VER3，last reviewed October 2024），页内无 PDF 链接，已直接读取正文；不存在需下载的 PDF。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：“You do not need an X-ray or other scans to diagnose Achilles tendinopathy. We usually confirm the diagnosis by asking about your medical history and examining you.”"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文 Relative rest 段：“reduce the activities you do on your feet, such as walking or running for a long time”；“keep fit by doing other types of exercise, such as cycling or swimming”。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文 Exercise 1：“Hold this position for 20 to 30 seconds”“Repeat this exercise 3 times”；Exercise 3：“Do this 10 to 12 times”“repeat this exercise 3 times”。"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：“Most people need 6 to 9 months of rehabilitation before they can return to full activities without pain”；“It is normal to have some periods of increased pain or flare-ups during your recovery.”"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文 contributing factors 列表含 a sudden increase in activity levels、tight or weak calf muscles、stiff ankle joints、being overweight，以及 training errors “too much hill running”。"
+    }
+  ]
 }

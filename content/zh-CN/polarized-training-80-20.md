@@ -62,7 +62,7 @@ Seiler 与 Tønnessen（2009）分析了三名世界冠军/奥运冠军跨越职
 
 - **高水平/精英距离跑者总体上更常见金字塔分布**：训练量从 Z1 向 Z2、Z3 递减；
 - **马拉松跑者更偏金字塔**，**1500 米跑者更偏极化**；
-- 在同一训练年內，常见做法是**准备期与赛前以金字塔为主，比赛期转向极化**；
+- 同一训练年内，综述作者**建议**准备期与赛前以金字塔为主，比赛期转向极化；这是建议，不是对精英训练行为的普遍观察；
 - 训练组织上是「硬日—轻松日」交替，而不是每天中等强度。
 
 赛艇项目的记录更能说明「项目差异」有多大：德国青年赛艇曾出现 **95-3-2**，新西兰奥运赛艇出现 **77-17-6**，一名成功法国赛艇手则是 **45% Z1 / 55% Z2**，比利时精英单人艇出现过 **93-2-5**。同一个「耐力运动」标签下，低强度占比可以从 45% 到 95%。
@@ -169,7 +169,7 @@ Seiler 与 Tønnessen（2009）分析了三名世界冠军/奥运冠军跨越职
 - Seiler S. & Tønnessen E.，Intervals, Thresholds, and Long Slow Distance: the Role of Intensity and Duration in Endurance Training。*Sportscience* 13，2009；32–53。精英 80% 以上低于乳酸阈、三名冠军 15,000+ 课次中约 85% 低中强度、80:20 规则、强化训练可致过度负荷。
 - Seiler S. & Kjerland G. Ø.，Quantifying training intensity distribution in elite endurance athletes: is there evidence for an “optimal” distribution? *Scandinavian Journal of Medicine & Science in Sports*，2006；16(1):49–56。青年越野滑雪 75% Z1 / 5%–10% Z2 / 15%–20% Z3。
 - Stöggl T. & Sperlich B.，The training intensity distribution among well-trained and elite endurance athletes。*Frontiers in Physiology*，2015；6:295。多数回顾性研究为金字塔；极化定义为 75%–80% 低 / 5% 阈值 / 15%–20% 高；跨项目分布表。
-- Casado A.、González-Mohíno F.、González-Ravé J. M. & Foster C.，Training Periodization, Methods, Intensity Distribution, and Volume in Highly Trained and Elite Distance Runners: A Systematic Review。*International Journal of Sports Physiology and Performance*，2022；17(6):820–833。精英跑者总体偏金字塔、马拉松偏金字塔、1500 米偏极化、准备期到比赛期的移动。
+- Casado A.、González-Mohíno F.、González-Ravé J. M. & Foster C.，Training Periodization, Methods, Intensity Distribution, and Volume in Highly Trained and Elite Distance Runners: A Systematic Review。*International Journal of Sports Physiology and Performance*，2022；17(6):820–833。精英跑者总体偏金字塔、马拉松偏金字塔、1500 米偏极化；作者建议准备期到比赛期从金字塔转向极化。
 - Festa L.、Tarperi C.、Skroce K.、La Torre A. & Schena F.，Effects of Different Training Intensity Distribution in Recreational Runners。*Frontiers in Sports and Active Living*，2020（2019 卷）；1:70。38 名休闲跑者、8 周、77/3/20 对 40/50/10、组间无差异、极化组多约 17% 时间。
 - Stöggl T. & Sperlich B.，Polarized training has greater impact on key endurance variables than threshold, high intensity, or high volume training。*Frontiers in Physiology*，2014；5:33。9 周四组比较；极化组 VO2peak +11.7%、力竭时间 +17.4%、峰值速度/功率 +5.1%。
 - Rosenblat M. A.、Perrotta A. S. & Vicenzino B.，Polarized vs. Threshold Training Intensity Distribution on Endurance Sport Performance: A Systematic Review and Meta-Analysis of Randomized Controlled Trials。*Journal of Strength and Conditioning Research*，2019；33(12):3491–3500。329 条检索、4 项纳入、3 项合并、PEDro 4–5/10、ES −0.66（95% CI −1.17 到 −0.15）。

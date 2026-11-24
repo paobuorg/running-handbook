@@ -7,11 +7,56 @@
   "claims": [
     "Thirty female collegiate athletes (mean age 22.33 ± 2.7 years, mean body mass 57.3 ± 5.9 kg, BMI 20.9 ± 1.4) with bra sizes B75 to C70 walked at 3 km/h, jogged at 6 km/h and ran at 9 km/h on a treadmill under no bra, encapsulation bra and compression bra conditions.",
     "During running, vertical breast displacement was 42.6 ± 13.3 mm on the right and 48.8 ± 12.1 mm on the left with no bra, 23.3 ± 8.8 mm and 22.8 ± 7.4 mm with an encapsulation bra, and 18.9 ± 5.7 mm and 19.1 ± 6.4 mm with a compression bra.",
-    "Sports bras reduced vertical breast displacement by more than 50% during jogging compared with no bra.",
-    "The compression bra produced significantly less vertical breast displacement than the encapsulation bra during jogging and running (p < 0.05).",
+    "During jogging at 6 km/h, the encapsulation bra reduced vertical breast displacement by 39.4% on the right and 36.4% on the left, while the compression bra reduced it by 55.8% and 47.5%; the paper's statement that both exceeded 50% does not match its own table.",
+    "The results and discussion report that the compression bra produced significantly less vertical breast displacement than the encapsulation bra during jogging and running (p < 0.05), while the abstract states there was no significant difference during jogging; the paper is internally inconsistent on this point.",
     "The encapsulation bra allowed more independent breast motion, while the compression bra produced almost symmetrical displacement between left and right sides.",
-    "Vertical displacement during walking and jogging did not differ significantly between the two sports bra types."
+    "Vertical displacement during walking did not differ significantly between the two sports bra types; for jogging the paper reports conflicting results in its abstract and results sections."
   ],
   "accessedAt": "2026-11-07",
-  "license": "ISBS proceedings; citation and summary only"
+  "license": "ISBS proceedings; citation and summary only",
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "Semantic Scholar 托管 PDF 全文",
+    "note": "ISBS 会议论文 PDF 全文，非同行评审期刊；2026-11-20 复核发现摘要与结果/讨论对慢跑差异的表述不一致，相关 claim 已改为如实记录该冲突，不再断言单一结论。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "摘要与 Methods：30 名女性大学生运动员，22.33 ± 2.7 岁、57.3 ± 5.9 kg、BMI 20.9 ± 1.4、B75–C70；3/6/9 km/h，NB/EB/CB 三种条件。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Table 1 跑步行（右/左）：NB 42.6 ± 13.3 / 48.8 ± 12.1 mm；EB 23.3 ± 8.8 / 22.8 ± 7.4 mm；CB 18.9 ± 5.7 / 19.1 ± 6.4 mm。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-20",
+      "note": "Table 1 慢跑降幅：EB 右 39.4%、左 36.4%；CB 右 55.8%、左 47.5%。摘要/结果句写“more than 50% during jogging”，与表格不一致；本条按表格数字写，并保留该不一致。"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-20",
+      "note": "结果与讨论：CB 在慢跑和跑步均显著小于 EB（p < 0.05）；摘要：慢跑时两种文胸无显著差异。原文自相矛盾，本条如实记录两处表述。"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：“the displacement between the left and right sides was slightly different on EB while CB was almost symmetrical”；“encapsulation bra provides more independent breast motion”。"
+    },
+    {
+      "index": 5,
+      "status": "supported",
+      "checkedAt": "2026-11-20",
+      "note": "步行无显著差异可确认；慢跑的比较在摘要（无显著差异）与结果/讨论（CB 显著更小）之间冲突。"
+    }
+  ]
 }

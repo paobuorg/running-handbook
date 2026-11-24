@@ -11,5 +11,38 @@
     "In 5-10% of training sessions, major portions of the session were at or near the lactate threshold.",
     "In 15-20% of sessions, training was performed above the second ventilatory threshold, including high-intensity interval work."
   ],
-  "license": null
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "摘要：国家级青年越野滑雪者采用极化强度分布。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "摘要：按心率法 75±3% 课次在 Z1（≤2.0 mM 血乳酸）。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "摘要：Z2 为 8±3%（HR）或 6±5%（session RPE），与 5–10% 相符。"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "摘要：Z3 为 17±4%（HR）或 18±7%（RPE），含高强度间歇。"
+    }
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "PubMed 摘要",
+    "note": "摘要可读；HR 与 RPE 两套分区数据均列出。"
+  }
 }

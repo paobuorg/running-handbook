@@ -17,7 +17,7 @@ Urban park and greenway running means running on paths inside parks, riverside g
 
 ## Surface is a mix, not a single choice
 
-Parks mix asphalt or concrete, rubber track, grass edges and boardwalk. A small study of 30 male habitual rear-foot strikers compared artificial grass, rubber and concrete and found no significant differences in several joint-motion and loading variables; concrete showed lower braking and mediolateral forces but higher ankle moments and frontal-plane hip and knee moments. The authors suggested harder surfaces might raise overuse risk for rear-foot strikers, while noting limited evidence. The sample cannot prove one surface causes injury; changing surface redistributes load, so do it gradually.
+Parks mix asphalt or concrete, rubber track, grass edges and boardwalk. A small study of 30 male habitual rear-foot strikers compared artificial grass, rubber and concrete and found no significant differences in several joint-motion and loading variables; concrete showed lower braking and mediolateral forces but higher ankle moments and frontal-plane hip and knee moments. The authors suggested harder surfaces might raise overuse risk for rear-foot strikers; this was a 30-person short-term mechanics comparison and cannot show that one surface causes injury. Changing surface redistributes load, so do it gradually.
 
 ## A greenway is shared space: courtesy before pace
 
@@ -77,4 +77,4 @@ This page does not judge whether a park or greenway is safe, and does not replac
 
 ## Sources and scope
 
-Surface mechanics follow the limited evidence on running surfaces; mileage-injury conflicts follow the running injury review; weekly activity and strength advice follows CDC guidance; water turn-back and backup navigation follow NPS hiking-safety material. Verified 2026-11-06.
+Surface mechanics follow one small-sample study of running surfaces; it cannot establish causation. Mileage-injury conflicts follow the running injury review; weekly activity and strength advice follows CDC guidance; water turn-back and backup navigation follow NPS hiking-safety material. Verified 2026-11-06.

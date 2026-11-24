@@ -1,0 +1,45 @@
+{
+  "entityId": "knowledge:barkley-marathons",
+  "slug": "barkley-marathons",
+  "kind": "knowledge",
+  "status": "published",
+  "riskLevel": "general",
+  "sourceRefs": [
+    "knowledge-barkley-run247-history",
+    "knowledge-barkley-bitter-southerner",
+    "knowledge-barkley-cgtn-2024",
+    "knowledge-barkley-knoxtntoday-ray",
+    "knowledge-barkley-runraid-history",
+    "knowledge-barkley-ferrett-2025",
+    "knowledge-barkley-ferrett-2026",
+    "knowledge-tnstateparks-frozen-head"
+  ],
+  "relatedRefs": [
+    "knowledge:ultra-running-basics",
+    "knowledge:classic-races-and-history",
+    "knowledge:running-culture",
+    "knowledge:trail-navigation"
+  ],
+  "license": "CC-BY-4.0",
+  "createdAt": "2026-11-08",
+  "updatedAt": "2026-11-08",
+  "reviewedAt": "2026-11-08",
+  "reviewDueAt": "2027-11-08",
+  "translations": [],
+  "details": {
+    "primaryTopic": "culture",
+    "secondaryTopics": [
+      "history",
+      "safety"
+    ],
+    "contentType": "concept",
+    "audiences": [
+      "beginner",
+      "intermediate"
+    ],
+    "scenarios": [
+      "reading",
+      "general-training"
+    ]
+  }
+}

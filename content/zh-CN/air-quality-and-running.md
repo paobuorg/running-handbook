@@ -43,7 +43,7 @@ AirNow 对每个等级给出的公众建议如下，最后一列是我按跑步�
 
 这不是说跑步一定有害，而是说**同样的 AQI，跑步的暴露剂量高于散步**。所以 AirNow 在 101–150 档会举例「把跑改成走」，在 151–200 档会直接建议「去健身房」。把「我今天感觉没事」当作安全依据，会低估剂量。
 
-WHO 2021 指南把 PM2.5 的年均指南值定为 5 µg/m³、24 小时均值 15 µg/m³；PM10 为年均 15 µg/m³、24 小时 45 µg/m³。PM2.5 能进入肺泡甚至血液，健康影响主要落在心血管和呼吸系统。需要分清：**WHO 指南值是基于健康证据的目标值，AQI 分级是基于当地标准的沟通工具**，两者不是同一把尺子。2019 年全球 99% 人口所在地区未达到 WHO 指南水平；同年室外空气污染估计造成 420 万例过早死亡，其中 68% 归因于缺血性心脏病和卒中。
+WHO 2021 指南把 PM2.5 的年均指南值定为 5 µg/m³、24 小时均值 15 µg/m³；PM10 为年均 15 µg/m³、24 小时 45 µg/m³。PM2.5 属于细颗粒物；指南强调空气污染增加心血管和呼吸系统疾病的发病与死亡。需要分清：**WHO 指南值是基于健康证据的目标值，AQI 分级是基于当地标准的沟通工具**，两者不是同一把尺子。2019 年全球 99% 人口所在地区未达到 WHO 指南水平；同年室外空气污染估计造成 420 万例过早死亡，其中 68% 归因于缺血性心脏病和卒中。
 
 ## 不同场景的判断顺序
 
@@ -111,7 +111,7 @@ WHO 2021 指南把 PM2.5 的年均指南值定为 5 µg/m³、24 小时均值 15
 - AirNow / U.S. EPA，Air Quality and Outdoor Activity Guidance for Schools：橙/红/紫三档的活动调整、臭氧早晨较低、症状清单。
 - AirNow / U.S. EPA，Air Quality Index Toolkit for Weathercasters：臭氧与颗粒物的敏感人群定义、症状处置。
 - U.S. EPA，Wildfire Smoke and Your Patients' Health: The Air Quality Index：看起来或闻起来有烟时避免跑步等剧烈活动。
-- WHO，WHO global air quality guidelines（2021）：PM2.5 年均 5 µg/m³、24 小时 15 µg/m³，PM10 年均 15 µg/m³、24 小时 45 µg/m³；PM2.5 可进入血液。
+- WHO，WHO global air quality guidelines（2021）：PM2.5 年均 5 µg/m³、24 小时 15 µg/m³，PM10 年均 15 µg/m³、24 小时 45 µg/m³；PM2.5 属细颗粒物；空气污染增加心血管和呼吸系统疾病的发病与死亡。
 - WHO，Ambient (outdoor) air pollution fact sheet（2024-10-24）：2019 年 99% 人口未达指南、420 万过早死亡及归因构成。
 - DeFlorio-Barker 等，Acute effects of short-term exposure to air pollution while being physically active（Preventive Medicine，2020）：运动通气量上升、更多空气绕过鼻腔、颗粒物更易到达下呼吸道。
 

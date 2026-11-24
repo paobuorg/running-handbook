@@ -132,7 +132,8 @@ ROS 还建议，如果有脊柱骨折、多次骨折、正在从骨折恢复，�
 - NHS，Menopause — overview（2022-05-17）：45–55 岁、围绝经期定义、12 个月标准、症状可在停经前后持续。
 - NHS，Menopause — symptoms（2022-05-17）：症状清单、首发信号、症状持续时间、就医建议、激素避孕的影响。
 - NHS，Menopause — things you can do（2022-05-17）：负重与抗阻运动、钙、维生素 D、潮热触发因素、HRT 与骨质疏松。
-- NHS，Osteoporosis — overview（2022-10-13）：绝经后最初几年骨量快速流失、早绝经风险、T 值、DEXA、维生素 D 10 µg。
+- NHS，Osteoporosis — overview（2022-10-13）：绝经后最初几年骨量快速流失、早绝经与卵巢切除风险、运动/低体重/饮酒/吸烟/激素类药物等风险因素、维生素 D 的来源与补充边界。
+- NHS，Bone density scan (DEXA) — How it is performed（2022-10-05）：T 值分级（正常、骨量减少、骨质疏松）、Z 值用途、扫描通常 10–20 分钟。
 - NHS，Postmenopausal bleeding（2026-09-24）：绝经后任何出血都应就诊、2 周转诊、常见原因。
 - NHS，Heart palpitations：更年期相关心悸、看 GP 与呼叫急救的分界。
 - Daley 等，Cochrane Database of Systematic Reviews（2014，CD006108.pub4）：5 项 RCT、762 人；运动对潮热无显著效果；激素治疗对比的小样本结果。

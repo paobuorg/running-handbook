@@ -18,10 +18,66 @@
   "accessedAt": "2026-11-07",
   "license": "US Government work; citation and summary only",
   "verification": {
-    "access": "metadata-only",
-    "bodyRead": false,
-    "checkedAt": "2026-11-07",
-    "checkedVia": "WebFetch",
-    "note": "正文在可耐受最高摄入量段落前截断。"
-  }
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "WebFetch 直连 ods.od.nih.gov 专业版与消费者版正文",
+    "note": "专业版 RDA/UL/吸收与摄入量表完整读取；消费者版补充 UL 表与高钙血症段落。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "RDA 表：19–50 岁男女均 1,000 mg；51–70 岁男 1,000 mg、女 1,200 mg；>70 岁男女均 1,200 mg；9–13 岁与 14–18 岁均 1,300 mg。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "消费者版 UL 表逐项吻合：0–6 月 1,000；7–12 月 1,500；1–8 岁 2,500；9–18 岁 3,000；19–50 岁 2,500；51 岁以上 2,000 mg；孕期/哺乳青少年 3,000、成年女性 2,500 mg。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：\"Milk, yogurt, and cheese are rich natural sources of calcium\"；\"approximately 72% of calcium intakes come from dairy products and foods with added dairy ingredients\"。"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：\"absorption ... from dairy products and fortified foods is about 30%\"；\"only 5% for spinach ... whereas it is much higher, at 27%, for milk\"，并归因于草酸。"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：\"reduced to a small extent by intakes of caffeine and phosphorus and to a greater extent by low status of vitamin D\"。"
+    },
+    {
+      "index": 5,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "消费者版原文：\"Getting too little calcium can cause ... Osteoporosis ... Rickets ... Osteomalacia\"。"
+    },
+    {
+      "index": 6,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：\"1,083 mg for men age 20 and older and 842 mg for women\"；\"39% of all individuals age 4 and older consume less than the EAR ... from foods and supplements\"。"
+    },
+    {
+      "index": 7,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：\"highest with doses of 500 mg or less\"；\"about 36% of a 300 mg calcium dose and 28% of a 1,000 mg dose\"。"
+    },
+    {
+      "index": 8,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "消费者版原文列出高血钙/尿钙症状后称：\"usually caused by a health condition such as high levels of parathyroid hormone or cancer, not by high calcium intakes\"。"
+    }
+  ]
 }

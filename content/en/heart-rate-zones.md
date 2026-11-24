@@ -65,14 +65,14 @@ All bpm values in this table are computed from the formula and rounded to whole 
 
 The Tanaka, Monahan and Seals (2001) meta-analysis collected group mean maximal heart rates from **351 studies, 492 groups and 18,712 subjects**. Maximal heart rate was strongly related to age (**r = −0.90**) with the regression `208 − 0.7 × age`. A laboratory cross-validation in **514 healthy subjects** produced `209 − 0.7 × age`, virtually identical to the meta-analysis; the regression did not differ between men and women and was not affected by wide variation in habitual activity.
 
-The same paper states that the older `220 − age` equation **underestimates maximal heart rate in older adults**. Computing both equations shows the direction:
+The same paper suggests that the older `220 − age` equation **significantly underestimates maximal heart rate in older adults**. Computing both equations shows the direction:
 
 | Age | 220 − age | 208 − 0.7 × age | Difference |
 |---:|---:|---:|---:|
 | 30 | 190 | 187 | 220 − age is 3 higher |
 | 60 | 160 | 166 | 220 − age is 6 lower |
 
-These rows are direct calculations, not measurements. The older the person, the larger the underestimate from the old equation — which is why Tanaka recommended the newer one.
+These rows are direct calculations, not measurements. Tanaka et al. suggest that the old equation significantly underestimates maximal heart rate in older adults; they do not claim the bias grows linearly with every year of age.
 
 ## How large is the error? Put numbers on it
 

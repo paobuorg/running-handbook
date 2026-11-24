@@ -12,5 +12,44 @@
     "No significant difference between foot-strike classification and gender was found.",
     "The study is cross-sectional and observational; it does not show that changing foot strike changes performance."
   ],
-  "license": "Publisher terms; citation and summary only"
+  "license": "Publisher terms; citation and summary only",
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "https://paulogentil.com/pdf/Foot-Strike%20Pattern%20and%20Performance%20in%20a%20Marathon.pdf",
+    "note": "读到期刊 PDF 全文（方法、结果、Table 1 与讨论），非仅摘要。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：“Foot-strike classification … gender, and rank (position in race) were recorded at the 8.1-km mark for 2112 runners at the 2011 Milwaukee Lakefront Marathon.”"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：“1991 runners were classified by foot-strike pattern, revealing a heel-strike prevalence of 93.67% (n = 1865).”"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：名次与着地分类差异显著（Kruskal-Wallis χ2=32.85, df=3, P<.0001），“with more elite performers being less likely to heel strike”；属横断面名次关联，非干预结果。"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：“A Fisher exact test between foot-strike classification and gender for all 1991 runners revealed a nonsignificant trend … (P = .0727)”，摘要亦写“No significant difference”。claim 的“无显著差异”成立，但原文有非显著趋势（男性更少后跟着地）。"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：“This study was an observational cohort study”，着地分类仅在 8.1 km 处单次观测、成绩取完赛名次；因此“不能证明改变着地方式会改变成绩”是由设计推出的方法学判断，原文未直接讨论因果，但与该设计一致。"
+    }
+  ]
 }

@@ -15,10 +15,48 @@
   "accessedAt": "2026-11-07",
   "license": "BMJ copyright; citation and summary only",
   "verification": {
-    "access": "browser",
+    "access": "direct",
     "bodyRead": true,
-    "checkedAt": "2026-11-07",
-    "checkedVia": "WebFetch",
-    "note": "PDF 全文 2 页可读；患病率表述与 claim 一致。"
-  }
+    "checkedAt": "2026-11-08",
+    "checkedVia": "WebFetch https://pmc.ncbi.nlm.nih.gov/articles/PMC1724690/pdf/v037p00287.pdf（PMC 网页正文页仅返回页眉，改用 PMC PDF；并与 BMJ 官方 PDF 对照）",
+    "note": "PMC PDF 全文 2 页可读，与 bjsm.bmj.com 官方 PDF 内容一致；本文为 leader article，所引患病率数据多来自二手研究（Morton & Callister 2000、1999 会议摘要），无原始方法学细节。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：“Retrospective reports indicate that over 60% of runners have experienced ETAP within the past year.”，回顾性自报限定保留。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：“In a study of participants in a 14 km community run/walk, 31% reported symptoms of ETAP, and 42% of these claimed that their performance suffered as a result.”"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：“a well localised pain that may occur in any region of the abdomen, but is most common in the lateral aspects of the mid abdomen. The pain is mostly described as sharp or stabbing when severe, and cramping, aching, or pulling when less intense.”"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：“The condition is most prevalent in activities involving repetitive torso movement, especially when the torso is extended, and it is exacerbated by the postprandial state. ETAP is also most common in the young, and its experience may be associated with shoulder tip pain.”"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：“The two causes of ETAP that have traditionally featured in the literature are diaphragmatic ischaemia and stress on the subdiaphragmatic ligaments… recent findings have proposed challenges to both theories.”；“We have argued that characteristics of ETAP are consistent with irritation of the parietal peritoneum.”"
+    },
+    {
+      "index": 5,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：“ingesting energy dense, hypertonic fluids are more provocative of ETAP than isotonic and hypotonic beverages”；“people with increased kyphosis are more susceptible to the pain”；“ETAP can be reproduced in some people through palpation proximal to specific facet joints.”"
+    }
+  ]
 }

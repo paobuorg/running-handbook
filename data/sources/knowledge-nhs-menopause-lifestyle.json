@@ -12,5 +12,44 @@
     "The NHS states that taking HRT can reduce the risk of osteoporosis."
   ],
   "accessedAt": "2026-11-07",
-  "license": "NHS website content; citation and summary only"
+  "license": "NHS website content; citation and summary only",
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "WebFetch https://www.nhs.uk/conditions/menopause/things-you-can-do/",
+    "note": "NHS 页面正文完整可读；骨健康内容位于 Protecting against weak bones 小节。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：“Eating well, exercising and looking after your mental wellbeing can help with symptoms during perimenopause and menopause.”"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：“weight-bearing exercises, where your feet and legs support your weight (like walking, running or dancing) and resistance exercises (for example, using weights)”，位于 Protecting against weak bones 小节。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：“sources of calcium, such as milk, yoghurt and kale”“get some sunlight on your skin”“take vitamin D supplements”。"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文逐项列出：light clothing、keep your bedroom cool、cool shower/use a fan/have a cold drink、reduce your stress level、avoid or reduce potential triggers, such as spicy food, caffeine, hot drinks, smoking and alcohol、exercise regularly。"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：“Taking HRT can reduce the risk of osteoporosis.”"
+    }
+  ]
 }

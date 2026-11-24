@@ -9,9 +9,54 @@
     "The study followed 556 half-marathon participants and 441 marathon participants with three questionnaires on running-related injuries, average weekly training volume and the longest endurance run.",
     "In half-marathon runners, a weekly training volume above 32 km was associated with a faster finish time (beta -4.19 min, 95% CI -6.52 to -1.85).",
     "In half-marathon runners, a longest endurance run above 21 km was associated with a faster finish time (beta -3.87 min, 95% CI -6.31 to -1.44).",
-    "A higher weekly volume (beta -1.81 min) and a longer endurance run (beta -1.89 min) were also associated with less decline in pace during the half marathon.",
+    "A higher weekly volume (beta -1.81 percentage points) and a longer endurance run (beta -1.89 percentage points) were associated with a smaller percentage decline in pace during the half marathon.",
     "In marathon runners, a weekly volume below 40 km was related to a slower finish time and a volume above 65 km to a faster finish time.",
     "No associations between training volume or longest endurance run and running-related injuries were identified."
   ],
-  "license": "Publisher terms; citation and summary only"
+  "license": "Publisher terms; citation and summary only",
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-20",
+    "checkedVia": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC7496388/fullTextXML（Scand J Med Sci Sports 2020;30:1692-1704 全文 XML，含 Table 1-3 与 Discussion）",
+    "note": "已读到 Methods、Table 3 多变量回归（半马/全马分块）与 Discussion 全文；半马与全马结果分表呈现，可逐项核对。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：“556 participants of a half marathon and 441 participants of a marathon completed three questionnaires on RRIs, average weekly training volume and the longest endurance run.” Table 1 亦为 N = 556 (55.8%) / 441 (44.2%)。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文 Table 3（Half marathon，因变量 finish time minutes）：“Weekly training volume >32: −4.19**，95% CI −6.52; −1.85”，参照组 20–32 km。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文 Table 3（Half marathon）：“Longest endurance run >21: −3.87**，95% CI −6.31; −1.44”，参照组 15–21 km。"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-20",
+      "note": "原文 Table 3 因变量为 “Decline in pace during event (%)”，β = −1.81（周跑量 >32 km）与 −1.89（最长耐力跑 >21 km），CI −3.49; −0.12 / −3.65; −0.12；单位是百分点，不是分钟。"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文 Table 3（Marathon，finish time）：“<40: 6.33*，0.18; 12.48”“>65: −14.09**，−22.47; −5.72”，参照组 40–65 km。claim 只述方向，未附数字，方向与显著性一致。"
+    },
+    {
+      "index": 5,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：“In this study, no associations between the training characteristics and RRIs were found.” Table 3 中所有训练量/最长耐力跑与 RRI 的 OR 95% CI 均跨 1。"
+    }
+  ]
 }

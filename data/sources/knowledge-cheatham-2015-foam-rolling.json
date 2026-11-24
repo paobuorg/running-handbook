@@ -13,5 +13,50 @@
     "The review assigns a level of evidence of 2c."
   ],
   "accessedAt": "2026-11-07",
-  "license": "All rights reserved; citation and summary only"
+  "license": "All rights reserved; citation and summary only",
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4637917/（Int J Sports Phys Ther 2015;10(6):827-838 全文 HTML，含 Results、Discussion、Limitations、Conclusion）",
+    "note": "已读到检索结果、14 项纳入研究、三个研究问题的讨论段与结论段；仅“Level of Evidence 2c”只出现在摘要栏。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：“A total of 133 articles were initially identified… A total of 14 articles met the inclusion criteria.”"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：“The research suggests that both foam rolling and the roller massage may offer short-term benefits for increasing sit and reach scores and joint ROM at the hip, knee, and ankle without affecting muscle performance.” claim 保留“appears”式语气。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：“The research suggests that foam rolling and roller massage after high intensity exercise does attenuate decrements in lower extremity muscle performance and reduces perceived pain in subjects with a post exercise intervention period ranging from 10 to 20 minutes.” claim 的“may help”弱于原文“does attenuate”，未夸大。"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：“The research suggests that short bouts of foam rolling (1 session for 30 seconds) or roller massage (1 session for 2 minutes) to the lower extremity prior to activity does not enhance or negatively affect muscle performance.”"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：“due to the heterogeneity of methods among studies, there currently is no consensus on the optimal SMR intervention (treatment time, pressure, and cadence) using these tools.”"
+    },
+    {
+      "index": 5,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文摘要“Level of Evidence”栏：“2c”。该分级未在正文结论段重复，但确为本文自评，无第三方推断。"
+    }
+  ]
 }

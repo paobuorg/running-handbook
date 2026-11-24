@@ -4,11 +4,38 @@
   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12464892/",
   "publisher": "Scandinavian Journal of Medicine & Science in Sports",
   "publishedAt": null,
-  "accessedAt": "2026-11-07",
+  "accessedAt": "2026-11-08",
   "claims": [
     "在 80 分钟持续跑中，碳板鞋相比非碳板鞋仍提高跑步经济性，并降低血乳酸、心率与主观用力感。",
     "两种鞋在 80 分钟内的变化时间进程没有差异，说明优势没有随疲劳迅速消失。",
-    "样本为受过训练的男性跑者，结果不能直接外推到所有人。"
+    "样本为 10 名受过训练的男性跑者；作者将小样本列为局限。"
   ],
-  "license": null
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-20",
+    "checkedVia": "WebFetch + curl.exe（PMC 全文）",
+    "note": "PMC12464892 全文可读，摘要与讨论均已核对。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "摘要：\"the CP-shoe improved RE and lowered [La−]b, HR, and Borg compared with the NCP-shoe\"。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "摘要：\"no shoe × time interactions\"；讨论称两组差异在 80 分钟内保持稳定。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-20",
+      "note": "原文 Methods/limitations：10 名受过训练的男性跑者；局限部分只列 small sample，未直接写不能外推到所有人。"
+    }
+  ]
 }

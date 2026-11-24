@@ -7,10 +7,49 @@
   "accessedAt": "2026-11-07",
   "claims": [
     "Twenty healthy male regular runners ran on a treadmill from slow to fast paces, with and without shoes, in random order; foot strike was recorded with a high-speed camera.",
-    "Running with shoes changed the strike pattern compared with barefoot running (chi-square = 99.07, p < 0.01).",
+    "Foot strike pattern was significantly correlated with shoe condition (chi-square = 99.07, p < 0.01); the authors describe correlation, not causation.",
     "When running with shoes, runners preferred a heel strike regardless of running speed; 95% used rearfoot strike at initial, slow and fast speeds, reduced by only 5% at the ultimate speed.",
     "When running barefoot, only 23.8% of landings were rearfoot, and the distribution of strike patterns did not change significantly with speed (chi-square = 2.26, p = 0.89).",
     "The authors conclude that foot strike preference is correlated with footwear condition rather than running speed."
   ],
-  "license": "CC BY 4.0"
+  "license": "CC BY 4.0",
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-20",
+    "checkedVia": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC7504700/fullTextXML",
+    "note": "经 Europe PMC 全文 XML 读取 Methods、Results、Table 1/2 与 Conclusion 正文，非仅摘要。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：20 名健康男性规律跑者，在跑步机上按随机顺序完成穿鞋/赤足各速度测试，用高速摄影判读着地方式。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-20",
+      "note": "原文：“strike pattern was significantly correlated with shoe conditions (χ2 = 99.07, p < 0.01)”；作者结论用 “is correlated with … rather than running speed”，属关联分析。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：“Ninety-five percent of runners used RFS at initial, slow, and fast speed, which was only reduced by 5% at ultimate speed.”"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：“only 23.8% of landing strikes were rearfoot, and the strike pattern distribution did not change significantly with the running speed (χ2 = 2.26, p = 0.89).”"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文结论：“foot strike preference of runners is correlated with the foot condition (barefoot or shod) rather than running speed.”"
+    }
+  ]
 }

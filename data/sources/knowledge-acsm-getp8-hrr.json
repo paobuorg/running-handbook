@@ -9,8 +9,47 @@
     "Moderate exercise intensity is defined as 40–59% of heart rate reserve, equivalent to 64–76% of maximal heart rate.",
     "Hard (vigorous) exercise intensity is defined as 60–84% of heart rate reserve.",
     "The target heart rate for a given relative intensity is calculated from heart rate reserve plus resting heart rate.",
-    "The table presents relative intensity as a percentage of heart rate reserve and as a percentage of maximal heart rate, alongside ratings of perceived exertion and metabolic equivalents."
+    "Table 1.2 presents relative intensity as a percentage of heart rate reserve and of maximal heart rate, alongside metabolic equivalents; RPE is discussed elsewhere in the text, not in that table."
+  ],
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Box 7.2 公式：THR=[(HRmax−HRrest)×强度%]+HRrest，即 HRR=HRmax−HRrest。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "表 1.2：中等强度为 40–59% HRR，对应 64–76% HRmax。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "表 1.2：Hard (vigorous) 为 60–84% HRR。"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Box 7.2：目标心率由 HRR 乘以强度百分比后加静息心率计算。"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-20",
+      "note": "表 1.2 列 %HRR、%HRmax、METs；该表不含 RPE，RPE 在正文其他处。"
+    }
   ],
   "accessedAt": "2026-11-07",
-  "license": "ACSM copyright; citation and summary only"
+  "license": "ACSM copyright; citation and summary only",
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "指南 PDF（第 8 版，456 页）",
+    "note": "ACSM GETP8 表 1.2 复核；2026-11-20 去掉“表内含 RPE”的错误描述。"
+  }
 }
