@@ -4,10 +4,31 @@
   "url": "https://www.topografix.com/GPX/1/1/",
   "publisher": "TopoGrafix",
   "publishedAt": null,
-  "accessedAt": "2026-10-26",
+  "accessedAt": "2026-11-08",
   "claims": [
     "GPX is an XML schema for exchanging GPS data.",
     "GPX 1.1 defines track, route and waypoint structures with latitude, longitude and optional elevation."
   ],
-  "license": null
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "WebFetch",
+    "note": "GPX 1.1 schema 文档可读：含 wptType、rteType、trkType、trksegType，属性 lat/lon 必填、ele 可选。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "schema 文档首页说明 GPX 为 XML schema。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "wptType/rteType/trkType 定义。"
+    }
+  ]
 }

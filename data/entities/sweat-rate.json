@@ -5,7 +5,8 @@
   "status": "published",
   "riskLevel": "general",
   "sourceRefs": [
-    "knowledge-acsm-2007-fluid"
+    "knowledge-acsm-2007-fluid",
+    "knowledge-nhs-hydration"
   ],
   "relatedRefs": [
     "knowledge:heat-and-humidity",

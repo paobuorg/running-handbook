@@ -4,10 +4,31 @@
   "url": "https://www.rfc-editor.org/rfc/rfc7946",
   "publisher": "Internet Engineering Task Force",
   "publishedAt": "2016-08-01",
-  "accessedAt": "2026-10-26",
+  "accessedAt": "2026-11-08",
   "claims": [
     "GeoJSON defines JSON-based geospatial objects including LineString coordinates.",
     "GeoJSON coordinates use longitude, latitude order and positions may include elevation."
   ],
-  "license": null
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "WebFetch",
+    "note": "RFC 7946 正文可读：Section 3.1.1 规定 position 为经度、纬度顺序且可含第三个高程元素，Section 3.1.4 定义 LineString。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Section 3.1.4。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Section 3.1.1。"
+    }
+  ]
 }

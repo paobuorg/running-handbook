@@ -97,7 +97,7 @@ The inputs have their own precision limits. A watch estimates gradient from baro
 
 This tool is for steady running on roads, tracks and gentle hills. It does not apply to routes that need ropes, snow or technical terrain, or to run-walk, intervals and segments with rapidly changing gradient. It does not replace coaching, race strategy or medical advice; runners with an injury, cardiovascular disease, or training in heat or at altitude should address those larger variables first. The tool does not calculate when the gradient is outside −45% to +45%, when pace is zero or negative, or when an input is not finite.
 
-The model comes from ten elite mountain runners on a treadmill: a small sample in a controlled setting. It cannot represent every population, surface or fatigue state. Downhill eccentric damage, braking, technical difficulty and psychological cost are outside the model.
+The model comes from ten elite mountain runners on a treadmill: a small sample in a controlled setting. It cannot represent every population, surface or fatigue state. Downhill eccentric damage, braking, technical difficulty and psychological cost are outside the model. A biomechanics review adds that uphill running uses a higher step frequency and shorter flight phase, while downhill running has longer flight, more rear-foot striking and relies on eccentric work and energy dissipation (knowledge-uphill-downhill-running); no single polynomial captures all of that.
 
 ## When this number misleads you
 
@@ -113,5 +113,7 @@ Do not use it to predict finish times, to rank trail difficulty or to prescribe 
 ## Sources and scope
 
 The fifth-order running-cost polynomial, the −0.45 to +0.45 gradient range, the flat cost of 3.6 J/kg/m and R² = 0.99 come from Minetti, Moia, Roi, Susta and Ferretti in the Journal of Applied Physiology (2002). The conversion "equivalent pace from the cost ratio" is the method this site applies to that polynomial; it is not a race-result formula from the original paper. The paper measured steady-state metabolic cost on a treadmill and says nothing about predicting race performance.
+
+The biomechanical differences between uphill and downhill running (step frequency, flight time, rear-foot striking and eccentric work) come from the review "Biomechanics and Physiology of Uphill and Downhill Running" (knowledge-uphill-downhill-running); they describe the model's limits and are not used in the calculation.
 
 This article and tool were verified on 2026-11-07.

@@ -63,7 +63,11 @@ These values match the published case `case-carb-load-planner-marathon`.
 
 These values match the published case `case-carb-load-planner-short-race`. A 45-minute race does not need loading; the tool still calculates a band but clearly flags it as not indicated so the numbers are not mistaken for permission.
 
-## How to use the result
+## Rounding and precision
+
+Daily bounds are first rounded to whole grams with `round(body mass × 10)` and `round(body mass × 12)`; window totals multiply the unrounded daily values by the window hours and then round the final result. Window totals are therefore not "the sum of two rounded daily values" and may differ by 1 g. Input precision limits output precision: if body mass is entered to 0.1 kg, there is no point reading the result to 0.1 g; the tool displays whole grams, and ±1 g is the practical tolerance. This rounding rule affects display only, not the 90-minute applicability test.
+
+## Reading the result
 
 - **Read the indication first.** If loading is not indicated, a normal high-carbohydrate intake in the 24 hours before exercise is the more relevant target, not a 36–48 hour high-dose protocol.
 - **Split the daily band across five or six feedings** rather than forcing two or three large meals. If appetite fails, use liquid carbohydrate or easy-to-digest staples, but practise them in training first.

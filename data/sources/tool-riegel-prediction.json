@@ -4,10 +4,31 @@
   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4919094/",
   "publisher": "PLoS One / PubMed Central",
   "publishedAt": null,
-  "accessedAt": "2026-10-26",
+  "accessedAt": "2026-11-08",
   "claims": [
     "The Riegel formula predicts performance by fitting a constant to each runner and fixing the distance exponent at 1.06.",
     "The paper treats the formula as a model of endurance performance rather than a guarantee of future race times."
   ],
-  "license": "CC-BY-4.0"
+  "license": "CC-BY-4.0",
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "WebFetch + curl.exe",
+    "note": "PMC 全文可读：正文写 Riegel 幂律要求 log t = 1.06 log s + c，λ1=1.06 对每位跑者固定、λ2 为跑者常数；并指出个体成绩会非线性偏离世界纪录幂律。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "“The Riegel power law … log t = 1.06 log s + c”。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "论文把幂律列为模型/基线，并说明个体偏离。"
+    }
+  ]
 }

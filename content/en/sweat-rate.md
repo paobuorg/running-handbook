@@ -17,6 +17,13 @@ translationStatus: reviewed
 
 It does not predict your next sweat rate, and it does not tell you to hit a fixed number. A single result is affected by weather, intensity, clothing, heat acclimatisation, menstrual cycle and illness; judging a typical sweat rate needs repeated measurements under similar conditions.
 
+## Usage steps
+
+1. Empty your bladder before the run, wear similar clothing, and weigh yourself on the same scale; record the value.
+2. Record only the fluid you actually swallow during the run; pours, mouthfuls spat out and liquid left in the bottle do not count.
+3. Dry yourself, remove wet clothing and weigh again on the same scale.
+4. Enter both weights, the volume drunk and the duration; check whether net loss is negative, then read sweat rate and the 2% flag, and use "Reading the result" to decide what this single measurement can and cannot say.
+
 ## Formula
 
 ```
@@ -64,6 +71,14 @@ ACSM sets the goal of drinking during exercise as **preventing more than 2% body
 
 The denominator is pre-exercise body mass, so the same 1.4 L loss is about 2.0% for a 70 kg runner and about 2.3% for a 60 kg runner. That is why the tool asks for body mass instead of reporting only litres per hour.
 
+## Reading the result
+
+- **Net loss** is the fluid deficit for this session, not a "level of dehydration"; it combines the scale change with the volume drunk.
+- **Sweat rate (L/h)** is comparable only across similar weather, intensity, clothing and duration; one cool morning run cannot be scaled to a hot race.
+- **Body-mass loss percentage** is the input to the 2% flag; losing the same 1.3 L produces different percentages at 70 kg and 60 kg.
+- **The 2% flag** is a screening prompt, not a diagnosis, and crossing 2% does not guarantee a problem; it tells you to review the fuelling plan.
+- This number **says nothing about sodium loss** and cannot prescribe sodium intake; salt and electrolyte plans need separate evidence.
+
 ## Assumptions and limits
 
 - The calculation assumes body mass change reflects mainly sweat loss and consumed fluid; urine, stool, substrate oxidation and metabolic water are not measured separately.
@@ -95,5 +110,6 @@ Do not use it as a drinking prescription or a sodium requirement, or to diagnose
 ## Sources
 
 - American College of Sports Medicine, Exercise and Fluid Replacement position stand (2007): the goal of drinking during exercise is to prevent more than 2% body mass loss and excessive electrolyte changes; individual sweat rate can be estimated from body mass before and after exercise; sweating rate and sweat electrolyte content vary considerably between individuals, so customised programmes are recommended.
+- NHS, Water, drinks and hydration: daily hydration can be checked against urine colour, and longer or hotter activity may require more fluid; this is general hydration advice, not a substitute for measuring your own sweat rate.
 
 This page was verified on 2026-11-07.

@@ -4,9 +4,24 @@
   "url": "https://doi.org/10.1016/S0146-664X(72)80017-0",
   "publisher": "Computer Graphics and Image Processing",
   "publishedAt": null,
-  "accessedAt": "2026-11-07",
+  "accessedAt": "2026-11-08",
   "claims": [
     "Ramer described an iterative procedure for polygonal approximation of plane curves."
   ],
-  "license": null
+  "license": null,
+  "verification": {
+    "access": "metadata-only",
+    "bodyRead": false,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "WebFetch（DOI 跳转）+ 出版方标题页",
+    "note": "DOI 跳到 ScienceDirect 人机验证页，正文不可读；标题本身即 “An iterative procedure for the polygonal approximation of plane curves”，本条 claim 仅按标题核对，未读正文细节。 R53 回扫：2026-11-08 用桌面 UA 直连重试 2 次，原 URL 仍 302 到 Elsevier linkinghub 跳转页（约 2.6 KB），拿不到文章正文；属出版商跳转与订阅门，不是文献不存在。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "标题级核对；正文未读。"
+    }
+  ]
 }

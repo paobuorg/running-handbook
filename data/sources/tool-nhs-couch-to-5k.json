@@ -4,10 +4,31 @@
   "url": "https://www.nhs.uk/live-well/exercise/running-and-aerobic-exercises/get-running-with-couch-to-5k/",
   "publisher": "NHS",
   "publishedAt": null,
-  "accessedAt": "2026-10-26",
+  "accessedAt": "2026-11-08",
   "claims": [
     "NHS Couch to 5K is a beginner running plan.",
     "In the first week, sessions start with 1-minute runs followed by a 1-minute-30-second walk."
   ],
-  "license": null
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "WebFetch",
+    "note": "页面正文可读：写明 9 周计划、第一周 1 分钟跑接 1 分 30 秒走、结束时可连续跑 30 分钟。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "“simple, free running plan for absolute beginners”。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "“1 minute runs, followed by a 1 minute 30 second walk”。"
+    }
+  ]
 }
