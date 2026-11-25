@@ -1,6 +1,6 @@
 # 贡献说明
 
-本仓库只接收工具说明、契约、公式假设、来源与算例。计算实现、页面组件和浏览器读取逻辑在 `site-tools`；网站视觉与共享组件在 `site-www/packages/core`。修改公式时，内容与代码必须成对提交。
+本仓库只接收工具说明、契约、公式假设、来源与算例。计算实现、页面组件和浏览器读取逻辑在 `site-tools`；网站视觉与共享组件在 `paobu-core`。修改公式时，内容与代码必须成对提交。
 
 ## 提交前
 
@@ -42,7 +42,7 @@ pnpm build
 
 # Contributing
 
-This repository accepts tool documentation, contracts, formula assumptions, sources and cases only. The calculation implementation, page components and browser file handling live in `site-tools`; shared visual components live in `site-www/packages/core`. A formula change requires matching content and code changes.
+This repository accepts tool documentation, contracts, formula assumptions, sources and cases only. The calculation implementation, page components and browser file handling live in `site-tools`; shared visual components live in `paobu-core`. A formula change requires matching content and code changes.
 
 Before submitting, confirm that the slug and `entityId` are unique and state both the problem the tool solves and the cases it does not cover. Put inputs, operation order, units, limits and rounding in `formulaDescription`, and list every simplification in `assumptions`. Add or update an independent case in `data/cases/` with inputs, expected output and boundary intent so rounding, truncation, unit conversion and “unknown” are reproducible. A changed calculation requires a higher `specVersion` plus matching implementation and tests; documentation-only or code-only changes are not accepted. Keep Chinese and English facts, constraints and error conditions consistent, cite a `sourceId`, URL or DOI for standards and papers, and never invent sources, authors or test results.
 
