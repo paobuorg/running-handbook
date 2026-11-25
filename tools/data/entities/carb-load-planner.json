@@ -1,0 +1,140 @@
+{
+  "entityId": "tool:carb-load-planner",
+  "slug": "carb-load-planner",
+  "kind": "tool",
+  "status": "published",
+  "riskLevel": "general",
+  "sourceRefs": [
+    "knowledge-acsm-2016-carbohydrate",
+    "knowledge-beck-2015-carbohydrate"
+  ],
+  "relatedRefs": [
+    "knowledge:carb-loading",
+    "knowledge:race-day-fueling",
+    "tool:fueling-planner"
+  ],
+  "license": "CC-BY-4.0",
+  "createdAt": "2026-11-07",
+  "updatedAt": "2026-11-07",
+  "reviewedAt": "2026-11-07",
+  "reviewDueAt": "2027-11-07",
+  "translations": [],
+  "details": {
+    "toolId": "tool:carb-load-planner",
+    "specVersion": "1.0.0",
+    "inputs": [
+      {
+        "name": "bodyMassKg",
+        "type": "number",
+        "unit": "kg",
+        "required": true,
+        "minimum": 30,
+        "maximum": 200,
+        "labels": {
+          "zh-CN": "体重（公斤）",
+          "en": "Body mass (kg)"
+        }
+      },
+      {
+        "name": "eventDurationMinutes",
+        "type": "number",
+        "unit": "min",
+        "required": true,
+        "minimum": 1,
+        "maximum": 1440,
+        "labels": {
+          "zh-CN": "比赛预计时长（分钟）",
+          "en": "Expected race duration (minutes)"
+        }
+      },
+      {
+        "name": "loadWindowHours",
+        "type": "number",
+        "unit": "h",
+        "required": true,
+        "minimum": 36,
+        "maximum": 48,
+        "labels": {
+          "zh-CN": "加载窗口（小时）",
+          "en": "Loading window (hours)"
+        }
+      }
+    ],
+    "outputs": [
+      {
+        "name": "indicated",
+        "type": "boolean",
+        "unit": null,
+        "required": true,
+        "labels": {
+          "zh-CN": "是否适用碳水加载",
+          "en": "Whether loading is indicated"
+        }
+      },
+      {
+        "name": "dailyLowGrams",
+        "type": "number",
+        "unit": "g/day",
+        "required": true,
+        "labels": {
+          "zh-CN": "每日碳水下限",
+          "en": "Daily carbohydrate lower bound"
+        }
+      },
+      {
+        "name": "dailyHighGrams",
+        "type": "number",
+        "unit": "g/day",
+        "required": true,
+        "labels": {
+          "zh-CN": "每日碳水上限",
+          "en": "Daily carbohydrate upper bound"
+        }
+      },
+      {
+        "name": "windowTotalLowGrams",
+        "type": "number",
+        "unit": "g",
+        "required": true,
+        "labels": {
+          "zh-CN": "整个窗口碳水总量下限",
+          "en": "Total carbohydrate over the window, lower bound"
+        }
+      },
+      {
+        "name": "windowTotalHighGrams",
+        "type": "number",
+        "unit": "g",
+        "required": true,
+        "labels": {
+          "zh-CN": "整个窗口碳水总量上限",
+          "en": "Total carbohydrate over the window, upper bound"
+        }
+      },
+      {
+        "name": "note",
+        "type": "string",
+        "unit": null,
+        "required": true,
+        "labels": {
+          "zh-CN": "文字说明",
+          "en": "Plain-language note"
+        }
+      }
+    ],
+    "formulaDescription": "dailyLowGrams = round(bodyMassKg × 10); dailyHighGrams = round(bodyMassKg × 12). windowTotalLowGrams = round(dailyLowGrams × loadWindowHours / 24); windowTotalHighGrams = round(dailyHighGrams × loadWindowHours / 24). indicated = eventDurationMinutes > 90. The 10–12 g/kg/day range and the 36–48 hour window come from the 2016 ACSM joint position statement; the arithmetic simply scales the range to the entered body mass and window.",
+    "assumptions": [
+      "The dose range applies to sustained or intermittent exercise longer than 90 minutes; shorter events are flagged as not indicated.",
+      "The tool reports the published 10–12 g/kg/day range as a planning band, not a personal prescription.",
+      "Carbohydrate quality, meal splitting, gut tolerance and food preferences are outside the calculation.",
+      "The tool does not account for diabetes, eating disorders, pregnancy, gastrointestinal disease or other medical conditions.",
+      "The window is a 36–48 hour planning range, not an instruction to start at an exact hour.",
+      "The tool does not give medical or dietetic advice."
+    ],
+    "rounding": "Daily and window totals are rounded to the nearest whole gram. The final values are computed from the unrounded daily range before rounding the window total.",
+    "caseRefs": [
+      "case-carb-load-planner-marathon",
+      "case-carb-load-planner-short-race"
+    ]
+  }
+}

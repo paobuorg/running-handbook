@@ -1,0 +1,15 @@
+{
+  "caseId": "case-grade-adjusted-pace-downhill",
+  "toolId": "tool:grade-adjusted-pace",
+  "input": {
+    "actualPaceSecondsPerKm": 300,
+    "gradientPercent": -10
+  },
+  "expected": {
+    "costJoulesPerKgPerM": 2.152,
+    "costRatio": 0.598,
+    "flatEquivalentPaceSeconds": 502,
+    "direction": "downhill"
+  },
+  "basis": "Independent arithmetic: i = −0.10. Cr = 155.4 × (−0.10)^5 − 30.4 × (−0.10)^4 − 43.3 × (−0.10)^3 + 46.3 × (−0.10)^2 + 19.5 × (−0.10) + 3.6 = 2.1524 J/kg/m. Ratio to 3.6 is 0.59789. Flat-equivalent pace = 300 / 0.59789 = 501.77 s/km, rounded to 502 s/km."
+}

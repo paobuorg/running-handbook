@@ -1,0 +1,40 @@
+{
+  "caseId": "case-route-compare-complete",
+  "toolId": "tool:route-compare",
+  "input": {
+    "routes": [
+      {
+        "routeId": "synthetic-gamma",
+        "distanceMeters": 10000,
+        "elevationGainMeters": 50,
+        "surface": "track",
+        "technicality": "low"
+      },
+      {
+        "routeId": "synthetic-delta",
+        "distanceMeters": 42195,
+        "elevationGainMeters": 900,
+        "surface": "road",
+        "technicality": "low"
+      },
+      {
+        "routeId": "synthetic-epsilon",
+        "distanceMeters": 21097.5,
+        "elevationGainMeters": 0,
+        "surface": "road",
+        "technicality": "medium"
+      }
+    ]
+  },
+  "expected": {
+    "routeCount": 3,
+    "rows": [
+      { "key": "distance", "values": [10000, 42195, 21097.5] },
+      { "key": "elevation", "values": [50, 900, 0] },
+      { "key": "surface", "values": ["track", "road", "road"] },
+      { "key": "technicality", "values": ["low", "low", "medium"] }
+    ],
+    "rankingProduced": false
+  },
+  "basis": "Synthetic unit-level case, not a real race: three routes with every field recorded. A recorded elevation gain of zero is a real value and must stay 0, unlike a missing value which stays null. The output still contains no safety or difficulty ranking."
+}

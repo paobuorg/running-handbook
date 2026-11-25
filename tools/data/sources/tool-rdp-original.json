@@ -1,0 +1,27 @@
+{
+  "sourceId": "tool-rdp-original",
+  "title": "Algorithms for the reduction of the number of points required to represent a digitized line or its caricature",
+  "url": "https://doi.org/10.3138/FM57-6770-U75U-7727",
+  "publisher": "Cartographica",
+  "publishedAt": null,
+  "accessedAt": "2026-11-08",
+  "claims": [
+    "The Douglas–Peucker procedure reduces the number of points required to represent a polyline."
+  ],
+  "license": null,
+  "verification": {
+    "access": "metadata-only",
+    "bodyRead": false,
+    "checkedAt": "2026-11-20",
+    "checkedVia": "WebFetch（摘要页）+ curl.exe（PDF 下载）",
+    "note": "仅摘要可读；端点保留与递归细化属于实现描述，不在摘要，已移除。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-20",
+      "note": "摘要：“reduces the number of points required to represent a digitized line or its caricature”。"
+    }
+  ]
+}

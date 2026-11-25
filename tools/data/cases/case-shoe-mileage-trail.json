@@ -1,0 +1,25 @@
+{
+  "caseId": "case-shoe-mileage-trail",
+  "toolId": "tool:shoe-mileage",
+  "input": {
+    "shoe": {
+      "id": "shoe-2",
+      "name": "Trail shoe",
+      "initialKm": 210.5,
+      "reminderKm": 800
+    },
+    "runs": [
+      { "id": "run-3", "shoeId": "shoe-2", "date": "2026-10-05", "distanceKm": 12.4 },
+      { "id": "run-4", "shoeId": "shoe-2", "date": "2026-10-11", "distanceKm": 8.6 },
+      { "id": "run-5", "shoeId": "shoe-2", "date": "2026-11-01", "distanceKm": 15 }
+    ]
+  },
+  "expected": {
+    "totalKm": 246.5,
+    "runCount": 3,
+    "remainingKm": 553.5,
+    "percentOfReminder": 30.8,
+    "lastRunDate": "2026-11-01"
+  },
+  "basis": "Independent arithmetic: 210.5 + 12.4 + 8.6 + 15 = 246.5 km. 800 - 246.5 = 553.5 km remaining. 246.5/800 × 100 = 30.8125, rounded to 30.8%."
+}

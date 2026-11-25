@@ -1,0 +1,17 @@
+{
+  "caseId": "case-training-load-boundary",
+  "toolId": "tool:training-load",
+  "input": {
+    "weeklyTrainingMinutes": 300,
+    "sessionsPerWeek": 5,
+    "averageRpe": 6,
+    "acuteLoad": 600,
+    "chronicLoad": 400
+  },
+  "expected": {
+    "acuteChronicRatio": 1.5,
+    "weeklyRampPercent": 50.0,
+    "band": "elevated"
+  },
+  "basis": "Boundary arithmetic: 600 / 400 = 1.50, and (600 - 400) / 400 × 100 = 50.0. A ratio of exactly 1.5 is the inclusive top of the elevated band; the spike band begins only above 1.5."
+}

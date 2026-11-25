@@ -1,0 +1,21 @@
+{
+  "caseId": "case-race-checklist-road-rain",
+  "toolId": "tool:race-checklist",
+  "input": {
+    "raceType": "road",
+    "duration": "3-6h",
+    "weather": "rain",
+    "travel": false
+  },
+  "expected": {
+    "sectionIds": [
+      "entry",
+      "clothing",
+      "fuel",
+      "logistics",
+      "cold-wet"
+    ],
+    "requiredItems": ["shell", "gloves", "dry-bag", "cold-exit"]
+  },
+  "basis": "Rule-based checklist: four baseline sections plus the cold-wet addition triggered by rain. Road, 3-6h and no travel add no section. The required items are the complete cold-wet section."
+}

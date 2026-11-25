@@ -1,0 +1,17 @@
+{
+  "caseId": "case-training-load-typical",
+  "toolId": "tool:training-load",
+  "input": {
+    "weeklyTrainingMinutes": 240,
+    "sessionsPerWeek": 4,
+    "averageRpe": 5,
+    "acuteLoad": 420,
+    "chronicLoad": 400
+  },
+  "expected": {
+    "acuteChronicRatio": 1.05,
+    "weeklyRampPercent": 5.0,
+    "band": "typical"
+  },
+  "basis": "Independent arithmetic: 420 / 400 = 1.05, and (420 - 400) / 400 × 100 = 5.0. The ratio 1.05 lies between 0.8 and 1.3, so the band is typical."
+}

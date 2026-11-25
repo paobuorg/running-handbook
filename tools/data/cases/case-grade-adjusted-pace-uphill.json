@@ -1,0 +1,15 @@
+{
+  "caseId": "case-grade-adjusted-pace-uphill",
+  "toolId": "tool:grade-adjusted-pace",
+  "input": {
+    "actualPaceSecondsPerKm": 360,
+    "gradientPercent": 8
+  },
+  "expected": {
+    "costJoulesPerKgPerM": 5.433,
+    "costRatio": 1.509,
+    "flatEquivalentPaceSeconds": 239,
+    "direction": "uphill"
+  },
+  "basis": "Independent arithmetic: i = 0.08. Cr = 155.4 × 0.08^5 − 30.4 × 0.08^4 − 43.3 × 0.08^3 + 46.3 × 0.08^2 + 19.5 × 0.08 + 3.6 = 5.43342 J/kg/m. Ratio to the flat cost of 3.6 is 1.50928. Flat-equivalent pace = 360 / 1.50928 = 238.53 s/km, rounded to 239 s/km."
+}
