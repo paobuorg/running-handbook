@@ -87,7 +87,7 @@ This page is not a statistics course, an individual training prescription or a q
 
 - [Carbon plates and advanced shoes: evidence, use cases and limits](https://learn.paobu.org/en/articles/shoe-technology/)
 - [Running culture: race rules, record ratification and reading research](https://learn.paobu.org/en/articles/running-culture/)
-- [Core running terms: pace, RPE, cadence and training language](https://learn.paobu.org/en/articles/core-terms/)
+- [Core running terms: pace, RPE, cadence and training language](https://learn.paobu.org/en/glossary/core-terms/)
 - [Records and courses: why a fast watch time is not a record](https://learn.paobu.org/en/articles/records-and-course-validity/)
 
 ## Sources and scope

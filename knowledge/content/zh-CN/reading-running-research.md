@@ -97,7 +97,7 @@ translationStatus: reviewed
 
 - [碳板与先进跑鞋：证据、适用场景和边界](https://learn.paobu.org/articles/shoe-technology/)
 - [跑步文化：赛事规则、纪录认证与读研究的边界](https://learn.paobu.org/articles/running-culture/)
-- [跑步基础术语表：配速、RPE、步频与训练黑话](https://learn.paobu.org/articles/core-terms/)
+- [跑步基础术语表：配速、RPE、步频与训练黑话](https://learn.paobu.org/glossary/core-terms/)
 - [纪录与赛道：为什么手表上的好成绩不是纪录](https://learn.paobu.org/articles/records-and-course-validity/)
 
 ## 来源与适用范围
