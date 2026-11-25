@@ -9,7 +9,7 @@ This repository holds the evergreen running knowledge, bilingual articles, sourc
 - Ninety knowledge pieces cover all nine topics: training, technique, recovery, nutrition, gear, health, safety, habits and culture. Each has complete Chinese and English text. A glossary is included, and the site provides five learning paths.
 - All ninety knowledge entities have completed **AI-assisted editorial review** and are published (`published`, with bilingual `approve` records and matching digests): 86 guides, 3 concepts and 1 glossary. The reviewer is `runmap-editorial`, explicitly AI-assisted, not independent professional medical/nutrition review. All nine topics are covered.
 - The only author/review identity is `runmap-editorial`, shown as “RunUp Editorial”. No personal qualification is claimed; review records are AI-assisted editorial reviews, not independent professional review.
-- This content tree is the `knowledge/` subtree of `running-handbook`; the six local repositories have not been pushed to production. This repository does not claim professional review.
+- This content tree is the `knowledge/` subtree of `running-handbook`. It has been pushed with the six repositories to `paobuorg` and went live on `learn.paobu.org` on 2026-11-25. This repository does not claim professional review.
 
 ## Content model
 

@@ -10,7 +10,7 @@ This repository holds the tool descriptions, input/output contracts, formula ass
 - All eighteen tools have completed **AI-assisted editorial review** and are published (`published`, with bilingual `approve` records and matching digests). The reviewer is `runmap-editorial`, explicitly AI-assisted, not independent professional review. Physical-device performance remains unverified.
 - Forty-three independent cases live in `data/cases/`. They cover pace modes, splits, truncated run-walk schedules, Riegel predictions, fueling and carbs, heat adjustment, training load, track elevation and simplification offsets, sweat rate, shoe-mileage summaries and a trail checklist.
 - The only author/review identity is `runmap-editorial`, shown as “RunUp Editorial”. No personal qualification is claimed; review records are AI-assisted editorial reviews, not independent professional review.
-- This content tree is the `tools/` subtree of `running-handbook`; the tools site passes local builds and has not been pushed to production.
+- This content tree is the `tools/` subtree of `running-handbook`. The tools site was pushed with the six repositories to `paobuorg` and went live on 2026-11-25.
 
 ## Tools and methods
 
