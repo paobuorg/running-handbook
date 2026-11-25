@@ -1,0 +1,48 @@
+{
+  "sourceId": "knowledge-ioc-reds-2023",
+  "title": "IOC consensus statement on Relative Energy Deficiency in Sport (REDs), 2023 update",
+  "url": "https://doi.org/10.1136/bjsports-2023-106994",
+  "publisher": "British Journal of Sports Medicine",
+  "publishedAt": null,
+  "claims": [
+    "The 2023 IOC consensus defines energy availability as energy intake minus exercise energy expenditure, divided by fat-free mass per day.",
+    "Reported prevalence of low energy availability or REDs indicators ranges from 23% to 79.5% in female athletes and 15% to 70% in male athletes.",
+    "The consensus distinguishes low energy availability that is adaptable from problematic low energy availability.",
+    "Problematic low energy availability is associated with reduced musculoskeletal health, increased injury risk and impaired performance."
+  ],
+  "accessedAt": "2026-11-07",
+  "license": "BMJ copyright; citation and summary only",
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "https://bjsm.bmj.com/content/57/17/1073",
+    "note": "BJSM 页面标注 Free，已读 Introduction、Box 1（Definitions）等正文，核对公式、患病率与 LEA 分类原文。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文 Box 1：“EA [Energy Availability] = {EI [Dietary energy Intake (kcal)] − EEE [Exercise Energy Expenditure (kcal)]} / FFM [Fat-Free Mass (kg) / day]”。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文 Introduction：“the reported estimated prevalence of LEA/REDs indicators in female (23%–79.5%) and male (15%–70%) athletes”。区间完全一致。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文 Box 1：“LEA occurs as a continuum between scenarios in which effects are benign (adaptable LEA) and others in which there are substantial and potentially long-term impairments of health and performance (problematic LEA)”。"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文 Box 1（REDs 定义）：detrimental outcomes include “decreases in… musculoskeletal health… which can all individually and synergistically lead to impaired well-being, increased injury risk and decreased sports performance”。claim 用“associated with”比原文因果链更弱，未夸大。"
+    }
+  ]
+}

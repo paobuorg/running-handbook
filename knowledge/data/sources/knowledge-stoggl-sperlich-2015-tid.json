@@ -1,0 +1,55 @@
+{
+  "sourceId": "knowledge-stoggl-sperlich-2015-tid",
+  "title": "The training intensity distribution among well-trained and elite endurance athletes",
+  "url": "https://www.frontiersin.org/journals/physiology/articles/10.3389/fphys.2015.00295/full",
+  "publisher": "Frontiers in Physiology",
+  "publishedAt": "2015-10-27",
+  "accessedAt": "2026-11-07",
+  "claims": [
+    "The majority of retrospective analyses of nationally and internationally competitive endurance athletes present a pyramidal training intensity distribution with a high proportion of high-volume, low-intensity training.",
+    "Some world-class athletes adopt a polarized distribution with a significant share of high-volume, low-intensity training and high-intensity training during certain phases of the season.",
+    "Polarized training is commonly defined as about 75-80% low intensity, about 5% threshold intensity and about 15-20% high intensity.",
+    "Reported low-intensity shares across endurance disciplines range from roughly 70% to 96%, including runners, cross-country skiers, rowers, cyclists and swimmers.",
+    "Emerging prospective randomized controlled studies have demonstrated superior endurance-related responses with polarized training compared with high-volume low-intensity or threshold-focused training in well-trained and recreational individuals."
+  ],
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "摘要：多数回顾性研究呈金字塔分布，低强度高量占比大。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "摘要：部分世界级运动员在赛季特定阶段采用极化分布。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "正文：极化常量化为 75–80% 低强度、5% 阈值、15–20% 高强度。"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "正文表格与综述：低强度占比约 70%–96%，覆盖跑、越野滑雪、赛艇、自行车、游泳。"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "摘要：新兴前瞻 RCT 显示，极化在耐力相关指标上优于高量低强度或阈值训练。"
+    }
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "Frontiers 全文",
+    "note": "全文可读；定义、70–96% 范围与 RCT 结论见正文/表格。"
+  }
+}

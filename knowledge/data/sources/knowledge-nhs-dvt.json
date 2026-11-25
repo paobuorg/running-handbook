@@ -1,0 +1,55 @@
+{
+  "sourceId": "knowledge-nhs-dvt",
+  "title": "DVT (deep vein thrombosis)",
+  "url": "https://www.nhs.uk/conditions/deep-vein-thrombosis-dvt/",
+  "publisher": "NHS",
+  "publishedAt": null,
+  "claims": [
+    "DVT is a blood clot in a vein, usually in the leg, and can be dangerous.",
+    "Symptoms in the leg include throbbing pain in one leg (rarely both), usually in the calf or thigh; swelling in one leg; red, blue or darkened skin around the painful area; and swollen veins.",
+    "People should seek urgent help if they think they have DVT.",
+    "Call emergency services or go to an emergency department if symptoms of DVT are accompanied by shortness of breath or chest pain, because the clot may have travelled to the lungs (pulmonary embolism).",
+    "Risk is higher if you are over 60, have had a DVT or pulmonary embolism, have cancer or heart failure, have recent surgery, are confined to bed for 3 days or more, have long journeys over 4 hours, are pregnant or postpartum, or are dehydrated."
+  ],
+  "accessedAt": "2026-11-07",
+  "license": "Crown copyright (Open Government Licence); facts summarized with attribution",
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-20",
+    "checkedVia": "https://www.nhs.uk/conditions/deep-vein-thrombosis-dvt/",
+    "note": "NHS 页面全文抓取成功（含症状、紧急处置、危险因素三节），逐条核对。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：“DVT (deep vein thrombosis) is a blood clot in a vein, usually in the leg. DVT can be dangerous.”"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文列举：“throbbing pain in 1 leg (rarely both legs), usually in the calf or thigh”“swelling in 1 leg (rarely both legs)”“red, blue or darkened skin around the painful area”“swollen veins”。claim 省略了“棕色或黑色皮肤上不易看出”的提示，不影响强度。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：“Urgent advice: Ask for an urgent GP appointment or get help from NHS 111 if: you think you have DVT”。claim 的“seek urgent help”概括了 GP/NHS 111 两条路径。"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：“Call 999 or go to A&E if: You have symptoms of DVT ... and: feel short of breath / have chest pain”；“blood clots can travel to your lungs. This is called a pulmonary embolism.”"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-20",
+      "note": "原文为阈值而非连续变量：“aged over 60”“confined to bed for 3 days or more”“long journeys (more than 4 hours)”；按原文写条件。"
+    }
+  ]
+}

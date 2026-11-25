@@ -1,0 +1,43 @@
+{
+  "entityId": "knowledge:compression-massage-and-foam-rolling",
+  "slug": "compression-massage-and-foam-rolling",
+  "kind": "knowledge",
+  "status": "published",
+  "riskLevel": "guidance",
+  "sourceRefs": [
+    "knowledge-negyesi-2022-compression",
+    "knowledge-cheatham-2015-foam-rolling",
+    "knowledge-davis-2020-massage",
+    "knowledge-nhs-dvt"
+  ],
+  "relatedRefs": [
+    "knowledge:recovery-day",
+    "knowledge:post-race-recovery",
+    "knowledge:sleep-recovery",
+    "knowledge:running-apparel-and-chafing"
+  ],
+  "license": "CC-BY-4.0",
+  "createdAt": "2026-11-07",
+  "updatedAt": "2026-11-07",
+  "reviewedAt": "2026-11-07",
+  "reviewDueAt": "2027-11-07",
+  "translations": [],
+  "details": {
+    "primaryTopic": "recovery",
+    "secondaryTopics": [
+      "gear",
+      "health"
+    ],
+    "contentType": "guide",
+    "audiences": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "scenarios": [
+      "general-training",
+      "race-preparation",
+      "injury"
+    ]
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "sourceId": "knowledge-cdc-yellowbook-jetlag",
+  "title": "Jet Lag Disorder — CDC Yellow Book 2026: Health Information for International Travel",
+  "url": "https://www.ncbi.nlm.nih.gov/books/NBK620865/",
+  "publisher": "Centers for Disease Control and Prevention (US)",
+  "publishedAt": "2025-04-23",
+  "claims": [
+    "Jet lag disorder is caused by rapid travel across time zones, producing a temporary desynchronization between the internal biological clock and local time; symptoms include sleep disturbances, cognitive impairment, daytime sleepiness, general malaise and gastrointestinal disturbances.",
+    "One recent survey reported that 68% of international business travellers experienced negative symptoms on a regular basis.",
+    "For most people it is easier to delay than to advance the circadian rhythm because the average intrinsic period is slightly longer than 24 hours; westward travel is easier to adapt to than eastward travel, with an average rate of adaptation of 1.5 hours per day for westward travel and 1 hour per day for eastward travel.",
+    "In the American Academy of Sleep Medicine clinical practice guidelines, standard treatment for jet lag disorder in frequent travellers includes timed melatonin administration, timed light exposure, strategic scheduling of sleep, hypnotic administration and stimulant administration.",
+    "Adaptation may be facilitated by shifting sleep toward the destination time zone in the 2–3 days before the trip, by 1 hour later per day for westward travel or 1 hour earlier per day for eastward travel.",
+    "Sleep in flight can be maximized by minimizing alcohol (which reduces sleep latency but increases sleep fragmentation) and caffeine; both can also cause dehydration.",
+    "Upon arrival, staying awake during the local day increases the homeostatic drive for sleep; short daytime naps of 20–30 minutes can sustain alertness, while longer naps may interfere with nighttime sleep.",
+    "Exposure to bright light in the morning after the circadian nadir, approximately 2–4 hours before habitual wake time, promotes phase advances, while exposure in the evening generally promotes phase delays.",
+    "Melatonin taken when the internal clock thinks it is morning produces a phase delay that can facilitate adaptation to westward travel, and taken when the internal clock thinks it is early evening produces a phase advance that can facilitate adaptation to eastward travel."
+  ],
+  "accessedAt": "2026-11-07",
+  "license": "CDC Yellow Book; citation and summary only",
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "index": 5,
+      "status": "supported",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "index": 6,
+      "status": "supported",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "index": 7,
+      "status": "supported",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "index": 8,
+      "status": "supported",
+      "checkedAt": "2026-11-19"
+    }
+  ],
+  "verification": {
+    "checkedAt": "2026-11-19",
+    "checkedVia": "web_fetch（官方页面正文）",
+    "access": "direct",
+    "bodyRead": true,
+    "note": "2026-11-19 直接读取官方页面可读正文，逐条核对 claims；页面为公开官方说明。"
+  }
+}

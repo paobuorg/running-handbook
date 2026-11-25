@@ -1,0 +1,41 @@
+{
+  "sourceId": "knowledge-shoe-cushioning",
+  "title": "Association of Shoe Cushioning Perception and Comfort With Injury Risk in Leisure-Time Runners",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/41122014/",
+  "publisher": "European Journal of Sport Science",
+  "publishedAt": "2025-11-01",
+  "claims": [
+    "In a secondary analysis of a randomised trial involving 527 recreational runners, moderate or high perceived heel cushioning was associated with lower injury risk than low cushioning.",
+    "Higher overall shoe appreciation was associated with lower injury risk.",
+    "The study reports associations, not proof that changing cushioning prevents injury."
+  ],
+  "accessedAt": "2026-11-08",
+  "license": null,
+  "verification": {
+    "access": "metadata-only",
+    "bodyRead": false,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "NCBI efetch（仅摘要）",
+    "note": "仅摘要（Eur J Sport Sci 2025;25(11):e70063）。 R53 回扫：2026-11-08 用桌面 UA 直连重试 2 次，出版商均返回 203 反爬/订阅门，仅摘要或元数据可读，正文需订阅；属外部条件，不是官方没有。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "\"secondary analysis of a large randomised trial\"；527 人；moderate HR 0.35、high HR 0.24，均低于参照组。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "\"highest global appreciation of the shoe (HR = 0.47 [0.26-0.85])\"。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "摘要结论用 associated 而非因果。"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "sourceId": "knowledge-mcmillan-calculator-guide",
+  "title": "The McMillan Running Calculator — Using Your Training Paces",
+  "url": "https://www.mcmillanrunning.com/wp-content/uploads/2016/08/UsingMcMillanCalculatorResults.pdf",
+  "publisher": "McMillan Running",
+  "publishedAt": "2016-08-01",
+  "accessedAt": "2026-11-07",
+  "claims": [
+    "The calculator predicts equivalent race performances at other distances from a recent race time and provides optimal training pace ranges.",
+    "Training is divided into four zones: Endurance Workouts, Stamina Workouts, Speed Workouts and Sprint Workouts.",
+    "The four training zones list pace ranges plus %HRmax and %heart-rate-reserve columns; the Sprint zone marks HR values as N/A, and the table is a worked example for one runner.",
+    "The guide describes its equivalent performances as estimates whose accuracy depends on course, weather and day-to-day condition.",
+    "It states that race distances close together are more predictive than distances far apart, and that a 5 km runner is unlikely to run the equivalent marathon time without marathon training.",
+    "It recommends recalculating paces every 4–8 weeks as fitness changes.",
+    "The calculator and pace ranges are published by McMillan Running, a commercial coaching service; the document does not claim governing-body or clinical endorsement."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "WebFetch 直接抓取 mcmillanrunning.com 官方 PDF 全文",
+    "note": "McMillan 计算器说明 PDF；2026-11-20 把“每区都有 HR/RPE”和“非标准”两处概括改为表格实际内容与出版方身份。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：计算器\"provides predictions of what you can run at other distances based on recent racing\"，并\"provides your optimal training paces\"。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：\"I break training into four training zones: Endurance Workouts, Stamina Workouts, Speed Workouts and Sprint Workouts\"。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-20",
+      "note": "PDF 四区有 pace ranges 与 %HRmax/%HRReserve/RPE 列；Sprint 区 HRMax、HRReserve 为 N/A，表格是示例跑者数据。"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：\"these are 'estimates'... Actual results will vary depending on the course, the weather, if it's your day or not\"。"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：\"race distances that are close together are more predictive than those far apart\"；\"a 5K runner is unlikely to run the equivalent time in the marathon off of 5K training\"。"
+    },
+    {
+      "index": 5,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：\"re-calculate your paces (usually every 4-8 weeks)\"；原文用 usually，非硬性规定。"
+    },
+    {
+      "index": 6,
+      "status": "supported",
+      "checkedAt": "2026-11-20",
+      "note": "页面是 McMillan Running 的商业计算器说明，未见管理机构或临床背书；原 claim 的“非标准”属推断，改为可核验的出版方身份。"
+    }
+  ]
+}

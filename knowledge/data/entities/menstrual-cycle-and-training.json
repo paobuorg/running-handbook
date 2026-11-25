@@ -1,0 +1,49 @@
+{
+  "entityId": "knowledge:menstrual-cycle-and-training",
+  "slug": "menstrual-cycle-and-training",
+  "kind": "knowledge",
+  "status": "published",
+  "riskLevel": "guidance",
+  "sourceRefs": [
+    "knowledge-mcnulty-2020-menstrual-cycle-performance",
+    "knowledge-elliott-sale-2020-oral-contraceptives-performance",
+    "knowledge-ekenros-2022-menstrual-symptoms-athletes",
+    "knowledge-ioc-2023-reds-consensus",
+    "knowledge-nhs-heavy-periods",
+    "knowledge-nhs-missed-periods",
+    "knowledge-nhs-period-pain",
+    "knowledge-nhs-delay-period"
+  ],
+  "relatedRefs": [
+    "knowledge:female-runners-and-red-s",
+    "knowledge:running-across-life",
+    "knowledge:menopause-and-running",
+    "knowledge:training-week",
+    "knowledge:load-and-overtraining",
+    "knowledge:pain-communication",
+    "knowledge:race-day-pacing"
+  ],
+  "license": "CC-BY-4.0",
+  "createdAt": "2026-11-07",
+  "updatedAt": "2026-11-07",
+  "reviewedAt": "2026-11-07",
+  "reviewDueAt": "2027-05-07",
+  "translations": [],
+  "details": {
+    "primaryTopic": "health",
+    "secondaryTopics": [
+      "training",
+      "recovery"
+    ],
+    "contentType": "guide",
+    "audiences": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "scenarios": [
+      "general-training",
+      "race-preparation"
+    ]
+  }
+}

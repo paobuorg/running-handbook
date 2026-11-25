@@ -1,0 +1,83 @@
+{
+  "sourceId": "knowledge-fong-powell-2022-bra-running-economy",
+  "title": "Greater Breast Support Is Associated With Reduced Oxygen Consumption and Greater Running Economy During a Treadmill Running Task",
+  "url": "https://doi.org/10.3389/fspor.2022.902276",
+  "publisher": "Frontiers in Sports and Active Living",
+  "publishedAt": "2022-06-14",
+  "claims": [
+    "Fifteen female recreational runners aged 18 to 30, running more than 12 miles per week and with self-reported bra sizes from B to DD cup, completed 10-minute treadmill trials in low-support and high-support sports bras.",
+    "Relative oxygen consumption was 30.9 ± 7.1 ml/kg/min in the low-support condition and 28.7 ± 6.7 ml/kg/min in the high-support condition (p < 0.001).",
+    "Running economy was 88.6 ± 29.1 m/L O2 in the low-support condition and 95.2 ± 31.1 m/L O2 in the high-support condition (p < 0.001).",
+    "No changes were observed in cadence (p = 0.149), step length (p = 0.300) or ground contact time (p = 0.151).",
+    "The change in running economy correlated strongly with breast size (r = 0.807, p < 0.001).",
+    "It is reported that up to 72% of females experience breast pain during exercise-related activities, citing earlier surveys and studies.",
+    "Females with a D-cup breast size can experience vertical breast displacements as high as 20 cm when running without breast support, citing earlier studies.",
+    "A previous study with 10 participants (Risius et al., 2017) reported no significant changes in heart rate, oxygen consumption, running economy, minute ventilation or breathing frequency with greater breast support.",
+    "The authors concluded that greater breast support was associated with improved comfort and improved running performance, but the study is small and used two specific sports bra models."
+  ],
+  "accessedAt": "2026-11-07",
+  "license": "CC BY 4.0",
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "PMC 全文页与 Europe PMC fullTextXML（PMC9237383）",
+    "note": "DOI 落地页返回 500，改读 PMC/Europe PMC 全文。作者自述样本 15 人偏小、仅 Nike Indy 与 Nike Alpha 两款文胸、未按乳房大小做统计校正，文胸实际支撑度缺乏客观测量。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Materials and Methods > Participants：15 名女性休闲跑者，18–30 岁、周跑量 >12 miles、自报 B–DD 罩杯；10 分钟跑台测试，低/高支撑两种条件。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "摘要 Results 原值：LOW 30.9 ± 7.1、HIGH 28.7 ± 6.7 ml/kg/min，p < 0.001。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "摘要 Results 原值：LOW 88.6 ± 29.1、HIGH 95.2 ± 31.1 m/L O2，p < 0.001。"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "摘要 Results：cadence p = 0.149、step length p = 0.300、ground contact time p = 0.151。"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "摘要 Results：Running Economy p < 0.001，r = 0.807。"
+    },
+    {
+      "index": 5,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "引言原句：“up to 72% of females experience breast pain during exercise-related activities”，系转引 Gehlsen & Albohm 1980、Bowles 2008、Scurr 2010 等旧研究。"
+    },
+    {
+      "index": 6,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "引言原句：“females with a D-cup breast size can experience vertical breast displacements as high as 20 cm when running without breast support”。"
+    },
+    {
+      "index": 7,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "引言：Risius 等 2017“no significant changes in ... heart rate, oxygen consumption, running economy, minute ventilation or breathing frequency”；并注明“small sample size of 10 participants”。"
+    },
+    {
+      "index": 8,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "摘要结论称“not only associated with improved comfort but also improved running performance”；局限段承认样本小，方法仅 Nike Indy（低支撑）与 Nike Alpha（高支撑）两款，属具体型号而非泛指所有文胸。"
+    }
+  ]
+}

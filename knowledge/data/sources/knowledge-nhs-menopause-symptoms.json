@@ -1,0 +1,56 @@
+{
+  "sourceId": "knowledge-nhs-menopause-symptoms",
+  "title": "Menopause — symptoms",
+  "url": "https://www.nhs.uk/conditions/menopause/symptoms/",
+  "publisher": "NHS",
+  "publishedAt": "2022-05-17",
+  "claims": [
+    "A change in the normal pattern of periods, such as periods becoming irregular, is usually but not always the first sign of perimenopause.",
+    "Common mental health symptoms include low mood, anxiety, mood swings, low self-esteem and problems with memory or concentration (brain fog).",
+    "Common physical symptoms include hot flushes with sudden feelings of hot or cold in the face, neck and chest that can cause dizziness; difficulty sleeping; palpitations; headaches and migraines that are worse than usual; muscle aches and joint pains; changed body shape and weight gain; dry and itchy skin; reduced sex drive; vaginal dryness and pain; recurrent urinary tract infections; and sensitive teeth or painful gums.",
+    "Symptoms can last for months or years and can change with time; joint pain and vaginal dryness can carry on after periods stop.",
+    "The NHS advises seeing a GP or nurse if you think you have perimenopause or menopause symptoms.",
+    "Hormonal contraception can affect periods and may mask or control menopausal symptoms, making it hard to know when menopause has been reached."
+  ],
+  "accessedAt": "2026-11-07",
+  "license": "NHS website content; citation and summary only",
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "index": 5,
+      "status": "supported",
+      "checkedAt": "2026-11-19"
+    }
+  ],
+  "verification": {
+    "checkedAt": "2026-11-19",
+    "checkedVia": "web_fetch（官方页面正文）",
+    "access": "direct",
+    "bodyRead": true,
+    "note": "2026-11-19 直接读取官方页面可读正文，逐条核对 claims；页面为公开官方说明。"
+  }
+}

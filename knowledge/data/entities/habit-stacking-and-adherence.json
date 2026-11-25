@@ -1,0 +1,41 @@
+{
+  "entityId": "knowledge:habit-stacking-and-adherence",
+  "slug": "habit-stacking-and-adherence",
+  "kind": "knowledge",
+  "status": "published",
+  "riskLevel": "general",
+  "sourceRefs": [
+    "knowledge-cdc-adult-activity",
+    "knowledge-odphp-activity-planner",
+    "knowledge-nhs-couch-to-5k",
+    "knowledge-goal-setting-review"
+  ],
+  "relatedRefs": [
+    "knowledge:running-habits",
+    "knowledge:goal-setting-and-review",
+    "tool:run-walk",
+    "knowledge:training-week"
+  ],
+  "license": "CC-BY-4.0",
+  "createdAt": "2026-11-06",
+  "updatedAt": "2026-11-07",
+  "reviewedAt": "2026-11-07",
+  "reviewDueAt": "2027-11-06",
+  "translations": [],
+  "details": {
+    "primaryTopic": "habits",
+    "secondaryTopics": [
+      "training",
+      "recovery"
+    ],
+    "contentType": "guide",
+    "audiences": [
+      "beginner",
+      "intermediate"
+    ],
+    "scenarios": [
+      "general-training",
+      "daily-training"
+    ]
+  }
+}

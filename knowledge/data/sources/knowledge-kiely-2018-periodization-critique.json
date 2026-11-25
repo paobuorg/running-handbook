@@ -1,0 +1,55 @@
+{
+  "sourceId": "knowledge-kiely-2018-periodization-critique",
+  "title": "Periodization Theory: Confronting an Inconvenient Truth",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/29189930/",
+  "publisher": "Sports Medicine",
+  "publishedAt": "2018-04-01",
+  "accessedAt": "2026-11-07",
+  "claims": [
+    "Periodization theory has emerged over seven decades as the preeminent training planning paradigm.",
+    "The philosophical assumptions underpinning periodization remain largely unchallenged and unchanged despite advances in elite preparation.",
+    "Periodization theory repeatedly cites early stress research, particularly the work of Hans Selye, as a central pillar.",
+    "The science of stress has evolved extensively since periodization theory emerged, raising the question of whether conventional perspectives should be re-evaluated.",
+    "The author argues that realigning periodization philosophy with contemporary stress theory offers an opportunity to recalibrate training planning models."
+  ],
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "摘要：周期化理论七十年间成为主流训练规划范式。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "摘要：支撑周期化的哲学假设基本未被挑战或改变。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "摘要：周期化理论反复引用 Selye 的早期压力研究作为支柱。"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "摘要：压力科学已大幅演进，提出是否应重新评估传统观点。"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "摘要：主张让周期化哲学与当代压力理论对齐以校准训练规划模型。"
+    }
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "PubMed 摘要",
+    "note": "摘要覆盖全部 5 条；全文付费。"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "sourceId": "knowledge-maron-2007-preparticipation-screening",
+  "title": "Recommendations and considerations related to preparticipation screening for cardiovascular abnormalities in competitive athletes: 2007 update",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/17353433/",
+  "publisher": "Circulation (American Heart Association)",
+  "publishedAt": "2007-03-27",
+  "accessedAt": "2026-11-08",
+  "claims": [
+    "The 2007 AHA scientific statement recommended 12 screening elements (8 personal and family history items and 4 physical examination items), later expanded to the 14-element checklist in subsequent AHA guidance.",
+    "The statement recommends targeted personal history, family history and physical examination, with further evaluation when any element is positive.",
+    "The statement does not recommend routine 12-lead ECG as a mandatory screening test for all competitive athletes."
+  ],
+  "license": "American Heart Association; citation and summary only",
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "官方 PDF 全文（14 页）",
+    "note": "AHA/OUP 站点有验证码；本轮取得完整 14 页 PDF 并核对，页码为期刊页 1643–1655"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文 p.1646–1647：“The 2007 AHA recommendations consist of 12 items (8 for personal and family history and 4 for physical examination).”"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文 Table：12 项病史/家族史与体检条目，任一阳性可触发心血管评估，强调家长核实"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文 p.1650：“the AHA panel does not believe it to be either prudent or practical to recommend the routine use of tests such as 12-lead ECG or echocardiography in the context of mass, universal screening”，并给出成本与低特异度论证"
+    }
+  ]
+}

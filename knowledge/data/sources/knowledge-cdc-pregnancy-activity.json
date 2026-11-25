@@ -1,0 +1,48 @@
+{
+  "sourceId": "knowledge-cdc-pregnancy-activity",
+  "title": "Weight Gain During Pregnancy",
+  "url": "https://www.cdc.gov/maternal-infant-health/pregnancy-weight/index.html",
+  "publisher": "CDC",
+  "publishedAt": "2026-03-19",
+  "accessedAt": "2026-10-27",
+  "claims": [
+    "Physical activity is healthy and safe for most pregnant women.",
+    "Pregnant women should talk to their health care provider about any physical activity restrictions.",
+    "Work up to or maintain at least 150 minutes of moderate-intensity aerobic activity per week, which can be broken into smaller chunks.",
+    "Pregnancy weight-gain goals should be discussed with a health care provider."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "WebFetch https://www.cdc.gov/maternal-infant-health/pregnancy-weight/index.html",
+    "note": "落地页标题为“Weight Gain During Pregnancy”，URL 与源一致；页面标注 May 15, 2024，与源文件 publishedAt 2026-03-19 不符，以页面为准；正文完整可读。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：“Physical activity is healthy and safe for most pregnant women.”，保留 most 限定。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：“Talk to your health care provider about any physical activity restrictions.”"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：“Work up to or maintain at least 150 minutes of moderate intensity aerobic activity (such as brisk walking) per week. 150 minutes may sound overwhelming, but you can break up your daily physical activity into smaller chunks of time.”"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：“Work with your health care provider on your weight gain goals.”；另“If you're pregnant with triplets or more, talk to your health care provider about your weight gain goals.”"
+    }
+  ]
+}

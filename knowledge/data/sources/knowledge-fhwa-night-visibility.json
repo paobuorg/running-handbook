@@ -1,0 +1,38 @@
+{
+  "sourceId": "knowledge-fhwa-night-visibility",
+  "title": "Newspaper Article 2: Nighttime Visibility",
+  "url": "https://highways.dot.gov/safety/pedestrian/newspaper-article-2-nighttime-visibility",
+  "publisher": "U.S. Federal Highway Administration",
+  "publishedAt": null,
+  "accessedAt": "2026-10-28",
+  "claims": [
+    "Almost fifty percent of all pedestrian fatalities occur between 6:00 p.m. and midnight, according to NHTSA data cited by FHWA.",
+    "In the cited material, eight out of ten drivers who struck people at night reported not seeing them.",
+    "A pedestrian in dark clothing at night may first be seen about 55 feet away, giving the driver little time to react."
+  ],
+  "license": "Public domain (U.S. federal government work), except third-party material",
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-19"
+    }
+  ],
+  "verification": {
+    "checkedAt": "2026-11-19",
+    "checkedVia": "web_fetch（官方页面正文）",
+    "access": "direct",
+    "bodyRead": true,
+    "note": "2026-11-19 直接读取官方页面可读正文，逐条核对 claims；页面为公开官方说明。"
+  }
+}

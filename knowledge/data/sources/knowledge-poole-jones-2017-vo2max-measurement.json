@@ -1,0 +1,55 @@
+{
+  "sourceId": "knowledge-poole-jones-2017-vo2max-measurement",
+  "title": "Measurement of the maximum oxygen uptake VO2max: VO2peak is no longer acceptable",
+  "url": "https://doi.org/10.1152/japplphysiol.01063.2016",
+  "publisher": "Journal of Applied Physiology",
+  "publishedAt": "2017-02-02",
+  "accessedAt": "2026-11-07",
+  "claims": [
+    "A VO2 plateau during incremental exercise is not an obligatory outcome and is absent in at least 40% of healthy subjects even when VO2max is actually achieved.",
+    "The absence of a plateau is more common in children, older adults, very unfit people and patients with cardiovascular or pulmonary disease.",
+    "Secondary criteria such as respiratory exchange ratio, age-predicted maximal heart rate and blood lactate are unreliable substitutes for confirming VO2max.",
+    "VO2peak, defined simply as the highest VO2 reached in a test, cannot distinguish a true upper limit from test termination for other reasons.",
+    "A verification phase can be used when no plateau is observed."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "WebFetch https://journals.physiology.org/doi/full/10.1152/japplphysiol.01063.2016（出版社全文 HTML）",
+    "note": "读到摘要、正文各节（含 Secondary Criteria 与 Validation 部分）；DOI 直接跳转曾返回空，改用出版社 full 页成功。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：“often (i.e., ≥40% in healthy subjects and likely more in patient populations) … fails to produce a discernible V̇o2 plateau or leveling off even when the actual V̇o2max is, in fact, achieved”。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：“This situation is accentuated in children, the elderly, and extremely unfit subjects, as well as patients suffering from cardiovascular and/or pulmonary disease.”"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：“the acceptable values of which may be selected arbitrarily and result in grossly inaccurate V̇o2max estimation”；并称使用这些标准可造成“30–40% underestimation”。"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：“this procedure cannot discriminate among subjects who cease exercise because of lack of motivation, perceived discomfort, or a plethora of other reasons”。"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：“incorporation of a second, constant work rate test performed at ~110% of the work rate achieved on the initial ramp test”。"
+    }
+  ]
+}

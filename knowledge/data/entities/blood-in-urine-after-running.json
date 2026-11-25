@@ -1,0 +1,49 @@
+{
+  "entityId": "knowledge:blood-in-urine-after-running",
+  "slug": "blood-in-urine-after-running",
+  "kind": "knowledge",
+  "status": "published",
+  "riskLevel": "guidance",
+  "sourceRefs": [
+    "knowledge-nhs-blood-in-urine",
+    "knowledge-nice-ng12-suspected-cancer",
+    "knowledge-reid-1987-marathon-haematuria",
+    "knowledge-urakami-2018-bladder-contusion",
+    "knowledge-chen-2025-ultramarathon-urine",
+    "knowledge-statpearls-hematuria",
+    "knowledge-statpearls-myoglobinuria",
+    "knowledge-bmj-1979-runner-haematuria",
+    "knowledge-aua-microhematuria-2020"
+  ],
+  "relatedRefs": [
+    "knowledge:iron-and-bone-health",
+    "knowledge:hydration",
+    "knowledge:return-to-running",
+    "knowledge:race-day-pacing",
+    "knowledge:load-and-overtraining"
+  ],
+  "license": "CC-BY-4.0",
+  "createdAt": "2026-11-07",
+  "updatedAt": "2026-11-07",
+  "reviewedAt": "2026-11-07",
+  "reviewDueAt": "2027-11-07",
+  "translations": [],
+  "details": {
+    "primaryTopic": "health",
+    "secondaryTopics": [
+      "training",
+      "recovery"
+    ],
+    "contentType": "guide",
+    "audiences": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "scenarios": [
+      "general-training",
+      "race-preparation",
+      "injury-recovery"
+    ]
+  }
+}

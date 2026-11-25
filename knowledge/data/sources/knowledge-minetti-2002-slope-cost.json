@@ -1,0 +1,41 @@
+{
+  "sourceId": "knowledge-minetti-2002-slope-cost",
+  "title": "Energy cost of walking and running at extreme uphill and downhill slopes",
+  "url": "https://doi.org/10.1152/japplphysiol.01177.2001",
+  "publisher": "Journal of Applied Physiology",
+  "publishedAt": "2002-09-01",
+  "accessedAt": "2026-11-07",
+  "claims": [
+    "在 10 名跑者中测量了 −45% 到 +45% 坡度范围内步行与跑步的代谢代价。",
+    "跑步的能量代价随坡度呈非线性变化，上坡增加的成本大于同等坡度下坡节省的成本（曲线不对称）。",
+    "The paper describes how the energy cost of running changes with gradient; it does not convert flat-course pace into race time on undulating courses."
+  ],
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "摘要：10 名跑者，坡度范围 −45% 至 +45%。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "摘要：跑步平路 3.40 J/kg/m，+45% 升至 18.93，−45% 仅 3.92，曲线明显不对称。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-20",
+      "note": "摘要只给能量代价曲线，没有把平路配速换算到起伏赛道的讨论；删除“系统性低估/高估”的编辑推论。"
+    }
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-20",
+    "checkedVia": "PubMed 摘要",
+    "note": "摘要可读；10 名跑者与坡度/能量代价曲线见摘要。"
+  }
+}

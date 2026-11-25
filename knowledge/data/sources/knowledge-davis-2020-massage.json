@@ -1,0 +1,55 @@
+{
+  "sourceId": "knowledge-davis-2020-massage",
+  "title": "Effect of sports massage on performance and recovery: a systematic review and meta-analysis",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7228568/",
+  "publisher": "BMJ Open Sport & Exercise Medicine",
+  "publishedAt": "2020-05-07",
+  "claims": [
+    "The review identified 29 eligible randomised studies recruiting 1,012 participants.",
+    "There was no evidence that massage improves measures of strength, jump, sprint, endurance or fatigue.",
+    "Massage was associated with small but statistically significant improvements in flexibility and delayed-onset muscle soreness.",
+    "DOMS improved by approximately 13%, with SMD 1.13 (95% CI 0.44 to 1.82; 311 participants; 10 studies; I² = 86%).",
+    "Sports massage is defined in the review as manual manipulation of muscles and soft tissue by a qualified professional, with the purpose of improving performance in or recovery from sport."
+  ],
+  "accessedAt": "2026-11-07",
+  "license": "CC-BY-NC-4.0",
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC7228568/fullTextXML",
+    "note": "经 Europe PMC 全文 XML 读取 Results、亚组/Meta 分析与 Discussion 正文，非仅摘要。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：“We identified 29 eligible studies recruiting 1012 participants”；另述 12 项 RCT 与 17 项随机交叉研究。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：“We found no evidence that massage improves measures of strength, jump, sprint, endurance or fatigue”。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：“massage was associated with small but statistically significant improvements in flexibility and DOMS”。注意原文同时报告异质性很高（DOMS 的 I²=86%），且敏感性分析显示结果受个别离群研究影响；claim 未提，但未强化结论。"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：“a statistically significant 13% improvement in measures of DOMS after exercise, with high study heterogeneity (SMD 1.13, 95% CI 0.44 to 1.82; participants=311; studies=10; I2=86%)”，数字逐项一致。"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文定义：“we defined sports massage as manual manipulation of muscles and soft tissue by a qualified professional, with the purpose of improving performance in or recovery from sport.”"
+    }
+  ]
+}

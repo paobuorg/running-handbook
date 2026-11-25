@@ -1,0 +1,76 @@
+{
+  "sourceId": "knowledge-world-athletics-pacing",
+  "title": "Marathon Mathematics",
+  "url": "https://worldathletics.org/spikes/news/barry-smyth-recreational-runner-analysis",
+  "publisher": "World Athletics",
+  "publishedAt": "2016-11-01",
+  "claims": [
+    "The analysis used Chicago Marathon data from 2005 to 2016.",
+    "Average finish times were 242 minutes for even splitters, 256 minutes for negative splitters and 280 minutes for positive splitters.",
+    "The fastest runners showed pace variation of less than 5% between the first and second half.",
+    "The wall was defined as slowing by at least 33% in the second half of the race.",
+    "Half of the runners who hit the wall ran their first 5 km as their fastest segment; those whose opening 5 km was their slowest never hit the wall and finished an average of 50 minutes faster.",
+    "About five times more runners ran even splits when running with or near a pacing group.",
+    "Male runners were 3 to 4 times more likely to hit the wall than women.",
+    "Women were better at producing even splits than men for a given finish time beyond 150 minutes."
+  ],
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "正文：使用 2005–2016 年芝加哥马拉松数据。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "正文：匀速/负分段/正分段平均完赛时间 242/256/280 分钟。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "正文：最快跑者前后半程配速变异小于 5%。"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "正文：撞墙定义为后半程减速至少 33%。"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "正文：撞墙者中 50% 首个 5 km 最快；首个 5 km 最慢者从不撞墙，平均快 50 分钟。"
+    },
+    {
+      "index": 5,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "正文：跟随或靠近配速组时，匀速跑者约多 5 倍。"
+    },
+    {
+      "index": 6,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "正文：男性撞墙概率为女性的 3–4 倍。"
+    },
+    {
+      "index": 7,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "正文：完赛时间超过 150 分钟后，女性比男性更擅长匀速。"
+    }
+  ],
+  "accessedAt": "2026-11-07",
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "World Athletics 网页正文",
+    "note": "正文可读；8 条数字均见正文。"
+  }
+}

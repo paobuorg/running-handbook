@@ -1,0 +1,50 @@
+{
+  "sourceId": "knowledge-epa-uv-index",
+  "title": "UV Index Scale",
+  "url": "https://www.epa.gov/sunsafety/uv-index-scale-0",
+  "publisher": "U.S. Environmental Protection Agency",
+  "publishedAt": null,
+  "claims": [
+    "The UV Index scale used in the United States conforms with international guidelines for UV Index reporting established by the World Health Organization.",
+    "UV Index 1–2 (Low): no protection needed; minimal sun protection is sufficient.",
+    "UV Index 3–7 (Moderate to High): protection needed; seek shade during late morning through mid-afternoon, and use broad-spectrum SPF-15 or higher sunscreen, protective clothing, a wide-brimmed hat and sunglasses.",
+    "UV Index 8 or higher (Very High to Extreme): extra protection needed; be careful outside, especially during late morning through mid-afternoon.",
+    "Shadow rule: if your shadow is taller than you, UV exposure is likely lower; if your shadow is shorter than you, UV exposure is higher and you should seek shade and protect skin and eyes."
+  ],
+  "accessedAt": "2026-11-07",
+  "license": "Public domain (US government work); cited with attribution",
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-19"
+    }
+  ],
+  "verification": {
+    "checkedAt": "2026-11-19",
+    "checkedVia": "web_fetch（官方页面正文）",
+    "access": "direct",
+    "bodyRead": true,
+    "note": "2026-11-19 直接读取官方页面可读正文，逐条核对 claims；页面为公开官方说明。"
+  }
+}

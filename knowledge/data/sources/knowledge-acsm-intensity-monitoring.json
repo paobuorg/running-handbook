@@ -1,0 +1,55 @@
+{
+  "sourceId": "knowledge-acsm-intensity-monitoring",
+  "title": "Tips for Monitoring Aerobic Exercise Intensity",
+  "url": "https://acsm.org/wp-content/uploads/2025/02/Exercise-intensity-infographic-PDF.pdf",
+  "publisher": "American College of Sports Medicine",
+  "publishedAt": null,
+  "accessedAt": "2026-11-07",
+  "claims": [
+    "ACSM describes exercise intensity monitoring by %HRmax, with moderate intensity estimated at 65–75% of maximal heart rate and vigorous intensity at 76–96%.",
+    "ACSM describes the talk test: a steady conversation is associated with moderate intensity, while only a few words are sustainable at vigorous intensity.",
+    "ACSM describes rating of perceived exertion on a 0–10 scale, with moderate intensity targeting an RPE of 3–4 and vigorous intensity an RPE of 5–7.",
+    "ACSM also describes step-rate and motion-sensor methods for monitoring aerobic intensity.",
+    "The document gives no race-time-derived pace-zone percentage table; intensity anchors are heart rate, perceived effort, talk test and step rate."
+  ],
+  "license": "ACSM; citation and summary only",
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "WebFetch 直接抓取 acsm.org 官方 PDF 全文",
+    "note": "PDF 全文可读（ACSM 信息图，作者 Micah Zuhl, 2020）；内容为大众有氧运动强度监测建议，不是临床指南或配速标准。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：\"Moderate intensity exercise is estimated at 65-75 %HRmax\"、\"Vigorous exercise is 76-96 %HRmax\"；原文用 estimated，属估计区间。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：\"Steady conversation is associated with moderate intensity aerobic exercise\"；\"Vigorous intensity is an exercise intensity where only a few words are sustainable\"。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：RPE 量表为 \"a range between 0-10\"；\"Moderate intensity exercise is targeting an RPE of 3-4\"；\"Vigorous exercise is an RPE of 5-7\"。"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：\"Moderate intensity exercise is a step rate of 100 steps per minute, or 1,000 per 10 minutes\"；\"Vigorous intensity is > 100 steps per minute\"；并有 Motion sensors 段落。"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "通读 PDF 全文只有 %HRmax、RPE、talk test、step rate 与 motion sensors，未见由比赛成绩推导配速区的百分比表。"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "sourceId": "knowledge-nhs-menopause-lifestyle",
+  "title": "Menopause — things you can do",
+  "url": "https://www.nhs.uk/conditions/menopause/things-you-can-do/",
+  "publisher": "NHS",
+  "publishedAt": "2022-05-17",
+  "claims": [
+    "The NHS advises eating well, exercising and looking after mental wellbeing to help with perimenopause and menopause symptoms.",
+    "For bone health, the NHS recommends regular weight-bearing exercise where the feet and legs support body weight, such as walking, running or dancing, plus resistance exercise such as using weights.",
+    "The NHS advises calcium-rich foods such as milk, yoghurt and kale, some sunlight on the skin, and vitamin D supplements.",
+    "For hot flushes and night sweats, the NHS lists light clothing, a cool bedroom, a cool shower, a fan, a cold drink, reducing stress, and avoiding or reducing triggers such as spicy food, caffeine, hot drinks, smoking and alcohol; it also lists regular exercise.",
+    "The NHS states that taking HRT can reduce the risk of osteoporosis."
+  ],
+  "accessedAt": "2026-11-07",
+  "license": "NHS website content; citation and summary only",
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "WebFetch https://www.nhs.uk/conditions/menopause/things-you-can-do/",
+    "note": "NHS 页面正文完整可读；骨健康内容位于 Protecting against weak bones 小节。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：“Eating well, exercising and looking after your mental wellbeing can help with symptoms during perimenopause and menopause.”"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：“weight-bearing exercises, where your feet and legs support your weight (like walking, running or dancing) and resistance exercises (for example, using weights)”，位于 Protecting against weak bones 小节。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：“sources of calcium, such as milk, yoghurt and kale”“get some sunlight on your skin”“take vitamin D supplements”。"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文逐项列出：light clothing、keep your bedroom cool、cool shower/use a fan/have a cold drink、reduce your stress level、avoid or reduce potential triggers, such as spicy food, caffeine, hot drinks, smoking and alcohol、exercise regularly。"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：“Taking HRT can reduce the risk of osteoporosis.”"
+    }
+  ]
+}

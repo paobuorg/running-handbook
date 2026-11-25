@@ -1,0 +1,48 @@
+{
+  "sourceId": "knowledge-aua-microhematuria-2020",
+  "title": "Microhematuria: AUA/SUFU Guideline",
+  "url": "https://www.auajournals.org/doi/full/10.1097/JU.0000000000001297",
+  "publisher": "Journal of Urology / American Urological Association",
+  "publishedAt": null,
+  "accessedAt": "2026-11-07",
+  "claims": [
+    "The guideline panel created a risk classification system for patients with microhematuria, stratified as low, intermediate or high risk for genitourinary malignancy.",
+    "Risk groups are based on factors including age, sex, smoking and other urothelial cancer risk factors, degree and persistence of microhematuria, and prior gross hematuria.",
+    "Diagnostic evaluation with cystoscopy and upper tract imaging is recommended according to patient risk and involves shared decision-making.",
+    "The guideline also addresses follow-up and repeat testing for patients whose initial evaluation is negative."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "Journal of Urology 全文页（摘要与正文前段）",
+    "note": "AUA/SUFU 2020 指南全文页可读，摘要列明风险分层、评估与随访；4 条均核对到原文。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "摘要：建立低/中/高危泌尿生殖系恶性肿瘤风险分层。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "摘要列年龄、性别、吸烟、其他尿路上皮癌风险、血尿程度与持续性、既往肉眼血尿。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "摘要：按风险行膀胱镜与上尿路影像，并共同决策。"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "摘要：条目亦涉及初次评估阴性后的随访。"
+    }
+  ]
+}

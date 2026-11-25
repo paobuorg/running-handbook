@@ -1,0 +1,41 @@
+{
+  "sourceId": "knowledge-ioc-2016-harassment-abuse",
+  "title": "International Olympic Committee consensus statement: harassment and abuse (non-accidental violence) in sport",
+  "url": "https://stillmed.olympics.com/media/Documents/Athletes/Medical-Scientific/Consensus-Statements/2016_harassment-abuse-non-accidental-violence-sport.pdf",
+  "publisher": "International Olympic Committee / British Journal of Sports Medicine",
+  "publishedAt": "2016-09-01",
+  "claims": [
+    "The statement defines harassment and abuse in sport as non-accidental violence, covering psychological, physical and sexual forms as well as neglect.",
+    "Athletes of all ages and types can be affected; elite, disabled, child and lesbian, gay, bisexual and transgender athletes are identified as at particular risk.",
+    "The consensus sets out prevention and response duties for sports organisations at the organisational level."
+  ],
+  "license": null,
+  "accessedAt": "2026-11-08",
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-20",
+    "checkedVia": "WebFetch（stillmed PDF 前 3 页 + BJSM 首屏）",
+    "note": "标题、卷期、摘要、引言与 Box 1 定义已读；PDF 在 Box 1 中途截断。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "摘要以 non-accidental violence 概括，并列 psychological、sexual、physical harassment and abuse 与 neglect。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "摘要：\"All ages and types of athletes are susceptible… elite, disabled, child and LGBT athletes are at highest risk\"。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-20",
+      "note": "摘要/引言支持组织层面的预防与处置定位；policies、reporting mechanisms、support 的具体条目未在已读部分出现，已删除。"
+    }
+  ]
+}

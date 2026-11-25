@@ -1,0 +1,69 @@
+{
+  "sourceId": "knowledge-drobnic-2023-garmin-pod-validity",
+  "title": "The Validity of a Three-Dimensional Motion Capture System and the Garmin Running Dynamics Pod in Connection with an Assessment of Ground Contact Time While Running in Place",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10459607/",
+  "publisher": "Sensors (Basel)",
+  "publishedAt": "2023-08-14",
+  "accessedAt": "2026-11-07",
+  "claims": [
+    "In 11 subjects running in place at three self-selected step rates, ground contact times from both a three-dimensional motion capture system and the Garmin Running Dynamics Pod differed significantly from a bilateral force plate at all three rates (p<0.001).",
+    "The smallest mean bias at the fastest step rate was 11.5 ± 14.4 ms for motion capture and -81.5 ± 18.4 ms for the Garmin pod.",
+    "The authors conclude that wearables developed for monitoring normal running cannot be assumed to be suitable for determining ground contact time while running in place.",
+    "The paper reviews validation studies in which IMU-based contact times differed from an instrumented treadmill by -29 ms with 20 ms precision, from a force plate by 4.6 ms with 12.1 ms precision, and from an instrumented treadmill by 13 ms when the IMU was mounted on the pelvis.",
+    "The paper reports contact times of approximately 140 ms at 7.8 m/s, 210 ms at 4.7 m/s and 310 ms at 2.9 m/s in trained runners, and about 104 ms at maximal sprinting speed in elite runners.",
+    "The paper states that each 1% increase in left-right ground contact time asymmetry raises metabolic cost by 3.7%.",
+    "The paper notes that some same-speed comparisons found shorter ground contact time associated with better running economy, while others found no relationship between the two."
+  ],
+  "license": "CC BY 4.0",
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10459607/fullTextXML（Sensors 2023;23(16):7155 全文 XML）",
+    "note": "已读到 Participants、Study Design、Table 1、Bland–Altman 与 Conclusions 全文；第 7 条（跑步经济性）出自引言对他人研究的综述，仍属本文正文表述。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：“The 11 healthy volunteers…”；“Eleven subjects completed three 20-s runs in place at self-selected rates”；“The ground contact times obtained with both systems differed significantly from the gold standard at all three rates, as well as for all the rates combined (p < 0.001 in all cases).”"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Table 1（High 步频）：“267.4 ± 60.9 … 11.5 ± 14.4 … <0.001”；“186.3 ± 46.7 … −81.5 ± 18.4 … <0.001”。正文：“Both of these systems demonstrated the lowest mean bias and LoA at the high-step rate.”"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文摘要：“the wearables developed for monitoring normal running cannot be assumed to be suitable for determining ground contact times while running in place.” 正文结论：“neither of the two systems examined here provided valid GCTs while running in place at any rate.” 强度一致。"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：“The validation of the IMU with an instrumented treadmill provided estimates of the accuracy and precision of GCT measurements that were −29 ms and 20 ms, respectively… Validation with a force plate gave corresponding values of 4.6 and 12.1 ms… Mounting the IMU on the pelvis… with a systematic bias of 13 ms compared to the instrumented treadmill.”"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：“In trained runners, the GCT has been reported to be approximately 140 ms at a speed of 7.8 m/s, 210 ms at 4.7 m/s, and 310 ms at 2.9 m/s. For elite runners at a maximal sprinting speed, GCT is only 104 ms.”"
+    },
+    {
+      "index": 5,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：“the relative lengths of the left and right GCTs play an important role in running the economy, with each 1% increase in asymmetry raising the metabolic cost by 3.7% [9].”（本文转引文献 9 的结论）"
+    },
+    {
+      "index": 6,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：“Most comparisons of athletes running at the same speed have concluded that a shorter GCT is associated with superior running economy [4–6], but in some cases, no connection between these two parameters has been observed [7,8].”"
+    }
+  ]
+}

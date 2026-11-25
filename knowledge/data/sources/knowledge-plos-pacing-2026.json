@@ -1,0 +1,62 @@
+{
+  "sourceId": "knowledge-plos-pacing-2026",
+  "title": "Pacing strategy patterns and performance outcomes in marathon running: A large-scale analysis of split time data",
+  "url": "https://doi.org/10.1371/journal.pone.0352808",
+  "publisher": "PLOS ONE",
+  "publishedAt": "2026-07-17",
+  "claims": [
+    "The study analysed split times from 78,912 finishers of the Boston Marathon between 2015 and 2017.",
+    "Four pacing patterns were identified: even pacing 47.9%, mild positive splitting 31.9%, strong positive splitting 12.2% and variable pacing 8.0%.",
+    "Even pacing was associated with the fastest finish times; mean finish time was 217 minutes for even pacing versus 276 minutes for strong positive splitting.",
+    "Variable pacing had the highest incidence of hitting the wall, defined as a pace decline greater than 20% in the final segment, at 85.4%.",
+    "High-performance runners finishing under 3:00 showed even pacing 82.0% of the time, compared with 19.6% in casual participants.",
+    "Age and sex significantly influenced pacing strategy selection (p < 0.001)."
+  ],
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "摘要：分析 2015–2017 年波士顿马拉松 78,912 名完赛者的分段成绩。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "摘要：四种配速模式占比 47.9% / 31.9% / 12.2% / 8.0%。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "摘要：匀速最快，平均 217 分钟 vs 强正分段 276 分钟。"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "摘要：变速跑“撞墙”（末段配速下降 >20%）发生率最高，85.4%。"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "摘要：<3:00 的高水平跑者匀速占 82.0%，休闲组 19.6%。"
+    },
+    {
+      "index": 5,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "摘要：年龄与性别显著影响配速策略选择（p<0.001）。"
+    }
+  ],
+  "accessedAt": "2026-11-07",
+  "license": "CC-BY-4.0",
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "PLOS 页面 + PubMed 摘要",
+    "note": "PLOS 页面与 PubMed 摘要可读；78,912、四类占比与 85.4% 均一致。"
+  }
+}

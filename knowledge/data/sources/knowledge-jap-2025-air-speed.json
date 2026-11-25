@@ -1,0 +1,41 @@
+{
+  "sourceId": "knowledge-jap-2025-air-speed",
+  "title": "Air speed and direction affect metabolic and thermoregulatory responses during walking and running in a temperate environment",
+  "url": "https://journals.physiology.org/doi/full/10.1152/japplphysiol.00159.2024",
+  "publisher": "Journal of Applied Physiology",
+  "publishedAt": null,
+  "accessedAt": "2026-11-08",
+  "claims": [
+    "Metabolic rate and oxygen demand showed a strong linear relation with the square of relative air speed; ≥4 m/s was the threshold at which differences became significant.",
+    "逆风与顺风的关系不同。",
+    "心率反应与相对风速呈中等线性关系。"
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-20",
+    "checkedVia": "WebFetch（journals.physiology.org 摘要）",
+    "note": "摘要完整取得；Results/Discussion 未取得。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-20",
+      "note": "摘要支持“与相对风速平方呈强线性关系”；≥4 m/s 只是差异显著的阈值，未把线性关系限定在该区间。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "摘要：\"lower in magnitude for headwind than tailwind\"，并给出 21.5 km/h 下 +2.2% / −3.1%。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "摘要：\"A moderate linear relationship was observed between heart rate… and Vwr2.\""
+    }
+  ]
+}

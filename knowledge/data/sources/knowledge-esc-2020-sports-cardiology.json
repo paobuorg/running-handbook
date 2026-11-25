@@ -1,0 +1,48 @@
+{
+  "sourceId": "knowledge-esc-2020-sports-cardiology",
+  "title": "2020 ESC Guidelines on sports cardiology and exercise in patients with cardiovascular disease",
+  "url": "https://doi.org/10.1093/eurheartj/ehaa605",
+  "publisher": "European Society of Cardiology / European Heart Journal",
+  "publishedAt": null,
+  "accessedAt": "2026-11-08",
+  "claims": [
+    "The guidelines state that cardiac screening with family history, symptoms, physical examination and a 12-lead resting ECG should be considered for competitive athletes (Class IIa, Level C).",
+    "The guidelines state that among individuals with low to moderate cardiovascular disease risk, participation in all recreational sports should be considered without further cardiovascular evaluation (Class IIa, Level C).",
+    "The guidelines state that evidence for cardiovascular screening in athletes older than 35 years is limited and that screening in this group must target the higher prevalence of atherosclerotic coronary artery disease.",
+    "The guidelines state that routine screening for ischaemia with exercise testing in asymptomatic adults has a low positive predictive value and a high number of false-positive tests and is not recommended."
+  ],
+  "license": "ESC; citation and summary only",
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "全文 PDF 镜像（80 页）",
+    "note": "出版方 OUP 页面与 PDF 被 Cloudflare/订阅拦截；本轮取得完整 80 页 PDF 镜像并逐条核对（页码为 PDF 页序）"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "PDF p.18 推荐表：家族史、症状、体检与静息 12 导联 ECG，IIa C"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "PDF p.18 推荐表：低至中等 CVD 风险的休闲运动可不进一步评估，IIa C"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "PDF p.10：>35 岁筛查证据有限，须针对更高的动脉粥样硬化性 CAD 患病率"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "PDF p.10：无症状成人用运动试验常规筛查缺血阳性预测值低、假阳性多，不推荐"
+    }
+  ]
+}

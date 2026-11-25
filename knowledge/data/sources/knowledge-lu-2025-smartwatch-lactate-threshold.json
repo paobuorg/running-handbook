@@ -1,0 +1,62 @@
+{
+  "sourceId": "knowledge-lu-2025-smartwatch-lactate-threshold",
+  "title": "Validity of smartwatch-derived estimates of lactate threshold heart rate and pace compared to graded exercise testing",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12309276/",
+  "publisher": "Frontiers in Physiology",
+  "publishedAt": "2025-07-04",
+  "accessedAt": "2026-11-07",
+  "claims": [
+    "One hundred healthy recreational runners underwent indoor graded exercise tests and outdoor smartwatch tests.",
+    "The success rate for a single test was 78% for Huawei, 65.22% for Garmin and 47.06% for Coros.",
+    "For lactate threshold heart rate, mean absolute percentage errors were 6.32% (Huawei), 7.15% (Garmin) and 5.95% (Coros).",
+    "All three devices overestimated lactate-threshold pace, with MAPE 12.70% (Huawei), 25.78% (Garmin) and 22.63% (Coros); the Coros difference was not significant (p = 0.08).",
+    "Correlations for threshold heart rate ranged from r = 0.13 to 0.67, and R-squared values ranged from 0.02 to 0.45.",
+    "The authors concluded that smartwatches can provide estimates in recreational runners but that accuracy still needs improvement."
+  ],
+  "license": "CC BY 4.0",
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-20",
+    "checkedVia": "WebFetch https://pmc.ncbi.nlm.nih.gov/articles/PMC12309276/（PMC 全文 HTML）",
+    "note": "Frontiers in Physiology 正式论文（2025-07-04），非预印本；该文于 2025-07-16 发布更正（Front Physiol 16:1661421）。读到摘要、方法与设计部分。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：“One hundred healthy recreational runners underwent indoor graded exercise tests followed by outdoor tests using Huawei (n = 100), Garmin (n = 23), and Coros (n = 17)”。注意各设备子样本量不同，非每人均测三块表。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "摘要原文：“The success rates for a single test were 78% for Huawei®, 65.22% for Garmin®, and 47.06% for Coros®.”"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "摘要原文：“The Huawei® watch showed MAE = 10.66 bpm, MAPE = 6.32%; Garmin®: MAE = 11.44 bpm, MAPE = 7.15%; Coros®: MAE = 8.93 bpm, MAPE = 5.95%.”"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-20",
+      "note": "摘要称 “significant overestimation for all devices”，但同段 Coros p = 0.08；MAPE 12.70%/25.78%/22.63% 与原文一致，已改为“均高估、Coros 未达显著”。"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "摘要原文：“Corresponding Pearson correlation coefficients ranged from r = 0.13 to 0.67, and R2 values ranged from 0.02 to 0.45.”指 LT HR。"
+    },
+    {
+      "index": 5,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "结论原文：“Smartwatches are capable of providing estimates of LT HR and LT Pace in recreational runners, although they tend to overestimate LT Pace and overall accuracy remains to be improved.”"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "entityId": "knowledge:air-quality-and-running",
+  "slug": "air-quality-and-running",
+  "kind": "knowledge",
+  "status": "published",
+  "riskLevel": "guidance",
+  "sourceRefs": [
+    "knowledge-airnow-aqi",
+    "knowledge-airnow-school-activity",
+    "knowledge-epa-aqi-toolkit",
+    "knowledge-epa-wildfire-smoke-activity",
+    "knowledge-who-air-quality-2021",
+    "knowledge-who-air-pollution-fact",
+    "knowledge-deflorio-barker-2020-air-pollution"
+  ],
+  "relatedRefs": [
+    "knowledge:heat-and-humidity",
+    "knowledge:route-safety",
+    "knowledge:breathing-and-rhythm",
+    "knowledge:night-running-and-traffic"
+  ],
+  "license": "CC-BY-4.0",
+  "createdAt": "2026-11-07",
+  "updatedAt": "2026-11-07",
+  "reviewedAt": "2026-11-07",
+  "reviewDueAt": "2027-11-07",
+  "translations": [],
+  "details": {
+    "primaryTopic": "safety",
+    "secondaryTopics": [
+      "health",
+      "training"
+    ],
+    "contentType": "guide",
+    "audiences": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "scenarios": [
+      "general-training",
+      "race-preparation"
+    ]
+  }
+}

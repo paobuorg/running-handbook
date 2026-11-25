@@ -1,0 +1,41 @@
+{
+  "entityId": "knowledge:achilles-tendon-pain",
+  "slug": "achilles-tendon-pain",
+  "kind": "knowledge",
+  "status": "published",
+  "riskLevel": "guidance",
+  "sourceRefs": [
+    "knowledge-aaos-achilles-tendinitis",
+    "knowledge-gstt-achilles-tendinopathy",
+    "knowledge-nhs-running-injuries"
+  ],
+  "relatedRefs": [
+    "knowledge:return-to-running",
+    "knowledge:strength-and-taper",
+    "knowledge:running-shoes",
+    "knowledge:pain-and-load"
+  ],
+  "license": "CC-BY-4.0",
+  "createdAt": "2026-11-07",
+  "updatedAt": "2026-11-07",
+  "reviewedAt": "2026-11-07",
+  "reviewDueAt": "2027-11-07",
+  "translations": [],
+  "details": {
+    "primaryTopic": "health",
+    "secondaryTopics": [
+      "training",
+      "gear"
+    ],
+    "contentType": "guide",
+    "audiences": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "scenarios": [
+      "general-training",
+      "injury"
+    ]
+  }
+}

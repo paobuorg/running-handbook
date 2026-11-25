@@ -1,0 +1,62 @@
+{
+  "sourceId": "knowledge-yang-2020-gait-retraining-minimalist",
+  "title": "Alterations in Running Biomechanics after 12 Week Gait Retraining with Minimalist Shoes",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7036986/",
+  "publisher": "International Journal of Environmental Research and Public Health",
+  "publishedAt": "2020-01-28",
+  "accessedAt": "2026-11-07",
+  "claims": [
+    "Thirty male recreational runners were randomly assigned to 12 weeks of gait retraining plus minimalist shoes (n=15) or minimalist shoes alone (n=15); 17 completed the training.",
+    "The combined programme converted rearfoot strikers into forefoot strikers at a rate of 78% (7/9).",
+    "Loading rate decreased significantly in both groups, and the gait-retraining group had a lower loading rate than the minimalist-shoe-only group.",
+    "Foot strike angle decreased significantly only in the gait-retraining group; ankle joint moment increased in that group.",
+    "Vertical stiffness of the lower limb improved significantly in both groups.",
+    "The authors conclude that minimalist footwear alone may have limited effects on reducing running-related impact."
+  ],
+  "license": "CC BY 4.0",
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC7036986/fullTextXML",
+    "note": "经 Europe PMC 全文 XML 读取 Methods/Results/Conclusion 正文，非仅摘要。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：“Thirty participants were randomly (random number sort) divided into gait retraining + minimalist shoe (GR) and minimalist shoe (MIN) groups”；“Seventeen participants completed intervention and met the inclusion criteria (nine in the GR group, eight in the MIN group)”。15/组与 17 人完成均一致。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文结论：“The 12 week gait retraining with minimalist shoes converted rearfoot strikers into forefoot strikers with a rate of 78% (7/9).”"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：“the loading rate … was significantly reduced by 22.6% (GR) and 17.2% (MIN) after training (p < 0.001, p = 0.017). The loading rate of the GR group was lower than that of the MIN group after training (p = 0.015).”"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：GR 组 foot-strike angle 减少约 10.3°，MIN 组无差异；“the peak moment was increased by 17.8% after training in the GR group (p = 0.001)”，MIN 组无变化（指踝关节峰值力矩）。"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：“A significant main effect of time was observed on vertical stiffness (p = 0.035). After training, the vertical stiffness improved in the GR and MIN groups by 17.2% and 7.1%, respectively”；未报告 time×group 交互，即显著性来自时间主效应而非各组单独检验。"
+    },
+    {
+      "index": 5,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：“these observations also suggest that the sole use of minimalist footwear may have limited effects on reducing running-related impacts.”"
+    }
+  ]
+}

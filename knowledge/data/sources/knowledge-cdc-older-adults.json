@@ -1,0 +1,48 @@
+{
+  "sourceId": "knowledge-cdc-older-adults",
+  "title": "Older Adult Activity: An Overview",
+  "url": "https://www.cdc.gov/physical-activity-basics/guidelines/older-adults.html",
+  "publisher": "CDC",
+  "publishedAt": "2025-12-04",
+  "accessedAt": "2026-10-27",
+  "claims": [
+    "Adults aged 65 and older need aerobic, muscle-strengthening and balance activities each week.",
+    "The aerobic target is at least 150 minutes at moderate intensity, 75 minutes at vigorous intensity, or an equivalent combination.",
+    "Older adults need at least two days of muscle-strengthening activity each week and should also include activities that improve balance.",
+    "People benefit from physical activity throughout life, including as they age."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-20",
+    "checkedVia": "WebFetch https://www.cdc.gov/physical-activity-basics/guidelines/older-adults.html",
+    "note": "CDC 页面正文完整可读，落地 URL 与源 URL 一致；页面标注 Dec. 4, 2025，与 publishedAt 一致；正文为英文。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：“If you are 65 or older, you need aerobic, muscle-strengthening, and balance activities each week.”"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：“At least 150 minutes at moderate intensity… Or 75 minutes at vigorous intensity. Or an equivalent combination at moderate and vigorous intensity.”"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-20",
+      "note": "原文：“At least 2 days of activities that strengthen muscles” 是对肌力活动的天数要求；平衡活动另列为 “Activities to improve balance”，未给每周天数。"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：“People benefit from physical activity throughout life, including as they age.”"
+    }
+  ]
+}

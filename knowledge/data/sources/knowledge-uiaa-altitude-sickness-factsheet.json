@@ -1,0 +1,55 @@
+{
+  "sourceId": "knowledge-uiaa-altitude-sickness-factsheet",
+  "title": "UIAA Medical Commission Factsheet on Altitude Sickness",
+  "url": "https://theuiaa.org/documents/safety/UIAA_Medical_AltitudeSickness.pdf",
+  "publisher": "International Climbing and Mountaineering Federation (UIAA) Medical Commission",
+  "publishedAt": null,
+  "accessedAt": "2026-11-07",
+  "claims": [
+    "Above about 2700 m, a reasonable recommendation is not to climb more than 400 m above the previous night's sleeping altitude.",
+    "A rest day after every two days of altitude gain may help; climbing high and sleeping low may support acclimatisation.",
+    "There is no evidence that physical fitness protects against altitude sickness; very fit people may be more susceptible because they challenge themselves more.",
+    "Alcohol and sleeping pills can depress breathing and interfere with acclimatisation; excessive exertion is a risk factor.",
+    "For people flying directly to high altitude without time to acclimatise, prophylactic acetazolamide may make sense if there is no allergy history."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-20",
+    "checkedVia": "https://theuiaa.org/documents/safety/UIAA_Medical_AltitudeSickness.pdf",
+    "note": "UIAA Medical Commission 三页 factsheet 全文抓取成功，逐问核对。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：“Usually after 2700m, not to climb more than 400m from the previous night's sleeping altitude would be a reasonable recommendation.”"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：“Climbing high and sleeping low may help in the acclimatisation process”“A rest day after every two days of gain in altitude may also help.” claim 的 may 语气与原文一致。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-20",
+      "note": "原文：“there is no evidence to show that physical fitness protects … In fact people who are very fit … seem to be more susceptible … as they may “challenge” themselves much more”。按原文保留 no evidence 与 may。"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：“alcohol can depress your breathing, and since hyperventilation is the cornerstone of acclimatisation, any substance (another example are sleeping pills) that inhibits breathing should be avoided”；“Excessive exertion is a risk factor for altitude sickness.”"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：“for people flying to high altitude locations like La Paz, Bolivia or Lhasa Tibet ... taking diamox (125 mg bid) prophylactically may make sense if there is no history of allergy to the drug.” claim 省略了剂量，未增强语气。"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "sourceId": "knowledge-nyrr-bag-check",
+  "title": "Bag Pre-Check",
+  "url": "https://www.nyrr.org/tcsnycmarathon/bag-check",
+  "publisher": "New York Road Runners",
+  "publishedAt": null,
+  "accessedAt": "2026-11-07",
+  "claims": [
+    "纽约马拉松存包需提前选择，预存包在比赛前一天 17:00 关闭。",
+    "完赛后可在中央公园西侧 73–75 街领取，至 19:00；之后转至 NYRR RUNCENTER。",
+    "The page describes the current New York City Marathon bag-check rules, deadlines and pickup location; it does not state that these apply to other races."
+  ],
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "页面：存包需提前选择；预存包在比赛前一天（周六）17:00 关闭。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "页面：赛后可在 Central Park West 73–75 街领取至 19:00，之后转至 NYRR RUNCENTER。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-20",
+      "note": "该页只述本届纽约马拉松规则；删除“按赛事而异、必须查当届规程”的编辑提示。"
+    }
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-20",
+    "checkedVia": "NYRR 网页正文（网页抓取）",
+    "note": "网页抓取可读；预存包截止、领取地点与 19:00 均见正文。"
+  }
+}

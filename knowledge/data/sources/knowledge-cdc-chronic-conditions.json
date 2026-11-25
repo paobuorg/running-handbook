@@ -1,0 +1,48 @@
+{
+  "sourceId": "knowledge-cdc-chronic-conditions",
+  "title": "Chronic Conditions & Disabilities Activity",
+  "url": "https://www.cdc.gov/physical-activity-basics/guidelines/chronic-health-conditions-and-disabilities.html",
+  "publisher": "CDC",
+  "publishedAt": "2025-12-04",
+  "accessedAt": "2026-10-27",
+  "claims": [
+    "Adults with chronic health conditions or disabilities can be physically active and gain important health benefits.",
+    "Adults with chronic conditions or disabilities who are able should get at least 150 minutes of moderate-intensity aerobic activity a week and at least two days of muscle-strengthening activity.",
+    "Some physical activity is better than none; people should be as active as they are able.",
+    "Regular activity can improve sleep, mental health and cardiovascular health for people with chronic conditions, and can decrease pain and improve function in people with arthritis."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-20",
+    "checkedVia": "WebFetch https://www.cdc.gov/physical-activity-basics/guidelines/chronic-health-conditions-and-disabilities.html",
+    "note": "CDC 页面正文完整可读，落地 URL 与源 URL 一致；页面标注 Dec. 4, 2025，与 publishedAt 一致；建议段落以“who are able”限定。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "关键点：“Adults with chronic health conditions or disabilities can be physically active.”；正文“Regular physical activity provides important health benefits for people with chronic health conditions or disabilities.”"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：“Adults with chronic health conditions or disabilities who are able should: Get at least 150 minutes… of moderate-intensity aerobic physical activity a week. And Get at least 2 days a week of muscle-strengthening activities…”，数字与“who are able”限定均保留。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：“Some physical activity is better than none—be as active as you are able!”"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-20",
+      "note": "原文：“Improves sleep quality.”“Helps improve mental health by reducing depression and anxiety.”“Improves cardiovascular health…”；功能改善仅写 “Decreases pain and improves function in people with arthritis.”"
+    }
+  ]
+}

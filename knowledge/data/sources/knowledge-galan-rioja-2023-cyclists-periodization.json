@@ -1,0 +1,55 @@
+{
+  "sourceId": "knowledge-galan-rioja-2023-cyclists-periodization",
+  "title": "Training Periodization, Intensity Distribution, and Volume in Trained Cyclists: A Systematic Review",
+  "url": "https://doi.org/10.1123/ijspp.2022-0302",
+  "publisher": "International Journal of Sports Physiology and Performance",
+  "publishedAt": "2023-01-14",
+  "accessedAt": "2026-11-07",
+  "claims": [
+    "Seven studies with 161 trained road cyclists met the inclusion criteria.",
+    "Block periodization used highly concentrated workload phases ranging from 1- to 8-week blocks, with training volume of 8.75–11.68 hours per week and both pyramidal and polarized intensity distributions.",
+    "Traditional periodization was characterized by a first period of high-volume/low-intensity training before reducing volume and increasing the proportion of high-intensity training; volume ranged from 7.5 to 10.76 hours per week and a pyramidal distribution was used.",
+    "The authors concluded that no evidence is currently available favoring a specific periodization model during 8 to 12 weeks in trained road cyclists.",
+    "Few studies have examined the seasonal impact of different periodization models in a systematic way."
+  ],
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "全文：7 项研究、161 名受训公路车手（10 名女性）。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "全文/摘要：板块周期 1–8 周，8.75–11.68 h/周，金字塔与极化分布并用。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "全文/摘要：传统周期先高量低强度，后减量增强度；7.5–10.76 h/周，金字塔分布。"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "摘要结论：8–12 周内无证据支持某一周期化模型更优。"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "摘要结论：少有研究系统考察不同模型的整季影响。"
+    }
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "出版社 PDF 全文（Human Kinetics）",
+    "note": "全文可读；7 项、161 名受训公路车手见正文。"
+  }
+}

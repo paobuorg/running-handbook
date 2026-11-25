@@ -1,0 +1,34 @@
+{
+  "sourceId": "knowledge-nyrr-marathon-start",
+  "title": "The Start",
+  "url": "https://www.nyrr.org/tcsnycmarathon/race-day/the-start",
+  "publisher": "New York Road Runners",
+  "publishedAt": null,
+  "accessedAt": "2026-11-07",
+  "claims": [
+    "The NYRR start page states that wave and corral assignments are based on the estimated finish time submitted at registration.",
+    "2026 年各批次起跑区关闭时间为当地时间 8:45、9:25、10:00、10:40、11:15。"
+  ],
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-20",
+      "note": "页面写按报名时提交的预计完赛时间分配 wave/corral；未写 NYRR 账户最好成绩作为分配依据。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "页面表格：五个 wave 的 corral 关闭时间为 8:45/9:25/10:00/10:40/11:15。"
+    }
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "NYRR 网页正文（网页抓取）",
+    "note": "NYRR 起点页全文；2026-11-20 把分配依据收窄为页面实际写的“报名时预计完赛时间”，并删除无原文的“各赛事自行制定”编辑归纳。"
+  }
+}

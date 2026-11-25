@@ -1,0 +1,62 @@
+{
+  "sourceId": "knowledge-jhu-itbs",
+  "title": "Iliotibial Band Syndrome",
+  "url": "https://www.hopkinsmedicine.org/health/conditions-and-diseases/iliotibial-band-syndrome",
+  "publisher": "Johns Hopkins Medicine",
+  "publishedAt": null,
+  "accessedAt": "2026-11-07",
+  "claims": [
+    "Johns Hopkins describes IT band syndrome as pain on the outside of the knee, commonly in distance runners, with aching or burning that may spread up the thigh to the hip.",
+    "Johns Hopkins notes pain tends to be worst immediately after foot strike, may begin near the end of a workout, and as the condition worsens starts earlier and persists after exercise; stairs may worsen it.",
+    "Johns Hopkins lists uneven or downhill terrain, worn-out shoes, high daily mileage, and bowlegged alignment as risk factors.",
+    "Johns Hopkins states the exact cause is still debated, but repetitive bending and extending of the knee is clearly involved.",
+    "Most people respond to conservative treatment; surgery may be recommended if significant symptoms persist after 6 months.",
+    "Johns Hopkins prevention advice includes running on even surfaces, replacing shoes, easing training, alternating track directions, and stretching the outer thigh and hamstrings."
+  ],
+  "license": "All rights reserved; facts summarized with attribution",
+  "verification": {
+    "access": "browser",
+    "bodyRead": true,
+    "checkedAt": "2026-11-20",
+    "checkedVia": "WebFetch 页面抓取（普通脚本 GET 返回 403，仅渲染抓取通道取得正文）",
+    "note": "正文全文可读，逐条按原文核对；页面无发布日期。claim 4 的 only 为原文所无，判 partial。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：“pain on the outside of the knee”“most commonly happens in athletes, especially distance runners”；“aching, burning feeling that sometimes spreads up the thigh to the hip”。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：“The pain tends to be worst immediately after you strike your foot”“might only start up near the end of your workout”；加重后“start earlier and continue even after you have stopped exercising”；“going up and down the stairs”会加重。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文风险因素四项：uneven or downhill terrain、worn-out shoes、many miles per day、bowlegged（legs slope inward from knee to ankle）。"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：“Researchers are still debating the exact cause”；“it is clear that repetitive bending and extending of the knee is in some way responsible”。"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-20",
+      "note": "原文：“These modifications help most people”“might recommend surgery if you still have significant symptoms after 6 months”；未写 only/只有。"
+    },
+    {
+      "index": 5,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文预防清单：run on even surfaces、replace running shoes regularly、ease up on training、track 上“run in both directions”、stretch outer thigh and hamstrings regularly。"
+    }
+  ]
+}

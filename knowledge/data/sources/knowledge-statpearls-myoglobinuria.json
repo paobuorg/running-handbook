@@ -1,0 +1,48 @@
+{
+  "sourceId": "knowledge-statpearls-myoglobinuria",
+  "title": "Myoglobinuria (StatPearls)",
+  "url": "https://www.ncbi.nlm.nih.gov/books/NBK557379/",
+  "publisher": "StatPearls Publishing",
+  "publishedAt": null,
+  "accessedAt": "2026-11-07",
+  "claims": [
+    "Evaluation of dark urine starts with a urine dipstick, which is positive for heme in patients with myoglobinuria.",
+    "Microscopic analysis of the urine in myoglobinuria reveals no red blood cells, which points to myoglobin rather than intact red cells.",
+    "Myoglobinuria presents with dark or red-coloured urine; the urine dipstick is positive for heme and microscopy shows no red blood cells.",
+    "An elevated creatine kinase level in blood confirms muscle injury as the cause of myoglobinuria."
+  ],
+  "license": "StatPearls; citation and summary only",
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "NCBI Bookshelf NBK557379（前段正文）",
+    "note": "StatPearls Myoglobinuria 全文（Archived）；2026-11-20 把尿液表现与 CK 作用收窄到原文，删除无原文的组间比较。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Evaluation：暗色尿先做试纸，肌红蛋白尿呈血红素阳性。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "镜检无红细胞，提示肌红蛋白而非完整红细胞。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-20",
+      "note": "原文：dark or red-colored urine/dark urine；dipstick positive for heme，microscopy reveals no red blood cells。原 claim 的棕褐 vs 红对比与 RBC/HPF 数量无原文。"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-20",
+      "note": "原文：“Creatine kinase levels are also measured, and its high level in blood confirms muscle injury as the cause of myoglobinuria.” 删除与血尿患者的组间比较。"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "sourceId": "knowledge-stride-frequency-review",
+  "title": "Influence of stride frequency and length on running mechanics: a systematic review",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/24790690/",
+  "publisher": "Sports Health",
+  "publishedAt": "2014-05-01",
+  "claims": [
+    "Across the reviewed studies, higher stride rate at a fixed speed reduced vertical centre-of-mass excursion, ground reaction force and joint energy absorption.",
+    "The review concluded that a higher stride rate may reduce several biomechanical factors associated with running injury.",
+    "The included studies were small and methodologically varied, so they do not establish a universal target cadence."
+  ],
+  "accessedAt": "2026-11-08",
+  "license": null,
+  "verification": {
+    "access": "metadata-only",
+    "bodyRead": false,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "NCBI efetch（仅摘要）",
+    "note": "正文需订阅，仅摘要（Sports Health 2014;6(3):210-7）。 R53 回扫：2026-11-08 用桌面 UA 直连重试 2 次，出版商均返回 203 反爬/订阅门，仅摘要或元数据可读，正文需订阅；属外部条件，不是官方没有。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "\"increased stride rate resulted in decreased center of mass vertical excursion, ground reaction force… energy absorbed at the hip, knee, and ankle joints\"。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "CONCLUSION：\"an increased stride rate… appears to reduce the magnitude of several key biomechanical factors associated with running injuries.\""
+    },
+    {
+      "index": 2,
+      "status": "partial",
+      "checkedAt": "2026-11-08",
+      "note": "摘要写样本小、方法有差异，但未提“统一目标步频”，后半句属推断。"
+    }
+  ]
+}

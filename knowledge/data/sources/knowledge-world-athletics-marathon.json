@@ -1,0 +1,34 @@
+{
+  "sourceId": "knowledge-world-athletics-marathon",
+  "title": "Marathon — World Athletics disciplines",
+  "url": "https://worldathletics.org/disciplines/road-running/marathon",
+  "publisher": "World Athletics",
+  "publishedAt": null,
+  "accessedAt": "2026-10-26",
+  "claims": [
+    "The marathon is a road running event over 42.195 kilometres.",
+    "The distance is also expressed as 26 miles and 385 yards."
+  ],
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "页面：马拉松是 42.195 km 的公路跑项目。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "页面：距离也表述为 26 英里 385 码。"
+    }
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "World Athletics 网页正文",
+    "note": "正文可读；42.195 km 与 26 英里 385 码均见正文。"
+  }
+}

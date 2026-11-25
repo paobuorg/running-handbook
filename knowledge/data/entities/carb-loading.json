@@ -1,0 +1,39 @@
+{
+  "entityId": "knowledge:carb-loading",
+  "slug": "carb-loading",
+  "kind": "knowledge",
+  "status": "published",
+  "riskLevel": "guidance",
+  "sourceRefs": [
+    "knowledge-acsm-2016-carbohydrate",
+    "knowledge-beck-2015-carbohydrate",
+    "knowledge-issn-carbohydrate-timing"
+  ],
+  "relatedRefs": [
+    "knowledge:race-day-fueling",
+    "knowledge:daily-fueling",
+    "knowledge:long-run-fueling",
+    "knowledge:race-day-pacing"
+  ],
+  "license": "CC-BY-4.0",
+  "createdAt": "2026-11-07",
+  "updatedAt": "2026-11-07",
+  "reviewedAt": "2026-11-07",
+  "reviewDueAt": "2027-11-07",
+  "translations": [],
+  "details": {
+    "primaryTopic": "nutrition",
+    "secondaryTopics": [
+      "training"
+    ],
+    "contentType": "guide",
+    "audiences": [
+      "intermediate",
+      "advanced"
+    ],
+    "scenarios": [
+      "race-preparation",
+      "marathon"
+    ]
+  }
+}

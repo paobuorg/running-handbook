@@ -1,0 +1,51 @@
+{
+  "entityId": "knowledge:menopause-and-running",
+  "slug": "menopause-and-running",
+  "kind": "knowledge",
+  "status": "published",
+  "riskLevel": "guidance",
+  "sourceRefs": [
+    "knowledge-nhs-menopause-overview",
+    "knowledge-nhs-menopause-symptoms",
+    "knowledge-nhs-menopause-lifestyle",
+    "knowledge-nhs-osteoporosis",
+    "knowledge-nhs-dexa",
+    "knowledge-nhs-postmenopausal-bleeding",
+    "knowledge-nhs-heart-palpitations",
+    "knowledge-cochrane-2014-exercise-vms",
+    "knowledge-ros-impact-exercise",
+    "knowledge-ros-strength-exercise",
+    "knowledge-trevino-2025-hrt-exercise-bmd"
+  ],
+  "relatedRefs": [
+    "knowledge:female-runners-and-red-s",
+    "knowledge:older-runners",
+    "knowledge:iron-and-bone-health",
+    "knowledge:return-to-running",
+    "knowledge:strength-and-taper",
+    "knowledge:running-across-life"
+  ],
+  "license": "CC-BY-4.0",
+  "createdAt": "2026-11-07",
+  "updatedAt": "2026-11-07",
+  "reviewedAt": "2026-11-07",
+  "reviewDueAt": "2027-11-07",
+  "translations": [],
+  "details": {
+    "primaryTopic": "health",
+    "secondaryTopics": [
+      "training",
+      "recovery"
+    ],
+    "contentType": "guide",
+    "audiences": [
+      "intermediate",
+      "advanced"
+    ],
+    "scenarios": [
+      "general-training",
+      "race-preparation",
+      "injury"
+    ]
+  }
+}

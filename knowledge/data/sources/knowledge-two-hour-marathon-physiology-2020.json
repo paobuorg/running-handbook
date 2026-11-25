@@ -1,0 +1,48 @@
+{
+  "sourceId": "knowledge-two-hour-marathon-physiology-2020",
+  "title": "Physiological demands of running at 2-hour marathon race pace",
+  "url": "https://journals.physiology.org/doi/10.1152/japplphysiol.00647.2020",
+  "publisher": "Journal of Applied Physiology",
+  "publishedAt": null,
+  "accessedAt": "2026-11-08",
+  "claims": [
+    "Laboratory measurements in elite runners at 2-hour marathon race pace showed a ground contact time of 0.16 ± 0.01 s.",
+    "The same measurements showed a vertical oscillation of 0.04 ± 0.006 m.",
+    "Peak vertical force at that pace averaged 2.92 ± 0.26 body weights.",
+    "The reported values come from 10 world-class male runners at a single pace; the paper does not present them as representative of recreational runners."
+  ],
+  "license": "American Physiological Society; citation and summary only",
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-20",
+    "checkedVia": "WebFetch + CORE 接收稿 PDF",
+    "note": "Table 2 与 Methods（10 名世界级男子选手、21.1 km/h）可读。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Table 2：\"Ground contact time, s | 0.16 ± 0.01\"。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Table 2：\"Vertical oscillation, m | 0.04 ± 0.006\"。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Table 2：\"Peak vertical force, BW | 2.92 ± 0.26\"。"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-20",
+      "note": "样本为 10 名世界级男子选手、单一速度；删除“cannot be generalised”的绝对外推，改为“未呈现实代表性”。"
+    }
+  ]
+}

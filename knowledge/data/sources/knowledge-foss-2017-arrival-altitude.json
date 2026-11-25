@@ -1,0 +1,48 @@
+{
+  "sourceId": "knowledge-foss-2017-arrival-altitude",
+  "title": "Short-term arrival strategies for endurance exercise performance at moderate altitude",
+  "url": "https://doi.org/10.1152/japplphysiol.00314.2017",
+  "publisher": "Journal of Applied Physiology",
+  "publishedAt": "2017-11-01",
+  "accessedAt": "2026-11-07",
+  "claims": [
+    "The study compared 14 hours of overnight hypoxic exposure with 2 hours of hypoxic exposure before a 20-km cycling time trial at a simulated 2500 m.",
+    "Performance responses diverged between the 14-hour and 2-hour conditions but were not explained by the measured physiological variables.",
+    "Athletes restricted to arriving the evening before competition would not gain a clear advantage by delaying arrival to a few hours before the event.",
+    "The paper notes that 5-7 days of acclimatisation produced worse performance than 14-19 days, while residence longer than 19 days produced only marginal additional gains."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "https://journals.physiology.org/doi/10.1152/japplphysiol.00314.2017",
+    "note": "出版社页面可读全文；核对 10 名受试者、三次实验条件、20 km 计时赛与引言中 14–19 天适应期表述。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：“10 cyclists completed overnight laboratory exposures of: 1) a 14-h exposure to normobaric hypoxia (16.2% O2, simulating 2,500 m; 14H), 2) a 12-h exposure to normoxia, then a 2-h hypoxic exposure (2H) ... Immediately following each exposure, subjects completed a 20-km cycle ergometry time trial ... in 16.2% O2 (14H and 2H).”"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：“Although some divergent 20-km performance responses were observed between 14H and 2H, they were not explained by the physiological measures completed.”"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：“endurance athletes who are logistically restricted from arriving at altitude more than the evening before competition would not gain an advantage by delaying their arrival until a few hours before the competition.”"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文引言：“performance was impaired to a greater degree after 5–7 days of acclimatization compared with 14–19 days of acclimatization, and altitude residence longer than 19 days produced only marginal additional performance gains”；该句引述他人研究，claim 用“The paper notes”是准确的。"
+    }
+  ]
+}

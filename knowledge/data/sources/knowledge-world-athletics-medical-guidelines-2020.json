@@ -1,0 +1,41 @@
+{
+  "sourceId": "knowledge-world-athletics-medical-guidelines-2020",
+  "title": "World Athletics Competition Medical Guidelines — October 2020, Second Edition",
+  "url": "https://worldathletics.org/about-iaaf/documents/health-science",
+  "publisher": "World Athletics",
+  "publishedAt": "2020-10-01",
+  "claims": [
+    "The guidelines recommend that competition organisers prepare a medical plan, including medical points, emergency response and evacuation routes.",
+    "They describe the medical team as responsible for pre-event planning, on-course response and transfer to hospital.",
+    "They recommend that medical planning be documented and coordinated with local emergency services."
+  ],
+  "license": null,
+  "accessedAt": "2026-11-07",
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-20",
+    "checkedVia": "WebFetch 官方 Health & Science 文档页 + 官方 PDF《Competition Medical Guidelines - October 2020 Second Edition》全 72 页",
+    "note": "源 URL 是世界田联 Health & Science 文档索引页，正文取自该页列出的 2020 年 10 月第二版 PDF（官方 download 链接）；文件在 Foreword 中自述为 “expert guidance”，正文规范用语以 should 为主。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-20",
+      "note": "第 8.1 节写 “A medical point should be organised…”, “unobstructed access points … emergency routes are fundamental”；文件定位为 guidance，用 recommend/should，不用 require。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "第 1 章 Medical Team 使命：“provide primary and emergency care to athletes, staff, officials, judges, volunteers, World Athletics family members and spectators at all competitions, training, and other event sites”“arrange for referrals, where necessary, to a higher level of health care”；医疗主任职责含 “Design a comprehensive health care system”及 “Co-ordinating service with the hospital network and emergency services”。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "医疗主任职责 r)：“Producing a plan against full-scale disasters and accidents in cooperation with relevant LOC departments”；职责 c)：“Recruitment and co-ordination of community medical resources, including emergency transport services, emergency room(s) and hospital admissions”，即与当地急救资源协调。"
+    }
+  ]
+}

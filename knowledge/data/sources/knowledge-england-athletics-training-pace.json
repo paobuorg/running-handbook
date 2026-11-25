@@ -1,0 +1,62 @@
+{
+  "sourceId": "knowledge-england-athletics-training-pace",
+  "title": "Simplifying the running jargon: Training pace",
+  "url": "https://www.englandathletics.org/news/simplifying-the-running-jargon-training-pace-2/",
+  "publisher": "England Athletics",
+  "publishedAt": "2024-04-25",
+  "accessedAt": "2026-11-07",
+  "claims": [
+    "England Athletics describes easy running as a fully conversational, relaxed pace corresponding to 60–75% of maximum heart rate, or RPE 2–3 out of 10.",
+    "Steady-state running is described as harder than easy running but still under control, at RPE 4–5.",
+    "Threshold running is described as comfortably hard, just below the point where lactate builds up, at RPE 7–8 with only one-word answers possible.",
+    "Interval training is described as blocks of high-intensity work with rest, generally between 3 km and 10 km race pace.",
+    "The article notes that the science and technology to measure threshold level is not available to all, so running pace is determined more by feel than science.",
+    "The guidance gives heart-rate percentages and RPE anchors but no percentage-based table for deriving training paces from a race result."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "WebFetch 直接抓取 England Athletics 文章正文",
+    "note": "正文与文末总结表均完整可读；这是 England Athletics 的教练科普文章，不是管理机构强制标准。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：\"Easy running is essentially an easy conversational fully relaxed pace... 60-75% of your maximum heart rate... 2-3 out of ten\"；总结表亦为 RPE = 2-3。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文总结表 Steady state runs：\"Working harder, but still in control... RPE = 4-5\"。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：\"just below the point where lactate builds up\"；总结表 Threshold runs：\"Comfortably hard... RPE = 7-8\"、\"Only one-word answers are possible\"。"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：\"blocks of high intensity work with rest in between\"；\"Generally, you will be working between a 3k race pace and a 10k race pace\"。"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文总结表 Threshold 行 Challenges：\"The science and technology to measure threshold level is not available to all, so running pace is determined more by feel than science\"。"
+    },
+    {
+      "index": 5,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "正文只在 easy 跑给出 60-75% HRmax，其余区间用 RPE；全文没有由比赛成绩推导训练配速的百分比表。"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "sourceId": "knowledge-hasegawa-2007-foot-strike-half-marathon",
+  "title": "Foot strike patterns of runners at the 15-km point during an elite-level half marathon",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/17685722/",
+  "publisher": "Journal of Strength and Conditioning Research",
+  "publishedAt": "2007-08-01",
+  "accessedAt": "2026-11-20",
+  "claims": [
+    "Researchers filmed 415 runners at the 15 km point of an elite-level half marathon with two high-speed cameras and obtained analysable images for 283 runners.",
+    "Rearfoot strike was observed in 74.9% of analysed runners, midfoot strike in 23.7% and forefoot strike in 1.4%.",
+    "The study describes foot strike patterns in a competitive race setting rather than in a laboratory."
+  ],
+  "license": "Publisher terms; citation and summary only",
+  "verification": {
+    "access": "metadata-only",
+    "bodyRead": false,
+    "checkedAt": "2026-11-20",
+    "checkedVia": "curl.exe via local 7890 proxy + PubMed efetch abstract (PMID 17685722)",
+    "note": "2026-11-20 经 7890 代理读取 PubMed 结构化摘要；LWW 全文仍为订阅内容，正文未读，因此 bodyRead 保持 false。摘要中的样本量、摄像方法与三分类比例足以支持前三条 claim；原第四条“本文是三分类定义的来源”只是后见归纳，摘要没有该主张，已删除。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-20", "note": "摘要：Four hundred fifteen runners were filmed by 2 120-Hz video cameras at the 15.0-km point; sagittal images obtained for 283 runners." },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-20", "note": "摘要：RFS 74.9%, MFS 23.7%, FFS 1.4% of all analysed runners." },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-20", "note": "摘要明确写的是 actual road race / elite-level half marathon，15.0 km 处摄像，不是实验室跑台。" }
+  ]
+}
+

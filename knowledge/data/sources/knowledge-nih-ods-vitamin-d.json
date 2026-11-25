@@ -1,0 +1,90 @@
+{
+  "sourceId": "knowledge-nih-ods-vitamin-d",
+  "title": "Vitamin D — Fact Sheet for Health Professionals",
+  "url": "https://ods.od.nih.gov/factsheets/VitaminD-HealthProfessional/",
+  "publisher": "NIH Office of Dietary Supplements",
+  "publishedAt": null,
+  "claims": [
+    "Recommended Dietary Allowances for vitamin D are 10 mcg (400 IU)/day for infants 0–12 months, 15 mcg (600 IU)/day for people aged 1–70 years, and 20 mcg (800 IU)/day for people above 70 years, with the same 15 mcg (600 IU) for pregnancy and lactation.",
+    "The Tolerable Upper Intake Level for vitamin D is 25 mcg (1,000 IU)/day for infants 0–6 months, 38 mcg (1,500 IU) for 7–12 months, 63 mcg (2,500 IU) for children 1–3 years, 75 mcg (3,000 IU) for children 4–8 years, and 100 mcg (4,000 IU)/day for children 9–18 years, adults 19 years and older, and pregnant or breastfeeding teens and women.",
+    "The FNB considers people at risk of vitamin D deficiency at serum 25(OH)D below 30 nmol/L (12 ng/mL), potentially inadequate at 30 to 50 nmol/L (12–20 ng/mL), and sufficient at 50 nmol/L (20 ng/mL) or more for most people; concentrations above 125 nmol/L (50 ng/mL) can be associated with adverse effects.",
+    "One nmol/L equals 0.4 ng/mL, and 1 ng/mL equals 2.5 nmol/L.",
+    "The RDAs assume minimal sun exposure even though sunlight is a major source of vitamin D for some people.",
+    "Vitamin D is found naturally in fatty fish, fish liver oils, beef liver, egg yolks and cheese; in American diets fortified foods such as milk and breakfast cereals provide most of the vitamin D, with US milk voluntarily fortified at about 3 mcg (120 IU) per cup.",
+    "Cod liver oil provides 34.0 mcg (1,360 IU) per tablespoon, cooked sockeye salmon 14.2 mcg (570 IU) per 3 ounces, UV-exposed white mushrooms 9.2 mcg (366 IU) per half cup, and one large scrambled egg 1.1 mcg (44 IU).",
+    "Very high blood levels of vitamin D (greater than 375 nmol/L or 150 ng/mL) can cause nausea, vomiting, muscle weakness, confusion, pain, loss of appetite, dehydration, excessive urination and thirst, and kidney stones; extremely high levels can cause kidney failure, irregular heartbeat and death, and are almost always caused by excessive supplement intake.",
+    "You cannot get too much vitamin D from sunshine because the skin limits the amount it makes; sunscreen, darker skin, older age and limited sun exposure reduce vitamin D synthesis.",
+    "In the United States almost one out of four people have vitamin D blood levels that are too low or inadequate for bone and overall health."
+  ],
+  "accessedAt": "2026-11-07",
+  "license": "US Government work; citation and summary only",
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "WebFetch 直连 ods.od.nih.gov 专业版与消费者版正文",
+    "note": "专业版 RDA/食物含量表完整读取；消费者版补充 UL 表、日照与中毒段落。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "RDA 表：0–12 月 10 mcg（400 IU）；1–70 岁 15 mcg（600 IU）；>70 岁 20 mcg（800 IU）；孕期与哺乳期均 15 mcg（600 IU）。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "消费者版 UL 表逐项吻合：0–6 月 25 mcg（1,000 IU）；7–12 月 38 mcg（1,500 IU）；1–3 岁 63 mcg（2,500 IU）；4–8 岁 75 mcg（3,000 IU）；9–18 岁、19 岁以上及孕期/哺乳期均 100 mcg（4,000 IU）。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：\"at risk of vitamin D deficiency at serum 25(OH)D concentrations less than 30 nmol/L (12 ng/mL)\"；\"potentially at risk of inadequacy at 30 to 50 nmol/L (12–20 ng/mL)\"；\"50 nmol/L (20 ng/mL) or more are sufficient\"；\">125 nmol/L (50 ng/mL) can be associated with adverse effects\"。"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：\"One nmol/L is equal to 0.4 ng/mL, and 1 ng/mL is equal to 2.5 nmol/L\"。"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：\"the FNB based the vitamin D RDAs on the assumption that people receive minimal sun exposure\"，并承认日照是部分人的主要来源。"
+    },
+    {
+      "index": 5,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：\"fortified foods (e.g., milk, breakfast cereals) provide most of the vitamin D\"；\"almost all of the U.S. milk supply is voluntarily fortified with about 3 mcg/cup (120 IU)\"。"
+    },
+    {
+      "index": 6,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "食物表原文：鳕鱼肝油 34.0 mcg（1,360 IU）/汤匙；熟红鲑 14.2 mcg（570 IU）/3 盎司；UV 白蘑菇 9.2 mcg（366 IU）/半杯；一个炒蛋 1.1 mcg（44 IU）。"
+    },
+    {
+      "index": 7,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "消费者版原文：\">375 nmol/L or 150 ng/mL\" 可致所列症状与肾结石；\"almost always caused by consuming excessive amounts of vitamin D from dietary supplements\"。"
+    },
+    {
+      "index": 8,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：\"You cannot get too much vitamin D from sunshine because your skin limits the amount of vitamin D it makes\"；并述 \"clouds, smog, old age, and having dark-colored skin reduce\" 合成，sunscreen 亦限制合成。"
+    },
+    {
+      "index": 9,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：\"almost one out of four people have vitamin D blood levels that are too low or inadequate for bone and overall health\"。"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "sourceId": "knowledge-zhang-2024-achilles-gait-retraining",
+  "title": "Effects of a 12-week gait retraining program on the Achilles tendon adaptation of habitually shod runners",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/37817483/",
+  "publisher": "Scandinavian Journal of Medicine & Science in Sports",
+  "publishedAt": "2024-01-01",
+  "accessedAt": "2026-11-07",
+  "claims": [
+    "Thirty male recreational runners who habitually wore cushioned shoes with a rearfoot strike were recruited and randomised to a retraining group (n=15) or a control group (n=15); 28 completed the study.",
+    "The retraining group was asked to run in five-finger minimalist shoes with a forefoot strike three times per week for 12 weeks.",
+    "After training, 57% (8/14) of the retraining group shifted from rearfoot to forefoot strike, and the retraining group's foot strike angle was reduced; not all were categorised as forefoot strike.",
+    "The abstract reports a significant main effect for time in time-to-peak Achilles tendon force, average Achilles tendon force and peak Achilles tendon loading rate; it does not report a change in peak force itself.",
+    "The authors describe the findings as preliminary evidence that a 12-week gait retraining programme could exert a beneficial effect on the Achilles tendon for mechanical loading."
+  ],
+  "license": "Publisher terms; citation and summary only",
+  "verification": {
+    "access": "metadata-only",
+    "bodyRead": false,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "https://pubmed.ncbi.nlm.nih.gov/37817483/ 与 https://onlinelibrary.wiley.com/doi/10.1111/sms.14516（Wiley 只渲染摘要与参考文献，正文需订阅）",
+    "note": "PubMed 摘要级证据（正文未读）；2026-11-20 已把 claim 逐条收窄到摘要原句与变量名，措辞更准确，但因 bodyRead=false 仍全部记 partial，不按摘要升级 supported。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "partial",
+      "checkedAt": "2026-11-20",
+      "note": "摘要原句已逐条收窄；但 bodyRead=false（仅 PubMed 摘要，正文未读），按来源证据规则仍记 partial，不升级为 supported。"
+    },
+    {
+      "index": 1,
+      "status": "partial",
+      "checkedAt": "2026-11-20",
+      "note": "摘要原句已逐条收窄；但 bodyRead=false（仅 PubMed 摘要，正文未读），按来源证据规则仍记 partial，不升级为 supported。"
+    },
+    {
+      "index": 2,
+      "status": "partial",
+      "checkedAt": "2026-11-20",
+      "note": "摘要原句已逐条收窄；但 bodyRead=false（仅 PubMed 摘要，正文未读），按来源证据规则仍记 partial，不升级为 supported。"
+    },
+    {
+      "index": 3,
+      "status": "partial",
+      "checkedAt": "2026-11-20",
+      "note": "摘要原句已逐条收窄；但 bodyRead=false（仅 PubMed 摘要，正文未读），按来源证据规则仍记 partial，不升级为 supported。"
+    },
+    {
+      "index": 4,
+      "status": "partial",
+      "checkedAt": "2026-11-20",
+      "note": "摘要原句已逐条收窄；但 bodyRead=false（仅 PubMed 摘要，正文未读），按来源证据规则仍记 partial，不升级为 supported。"
+    }
+  ]
+}

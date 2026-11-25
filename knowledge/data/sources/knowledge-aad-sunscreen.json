@@ -1,0 +1,50 @@
+{
+  "sourceId": "knowledge-aad-sunscreen",
+  "title": "How to apply sunscreen",
+  "url": "https://www.aad.org/public/everyday-care/sun-protection/shade-clothing-sunscreen/how-to-apply-sunscreen",
+  "publisher": "American Academy of Dermatology",
+  "publishedAt": null,
+  "claims": [
+    "Choose a sunscreen with SPF 30 or higher, water resistance and broad-spectrum (UVA and UVB) coverage.",
+    "Apply sunscreen before going outdoors; it takes approximately 15 minutes for the skin to absorb it.",
+    "Most adults need about 1 ounce (roughly a shot glass) to cover skin not covered by clothing; the face needs at least 1 teaspoon.",
+    "Reapply sunscreen every two hours when outdoors, and immediately after swimming or sweating.",
+    "Sunscreen should be applied to all skin not covered by clothing, including the neck, ears, tops of the feet and legs."
+  ],
+  "accessedAt": "2026-11-07",
+  "license": "All rights reserved; facts summarized with attribution",
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-19"
+    }
+  ],
+  "verification": {
+    "checkedAt": "2026-11-19",
+    "checkedVia": "web_fetch（官方页面正文）",
+    "access": "direct",
+    "bodyRead": true,
+    "note": "2026-11-19 直接读取官方页面可读正文，逐条核对 claims；页面为公开官方说明。"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "sourceId": "knowledge-odphp-activity-planner",
+  "title": "Activity Planner",
+  "url": "https://odphp.health.gov/moveyourway/activity-planner/",
+  "publisher": "ODPHP",
+  "publishedAt": null,
+  "claims": [
+    "The planner helps set goals, choose preferred activities and print a weekly tracking plan.",
+    "Adults need a mix of moderate aerobic and muscle-strengthening activity."
+  ],
+  "accessedAt": "2026-11-08",
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "WebFetch",
+    "note": "Move Your Way Activity Planner 页面可读。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "\"set goals, choose activities you want to do… print your plan to track activity throughout the week.\""
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "小节标题 \"Adults need a mix of activity to be healthy\"，分 moderate aerobic 与 muscle-strengthening。"
+    }
+  ]
+}

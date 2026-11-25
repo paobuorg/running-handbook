@@ -1,0 +1,55 @@
+{
+  "sourceId": "knowledge-who-air-pollution-fact",
+  "title": "Ambient (outdoor) air pollution — fact sheet",
+  "url": "https://www.who.int/news-room/fact-sheets/detail/ambient-(outdoor)-air-quality-and-health",
+  "publisher": "World Health Organization",
+  "publishedAt": "2024-10-24",
+  "claims": [
+    "In 2019, 99% of the world's population lived in places where the WHO air quality guideline levels were not met.",
+    "Ambient outdoor air pollution was estimated to cause 4.2 million premature deaths worldwide in 2019.",
+    "Of the outdoor air pollution related premature deaths in 2019, 68% were due to ischaemic heart disease and stroke, 14% to chronic obstructive pulmonary disease, 14% to acute lower respiratory infections and 4% to lung cancers.",
+    "89% of the 4.2 million premature deaths occurred in low- and middle-income countries.",
+    "Most sources of outdoor air pollution are well beyond the control of individuals and require action at policy level."
+  ],
+  "accessedAt": "2026-11-07",
+  "license": "CC BY-NC-SA 3.0 IGO; facts summarized with attribution",
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "WebFetch https://www.who.int/news-room/fact-sheets/detail/ambient-(outdoor)-air-quality-and-health",
+    "note": "正文完整可读，页面日期“24 October 2024”与 publishedAt 一致；数值均在 Key facts 与 Overview 段内，可直接核对。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Key facts 原文：“In 2019, 99% of the world’s population was living in places where the WHO air quality guidelines levels were not met.”"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：“Ambient (outdoor) air pollution is estimated to have caused 4.2 million premature deaths worldwide in 2019.”"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Overview 原文：“some 68% of outdoor air pollution related premature deaths were due to ischaemic heart disease and stroke, 14% were due to chronic obstructive pulmonary disease, 14% were due to acute lower respiratory infections, and 4% of deaths were due to lung cancers.”"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：“89% (of the 4.2 million premature deaths) occurring in these areas”（低中收入国家）。"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：“Most sources of outdoor air pollution are well beyond the control of individuals and this demands concerted action by local, national and regional level policy-makers…”"
+    }
+  ]
+}

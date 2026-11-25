@@ -1,0 +1,62 @@
+{
+  "sourceId": "knowledge-adams-2018-cadence-vertical-oscillation",
+  "title": "Altering Cadence or Vertical Oscillation During Running: Effects on Running Related Injury Factors",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6088121/",
+  "publisher": "International Journal of Sports Physical Therapy",
+  "publishedAt": "2018-08-01",
+  "accessedAt": "2026-11-07",
+  "claims": [
+    "In 20 active runners, a high-cadence condition reduced ground contact time by 4.7%, while a low-oscillation cue increased ground contact time by 3.5%.",
+    "High cadence reduced average vertical loading rate by 21.2% and instantaneous vertical loading rate by 16.0%.",
+    "The low-oscillation condition reduced average vertical loading rate by 33.4% and also reduced instantaneous vertical loading rate (p=0.001).",
+    "Only the high-cadence condition significantly reduced braking impulse.",
+    "Cadence, vertical oscillation and ground contact time were calculated using the proprietary Garmin Connect algorithm.",
+    "The study measured loading factors linked to injury risk, not running performance or running economy."
+  ],
+  "license": "Publisher terms; citation and summary only",
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6088121/（Int J Sports Phys Ther 2018;13(4):633-642 全文 HTML，含 Methods、RESULTS 与 Table 1-3）",
+    "note": "已读到 Participants、Procedure、Data analysis 与 RESULTS 叙述段；百分比与显著性均可逐字核对。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：“A convenience sample of twenty active runners…”；“Ground contact time decreased 4.7% during the high cadence condition compared to baseline; in contrast, ground contact time increased 3.5% during the low oscillation condition compared to baseline.”"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：“AVLR significantly decreased 21.2% during the high cadence… IVLR significantly decreased 16.0% during the high cadence…”"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：“AVLR significantly decreased … 33.4% during the low oscillation conditions… IVLR significantly decreased … 25.6% during the low oscillation conditions”；摘要给 IVLR 低振荡条件 p = 0.001。claim 只写“also reduced … (p=0.001)”，未虚报幅度。"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：“Braking impulse significantly decreased 9.2% during the high cadence condition compared to baseline, but not during the low oscillation condition (p = 1.000).”"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：“Cadence, vertical oscillation, and ground contact time were calculated using the proprietary algorithm of the Garmin Connect software.”"
+    },
+    {
+      "index": 5,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文只报告 AVLR、IVLR、braking impulse、peak vGRF 等下肢负荷指标，未测量跑步经济性或运动表现；引言明确把这些指标与胫骨应力性骨折、足底筋膜病、髌股疼痛等“running related injuries”相关联。"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "sourceId": "knowledge-erc-2021-guidelines",
+  "title": "European Resuscitation Council Guidelines 2021",
+  "url": "https://doi.org/10.1016/j.resuscitation.2021.02.003",
+  "publisher": "European Resuscitation Council",
+  "publishedAt": "2021-03-01",
+  "claims": [
+    "The 2021 ERC guidelines set out the European approach to basic life support and the chain of survival.",
+    "They emphasise early recognition, calling emergency services and early defibrillation by bystanders.",
+    "They describe dispatch centres as able to guide callers through recognition and immediate response."
+  ],
+  "license": null,
+  "accessedAt": "2026-11-07",
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-07",
+    "checkedVia": "ERC Guidelines 2021 Basic Life Support PDF (Resuscitation 161:98-114)",
+    "note": "正文 PDF 已读；3 条 claim 与 BLS 章节及 ERC 指南页逐条核对。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-07"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-07"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-07"
+    }
+  ]
+}

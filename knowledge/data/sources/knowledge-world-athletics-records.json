@@ -1,0 +1,48 @@
+{
+  "sourceId": "knowledge-world-athletics-records",
+  "title": "World Records",
+  "url": "https://worldathletics.org/records/by-category/world-records",
+  "publisher": "World Athletics",
+  "publishedAt": null,
+  "accessedAt": "2026-11-08",
+  "claims": [
+    "World Athletics publishes world records by event and category.",
+    "The records list marks records that are pending ratification.",
+    "Road-running record tables distinguish mixed-gender and women-only races.",
+    "The page lists records by event and category, distinguishes mixed and women-only road records, and marks records pending ratification."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-20",
+    "checkedVia": "WebFetch",
+    "note": "官方 World Records 表格与图例可读。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "页面标题 World Records，含类别选择与按项目列出的表格。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "多条成绩带“*”，图例：\"* Pending ratification.\""
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "路跑行标 \"Mx\"/\"Wo\"，图例：\"Mx: mixed gender race. Wo: women only race.\""
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-20",
+      "note": "页面可佐证分类、混合/女子表和待批准状态；删除“不是任何地方最快成绩”的明文归因。"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "sourceId": "knowledge-aaos-shin-splints",
+  "title": "Shin Splints",
+  "url": "https://orthoinfo.aaos.org/en/diseases--conditions/shin-splints/",
+  "publisher": "American Academy of Orthopaedic Surgeons",
+  "publishedAt": null,
+  "accessedAt": "2026-11-07",
+  "claims": [
+    "AAOS defines shin splints as medial tibial stress syndrome, an inflammation of muscles, tendons and bone tissue around the tibia, with pain along the inner border of the tibia.",
+    "AAOS lists sudden changes in frequency, duration or intensity, flat feet or rigid arches, and worn-out footwear as contributing factors.",
+    "AAOS notes stress fracture, tendinitis and chronic exertional compartment syndrome can also cause shin pain and may need to be ruled out.",
+    "AAOS advises returning to exercise only after being pain-free for at least 2 weeks, at lower frequency, duration and intensity.",
+    "AAOS describes the wet test: a flat foot leaves an impression of the whole foot, while a high arch shows only the ball and heel.",
+    "AAOS states there is no clear evidence that barefoot running reduces injury risk."
+  ],
+  "license": "All rights reserved; facts summarized with attribution",
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "index": 5,
+      "status": "supported",
+      "checkedAt": "2026-11-19"
+    }
+  ],
+  "verification": {
+    "checkedAt": "2026-11-19",
+    "checkedVia": "web_fetch（官方页面正文）",
+    "access": "direct",
+    "bodyRead": true,
+    "note": "2026-11-19 直接读取官方页面可读正文，逐条核对 claims；页面为公开官方说明。"
+  }
+}

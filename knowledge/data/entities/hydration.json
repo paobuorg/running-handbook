@@ -1,0 +1,39 @@
+{
+  "entityId": "knowledge:hydration",
+  "slug": "hydration",
+  "kind": "knowledge",
+  "status": "published",
+  "riskLevel": "guidance",
+  "sourceRefs": [
+    "knowledge-nhs-hydration",
+    "knowledge-nws-heat-illness",
+    "knowledge-cdc-intensity"
+  ],
+  "relatedRefs": [
+    "knowledge:long-run-fueling",
+    "knowledge:route-safety",
+    "knowledge:long-run",
+    "tool:pace"
+  ],
+  "license": "CC-BY-4.0",
+  "createdAt": "2026-10-27",
+  "updatedAt": "2026-11-07",
+  "reviewedAt": "2026-11-06",
+  "reviewDueAt": "2027-04-28",
+  "translations": [],
+  "details": {
+    "primaryTopic": "nutrition",
+    "secondaryTopics": [
+      "safety",
+      "health"
+    ],
+    "contentType": "guide",
+    "audiences": [
+      "beginner",
+      "intermediate"
+    ],
+    "scenarios": [
+      "general-training"
+    ]
+  }
+}

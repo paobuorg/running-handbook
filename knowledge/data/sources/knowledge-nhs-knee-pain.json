@@ -1,0 +1,41 @@
+{
+  "sourceId": "knowledge-nhs-knee-pain",
+  "title": "Knee pain",
+  "url": "https://www.nhs.uk/conditions/knee-pain/",
+  "publisher": "National Health Service",
+  "publishedAt": "2023-12-21",
+  "accessedAt": "2026-11-07",
+  "claims": [
+    "NHS knee pain guidance advises icing for up to 20 minutes every 2 to 3 hours and avoiding prolonged standing.",
+    "NHS lists urgent signs: very painful knee, inability to move or bear weight, badly swollen or changed shape, locking, giving way or painful clicking, or fever with redness and heat around the knee.",
+    "NHS advises seeing a GP if knee pain does not improve within a few weeks."
+  ],
+  "license": "Crown copyright; cited under NHS website terms",
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "WebFetch 原 URL，301 后读取 https://www.nhs.uk/symptoms/knee-pain/",
+    "note": "原 /conditions/knee-pain/ 已 301 至 /symptoms/knee-pain/，按落地页全文核对；页面 last reviewed 21 December 2023。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：“use an ice pack ... for up to 20 minutes every 2 to 3 hours”；“avoid standing for a long time”。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文 111 urgent 清单：knee very painful / cannot move knee or put weight / badly swollen or changed shape / locks, gives way or painfully clicks / very high temperature and redness or heat around knee。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文 Non-urgent advice: See a GP if “knee pain does not improve within a few weeks”。"
+    }
+  ]
+}

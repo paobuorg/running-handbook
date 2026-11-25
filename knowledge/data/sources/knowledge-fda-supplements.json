@@ -1,0 +1,41 @@
+{
+  "sourceId": "knowledge-fda-supplements",
+  "title": "Dietary Supplements",
+  "url": "https://www.fda.gov/food/dietary-supplements",
+  "publisher": "U.S. Food and Drug Administration",
+  "publishedAt": null,
+  "accessedAt": "2026-11-08",
+  "claims": [
+    "Dietary supplements are regulated differently from conventional foods and drug products.",
+    "Manufacturers and distributors are responsible for evaluating the safety and labeling of their supplements before marketing.",
+    "The FDA can take action against adulterated or misbranded supplement products after they reach the market."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "WebFetch",
+    "note": "FDA Dietary Supplements 页面正文可读。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "\"FDA regulates dietary supplements under a different set of regulations than those covering conventional foods and drug products.\""
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "\"these firms are responsible for evaluating the safety and labeling of their products before marketing\"。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "\"FDA has the authority to take action against any adulterated or misbranded dietary supplement product after it reaches the market.\""
+    }
+  ]
+}

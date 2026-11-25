@@ -1,0 +1,47 @@
+{
+  "entityId": "knowledge:5k-10k-training-plan",
+  "slug": "5k-10k-training-plan",
+  "kind": "knowledge",
+  "status": "published",
+  "riskLevel": "guidance",
+  "sourceRefs": [
+    "knowledge-haugen-2022-distance-runners",
+    "knowledge-bosquet-2007-taper",
+    "knowledge-plos-taper",
+    "knowledge-seiler-2010-tid",
+    "knowledge-casado-2022-runners-tid",
+    "knowledge-acsm-getp8-hrr",
+    "knowledge-cdc-intensity"
+  ],
+  "relatedRefs": [
+    "knowledge:polarized-training-80-20",
+    "knowledge:tempo-and-intervals",
+    "knowledge:training-week",
+    "knowledge:training-volume-and-progression",
+    "knowledge:strength-and-taper",
+    "knowledge:race-day-pacing"
+  ],
+  "license": "CC-BY-4.0",
+  "createdAt": "2026-11-07",
+  "updatedAt": "2026-11-07",
+  "reviewedAt": "2026-11-07",
+  "reviewDueAt": "2027-11-07",
+  "translations": [],
+  "details": {
+    "primaryTopic": "training",
+    "secondaryTopics": [
+      "recovery",
+      "health"
+    ],
+    "contentType": "guide",
+    "audiences": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "scenarios": [
+      "race-preparation",
+      "general-training"
+    ]
+  }
+}

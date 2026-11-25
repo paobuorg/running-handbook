@@ -1,0 +1,55 @@
+{
+  "sourceId": "knowledge-gonzalez-rave-2022-reverse-periodization",
+  "title": "Reverse Periodization for Improving Sports Performance: A Systematic Review",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9023617/",
+  "publisher": "Sports Medicine - Open",
+  "publishedAt": "2022-04-21",
+  "accessedAt": "2026-11-07",
+  "claims": [
+    "A total of 11 studies were identified in this systematic review of reverse periodization.",
+    "Two studies compared block periodization and reverse periodization, while nine compared traditional periodization and reverse periodization.",
+    "Reverse periodization appears to be no more effective than other forms of periodization in improving sports performance, muscular endurance, maximum strength, or maximal oxygen uptake.",
+    "Reverse periodization likely induces similar improvements to a traditional model in shorter events such as the 100-m swimming event.",
+    "The authors state that more comparative studies are required to verify the effectiveness and utility of reverse periodization across endurance sports."
+  ],
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "摘要：最终纳入 11 项研究。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "正文：2 项比较板块与反向周期化，9 项比较传统与反向周期化。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "摘要：反向周期化在表现、肌耐力、最大力量、VO2max 上不优于其他形式。"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "摘要：短距离项目（如 100 m 游泳）的改善可能与传统模型相近。"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "摘要：仍需更多比较研究验证反向周期化在各耐力项目的有效性与实用性。"
+    }
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "PMC 全文",
+    "note": "全文可读；11 项及 2/9 分组见正文。"
+  }
+}

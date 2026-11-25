@@ -1,0 +1,29 @@
+{
+  "sourceId": "knowledge-nielsen-2014-pronation-injury",
+  "title": "Foot pronation is not associated with increased injury risk in novice runners wearing a neutral shoe: a 1-year prospective cohort study",
+  "url": "https://bjsm.bmj.com/content/48/6/440",
+  "publisher": "British Journal of Sports Medicine",
+  "publishedAt": "2014-03-01",
+  "accessedAt": "2026-11-20",
+  "claims": [
+    "927 名新手跑者（1,854 只脚）穿中性跑鞋随访 1 年，累计 326,803 公里，252 人发生跑步相关伤。",
+    "与中性足相比，过度内旋足跑满 250 公里后的累计风险差为 −8.1%（95% CI −17.6% 至 1.3%，BMI 校正后），无统计学意义。",
+    "过度内旋者每 1,000 公里的伤病发生率比中性足低 0.37（95% CI −0.03 至 −0.70），差异显著。",
+    "作者结论：中度内旋与新手穿中性鞋的受伤风险增加无关；高度内旋是否风险更高仍待研究。"
+  ],
+  "license": null,
+  "verification": {
+    "access": "metadata-only",
+    "bodyRead": false,
+    "checkedAt": "2026-11-20",
+    "checkedVia": "curl.exe via local 7890 proxy + PubMed efetch abstract (PMID 23766439)",
+    "note": "2026-11-20 经 7890 代理读取 PubMed 结构化摘要；BJSM 全文与 PDF 仍为订阅内容，bodyRead 保持 false。原 claim 2 把 incidence-rate difference 写成“BMI 校正后”，摘要只对 cumulative risk difference 说明 BMI 校正，已删去该修饰。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-20", "note": "摘要：927 novice runners / 1854 feet；326,803 km；252 participants sustained a running-related injury。" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-20", "note": "摘要：pronated feet RD −8.1% (−17.6% to 1.3%), p=0.09，且明确为 body mass index-adjusted cumulative risk differences after 250 km。" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-20", "note": "摘要：pronators had a significantly lower number of injuries/1000 km of −0.37 (−0.03 to −0.70), p=0.03 than neutrals。该句未提 BMI 校正，claim 已去掉该修饰。" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-20", "note": "摘要结论：moderate foot pronation 与新手穿中性鞋受伤风险增加无关；highly pronated feet 是否更高仍需研究。" }
+  ]
+}
+

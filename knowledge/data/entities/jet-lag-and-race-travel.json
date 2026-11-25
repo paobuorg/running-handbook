@@ -1,0 +1,40 @@
+{
+  "entityId": "knowledge:jet-lag-and-race-travel",
+  "slug": "jet-lag-and-race-travel",
+  "kind": "knowledge",
+  "status": "published",
+  "riskLevel": "guidance",
+  "sourceRefs": [
+    "knowledge-nhs-jet-lag",
+    "knowledge-cdc-yellowbook-jetlag",
+    "knowledge-eastman-2019-jetlag-review"
+  ],
+  "relatedRefs": [
+    "knowledge:sleep-recovery",
+    "knowledge:race-day-pacing",
+    "knowledge:heat-and-humidity"
+  ],
+  "license": "CC-BY-4.0",
+  "createdAt": "2026-11-07",
+  "updatedAt": "2026-11-07",
+  "reviewedAt": "2026-11-07",
+  "reviewDueAt": "2027-11-07",
+  "translations": [],
+  "details": {
+    "primaryTopic": "health",
+    "secondaryTopics": [
+      "recovery",
+      "training"
+    ],
+    "contentType": "guide",
+    "audiences": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "scenarios": [
+      "race-preparation",
+      "travel"
+    ]
+  }
+}

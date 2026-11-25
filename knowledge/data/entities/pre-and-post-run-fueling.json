@@ -1,0 +1,44 @@
+{
+  "entityId": "knowledge:pre-and-post-run-fueling",
+  "slug": "pre-and-post-run-fueling",
+  "kind": "knowledge",
+  "status": "published",
+  "riskLevel": "guidance",
+  "sourceRefs": [
+    "knowledge-issn-nutrient-timing",
+    "knowledge-issn-carbohydrate-timing",
+    "knowledge-nhs-hydration",
+    "knowledge-acsm-and-dc-2016-nutrition-performance",
+    "knowledge-ioc-2010-nutrition-guide",
+    "knowledge-costa-2017-gut-training"
+  ],
+  "relatedRefs": [
+    "knowledge:race-day-fueling",
+    "knowledge:daily-fueling",
+    "knowledge:hydration",
+    "knowledge:recovery-day"
+  ],
+  "license": "CC-BY-4.0",
+  "createdAt": "2026-10-28",
+  "updatedAt": "2026-11-07",
+  "reviewedAt": "2026-11-07",
+  "reviewDueAt": "2027-05-07",
+  "translations": [],
+  "details": {
+    "primaryTopic": "nutrition",
+    "secondaryTopics": [
+      "recovery",
+      "training"
+    ],
+    "contentType": "guide",
+    "audiences": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "scenarios": [
+      "general-training",
+      "race-preparation"
+    ]
+  }
+}

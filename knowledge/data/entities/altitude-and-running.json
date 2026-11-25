@@ -1,0 +1,42 @@
+{
+  "entityId": "knowledge:altitude-and-running",
+  "slug": "altitude-and-running",
+  "kind": "knowledge",
+  "status": "published",
+  "riskLevel": "guidance",
+  "sourceRefs": [
+    "knowledge-wms-2024-altitude-illness",
+    "knowledge-uiaa-altitude-sickness-factsheet",
+    "knowledge-ioc-2012-altitude-consensus",
+    "knowledge-foss-2017-arrival-altitude"
+  ],
+  "relatedRefs": [
+    "knowledge:heat-and-humidity",
+    "knowledge:hydration",
+    "knowledge:race-day-pacing",
+    "knowledge:trail-gear"
+  ],
+  "license": "CC-BY-4.0",
+  "createdAt": "2026-11-07",
+  "updatedAt": "2026-11-07",
+  "reviewedAt": "2026-11-07",
+  "reviewDueAt": "2027-05-07",
+  "translations": [],
+  "details": {
+    "primaryTopic": "safety",
+    "secondaryTopics": [
+      "health",
+      "training"
+    ],
+    "contentType": "guide",
+    "audiences": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "scenarios": [
+      "general-training",
+      "race-preparation"
+    ]
+  }
+}

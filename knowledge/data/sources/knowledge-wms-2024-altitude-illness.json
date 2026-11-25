@@ -1,0 +1,55 @@
+{
+  "sourceId": "knowledge-wms-2024-altitude-illness",
+  "title": "Wilderness Medical Society Clinical Practice Guidelines for the Prevention, Diagnosis, and Treatment of Acute Altitude Illness: 2024 Update",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/37833187/",
+  "publisher": "Wilderness Medical Society / Wilderness & Environmental Medicine",
+  "publishedAt": "2024-03-01",
+  "accessedAt": "2026-11-07",
+  "claims": [
+    "Travel above 2500 m by unacclimatized lowlanders carries risk of acute mountain sickness (AMS), high-altitude cerebral edema (HACE) and high-altitude pulmonary edema (HAPE).",
+    "Above 3000 m, sleeping elevation should not increase by more than 500 m per day, with a rest day every 3 to 4 days.",
+    "AMS is diagnosed from symptoms and functional status within several hours to 3 days after ascent above 2500 m; HACE is suggested by ataxia and altered mentation.",
+    "For suspected HACE, descent is indicated; for HAPE, oxygen should be started if available and clinicians should try to descend at least 1000 m or until symptoms resolve, although patients with supplemental oxygen and adequate monitoring may not need to descend.",
+    "For moderate- to high-risk situations, acetazolamide is the preferred prophylactic medication; dexamethasone may be used as an alternative in adults with prior intolerance or allergic reaction to acetazolamide; Table 1 gives specific doses."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "https://static1.squarespace.com/static/55d729cfe4b00ab3960e7989/t/66c51e62a653ce6dc37c3ce9/1724194403135/luks-et-al-2023-wilderness-medical-society-clinical-practice-guidelines-for-the-prevention-diagnosis-and-treatment-of.pdf（Wilderness Environ Med 2024;35(1S):2S-19S 全文 18 页；DOI 10.1016/j.wem.2023.05.013）",
+    "note": "WMS 2024 高原病指南 PubMed 全文；2026-11-20 将三条概括收窄为原文的人群限定、下降条件与用药优先级。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-20",
+      "note": "原文限定“unacclimatized lowlanders”；补回人群限定，避免读成所有人在 2500 m 以上风险相同。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：“With travel above 3000 m, individuals should not increase the sleeping elevation by more than 500 m/d and should include a rest day (ie, no ascent to higher sleeping elevation) every 3 to 4 d.” 数值完全一致。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：“The diagnosis of AMS is made in a very specific clinical context ... within several hours to 3 d following ascent to high elevations, generally >2500 m. Diagnosis is based solely on reported symptoms ... consider the traveler's well-being and functional status”；“The diagnosis of HACE is heralded by signs of encephalopathy including ataxia ... and altered mentation.” claim 省略了“generally”，属于轻微概括。"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-20",
+      "note": "原文：HACE 指示下降；HAPE “should try to descend at least 1000 m or until symptoms resolve”，吸氧 “if available”；并明确有吸氧且能充分监测者可能不必下降。"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-20",
+      "note": "原文：低风险不需预防用药，中高风险应考虑；乙酰唑胺为首选，地塞米松仅用于不能耐受/过敏者替代；Table 1 给剂量。"
+    }
+  ]
+}

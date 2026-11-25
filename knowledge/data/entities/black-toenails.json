@@ -1,0 +1,50 @@
+{
+  "entityId": "knowledge:black-toenails",
+  "slug": "black-toenails",
+  "kind": "knowledge",
+  "status": "published",
+  "riskLevel": "guidance",
+  "sourceRefs": [
+    "knowledge-nhs-nail-problems",
+    "knowledge-rdash-black-toenails",
+    "knowledge-gstt-athletic-footwear",
+    "knowledge-gstt-choosing-shoes",
+    "knowledge-nhs-forth-valley-footwear",
+    "knowledge-nhs-ingrown-toenail",
+    "knowledge-nhs-borders-nail-disorders",
+    "knowledge-statpearls-subungual-haematoma",
+    "knowledge-pcds-nail-disorders",
+    "knowledge-nhs-england-diabetes-feet"
+  ],
+  "relatedRefs": [
+    "knowledge:running-shoes",
+    "knowledge:shoe-fit-and-cushioning",
+    "knowledge:running-apparel-and-chafing",
+    "knowledge:return-to-running",
+    "knowledge:pain-and-load"
+  ],
+  "license": "CC-BY-4.0",
+  "createdAt": "2026-11-07",
+  "updatedAt": "2026-11-07",
+  "reviewedAt": "2026-11-07",
+  "reviewDueAt": "2027-11-07",
+  "translations": [],
+  "details": {
+    "primaryTopic": "health",
+    "secondaryTopics": [
+      "gear",
+      "technique"
+    ],
+    "contentType": "guide",
+    "audiences": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "scenarios": [
+      "general-training",
+      "race-preparation",
+      "injury-recovery"
+    ]
+  }
+}

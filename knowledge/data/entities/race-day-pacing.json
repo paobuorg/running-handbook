@@ -1,0 +1,48 @@
+{
+  "entityId": "knowledge:race-day-pacing",
+  "slug": "race-day-pacing",
+  "kind": "knowledge",
+  "status": "published",
+  "riskLevel": "guidance",
+  "sourceRefs": [
+    "knowledge-plos-pacing-2026",
+    "knowledge-world-athletics-pacing",
+    "knowledge-world-athletics-marathon",
+    "knowledge-nyrr-marathon-start",
+    "knowledge-nyrr-race-procedures",
+    "knowledge-nyrr-bag-check",
+    "knowledge-casado-2024-marathon-pacing",
+    "knowledge-beal-2022-doha-pacing",
+    "knowledge-minetti-2002-slope-cost",
+    "knowledge-fernandes-2023-negative-splitting"
+  ],
+  "relatedRefs": [
+    "knowledge:marathon-distance",
+    "knowledge:race-day-fueling",
+    "knowledge:long-run",
+    "knowledge:race-anxiety-and-burnout",
+    "knowledge:heart-rate-drift"
+  ],
+  "license": "CC-BY-4.0",
+  "createdAt": "2026-11-07",
+  "updatedAt": "2026-11-07",
+  "reviewedAt": "2026-11-07",
+  "reviewDueAt": "2027-05-07",
+  "translations": [],
+  "details": {
+    "primaryTopic": "training",
+    "secondaryTopics": [
+      "nutrition",
+      "safety"
+    ],
+    "contentType": "guide",
+    "audiences": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "scenarios": [
+      "race-preparation"
+    ]
+  }
+}

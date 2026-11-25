@@ -1,0 +1,41 @@
+{
+  "sourceId": "knowledge-cdc-adult-activity",
+  "title": "Adult Activity: An Overview",
+  "url": "https://www.cdc.gov/physical-activity-basics/guidelines/adults.html",
+  "publisher": "CDC",
+  "publishedAt": "2023-12-20",
+  "claims": [
+    "Adults need at least 150 minutes of moderate-intensity activity weekly, or an equivalent combination.",
+    "Adults also need two days of muscle-strengthening activity each week.",
+    "Activity can be spread out and broken up; some activity is better than none."
+  ],
+  "accessedAt": "2026-10-27",
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "WebFetch https://www.cdc.gov/physical-activity-basics/guidelines/adults.html",
+    "note": "CDC 页面正文完整可读，落地 URL 与源 URL 一致；页面标注 Dec. 20, 2023，与 publishedAt 一致。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "关键点：“Adults need at least 150 minutes of moderate-intensity physical activity a week”；正文“This can also be 75 minutes of vigorous-intensity or an equivalent combination of moderate- and vigorous-intensity physical activity.”"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：“Adults also need 2 days of muscle-strengthening activity each week.”；正文作“at least 2 days”。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：“You can spread your activity out during the week and break it up into smaller chunks of time.”；“Some physical activity is better than none.”"
+    }
+  ]
+}

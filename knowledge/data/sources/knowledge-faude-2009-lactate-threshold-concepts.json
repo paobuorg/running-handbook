@@ -1,0 +1,48 @@
+{
+  "sourceId": "knowledge-faude-2009-lactate-threshold-concepts",
+  "title": "Lactate threshold concepts: how valid are they?",
+  "url": "https://doi.org/10.2165/00007256-200939060-00003",
+  "publisher": "Sports Medicine",
+  "publishedAt": null,
+  "accessedAt": "2026-11-07",
+  "claims": [
+    "The review examines the different lactate threshold concepts used in endurance testing and training.",
+    "The concepts do not describe the same physiological intensity and cannot be treated as interchangeable.",
+    "Fixed blood lactate concentrations are arbitrary relative to an individual's maximal lactate steady state.",
+    "The validity of a threshold depends on the test protocol and the physiological construct it is meant to represent."
+  ],
+  "license": null,
+  "verification": {
+    "access": "metadata-only",
+    "bodyRead": false,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "Springer 文章页（桌面 UA 直连 HTTP 200，仅摘要可读）+ Europe PMC 记录（PMID 19453206）",
+    "note": "2026-11-08 重试：Springer 文章页可读，但正文仍在订阅墙后，只读到摘要与参考文献；本条仍为摘要级核验，bodyRead 保持 false。摘要明确写到该综述评估 LT 在耐力能力评定中的效度，并讨论耐力训练强度处方，claim 0 由此改为 supported；其余涉及正文论证的条目维持 partial，其中固定血乳酸浓度一条已按摘要中“个体差异报告很少”改为 partial，不再记 unknown。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "摘要原句：The present review aims at evaluating LTs with regard to their validity in assessing endurance capacity ... performance diagnosis and intensity prescriptions in endurance sports。"
+    },
+    {
+      "index": 1,
+      "status": "partial",
+      "checkedAt": "2026-11-08",
+      "note": "摘要提到关于术语与生理背景的持续争论、25 种概念分三类，但未直接读到“各概念描述不同生理强度、不可互换”的原句；正文不可得。"
+    },
+    {
+      "index": 2,
+      "status": "partial",
+      "checkedAt": "2026-11-08",
+      "note": "摘要提到固定血乳酸浓度属第一类概念，并指出个体间差异的报告很少；这与“固定值相对个体 MLSS 是任意的”方向一致，但摘要没有直接给出该判断，正文不可得，故 partial。"
+    },
+    {
+      "index": 3,
+      "status": "partial",
+      "checkedAt": "2026-11-08",
+      "note": "摘要以“与耐力表现强线性相关”“与 MLSS 关系密切”界定效度，未直接读到“取决于测试方案”的原句；正文不可得。"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "sourceId": "knowledge-burke-2021-foot-strike-injury-review",
+  "title": "Risk Factors for Injuries in Runners: A Systematic Review of Foot Strike Technique and Its Classification at Impact",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8436320/",
+  "publisher": "Orthopaedic Journal of Sports Medicine",
+  "publishedAt": "2021-09-09",
+  "accessedAt": "2026-11-07",
+  "claims": [
+    "The review included 13 studies exploring the relationship between foot strike technique and running-related injuries.",
+    "Six studies reported foot strike categorically and seven reported continuous measures such as foot contact angle, ankle flexion angle and strike index.",
+    "Three of the six categorical studies found rearfoot strikers had a significantly greater retrospective injury rate than non-rearfoot strikers, while one other study reported greater risk with midfoot and forefoot striking.",
+    "Only one of the seven studies using continuous measures reported a significant relationship with running-related injuries.",
+    "The GRADE table rated foot strike pattern evidence as very low; the structured abstract calls it low. The review notes retrospective designs, small samples and poor foot strike assessment, and calls for larger prospective studies."
+  ],
+  "license": "CC BY-NC-ND; citation and summary only",
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8436320/fullTextXML",
+    "note": "Burke 2021 全文；2026-11-20 保留 GRADE 的 very low 与摘要 low 之间的差异，不再统一写成 low。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：“We reviewed 13 studies exploring the relationship between FST and RRIs.”"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：“Of these, 6 studies reported FST categorically (foot strike pattern [FSP]), and 7 reported continuous measures (foot contact angle, ankle flexion angle, and strike index).”"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：“Three of the 6 studies looking at categorical FSP found rearfoot strikers have a significantly greater retrospective injury rate than do non–rearfoot strikers, with 1 other study noting a greater risk associated with midfoot and forefoot strike.”"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：“only 1 of the 7 studies referred to in Table 3 reported a significant relationship between FST and RRI”。"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-20",
+      "note": "GRADE 表 foot strike pattern 终评 Very low；结构化摘要 Results/Conclusion 用 low。原 claim 把 very low 写成 low，抬高了一档。"
+    }
+  ]
+}

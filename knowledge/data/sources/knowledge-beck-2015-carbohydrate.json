@@ -1,0 +1,69 @@
+{
+  "sourceId": "knowledge-beck-2015-carbohydrate",
+  "title": "Role of nutrition in performance enhancement and postexercise recovery",
+  "url": "https://pdfs.semanticscholar.org/ce77/d399a71b557c67415648f5b3677a6c56e49f.pdf",
+  "publisher": "Open Access Journal of Sports Medicine (Dovepress)",
+  "publishedAt": null,
+  "claims": [
+    "Carbohydrate loading aims to maximise muscle glycogen before endurance exercise lasting longer than 90 minutes; reported benefits include delaying fatigue by about 20% and improving performance by 2% to 3%.",
+    "The original loading protocol used three days of intense training with low carbohydrate intake followed by three days of reduced training with high carbohydrate intake; later work showed the depletion phase was unnecessary and that 24 hours may be enough to maximise glycogen stores.",
+    "There appears to be no advantage to increasing pre-exercise muscle glycogen for moderate-intensity cycling or running lasting 60 to 90 minutes, because significant glycogen remains in the muscle after exercise.",
+    "For exercise lasting less than 90 minutes, 7 to 12 grams of carbohydrate per kilogram of body mass should be consumed in the 24 hours before exercise.",
+    "For exercise longer than 60 minutes, 1 to 4 grams of carbohydrate per kilogram of body mass are recommended in the 1 to 4 hours before exercise.",
+    "Glucose absorption through SGLT1 saturates at approximately 1 gram per minute; adding fructose, absorbed through GLUT5, raises exogenous carbohydrate oxidation to approximately 1.3 grams per minute, with performance benefits appearing in the third hour of exercise.",
+    "Recommendations reflect the absorption limit: 90 grams of carbohydrate per hour from multiple sources for events longer than 2.5 hours, and 60 grams per hour from single or multiple sources for exercise lasting 2 to 3 hours."
+  ],
+  "accessedAt": "2026-11-07",
+  "license": "CC-BY-NC-3.0",
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "https://pdfs.semanticscholar.org/ce77/d399a71b557c67415648f5b3677a6c56e49f.pdf（Open Access J Sports Med 2015;6:259-267 全文 PDF，Dovepress 排版版）",
+    "note": "已读到糖原负荷、赛前/赛中碳水、SGLT1/GLUT5 与 Table 1 推荐量表全部段落，7 条 claim 均在此范围内；PDF 文本抽取在维生素 D 段落处截断，不影响核对。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：“Carbohydrate loading aims to maximize an athlete’s muscle glycogen stores prior to endurance exercise lasting longer than 90 minutes. Benefits include delayed onset of fatigue (approximately 20%) and improvement in performance of 2%–3%.”"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：“Initial protocols involved a depletion phase (3 days of intense training and low carbohydrate intake) followed by a loading phase (3 days of reduced training and high carbohydrate intake)… muscle glycogen concentrations could be enhanced to a similar level without the glycogen-depletion phase, and more recently, that 24 hours may be sufficient to maximize glycogen stores.”"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：“There appears to be no advantage to increasing pre-exercise muscle glycogen content for moderate-intensity cycling or running of 60–90 minutes, as significant levels of glycogen remain in the muscle following exercise.”"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：“For exercise shorter than 90 minutes, 7–12 g of carbohydrate/kg of BM should be consumed during the 24 hours preceding.”"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：“Specific recommendations for exercise of longer than 60 minutes include 1–4 g of carbohydrate/kg of BM in the 1–4 hours prior.”"
+    },
+    {
+      "index": 5,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：“Glucose is absorbed by the sodium-dependent transporter (SGLT1), which becomes saturated with an intake of approximately 1 g/minute. The simultaneous ingestion of fructose (absorbed via glucose transporter 5 [GLUT5]), enables oxidation rates of approximately 1.3 g/minute, with performance benefits apparent in the third hour of exercise.”"
+    },
+    {
+      "index": 6,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：“90 g of carbohydrate from multiple sources recommended for events longer than 2.5 hours, and 60 g of carbohydrate from either single or multiple sources recommended for exercise of 2–3 hours’ duration (Table 1).”“per hour”的单位来自 Table 1 表头“Recommended carbohydrate intake per hour”。"
+    }
+  ]
+}

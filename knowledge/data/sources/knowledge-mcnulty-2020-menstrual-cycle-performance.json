@@ -1,0 +1,62 @@
+{
+  "sourceId": "knowledge-mcnulty-2020-menstrual-cycle-performance",
+  "title": "The Effects of Menstrual Cycle Phase on Exercise Performance in Eumenorrheic Women: A Systematic Review and Meta-Analysis",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7497427/",
+  "publisher": "Sports Medicine",
+  "publishedAt": "2020-10-01",
+  "accessedAt": "2026-11-07",
+  "claims": [
+    "The review included 78 studies, with 51 eligible for the initial pairwise meta-analysis and 73 for the network meta-analysis.",
+    "The overall effect of menstrual cycle phase on exercise performance was trivial, with a median pooled effect size of -0.06 (95% credible interval -0.16 to 0.04).",
+    "The largest effect was between the early follicular and late follicular phases (effect size -0.14, 95% credible interval -0.26 to -0.03).",
+    "The early follicular phase had the lowest ranking for performance, with a 30% probability of being among the poorest phases, compared with 53% to 55% for other phases.",
+    "The quality of evidence was classified as low in 42% of cases, and the authors state that general guidelines across the menstrual cycle cannot be formed.",
+    "The authors recommend a personalised approach based on each individual's response across the cycle."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "Europe PMC 全文 XML（PMC7497427）",
+    "note": "系统综述/meta 分析全文可读，摘要与结论段核对；6 条均支持。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "78 项纳入研究；51 项进入初始配对 meta 分析，73 项进入网状 meta 分析。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "三水平模型合并 ES −0.06（95% CrI −0.16 至 0.04），判为 trivial。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "最大差异为早卵泡 vs 晚卵泡，ES −0.14（−0.26 至 −0.03）。"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "SUCRA：早卵泡 30%，其他期 53–55%。"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "证据质量低者占 42%；作者称异质性与低质量研究使统一指南无法形成。"
+    },
+    {
+      "index": 5,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "作者建议按个体对周期各期的反应制定个性化方案。"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "entityId": "knowledge:running-dynamics-metrics",
+  "slug": "running-dynamics-metrics",
+  "kind": "knowledge",
+  "status": "published",
+  "riskLevel": "guidance",
+  "sourceRefs": [
+    "knowledge-garmin-running-dynamics-gct",
+    "knowledge-garmin-running-dynamics-vertical-oscillation",
+    "knowledge-garmin-running-dynamics-vertical-ratio",
+    "knowledge-drobnic-2023-garmin-pod-validity",
+    "knowledge-weyand-2001-contact-time-accelerometry",
+    "knowledge-two-hour-marathon-physiology-2020",
+    "knowledge-moore-2016-economical-running-technique",
+    "knowledge-adams-2018-cadence-vertical-oscillation"
+  ],
+  "relatedRefs": [
+    "knowledge:cadence-and-stride",
+    "knowledge:running-form",
+    "knowledge:watch-gps",
+    "knowledge:wearables-and-recovery-data",
+    "knowledge:training-log"
+  ],
+  "license": "CC-BY-4.0",
+  "createdAt": "2026-11-07",
+  "updatedAt": "2026-11-07",
+  "reviewedAt": "2026-11-07",
+  "reviewDueAt": "2027-11-07",
+  "translations": [],
+  "details": {
+    "primaryTopic": "technique",
+    "secondaryTopics": [
+      "gear",
+      "training"
+    ],
+    "contentType": "guide",
+    "audiences": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "scenarios": [
+      "general-training",
+      "race-preparation"
+    ]
+  }
+}

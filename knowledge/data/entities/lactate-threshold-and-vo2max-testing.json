@@ -1,0 +1,51 @@
+{
+  "entityId": "knowledge:lactate-threshold-and-vo2max-testing",
+  "slug": "lactate-threshold-and-vo2max-testing",
+  "kind": "knowledge",
+  "status": "published",
+  "riskLevel": "guidance",
+  "sourceRefs": [
+    "knowledge-faude-2009-lactate-threshold-concepts",
+    "knowledge-jones-2019-maximal-metabolic-steady-state",
+    "knowledge-goodwin-2007-blood-lactate-guide",
+    "knowledge-mcgehee-2005-lactate-threshold-field",
+    "knowledge-wahl-2021-reverse-lactate-threshold",
+    "knowledge-loat-1993-lactate-ventilatory-thresholds",
+    "knowledge-poole-jones-2017-vo2max-measurement",
+    "knowledge-cooper-1968-12-minute-run",
+    "knowledge-lu-2025-smartwatch-lactate-threshold",
+    "knowledge-zeleznik-mezan-2025-wearables-review"
+  ],
+  "relatedRefs": [
+    "knowledge:training-pace-zones",
+    "knowledge:heart-rate-zones",
+    "knowledge:polarized-training-80-20",
+    "knowledge:training-week",
+    "knowledge:half-marathon-training-plan",
+    "knowledge:watch-gps",
+    "knowledge:wearables-and-recovery-data"
+  ],
+  "license": "CC-BY-4.0",
+  "createdAt": "2026-11-07",
+  "updatedAt": "2026-11-07",
+  "reviewedAt": "2026-11-07",
+  "reviewDueAt": "2027-05-07",
+  "translations": [],
+  "details": {
+    "primaryTopic": "training",
+    "secondaryTopics": [
+      "health",
+      "technique"
+    ],
+    "contentType": "guide",
+    "audiences": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "scenarios": [
+      "general-training",
+      "race-preparation"
+    ]
+  }
+}

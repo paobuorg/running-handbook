@@ -1,0 +1,90 @@
+{
+  "sourceId": "knowledge-steele-2015-bra-biomechanics",
+  "title": "The biomechanics of better bras: improving support and comfort during exercise",
+  "url": "https://ojs.ub.uni-konstanz.de/cpa/article/download/5510/5002",
+  "publisher": "International Society of Biomechanics in Sports (ISBS) Conference Proceedings",
+  "publishedAt": "2015-06-29",
+  "claims": [
+    "Female breasts contain no substantial anatomical support apart from the skin and fine hair-like Cooper's ligaments, so breast tissue moves relatively freely over the chest wall during activities with vertical trunk movement such as running.",
+    "As little as 2 cm of vertical breast displacement is sufficient to induce breast discomfort in some females, and women with large breasts can experience more than 10 cm of breast displacement during running without adequate support.",
+    "Studies have found that up to 100% of women were wearing the wrong size bra.",
+    "Poor bra fit has been linked with upper limb neural symptoms, deep bra furrows from excessive strap pressure, non-cyclical mastalgia, and neck and back pain.",
+    "In a survey of 267 Australian women (mean age 27.2 years), only 41% wore an encapsulating sports bra when participating in physical activity; the most disliked features were shoulder straps cutting in and straps slipping off the shoulders.",
+    "A correctly fitted sports bra did not significantly affect maximal exercise performance, nor respiratory function during submaximal exercise, compared with a fashion bra or no bra.",
+    "Changing shoulder straps from a traditional vertical alignment to a crossed-back configuration reduced straps slipping off the shoulders without decreasing overall breast support.",
+    "Commercially available bra strap cushions were not effective in reducing bra shoulder strap pressure in the cited study.",
+    "Among 74 breast cancer survivors, 70.3% reported experiencing bra discomfort during exercise, and 'I can't find a bra that is comfortable to exercise in' ranked fourth out of 34 perceived barriers to exercise.",
+    "In a later online survey of 482 breast cancer survivors, not being able to find a comfortable bra to exercise in was one of the top three barriers to exercise."
+  ],
+  "accessedAt": "2026-11-07",
+  "license": "ISBS proceedings; citation and summary only",
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "出版社 OJS PDF 全文（ojs.ub.uni-konstanz.de）",
+    "note": "ISBS 会议论文 PDF 全文，非同行评审期刊；文章为研究概览，部分数值转引 McGhee 等原始研究。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "引言原文：“Female breasts contain no substantial anatomical support apart from the skin and fine hair-like Cooper's ligaments”；“relatively free to move over the chest wall ... such as running”。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "引言原文：“as little as 2 cm of vertical breast displacement is sufficient to induce breast discomfort in some females”；“more than 10 cm of breast displacement during running”。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "引言原文：“up to 100% of women have been found to be wearing the wrong size bra”。"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "引言原文：“upper limb neural symptoms and deep bra furrows caused by excessive strap pressures, non-cyclical mastalgia, and neck and back pain”。"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：“267 women (mean age = 27.2 ± 4.9 years)”；“only 41% of respondents wore an encapsulating sports bra”；“shoulder straps cutting into the shoulders and straps slipping off the shoulders were the two most disliked features”。"
+    },
+    {
+      "index": 5,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：“does not significantly affect maximal exercise performance”；“Nor does a correctly fitted sports bra appear to affect respiratory function during submaximal exercise”。"
+    },
+    {
+      "index": 6,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：crossed-back “without decreasing the overall efficacy of the sports bra in providing breast support”。"
+    },
+    {
+      "index": 7,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：“inserting commercially available strap cushions under the bra straps was not effective ... due to design flaws”。"
+    },
+    {
+      "index": 8,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：74 名乳腺癌幸存者中“70.3% of the sample reported experiencing bra discomfort during exercise”；该障碍“ranked as the fourth highest ... out of a possible 34 barriers”。"
+    },
+    {
+      "index": 9,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：482 名幸存者在线调查，“top three barriers to exercise were procrastination, fatigue, and not being able to find a comfortable bra to exercise in”。"
+    }
+  ]
+}

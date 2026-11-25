@@ -1,0 +1,38 @@
+{
+  "sourceId": "knowledge-aha-2020-cpr-ecc",
+  "title": "2020 American Heart Association Guidelines for Cardiopulmonary Resuscitation and Emergency Cardiovascular Care",
+  "url": "https://cpr.heart.org/en/resuscitation-science/cpr-and-ecc-guidelines/adult-basic-and-advanced-life-support",
+  "publisher": "American Heart Association",
+  "publishedAt": "2020-10-21",
+  "claims": [
+    "The 2020 guidelines are aligned with the International Liaison Committee on Resuscitation and emphasise early recognition and activation of the chain of survival.",
+    "Unresponsiveness with absent or abnormal breathing is the recognition trigger for bystander action in adults.",
+    "The guidelines recommend immediate emergency calling and rapid access to an automated external defibrillator by trained or untrained bystanders."
+  ],
+  "license": null,
+  "accessedAt": "2026-11-07",
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-07",
+    "checkedVia": "AHA 2020 Part 3 Adult Basic and Advanced Life Support page + Adult BLS Algorithm accessible-text PDF",
+    "note": "URL 改为仍承载 2020 内容的 Part 3 页面；正文与 BLS 算法文本 PDF 已读，3 条逐条核对。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-07"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-07"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-07"
+    }
+  ]
+}

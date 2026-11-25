@@ -1,0 +1,28 @@
+{
+  "sourceId": "knowledge-barkley-ferrett-2025",
+  "title": "Barkley Marathons 2025",
+  "url": "https://barkley.ferrett.io/2025",
+  "publisher": "barkley.ferrett.io（粉丝维护的赛事追踪页）",
+  "publishedAt": "2025-03-20",
+  "claims": [
+    "The 2025 Barkley Marathons has ended. There are no finishers.",
+    "The conch was blown at Mar 18, 2025 10:37, so the race started at Mar 18, 2025 11:37, and the race ended at Mar 20, 2025 23:37.",
+    "2025 年赛果表中，John Kelly 完成三圈 Fun Run，第三圈完成时间记为 39:50:27。",
+    "You can't start a loop after its cutoff."
+  ],
+  "accessedAt": "2026-11-08",
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "WebFetch",
+    "note": "2026-11-08 直取 2025 年页面。该站是粉丝维护的追踪页，不是赛事官方；页面把 Keith Dunn 的即时消息称作“The official™ information”，带明显玩笑引号，不能据此认定它是官方发布。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-08", "note": "页面原文：\"The 2025 Barkley Marathons has ended. There are no finishers. #BM100\"" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-08", "note": "页面原文：\"The conch was blown at Mar 18, 2025 10:37 so the race started at Mar 18, 2025 11:37, and the race ended at Mar 20, 2025 23:37.\"" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-08", "note": "Loops 表：John Kelly 第三圈完成栏为 39:50:27，并标 FUN。" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-08", "note": "Cutoffs 段原文：\"You can't start a loop after its cutoff.\"" }
+  ]
+}

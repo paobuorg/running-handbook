@@ -1,0 +1,41 @@
+{
+  "entityId": "knowledge:hill-and-mountain-path-basics",
+  "slug": "hill-and-mountain-path-basics",
+  "kind": "knowledge",
+  "status": "published",
+  "riskLevel": "general",
+  "sourceRefs": [
+    "knowledge-nps-hike-smart",
+    "knowledge-nps-ten-essentials",
+    "knowledge-nps-hiking-safety",
+    "knowledge-uphill-downhill-running"
+  ],
+  "relatedRefs": [
+    "knowledge:uphill-and-downhill",
+    "knowledge:trail-navigation",
+    "knowledge:trail-gear",
+    "knowledge:route-safety"
+  ],
+  "license": "CC-BY-4.0",
+  "createdAt": "2026-11-06",
+  "updatedAt": "2026-11-06",
+  "reviewedAt": "2026-11-06",
+  "reviewDueAt": "2027-11-06",
+  "translations": [],
+  "details": {
+    "primaryTopic": "safety",
+    "secondaryTopics": [
+      "technique",
+      "gear"
+    ],
+    "contentType": "guide",
+    "audiences": [
+      "beginner",
+      "intermediate"
+    ],
+    "scenarios": [
+      "trail-running",
+      "general-training"
+    ]
+  }
+}

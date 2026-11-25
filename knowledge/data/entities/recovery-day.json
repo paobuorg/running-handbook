@@ -1,0 +1,40 @@
+{
+  "entityId": "knowledge:recovery-day",
+  "slug": "recovery-day",
+  "kind": "knowledge",
+  "status": "published",
+  "riskLevel": "guidance",
+  "sourceRefs": [
+    "knowledge-nhs-insomnia",
+    "knowledge-overtraining-guide",
+    "knowledge-nhs-running-injuries"
+  ],
+  "relatedRefs": [
+    "knowledge:sleep-recovery",
+    "knowledge:training-week",
+    "knowledge:load-and-overtraining",
+    "knowledge:post-race-recovery"
+  ],
+  "license": "CC-BY-4.0",
+  "createdAt": "2026-10-26",
+  "updatedAt": "2026-11-06",
+  "reviewedAt": "2026-11-06",
+  "reviewDueAt": "2027-04-28",
+  "translations": [],
+  "details": {
+    "primaryTopic": "recovery",
+    "secondaryTopics": [
+      "habits"
+    ],
+    "contentType": "guide",
+    "audiences": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "scenarios": [
+      "daily-training",
+      "post-race"
+    ]
+  }
+}

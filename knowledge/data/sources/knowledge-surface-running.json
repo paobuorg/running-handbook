@@ -1,0 +1,41 @@
+{
+  "sourceId": "knowledge-surface-running",
+  "title": "Surface effects on kinematics, kinetics and stiffness of habitual rearfoot strikers during running",
+  "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0283323",
+  "publisher": "PLOS ONE",
+  "publishedAt": "2023-03-22",
+  "claims": [
+    "A small cross-sectional study of 30 male rear-foot strikers found no significant differences in several joint-motion and loading variables across artificial grass, rubber and concrete.",
+    "Concrete reduced braking and mediolateral force but increased ankle moments and frontal-plane hip and knee moments.",
+    "The authors suggest harder surfaces may expose rearfoot strikers to a higher risk of overuse injury."
+  ],
+  "accessedAt": "2026-11-08",
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-20",
+    "checkedVia": "WebFetch（PLOS ONE）",
+    "note": "摘要与 Methods 可读，正文后段截断。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "\"Thirty healthy male runners… no statistical differences in the lower-limb joint motion… when running on the three surfaces.\""
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "\"braking force… and mediolateral GRF were decreased… on concrete\"；\"moments of ankle joint… and frontal plane hip and knee joints were increased\"。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-20",
+      "note": "摘要：“may expose to a higher risk”；“证据有限”属评述，已删除。"
+    }
+  ]
+}

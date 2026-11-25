@@ -1,0 +1,42 @@
+{
+  "entityId": "knowledge:easy-run",
+  "slug": "easy-run",
+  "kind": "knowledge",
+  "status": "published",
+  "riskLevel": "general",
+  "sourceRefs": [
+    "knowledge-cdc-intensity",
+    "knowledge-odphp-pag",
+    "knowledge-nhs-couch-to-5k",
+    "knowledge-hunt-2015-hr-kinetics",
+    "knowledge-ceugniez-2025-fitbit-hr"
+  ],
+  "relatedRefs": [
+    "knowledge:training-week",
+    "knowledge:recovery-day",
+    "knowledge:breathing-and-rhythm",
+    "knowledge:cadence-and-stride",
+    "knowledge:heart-rate-zones",
+    "knowledge:heart-rate-drift"
+  ],
+  "license": "CC-BY-4.0",
+  "createdAt": "2026-10-26",
+  "updatedAt": "2026-11-07",
+  "reviewedAt": "2026-11-07",
+  "reviewDueAt": "2027-05-07",
+  "translations": [],
+  "details": {
+    "primaryTopic": "training",
+    "secondaryTopics": [
+      "technique"
+    ],
+    "contentType": "concept",
+    "audiences": [
+      "beginner",
+      "intermediate"
+    ],
+    "scenarios": [
+      "daily-training"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "sourceId": "knowledge-cn-prehospital-emergency-regulation",
+  "title": "院前医疗急救管理办法（国家卫生和计划生育委员会令第 3 号）",
+  "url": "https://www.gov.cn/zhengce/2013-11/29/content_5713800.htm",
+  "publisher": "国家卫生和计划生育委员会 / 中国政府网",
+  "publishedAt": "2013-11-29",
+  "claims": [
+    "第十三条规定全国院前医疗急救呼叫号码为“120”。",
+    "急救中心（站）设置 120 呼叫受理系统和指挥中心，其他单位和个人不得设置同类呼叫号码。",
+    "该办法规范院前急救机构、人员、车辆与救治流程。"
+  ],
+  "license": null,
+  "accessedAt": "2026-11-07",
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "WebFetch https://www.gov.cn/zhengce/2013-11/29/content_5713800.htm",
+    "note": "中国政府网原文全文可读（第一至四十一条完整）；页面标注“2013年11月29日国家卫生和计划生育委员会令第3号公布 自2014年2月1日起施行”，与 publishedAt 一致。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "第十三条第一款原文：“全国院前医疗急救呼叫号码为‘120’。”"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "第十三条第二款原文：“急救中心（站）设置‘120’呼叫受理系统和指挥中心，其他单位和个人不得设置‘120’呼叫号码或者其他任何形式的院前医疗急救呼叫电话。”"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "第二条限定适用对象为“从事院前医疗急救工作的医疗机构和人员”；第二章机构设置、第三章执业管理（人员资质、救护车、转运救治）、第四章监督管理分别对应机构、人员、车辆与流程。"
+    }
+  ]
+}

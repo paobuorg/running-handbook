@@ -1,0 +1,41 @@
+{
+  "sourceId": "knowledge-uk-athletics-2023-adult-safeguarding",
+  "title": "UK Athletics and the Home Country Athletics Federations: Adult Safeguarding Policy 2023 and Safeguarding Regulations",
+  "url": "https://img1.wsimg.com/blobby/go/a8401e13-f025-42e1-a2f8-c59168bdfb1d/downloads/83a2b9dd-5b24-4fa4-a2b8-86fab8fcb086/UKA%20Adult%20Safeguarding%20Policy%202023.pdf",
+  "publisher": "UK Athletics",
+  "publishedAt": "2023-01-01",
+  "claims": [
+    "The policy sets out national and club-level roles and responsibilities, including a Lead Safeguarding Officer and Club Welfare Officer; it does not use a regional or regional-tier structure.",
+    "Appendix 1 routes safeguarding referrals to the Club Welfare Officer or UK Athletics and to police and local authorities, with disciplinary procedures; detailed assessment steps sit in separately referenced procedures.",
+    "The policy expects clubs to have accessible reporting routes for concerns about adults at risk; it is an adult-specific policy and does not state that clubs must handle child and adult concerns under the same route."
+  ],
+  "license": null,
+  "accessedAt": "2026-11-08",
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "curl.exe + pypdf（22 页 PDF）",
+    "note": "UKA 2023 成人保障政策 PDF 全文；2026-11-20 逐条收窄到原文层级与附录 1 的实际表述。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-20",
+      "note": "全文列国家级（Lead Safeguarding Officer）与俱乐部级（CWO）职责；无 regional/region 层级。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-20",
+      "note": "附录 1 有 CWO/UKA 上报、与警方和地方当局合作、纪律程序；“评估”细节在另行引用的程序文件中，不在本政策正文。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-20",
+      "note": "附录 1 写俱乐部上报通道；本文件是成人专项政策，未写俱乐部应同时按同一通道处理儿童与成人问题。"
+    }
+  ]
+}

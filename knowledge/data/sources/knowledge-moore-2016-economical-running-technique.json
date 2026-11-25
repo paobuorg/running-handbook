@@ -1,0 +1,62 @@
+{
+  "sourceId": "knowledge-moore-2016-economical-running-technique",
+  "title": "Is There an Economical Running Technique? A Review of Modifiable Biomechanical Factors Affecting Running Economy",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4887549/",
+  "publisher": "Sports Medicine",
+  "publishedAt": "2016-01-27",
+  "accessedAt": "2026-11-07",
+  "claims": [
+    "The review found equivocal evidence for an association between ground contact time and running economy: several studies found no relationship, some found longer contact times associated with better economy, and others found the opposite.",
+    "The review suggests that the amount of speed lost during ground contact may matter more than the contact time itself.",
+    "The review lists lower vertical oscillation among factors that appeared beneficial for running economy, but notes that only one study had specifically manipulated vertical oscillation.",
+    "The review reports that vertical oscillation changes during fatigue are small while increases in metabolic cost are large.",
+    "The review warns that recommending a general economical running technique should be approached with caution because of cross-comparisons, assessment of variables in isolation and acute-to-short-term interventions.",
+    "The review notes that female runners have lower vertical oscillation than male runners, but findings on whether females are more or less economical are conflicting."
+  ],
+  "license": "CC BY 4.0",
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4887549/（Sports Med 2016;46:793-807 全文 HTML；EuropePMC XML 亦已取，但公式块影响可读性，最终以 HTML 正文核对）",
+    "note": "已读到 Spatiotemporal Factors、Training Interventions、Conclusion 与 Table 1（有益/冲突因素清单）全文。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：“The time the foot spends in contact with the ground has equivocal results regarding its association with RE. Several studies have failed to find any relationship… whilst some have observed a better RE to be associated with longer contact times and others have found the opposite to be true.”"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：“it has been argued that being able to reduce the amount of speed lost during ground contact is the most important aspect rather than the time in contact with it.” claim 保留“may matter more”的不确定语气。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文 Table 1 将“Low vertical oscillation”列入有益因素；正文：“to date, only one study has assessed the effect of specifically decreasing a runner’s vertical oscillation.”"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：“vertical oscillation changes are minimal and increases in V̇O2 are large, meaning several other physiological and biomechanical factors contribute to increases in V̇O2 during fatigue.”"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：“recurring methodological problems exist within the literature, such as cross-comparisons, assessing variables in isolation, and acute to short-term interventions… Consequently, recommending an economical running technique should be approached with caution.”"
+    },
+    {
+      "index": 5,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：“female runners have a lower vertical oscillation than their male counterparts, but findings are conflicting regarding whether females are more or less economical than males.”"
+    }
+  ]
+}

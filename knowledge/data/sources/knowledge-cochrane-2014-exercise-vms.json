@@ -1,0 +1,56 @@
+{
+  "sourceId": "knowledge-cochrane-2014-exercise-vms",
+  "title": "Exercise for vasomotor menopausal symptoms (Cochrane review, 2014, Issue 11)",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10116337/",
+  "publisher": "Cochrane Database of Systematic Reviews",
+  "publishedAt": "2014-11-01",
+  "claims": [
+    "Five randomised trials assigned 762 women experiencing hot flushes or night sweats.",
+    "Three trials with 454 women compared exercise with no active treatment; the pooled effect on hot flushes or night sweats was SMD -0.10 (95% CI -0.33 to 0.13), assessed as low-quality evidence.",
+    "Two trials with 279 women compared exercise with yoga; the pooled effect was SMD -0.03 (95% CI -0.45 to 0.38), also low-quality evidence.",
+    "One small trial with 14 women compared exercise with hormone therapy; the hormone therapy group reported significantly fewer flushes in 24 hours (mean difference 5.8, 95% CI 3.17 to 8.43).",
+    "The review found no evidence that exercise reduces hot flushes or night sweats compared with no active treatment, and evidence was insufficient to show whether exercise is more effective than yoga.",
+    "None of the trials found evidence of a difference in adverse effects between groups, but the data were scanty."
+  ],
+  "accessedAt": "2026-11-07",
+  "license": "Cochrane copyright; citation and summary only",
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "index": 5,
+      "status": "supported",
+      "checkedAt": "2026-11-19"
+    }
+  ],
+  "verification": {
+    "checkedAt": "2026-11-19",
+    "checkedVia": "web_fetch（官方页面正文）",
+    "access": "direct",
+    "bodyRead": true,
+    "note": "2026-11-19 直接读取官方页面可读正文，逐条核对 claims；页面为公开官方说明。"
+  }
+}

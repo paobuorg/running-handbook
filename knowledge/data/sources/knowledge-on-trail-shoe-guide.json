@@ -1,0 +1,48 @@
+{
+  "sourceId": "knowledge-on-trail-shoe-guide",
+  "title": "How to choose trail running shoes: A definitive guide",
+  "url": "https://www.on.com/en-gb/stories/choosing-the-best-trail-running-shoes",
+  "publisher": "On",
+  "publishedAt": null,
+  "accessedAt": "2026-11-08",
+  "claims": [
+    "硬实土路或碎石路适合 2–4 mm 浅齿；泥地、湿草与软地适合 5 mm 以上、多方向深齿。",
+    "落差 8 mm 以上偏向后跟着地，减少跟腱与小腿负荷但可能增加膝负荷；0–4 mm 增加小腿与跟腱需求；4–8 mm 是多数人的起点。",
+    "防水鞋在冷湿或雪地有用，但透气性较差、干得慢；温暖天气网面更舒适。",
+    "防石板用于抵挡尖锐岩石与树根，平整路线并非必需。"
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "WebFetch + 本地读取正文",
+    "note": "On 官网指南正文可读，含齿深、落差、防水与防石板 FAQ。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "\"hard-packed dirt or gravel … shallow lugs (2-4mm)\"；\"wet grass, mud, and fells … deeper, multi-directional lugs (5mm+)\"。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "\"High drop (8+ mm)… reduces Achilles and calf strain, but potentially increases knee load\"；\"Low drop (0-4 mm)… more demand on the lower leg\"；\"moderate drop (4-8 mm)… starting point\"。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "FAQ：\"Waterproof shoes work well in cold, wet, or snowy conditions, but they're less breathable. In warm weather, mesh uppers… dry faster.\""
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "FAQ：\"A rock plate adds protection against sharp rocks and roots… isn't necessary for smoother terrain.\""
+    }
+  ]
+}

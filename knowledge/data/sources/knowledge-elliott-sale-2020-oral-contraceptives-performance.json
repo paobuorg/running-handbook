@@ -1,0 +1,62 @@
+{
+  "sourceId": "knowledge-elliott-sale-2020-oral-contraceptives-performance",
+  "title": "The Effects of Oral Contraceptives on Exercise Performance in Women: A Systematic Review and Meta-analysis",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7497464/",
+  "publisher": "Sports Medicine",
+  "publishedAt": "2020-10-01",
+  "accessedAt": "2026-11-07",
+  "claims": [
+    "The review included 42 studies and 590 participants.",
+    "Most studies (83%) were graded as moderate, low or very low quality, and 17% achieved high quality.",
+    "Oral contraceptive use might result in slightly inferior exercise performance on average compared with naturally menstruating women, but any group-level effect is most likely trivial.",
+    "The probability of a small effect favouring naturally menstruating women was moderate to small depending on the comparison method, and the probability of an effect favouring oral contraceptive users was effectively zero.",
+    "Performance appeared relatively consistent across the oral contraceptive cycle; the authors do not support general performance guidance based on OCP use versus non-use and did not compare pill-taking with non-pill-taking days.",
+    "The authors conclude that current evidence does not support general guidance on oral contraceptive use versus non-use for performance."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-20",
+    "checkedVia": "Europe PMC 全文 XML（PMC7497464）",
+    "note": "系统综述/meta 分析全文可读；第 5 条关于按服药日分别指导属推论，判 partial。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "42 项研究、590 名参与者。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "83% 为中等/低/极低质量，17% 高质量。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "结论：OCP 使用者平均可能略差，但组水平效应很可能 trivial。"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "两种比较法下支持自然月经者的概率分别为中等（p=0.40）与小（p=0.19），支持 OCP 者近零。"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-20",
+      "note": "原文只称 OCP 周期内表现一致并反对“用/不用 OCP”的通用指导；未比较服药日与停药日的训练指导。"
+    },
+    {
+      "index": 5,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "作者：现有证据不支持 OCP 使用与否的通用建议，应个体化。"
+    }
+  ]
+}

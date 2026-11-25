@@ -1,0 +1,48 @@
+{
+  "sourceId": "knowledge-acsm-and-dc-2016-nutrition-performance",
+  "title": "Nutrition and Athletic Performance: Position of the Academy of Nutrition and Dietetics, Dietitians of Canada, and the American College of Sports Medicine",
+  "url": "https://doi.org/10.1249/MSS.0000000000000852",
+  "publisher": "Medicine & Science in Sports & Exercise",
+  "publishedAt": "2016-03-01",
+  "accessedAt": "2026-11-07",
+  "claims": [
+    "For a pre-event meal eaten more than 60 minutes before exercise, the guideline recommends 1-4 g/kg of carbohydrate consumed 1-4 hours before exercise, preferring low-fat, low-fibre foods to reduce gastrointestinal problems and promote gastric emptying.",
+    "The guideline recommends ensuring at least 1 g/kg of carbohydrate in the pre-event meal to compensate for increased carbohydrate oxidation.",
+    "Low-fat, low-fibre foods are preferred because they are less prone to cause gastrointestinal problems and promote gastric emptying.",
+    "具体份量需要按体重、运动时长、环境与个人耐受调整，不能把范围当成固定处方。"
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "https://forening.sls.se/media/1uadrrmt/idrottsnutrition_nutrition_and_athletic_performance-1.pdf（Med Sci Sports Exerc 2016;48(3):543-568 全文 26 页，DOI 10.1249/MSS.0000000000000852）",
+    "note": "ACSM/DC 2016 全文；2026-11-20 修正赛前餐时间窗（1–4 h 而非 3–4 h），删除无原文的“1–2 小时约 1 g/kg”，并把 GI 表述收窄到原文。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-20",
+      "note": "原文/Table 2：>60 min，1–4 g/kg，1–4 h before；低脂、低纤维、低–中等蛋白“less prone to cause gastrointestinal problems and promote gastric emptying”。原 claim 的“3–4 小时”已改为 1–4 小时。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-20",
+      "note": "原文：“ensuring at least 1 g/kg carbohydrate in the pre-event meal to compensate for the increased carbohydrate oxidation”；该句不给“1–2 小时”时间窗。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-20",
+      "note": "原文只写“less prone to cause gastrointestinal problems and promote gastric emptying”；不扩写为运动中腹胀、恶心、腹泻。"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：“Carbohydrate intakes of 1–4 g/kg, with timing, amount, and food choices suited to the individual”“Depending on characteristics including the type of exercise, the environment, and the athlete's preparation and carbohydrate tolerance”“the individual athlete should choose a strategy that suits their situation and their past experiences”。按体重（g/kg）、时长/运动类型、环境、个人耐受调整均有对应。"
+    }
+  ]
+}

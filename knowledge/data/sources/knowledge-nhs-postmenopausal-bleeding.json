@@ -1,0 +1,55 @@
+{
+  "sourceId": "knowledge-nhs-postmenopausal-bleeding",
+  "title": "Postmenopausal bleeding",
+  "url": "https://www.nhs.uk/symptoms/post-menopausal-bleeding/",
+  "publisher": "NHS",
+  "publishedAt": "2026-09-24",
+  "claims": [
+    "Postmenopausal bleeding is bleeding from the vagina after menopause; menopause is usually diagnosed in women over 45 who have not had a period for more than a year.",
+    "The NHS advises seeing a GP for any bleeding after menopause, even if it is only a small amount or has happened only once.",
+    "Postmenopausal bleeding is not usually serious, but it needs checking because it can be a sign of cancer.",
+    "A GP should refer a person with postmenopausal bleeding to hospital or a specialist clinic, and the NHS says they should not wait more than 2 weeks to see a specialist.",
+    "The most common causes include vaginal or endometrial atrophy, cervical or womb polyps and endometrial hyperplasia; ovarian or womb cancer is less common, and HRT is listed as a possible side effect rather than a most-common cause."
+  ],
+  "accessedAt": "2026-11-07",
+  "license": "NHS website content; citation and summary only",
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-20",
+    "checkedVia": "WebFetch https://www.nhs.uk/symptoms/post-menopausal-bleeding/",
+    "note": "NHS 页面正文完整可读，页脚 last reviewed 24 September 2026。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：“Postmenopausal bleeding is bleeding from the vagina that happens after your menopause. Menopause is usually diagnosed in women aged over 45 who have not had a period for more than a year.”"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：“even if it's only a small amount or it's only happened once”"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：“Postmenopausal bleeding is not usually serious, but it's important to get checked because it can be a sign of cancer.”"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：“a GP should refer you to hospital or a special postmenopausal bleeding clinic. You should not have to wait more than 2 weeks to see a specialist.”"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-20",
+      "note": "原文“The most common causes are”清单不含 HRT；HRT 只作为治疗副作用及内膜增生成因出现。"
+    }
+  ]
+}

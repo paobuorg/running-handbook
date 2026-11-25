@@ -1,0 +1,48 @@
+{
+  "sourceId": "knowledge-hunt-2015-hr-kinetics",
+  "title": "Identification of heart rate dynamics during moderate-to-vigorous treadmill exercise",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4687158/",
+  "publisher": "BioMedical Engineering OnLine",
+  "publishedAt": "2015-12-21",
+  "accessedAt": "2026-11-07",
+  "claims": [
+    "24 名健康男性在跑台上完成中等与高强度测试，心率响应可用一阶传递函数描述。",
+    "总体名义时间常数 τ = 57.6 ± 23.6 秒（95% CI 50.9–64.3）；中等与高强度之间没有显著差异（55.7 vs 59.5 秒，p=0.53）。",
+    "The first-order model estimated a time constant of τ = 57.6 s from ±0.25 m/s speed steps during exercise; the paper did not model standing starts.",
+    "上、下阶跃的稳态增益不同（30.2 vs 23.6 bpm/(m/s)），但时间常数没有方向差异。"
+  ],
+  "license": "CC-BY-4.0",
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-20",
+    "checkedVia": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC4687158/fullTextXML",
+    "note": "已读 PMC 全文（Europe PMC XML），核对 Methods、Results 与 Discussion 原文。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文 Methods：“24 healthy, able-bodied male subjects each did two separate, 35-min tests on a treadmill, one at moderate and one at vigorous intensity… Heart rate responses were modelled as first-order transfer functions”。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文 Results：“the overall nominal time constant was τ = 57.6 ± 23.6, 50.9–64.3 s”；“no significant differences… in τ (55.7 vs. 59.5 s, p = 0.53) between the two intensity levels”。数字与 p 值一致。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-20",
+      "note": "原文 τ = 57.6 s，模型由运动中 ±0.25 m/s 的速度阶跃估计（“estimated from the individual steps”）；未描述从静止起步，也未写 3 个时间常数接近稳态。"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文 Results：“a significant difference in steady-state gain k for upward and downward steps [30.2 vs. 23.6 bpm/(m/s), p < 0.001], but no difference in time constant τ between these two directions (57.5 vs. 54.4 s, p = 0.52)”。"
+    }
+  ]
+}

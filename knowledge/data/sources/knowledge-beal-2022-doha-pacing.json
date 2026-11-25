@@ -1,0 +1,62 @@
+{
+  "sourceId": "knowledge-beal-2022-doha-pacing",
+  "title": "Marathon Performance and Pacing in the Doha 2019 Women's IAAF World Championships: Extreme Heat, Suboptimal Pacing, and High Failure Rates",
+  "url": "https://doi.org/10.1123/ijspp.2022-0020",
+  "publisher": "International Journal of Sports Physiology and Performance",
+  "publishedAt": "2022-05-17",
+  "accessedAt": "2026-11-07",
+  "claims": [
+    "The 2019 Doha women's World Championship marathon took place at 32°C and 74% relative humidity, with a 41% failure rate; the abstract does not report a WBGT value.",
+    "多哈平均配速 14.82 ± 0.96 km/h，慢于伦敦的 15.74 ± 0.96 km/h（p<.001）。",
+    "多哈前 10 名开局平均为个人最好成绩配速的 93.7% ± 2.1%，第 21–40 名为 96.6% ± 2.8%（p<.05）。",
+    "各组在 15 公里前没有差异，之后较慢组立即掉速，较快组在 20 公里后掉速。",
+    "完赛者与未完赛者在 10 公里前的配速没有差异；配速本身不能解释全部退赛。",
+    "作者建议在炎热条件下开局更保守，以提高完成率与表现。"
+  ],
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-20",
+      "note": "摘要：32°C、74% RH、41% failure；无 WBGT。原 claim 的 77.9% RH 与 WBGT 29.6 摘要无依据，已删。赛事报道另给 68 人出发、40 人完赛。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "摘要：多哈 14.82±0.96 vs 伦敦 15.74±0.96 km/h，P=.00。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "摘要：前 10 名开局为个人最好成绩配速的 93.7±2.1%，较慢组 96.6±2.8%，P<.05。"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "摘要：15 km 前无差异，之后第 3–4 组立即掉速、第 2 组 20 km 后掉速。"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "摘要：完赛者与未完赛者 10 km 前配速无差异（P>.05）；配速不能完全解释退赛。"
+    },
+    {
+      "index": 5,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "摘要结论：炎热条件下应更保守开局以优化表现。"
+    }
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "PubMed 摘要",
+    "note": "Beal 2022 摘要与赛事报道复核；2026-11-20 把湿度改回摘要的 74%，删除无摘要依据的 WBGT 29.6。"
+  }
+}

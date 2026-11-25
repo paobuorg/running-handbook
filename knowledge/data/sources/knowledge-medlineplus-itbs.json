@@ -1,0 +1,55 @@
+{
+  "sourceId": "knowledge-medlineplus-itbs",
+  "title": "Iliotibial band syndrome - aftercare",
+  "url": "https://medlineplus.gov/ency/patientinstructions/000683.htm",
+  "publisher": "MedlinePlus (US National Library of Medicine)",
+  "publishedAt": "2025-06-04",
+  "accessedAt": "2026-11-07",
+  "claims": [
+    "MedlinePlus describes a bursa between the tendon and bone on the outside of the leg that can become painful and swollen with repeated rubbing.",
+    "MedlinePlus notes early pain may disappear as you warm up, then become worse and persist during exercise as the condition progresses.",
+    "MedlinePlus symptom relief includes ice for 15 minutes every 2 to 3 hours, mild heat before stretching, and shortening runs or cycling before stopping them entirely if pain persists.",
+    "MedlinePlus says return to running gradually once stretching and strengthening can be done without pain.",
+    "MedlinePlus lists poor conditioning, a tight IT band, poor form, no warm-up, bowed legs, activity changes, and core muscle imbalance as other causes."
+  ],
+  "license": "Public domain (US government work); cited with attribution",
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "WebFetch https://medlineplus.gov/ency/patientinstructions/000683.htm",
+    "note": "正文全文可读，Review Date 6/4/2025；页面为 HTML，无 PDF。五条 claim 均能在正文定位。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文 bursa 位于“between the bone and the tendon on the outside part of your leg”；“The rubbing of the tendon can cause pain and swelling of the bursa, the tendon, or both”。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：“Mild pain ... when you begin to exercise, which goes away as you warm up”；“Over time, the pain feels worse and doesn't go away during exercise”。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：“Apply ice ... for 15 minutes every 2 to 3 hours”；“Apply mild heat before stretching”；“Try running or cycling shorter distances ... If you still have pain, avoid these activities completely”。"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：“Once you can do stretching and strengthening exercises without pain, you can gradually begin running or cycling again. Slowly build up distance and speed.”"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文 Other causes 列表含 poor physical condition、tight ITB、poor form、not warming up、bowed legs、changes in activity levels、imbalance of the core muscles。"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "sourceId": "knowledge-nhs-heart-palpitations",
+  "title": "Heart palpitations",
+  "url": "https://www.nhs.uk/conditions/heart-palpitations/",
+  "publisher": "NHS",
+  "publishedAt": null,
+  "claims": [
+    "Heart palpitations are common and not usually a sign of anything serious; they can be triggered by strenuous exercise, lack of sleep, stress, medicines, alcohol, caffeine, nicotine or recreational drugs.",
+    "Some people get palpitations during the menopause.",
+    "The NHS advises seeing a GP if palpitations keep coming back or get worse, last longer than a few minutes, or occur with a heart condition or a family history of heart problems.",
+    "The NHS advises calling 999 or going to A&E if palpitations occur with chest pain, shortness of breath, or feeling faint or fainting."
+  ],
+  "accessedAt": "2026-11-07",
+  "license": "NHS website content; citation and summary only",
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "WebFetch https://www.nhs.uk/conditions/heart-palpitations/",
+    "note": "NHS 页面正文完整可读，无发布日期可用。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：“Heart palpitations are common and not usually a sign of anything serious.” 常见诱因列出 strenuous exercise、lack of sleep、stress and anxiety、medicines、alcohol, caffeine, nicotine and recreational drugs。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：“Sometimes heart palpitations can be a sign you're going through the menopause.”（紧随的“Some people get them during pregnancy”说的是孕期，claim 的措辞由此转写但语义仍为原文所支持。）"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文 See a GP if：“they keep coming back or they're getting worse”“they last longer than a few minutes”“you have a heart condition”“you have a history of heart problems in your family”。"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文 Call 999 or go to A&E if：palpitations with “chest pain”“shortness of breath”“feeling faint or fainting”。"
+    }
+  ]
+}

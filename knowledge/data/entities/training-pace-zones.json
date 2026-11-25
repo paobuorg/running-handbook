@@ -1,0 +1,46 @@
+{
+  "entityId": "knowledge:training-pace-zones",
+  "slug": "training-pace-zones",
+  "kind": "knowledge",
+  "status": "published",
+  "riskLevel": "guidance",
+  "sourceRefs": [
+    "knowledge-acsm-intensity-monitoring",
+    "knowledge-england-athletics-training-pace",
+    "knowledge-daniels-running-formula-4e",
+    "knowledge-mcmillan-calculator-guide",
+    "knowledge-scudamore-2018-vdot",
+    "knowledge-blodorn-2025-running-coefficients"
+  ],
+  "relatedRefs": [
+    "knowledge:heart-rate-zones",
+    "knowledge:tempo-and-intervals",
+    "knowledge:easy-run",
+    "knowledge:race-day-pacing",
+    "knowledge:5k-10k-training-plan",
+    "knowledge:polarized-training-80-20"
+  ],
+  "license": "CC-BY-4.0",
+  "createdAt": "2026-11-07",
+  "updatedAt": "2026-11-07",
+  "reviewedAt": "2026-11-07",
+  "reviewDueAt": "2027-11-07",
+  "translations": [],
+  "details": {
+    "primaryTopic": "training",
+    "secondaryTopics": [
+      "technique",
+      "recovery"
+    ],
+    "contentType": "guide",
+    "audiences": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "scenarios": [
+      "general-training",
+      "race-preparation"
+    ]
+  }
+}

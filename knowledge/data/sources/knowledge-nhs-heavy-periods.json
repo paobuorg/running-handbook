@@ -1,0 +1,55 @@
+{
+  "sourceId": "knowledge-nhs-heavy-periods",
+  "title": "Heavy periods",
+  "url": "https://www.nhs.uk/conditions/heavy-periods/",
+  "publisher": "NHS",
+  "publishedAt": null,
+  "accessedAt": "2026-11-07",
+  "claims": [
+    "Signs of heavy periods include needing to change a pad or tampon every 1 to 2 hours, or emptying a menstrual cup more often than recommended.",
+    "Other signs include needing to use two types of period product together, periods lasting more than 7 days, and passing blood clots larger than about 2.5 cm.",
+    "Bleeding through clothes or bedding is also listed as a sign of heavy periods.",
+    "The page advises seeing a GP if heavy periods are affecting your life, have lasted some time, cause severe pain, or you bleed between periods or after sex.",
+    "Bleeding between periods or after sex should be checked by a GP."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-20",
+    "checkedVia": "NHS 月经过多页 HTML（正文）",
+    "note": "NHS 页面正文可读；末条已按 “See a GP if” 列表改为支持，并补充经间出血/性交后出血一条。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "页面列 1–2 h 换卫生巾/棉条或更频换月经杯。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "页面列两种产品同用、经期>7 天、血块>2.5 cm。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "页面列经血透衣/床品。"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-20",
+      "note": "页面 “See a GP if” 列表：影响生活、已持续一段时间、经期剧痛、经间出血或性交后出血。"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-20",
+      "note": "页面 “See a GP if” 列表：“you bleed between periods or after sex”。"
+    }
+  ]
+}

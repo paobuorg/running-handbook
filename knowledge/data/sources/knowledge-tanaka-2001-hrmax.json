@@ -1,0 +1,62 @@
+{
+  "sourceId": "knowledge-tanaka-2001-hrmax",
+  "title": "Age-predicted maximal heart rate revisited",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/11153730/",
+  "publisher": "Journal of the American College of Cardiology",
+  "publishedAt": "2001-01-01",
+  "claims": [
+    "A meta-analysis collected group mean maximal heart rate values from 351 studies involving 492 groups and 18,712 subjects.",
+    "Maximal heart rate was strongly related to age (r = -0.90), with the regression equation 208 - 0.7 × age.",
+    "A laboratory-based cross-validation in 514 healthy subjects produced 209 - 0.7 × age, virtually identical to the meta-analysis equation.",
+    "The regression line was not different between men and women and was not influenced by wide variations in habitual physical activity.",
+    "The authors suggest that the 220 - age equation significantly underestimates maximal heart rate in older adults.",
+    "The authors recommend 208 - 0.7 × age as a regression equation to predict maximal heart rate in healthy adults."
+  ],
+  "accessedAt": "2026-11-07",
+  "license": "Elsevier copyright; citation and summary only",
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-20",
+    "checkedVia": "https://webs.um.es/jlyuste/documts/tanaka.pdf（J Am Coll Cardiol 2001;37(1):153-156 已发表版 PDF；PubMed 11153730 页面标注 Free article，ScienceDirect 直连被验证码拦截）",
+    "note": "已读到 Methods（meta 分析纳入标准、514 人实验室研究）、Results（回归式、亚组斜率）、Discussion 前半（含“underestimates HRmax in older adults”与与 220−age 的比较）；PDF 抽取在 Discussion 末段截断，不影响 6 条 claim 的核对。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：“a meta-analytic approach was used to collect group mean HRmax values from 351 studies involving 492 groups and 18,712 subjects.”"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：“HRmax was strongly related to age (r = −0.90), using the equation of 208 − 0.7 × age.” Results 亦述男女均 r = −0.90。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：“HRmax was measured in 514 healthy subjects… The regression equation obtained in the laboratory-based study (209 − 0.7 × age) was virtually identical to that obtained from the meta-analysis.”"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：“The regression line was not different between men and women, nor was it influenced by wide variations in habitual physical activity levels.” Results 给出 sedentary 211−0.8×age、active 207−0.7×age、endurance-trained 206−0.7×age。"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-20",
+      "note": "原文：“Our findings suggest that the prevailing equation significantly underestimates HRmax in older adults.” 保留 suggest 与 significantly。"
+    },
+    {
+      "index": 5,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文结论：“1) A regression equation to predict HRmax is 208 − 0.7 × age in healthy adults.” 讨论并称该式“significantly different from the traditional 220 − age equation”。原文未用“recommend”一词，但整篇主旨即为以该式替代 220−age，claim 属同义转述。"
+    }
+  ]
+}

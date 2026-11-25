@@ -1,0 +1,83 @@
+{
+  "sourceId": "knowledge-statpearls-subungual-haematoma",
+  "title": "Subungual Hematoma Drainage",
+  "url": "https://www.ncbi.nlm.nih.gov/books/NBK482508/",
+  "publisher": "StatPearls Publishing (NCBI Bookshelf)",
+  "publishedAt": "2025-06-24",
+  "accessedAt": "2026-11-07",
+  "claims": [
+    "Current recommendations for acute subungual haematomas support trephination within 48 hours of injury.",
+    "Trephination offers no benefit in cases of nontraumatic subungual haematoma, which may arise from tumours including junctional nevi, melanoma or splinter haemorrhages.",
+    "Sterile technique is crucial in reducing the risk of procedural infection.",
+    "Potential complications include nail loss, haematoma reaccumulation and infection.",
+    "Imaging such as radiographs or point-of-care ultrasound helps identify distal phalanx fractures or nail bed lacerations.",
+    "Patients should avoid soaking the finger after the procedure to prevent bacterial contamination.",
+    "Signs of infection include warmth, redness, increasing swelling and fever.",
+    "The haematoma typically advances distally over several weeks; lack of progression warrants dermatology evaluation to rule out melanoma or a nevus.",
+    "Current evidence does not support routine postprocedure antibiotics."
+  ],
+  "license": null,
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "正文：急性甲下血肿 48 h 内行 trephination。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "正文：非外伤性血肿（痣、黑色素瘤、裂片出血）钻孔无益。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "正文：无菌技术降低操作感染。"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "正文列甲脱落、血肿再积聚、感染。"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "正文：X 线或床旁超声助识别远节指骨骨折/甲床裂伤。"
+    },
+    {
+      "index": 5,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "正文：术后避免浸泡以防细菌污染。"
+    },
+    {
+      "index": 6,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "正文：感染征象为红、肿痛加重、体温升高。"
+    },
+    {
+      "index": 7,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "正文：血肿数周内向远端移动；不进展需皮肤科排除黑色素瘤/痣。"
+    },
+    {
+      "index": 8,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "正文：现有证据不支持常规术后抗生素。"
+    }
+  ],
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "NCBI Bookshelf NBK482508（正文前段）",
+    "note": "页面可读，9 条核对到治疗/并发症/术后段。"
+  }
+}

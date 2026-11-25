@@ -1,0 +1,55 @@
+{
+  "sourceId": "knowledge-gstt-athletic-footwear",
+  "title": "Choosing athletic footwear",
+  "url": "https://www.guysandstthomas.nhs.uk/health-information/choosing-athletic-footwear",
+  "publisher": "Guy's and St Thomas' NHS Foundation Trust",
+  "publishedAt": "2026-01-01",
+  "accessedAt": "2026-11-07",
+  "claims": [
+    "The foot stretches about 5 mm between standing and walking.",
+    "Leave a thumb's width between the end of the longest toe and the end of the shoe.",
+    "Shoes should contain six or more eyelets so the fit can be adjusted with laces.",
+    "Padding at the inside of the heel helps hold the foot back in the shoe and make room for the toes.",
+    "The sole should be wider than the ball of the foot."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-20",
+    "checkedVia": "Guy's and St Thomas' NHS 运动鞋选择页（正文）",
+    "note": "运动鞋页正文可读；toe box 深度与圆头/方头表述由 knowledge-gstt-choosing-shoes 页支撑，本页不再重复该条。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "页面：站立到行走足长增加约 5 mm。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "页面：最长趾与鞋头留一拇指宽。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "页面：建议 6 个以上鞋眼以调贴合。"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "页面：鞋跟内衬垫防止足后移并给趾留空间。"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "页面：鞋底应宽于足掌。"
+    }
+  ]
+}

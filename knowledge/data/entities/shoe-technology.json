@@ -1,0 +1,41 @@
+{
+  "entityId": "knowledge:shoe-technology",
+  "slug": "shoe-technology",
+  "kind": "knowledge",
+  "status": "published",
+  "riskLevel": "general",
+  "sourceRefs": [
+    "knowledge-carbon-plate-review",
+    "knowledge-shoe-cushioning",
+    "knowledge-nhs-running-injuries",
+    "knowledge-carbon-plate-biomechanics-2026",
+    "knowledge-aft-economy-prolonged-2025"
+  ],
+  "relatedRefs": [
+    "knowledge:running-shoes",
+    "knowledge:trail-gear",
+    "knowledge:route-safety"
+  ],
+  "license": "CC-BY-4.0",
+  "createdAt": "2026-10-28",
+  "updatedAt": "2026-11-07",
+  "reviewedAt": "2026-11-07",
+  "reviewDueAt": "2027-05-07",
+  "translations": [],
+  "details": {
+    "primaryTopic": "gear",
+    "secondaryTopics": [
+      "training"
+    ],
+    "contentType": "guide",
+    "audiences": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "scenarios": [
+      "general-training",
+      "race-preparation"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "sourceId": "knowledge-carbon-plate-biomechanics-2026",
+  "title": "Carbon plates in running shoes biomechanics: a systematic review and meta-analysis",
+  "url": "https://www.frontiersin.org/journals/sports-and-active-living/articles/10.3389/fspor.2026.1764338/full",
+  "publisher": "Frontiers in Sports and Active Living",
+  "publishedAt": null,
+  "accessedAt": "2026-11-08",
+  "claims": [
+    "碳板鞋与踝关节功率下降呈边缘显著（SMD −0.71；95% CI −1.42 至 0.00；p = 0.05）。",
+    "步频呈小幅、非显著下降（SMD −0.16；95% CI −0.32 至 0.01；p = 0.06）。",
+    "作者提示证据确定性有限，生物力学差异不能直接等同于成绩提升。"
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "curl.exe（Frontiers 全文）",
+    "note": "Frontiers 全文可读，摘要、GRADE 段与讨论均取得。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "摘要：\"SMD = −0.71; 95% CI: −1.42 to 0.00; p = 0.05\"。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "摘要：\"SMD = −0.16; 95% CI: −0.32 to 0.01; p = 0.06\"。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "摘要：certainty \"low to moderate\"；讨论称不能把生物力学差异直接解释为成绩机制。"
+    }
+  ]
+}

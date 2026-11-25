@@ -1,0 +1,48 @@
+{
+  "sourceId": "knowledge-nhs-blisters",
+  "title": "Blisters",
+  "url": "https://www.nhs.uk/conditions/blisters/",
+  "publisher": "National Health Service",
+  "publishedAt": null,
+  "accessedAt": "2026-11-08",
+  "claims": [
+    "Most blisters heal on their own within about a week and usually do not need a GP appointment.",
+    "NHS advises keeping a blister clean, covering it with a soft plaster or padded dressing, and not bursting it yourself.",
+    "Blisters are mostly caused by friction, burns or skin reactions, and well-fitting shoes help prevent friction blisters on the feet.",
+    "Cover blisters with a soft plaster or padded dressing and do not burst a blister yourself."
+  ],
+  "license": "Crown copyright; cited under NHS website terms",
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-20",
+    "checkedVia": "WebFetch",
+    "note": "NHS 页面正文可读；原因一条按原文收窄，并补充覆盖敷料/勿挑破一条。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "\"Blisters often heal on their own within a week… you will not usually need to see a GP.\""
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Do：\"keep the blister as clean as possible\"、\"cover blisters with a soft plaster or padded dressing\"；Don't：\"do not burst a blister yourself\"。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-20",
+      "note": "页面：“They’re mostly caused by friction, burns and skin reactions”；“wear comfortable, well-fitting shoes”。"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-20",
+      "note": "页面 Do/Don’t：“cover blisters with a soft plaster or padded dressing”；“do not burst a blister yourself”。"
+    }
+  ]
+}

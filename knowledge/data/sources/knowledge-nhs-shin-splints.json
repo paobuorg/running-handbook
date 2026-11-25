@@ -1,0 +1,55 @@
+{
+  "sourceId": "knowledge-nhs-shin-splints",
+  "title": "Shin splints",
+  "url": "https://www.nhs.uk/conditions/shin-splints/",
+  "publisher": "National Health Service",
+  "publishedAt": "2023-02-09",
+  "accessedAt": "2026-11-07",
+  "claims": [
+    "Shin splints cause pain and tenderness along the front of the lower leg and usually happen after exercise such as running.",
+    "NHS self-care includes pain relief, icing for up to 20 minutes every 2 to 3 hours, switching temporarily to gentle exercise such as yoga or swimming, exercising on soft ground when ready, warming up and stretching.",
+    "NHS advises not continuing the exercise that caused the pain and not rushing back to the previous level.",
+    "NHS advises seeing a GP if pain worsens or does not improve, and contacting NHS 111 if pain is severe or the shin is injured.",
+    "NHS lists starting exercise after inactivity, running or jumping on hard surfaces, and poor running technique as risk factors."
+  ],
+  "license": "Crown copyright; cited under NHS website terms",
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "https://www.nhs.uk/conditions/shin-splints/",
+    "note": "NHS 页面全文抓取成功（症状、Do/Don't、就医阈值、危险因素），页面标注 last reviewed 2023-02-09。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：“Shin splints usually happen when you do exercise like running.”“You'll have pain and tenderness along the front of your lower leg (shin).”"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文 Do 清单：“use painkillers such as paracetamol or ibuprofen gel”“put an ice pack ... for up to 20 minutes every 2 to 3 hours”“switch to gentle exercise such as yoga or swimming”“exercise on soft ground, if you can, when you're feeling better”“warm up before exercise and stretch after exercise”。claim 省略了“穿支撑良好的鞋”一项，未添加内容。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文 Don't 清单：“do not continue doing the exercise that caused your shin splints”“do not rush back into exercise at the level you were at – build your exercise routine back up slowly”。"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：“See a GP if: you've tried things to help with shin splints but the pain is getting worse or it's not getting better”；“Get help from NHS 111 if: you have shin splints and the pain is severe / you've injured your shin”。claim 省略了看 GP 的前提“已尝试自助措施”，属概括而非加码。"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：“you have started exercising after not being active for some time”“you run or jump on hard surfaces”“you do not have a good running technique”。"
+    }
+  ]
+}

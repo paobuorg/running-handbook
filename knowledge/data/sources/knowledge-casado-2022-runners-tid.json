@@ -1,0 +1,55 @@
+{
+  "sourceId": "knowledge-casado-2022-runners-tid",
+  "title": "Training Periodization, Methods, Intensity Distribution, and Volume in Highly Trained and Elite Distance Runners: A Systematic Review",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/35418513/",
+  "publisher": "International Journal of Sports Physiology and Performance",
+  "publishedAt": "2022-06-01",
+  "accessedAt": "2026-11-07",
+  "claims": [
+    "Ten articles met the inclusion criteria for this systematic review of highly trained and elite distance runners.",
+    "Highly trained and elite distance runners typically follow a pyramidal training intensity distribution, with training volume decreasing from zone 1 to zone 2 to zone 3.",
+    "More pyramidal-oriented approaches were used by marathoners and more polarized-oriented approaches by 1500 m runners.",
+    "The authors encourage elite middle- and long-distance runners to shift from a pyramidal distribution in the preparatory and precompetitive periods toward a polarized distribution in the competitive period.",
+    "Elite distance runners are encouraged to use a traditional periodization pattern with a hard day-easy day basis."
+  ],
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "摘要：10 篇文章符合纳入标准。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "摘要：高水平/精英跑者多呈金字塔分布，训练量 Z1>Z2>Z3。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "摘要：马拉松更偏金字塔，1500 m 更偏极化。"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-20",
+      "note": "摘要结论用 “are encouraged to adopt”，属于作者建议，不是观察到的普遍做法。"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "摘要结论：建议采用传统周期化与“难易日”安排。"
+    }
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-20",
+    "checkedVia": "PubMed 摘要",
+    "note": "摘要可读，全文付费；第 3 条为“建议”被写成常见做法。"
+  }
+}

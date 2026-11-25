@@ -1,0 +1,76 @@
+{
+  "sourceId": "knowledge-rdash-black-toenails",
+  "title": "Foot care for children and teenagers",
+  "url": "https://www.rdash.nhs.uk/services/podiatry-foot-protection/general-foot-care/foot-care-for-children-and-teenagers/",
+  "publisher": "Rotherham Doncaster and South Humber NHS Foundation Trust (RDaSH)",
+  "publishedAt": "2025-08-12",
+  "accessedAt": "2026-11-07",
+  "claims": [
+    "Black toenails are caused by injury, which may be one direct injury from dropping an object, but can also occur from badly fitting footwear.",
+    "The discolouration is caused by a bleed under the toenail.",
+    "Open-toed footwear may be more comfortable, and avoidance of sports is recommended until the pain in the toe subsides.",
+    "The nail may loosen and possibly fall off; a new nail will eventually grow back, which can take up to a year for a big toenail.",
+    "A new nail can sometimes grow back permanently damaged or thickened.",
+    "Trim toenails after a bath or shower, using clippers to cut straight across, leaving a bit of the white part and avoiding cutting too short.",
+    "Shoes should have room to wiggle the toes, but shoes that are too big can cause as much trouble as shoes that are too small.",
+    "It is advisable to see an HCPC-registered podiatrist if you are worried about a black toenail."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "RDaSH NHS 儿童青少年足部护理页（正文）",
+    "note": "页面 Black toenails 段及鞋履/修剪段可读，8 条逐条核对。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "黑趾甲由直接外伤或不合脚鞋造成。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "变色源于甲下出血。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "建议露趾鞋，疼痛消退前避免运动。"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "甲可松动脱落，大趾甲再生可达一年。"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "新生甲有时永久变形或增厚。"
+    },
+    {
+      "index": 5,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "沐浴后平剪，保留白边，勿过短。"
+    },
+    {
+      "index": 6,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "鞋内可动趾，过大与过小同样有害。"
+    },
+    {
+      "index": 7,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "担心时建议看 HCPC 注册足病师。"
+    }
+  ]
+}

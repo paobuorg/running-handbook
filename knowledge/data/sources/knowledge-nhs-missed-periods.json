@@ -1,0 +1,34 @@
+{
+  "sourceId": "knowledge-nhs-missed-periods",
+  "title": "Missed or late periods",
+  "url": "https://www.nhs.uk/symptoms/missed-or-late-periods/",
+  "publisher": "NHS",
+  "publishedAt": null,
+  "accessedAt": "2026-11-07",
+  "claims": [
+    "The page advises seeing a GP if three periods in a row have been missed.",
+    "It also advises seeing a GP if periods have become irregular, or if missed periods are accompanied by weight change, tiredness, facial hair growth or skin changes."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-20",
+    "checkedVia": "NHS 错过/延迟月经页 HTML（正文）",
+    "note": "NHS 页面正文可读；经间出血、性交后出血改由 Heavy periods 页支撑，本页不再保留该条。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "页面：连续 3 次月经未来应看 GP。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "页面：周期不规律，或伴体重变化、乏力、面毛、皮肤改变。"
+    }
+  ]
+}

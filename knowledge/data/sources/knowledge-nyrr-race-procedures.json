@@ -1,0 +1,41 @@
+{
+  "sourceId": "knowledge-nyrr-race-procedures",
+  "title": "Race Procedures",
+  "url": "https://www.nyrr.org/guidelines-and-procedures-race-procedures",
+  "publisher": "New York Road Runners",
+  "publishedAt": null,
+  "accessedAt": "2026-11-07",
+  "claims": [
+    "建议至少提前 60 分钟到场，以便取物、存包、使用厕所并进入起跑区。",
+    "建议至少在起跑前 10 分钟进入起跑区。",
+    "号码布领取在起跑后 10 分钟关闭（该赛事规则）。"
+  ],
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "页面：建议至少提前 60 分钟到场，以存包、如厕并在起跑前 10 分钟进入起跑区。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "页面：建议至少在起跑前 10 分钟进入起跑区。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "页面：号码布领取在起跑后 10 分钟关闭。"
+    }
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "NYRR 网页正文（网页抓取）",
+    "note": "网页抓取可读；60 分钟、10 分钟与领号截止均见正文。"
+  }
+}

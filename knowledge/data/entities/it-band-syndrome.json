@@ -1,0 +1,41 @@
+{
+  "entityId": "knowledge:it-band-syndrome",
+  "slug": "it-band-syndrome",
+  "kind": "knowledge",
+  "status": "published",
+  "riskLevel": "guidance",
+  "sourceRefs": [
+    "knowledge-jhu-itbs",
+    "knowledge-medlineplus-itbs",
+    "knowledge-nhs-knee-pain",
+    "knowledge-nhs-running-injuries"
+  ],
+  "relatedRefs": [
+    "knowledge:pain-and-load",
+    "knowledge:return-to-running",
+    "knowledge:running-shoes",
+    "knowledge:strength-and-taper"
+  ],
+  "license": "CC-BY-4.0",
+  "createdAt": "2026-11-07",
+  "updatedAt": "2026-11-07",
+  "reviewedAt": "2026-11-07",
+  "reviewDueAt": "2027-11-07",
+  "translations": [],
+  "details": {
+    "primaryTopic": "health",
+    "secondaryTopics": [
+      "training",
+      "gear"
+    ],
+    "contentType": "guide",
+    "audiences": [
+      "beginner",
+      "intermediate"
+    ],
+    "scenarios": [
+      "general-training",
+      "injury"
+    ]
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "sourceId": "knowledge-crunkhorn-2025-bsi",
+  "title": "The Natural History of Bone Stress Injuries in Athletes: From Inception to Resolution",
+  "url": "https://doi.org/10.1007/s40279-025-02280-9",
+  "publisher": "Sports Medicine",
+  "publishedAt": "2025-07-28",
+  "claims": [
+    "Bone stress injuries have been reported to account for 15% to 20% of all musculoskeletal injuries in cross-country, track and field, triathlon, duathlon and recreational running athletes.",
+    "Most bone stress injuries in endurance runners occur in the lower limb (80% to 95%), mainly in the tibia (49%) and tarsal bones (25%).",
+    "Female runners have a bone stress injury incidence 1.8 to 2.3 times higher than male runners, and female triathletes have a 2.9-fold higher rate than male triathletes.",
+    "In an Australian high-performance audit covering 48 sports over three years, 66% of bone stress injuries occurred during training and 7% during competition.",
+    "Recurrence is common: one study reported that 15% of athletes across sports had two or more bone stress injuries during a three-year surveillance period, and lumbar spine recurrence in cricket was 39%.",
+    "Risk factors for bone stress injury include female sex, competitive participation, problematic low energy availability, vitamin D or iron deficiency, irregular menstrual cycles and training prescription errors.",
+    "Some studies report increased bone stress injury risk in female adolescent athletes training 12 to 16 hours or more per week and in male adolescents running more than 30 miles a week."
+  ],
+  "accessedAt": "2026-11-07",
+  "license": "Springer Nature copyright; citation and summary only",
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "WebFetch 经 doi.org 解析至 Springer 文章全文页",
+    "note": "Springer 页面提供全文正文，流行病学与风险因素各节均读取；无付费墙阻断。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：\"Bone stress injuries have been reported to account for 15–20% of all musculoskeletal injuries in cross-country, track and field, triathlon, duathlon and recreational running athletes\"。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：\"Most BSIs in endurance runners occur in the lower limb (80–95%), mainly in the tibia (49%) and tarsal bones (25%)\"。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：female runners \"1.8–2.3 times higher than male runners\"；female triathletes \"a 2.9-fold higher rate\"。"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：\"48 different sports over a 3-year period\"，\"during training (66%) as opposed to competition (7%)\"。"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：\"15% of athletes across a variety of sports reporting two or more BSIs during the 3-year surveillance period\"；腰椎 \"39% in cricket\"。"
+    },
+    {
+      "index": 5,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文逐项列出：\"female sex, competitive sport participation, problematic low energy availability (LEA), vitamin D or iron deficiency, irregular menstrual cycles and training prescription errors\"。"
+    },
+    {
+      "index": 6,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：女性青少年 \"training between 12 and 16 h or more per week\" 风险升高；男性青少年 \"running greater than 30 miles a week\"。"
+    }
+  ]
+}

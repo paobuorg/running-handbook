@@ -1,0 +1,38 @@
+{
+  "entityId": "knowledge:training-volume-and-progression",
+  "slug": "training-volume-and-progression",
+  "kind": "knowledge",
+  "status": "published",
+  "riskLevel": "guidance",
+  "sourceRefs": [
+    "knowledge-buist-2008-10-percent-rule",
+    "knowledge-nielsen-2014-progression",
+    "knowledge-running-injury-review"
+  ],
+  "relatedRefs": [
+    "knowledge:load-and-overtraining",
+    "knowledge:training-week",
+    "knowledge:pain-and-load",
+    "knowledge:return-to-running"
+  ],
+  "license": "CC-BY-4.0",
+  "createdAt": "2026-11-07",
+  "updatedAt": "2026-11-07",
+  "reviewedAt": "2026-11-07",
+  "reviewDueAt": "2027-11-07",
+  "translations": [],
+  "details": {
+    "primaryTopic": "training",
+    "secondaryTopics": [
+      "health"
+    ],
+    "contentType": "guide",
+    "audiences": [
+      "beginner",
+      "intermediate"
+    ],
+    "scenarios": [
+      "general-training"
+    ]
+  }
+}

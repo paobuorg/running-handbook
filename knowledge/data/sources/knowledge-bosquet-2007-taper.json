@@ -1,0 +1,55 @@
+{
+  "sourceId": "knowledge-bosquet-2007-taper",
+  "title": "Effects of tapering on performance: a meta-analysis",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/17762369/",
+  "publisher": "Medicine & Science in Sports & Exercise",
+  "publishedAt": "2007-08-01",
+  "accessedAt": "2026-11-07",
+  "claims": [
+    "Twenty-seven of 182 potential studies met the inclusion criteria for this meta-analysis of taper effects on performance in competitive athletes.",
+    "The optimal strategy was a tapering intervention of 2-week duration (overall effect 0.59 ± 0.33, P < 0.001).",
+    "Training volume was exponentially decreased by 41%–60% (overall effect 0.72 ± 0.36, P < 0.001).",
+    "Performance gains were obtained without any modification of training intensity (overall effect 0.33 ± 0.14) or training frequency (overall effect 0.35 ± 0.17).",
+    "The authors concluded that a 2-week taper with a 41%–60% exponential reduction in training volume is the most efficient strategy for maximizing performance gains."
+  ],
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "摘要：182 项潜在研究中 27 项符合纳入标准。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "摘要：2 周减量总体效应 0.59±0.33，P<0.001。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "摘要：训练量指数下降 41%–60%，总体效应 0.72±0.36。"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "摘要：强度与频率不变时效应分别为 0.33±0.14、0.35±0.17。"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "摘要结论：2 周、训练量指数降 41%–60% 是最大化表现的最有效策略。"
+    }
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "PubMed 摘要（NCBI E-utilities）",
+    "note": "PubMed 页面有 JS 校验，改用 NCBI E-utilities 取摘要；摘要覆盖全部数字。"
+  }
+}

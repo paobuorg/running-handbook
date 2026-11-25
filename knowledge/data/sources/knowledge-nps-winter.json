@@ -1,0 +1,50 @@
+{
+  "sourceId": "knowledge-nps-winter",
+  "title": "Winter Hiking Tips",
+  "url": "https://www.nps.gov/articles/000/winterhikingtips.htm",
+  "publisher": "U.S. National Park Service",
+  "publishedAt": "2024-10-11",
+  "accessedAt": "2026-10-27",
+  "claims": [
+    "Winter conditions require layers of clothing, warm outer layers, sunglasses, sunscreen, water and snacks.",
+    "Traction devices are recommended on ice and snow, and snowshoes or traction devices are recommended for winter conditions.",
+    "Do not rely on cell phones; carry a map and compass or GPS and know how to use them.",
+    "Check the weather and trail conditions, tell someone your plans and expected return time, and be willing to turn around.",
+    "Snow-covered landscapes can hide trail markers; do not rely on other people's tracks."
+  ],
+  "license": null,
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-19"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-19"
+    }
+  ],
+  "verification": {
+    "checkedAt": "2026-11-19",
+    "checkedVia": "web_fetch（官方页面正文）",
+    "access": "direct",
+    "bodyRead": true,
+    "note": "2026-11-19 直接读取官方页面可读正文，逐条核对 claims；页面为公开官方说明。"
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "sourceId": "knowledge-airnow-school-activity",
+  "title": "Air Quality and Outdoor Activity Guidance for Schools",
+  "url": "https://www.berkeleyschools.net/wp-content/uploads/2017/10/Air-Quality-and-Outdoor-Activity.pdf",
+  "publisher": "AirNow / U.S. Environmental Protection Agency",
+  "publishedAt": null,
+  "claims": [
+    "Green (Good): a great day to be active outside.",
+    "Yellow (Moderate): a good day to be active outside; students who are unusually sensitive could have symptoms.",
+    "Orange (Unhealthy for Sensitive Groups): short activities such as recess and physical education are still OK; for longer activities such as athletic practice, take more breaks and do less intense activities, and watch for symptoms.",
+    "Red (Unhealthy): for all outdoor activities, take more breaks and do less intense activities; consider moving longer or more intense activities indoors or rescheduling them.",
+    "Purple (Very Unhealthy): move all activities indoors or reschedule them to another day.",
+    "There is less ozone in the morning; on days when ozone is expected to be unhealthy, plan outdoor activities in the morning.",
+    "Symptoms to watch for include coughing, wheezing, difficulty breathing and chest tightness; if symptoms occur, take a break, reduce intensity, stop, go indoors or use prescribed quick-relief medicine, and get medical help if they do not improve."
+  ],
+  "accessedAt": "2026-11-07",
+  "license": "Public domain (US government work); cited with attribution",
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "WebFetch https://www.berkeleyschools.net/wp-content/uploads/2017/10/Air-Quality-and-Outdoor-Activity.pdf",
+    "note": "PDF 可读，正文为 AQI 五色（green/yellow/orange/red/purple）学校活动指引，含“Check the air quality daily at www.airnow.gov”。但文件托管在 Berkeley Unified School District 站点（2017/10 上传），非 airnow.gov 原始路径，PDF 内无发布日期；引用时应说明托管方，不能据此断定其与当前 AirNow 版本完全同步。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "绿档原文：“Great day to be active outside!”（同时标注 GOOD）。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "黄档原文：“Good day to be active outside! Students who are unusually sensitive to air pollution could have symptoms.”"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "橙档原文：“It’s OK to be active outside, especially for short activities such as recess and physical education (PE). For longer activities such as athletic practice, take more breaks and do less intense activities. Watch for symptoms and take action as needed.”"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "红档原文：“For all outdoor activities, take more breaks and do less intense activities. Consider moving longer or more intense activities indoors or rescheduling them to another day or time.”"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "紫档原文：“Move all activities indoors or reschedule them to another day.”"
+    },
+    {
+      "index": 5,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "“Plan Ahead for Ozone”段原文：“There is less ozone in the morning. On days when ozone is expected to be at unhealthy levels, plan outdoor activities in the morning.”"
+    },
+    {
+      "index": 6,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：“Symptoms of asthma include coughing, wheezing, difficulty breathing, and chest tightness.”；“If symptoms occur: The student might need to take a break, do a less intense activity, stop all activity, go indoors, or use quick-relief medicine as prescribed. If symptoms don’t improve, get medical help.”"
+    }
+  ]
+}

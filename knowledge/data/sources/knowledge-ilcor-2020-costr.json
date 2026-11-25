@@ -1,0 +1,39 @@
+{
+  "sourceId": "knowledge-ilcor-2020-costr",
+  "title": "2020 International Consensus on Cardiopulmonary Resuscitation and Emergency Cardiovascular Care Science With Treatment Recommendations",
+  "url": "https://costr.ilcor.org/",
+  "publisher": "International Liaison Committee on Resuscitation / Resuscitation",
+  "publishedAt": "2020-10-01",
+  "claims": [
+    "ILCOR publishes the international evidence review that national councils, including the AHA and ERC, adapt into their guidelines.",
+    "The 2020 CoSTR BLS document covers recognition, emergency calling and bystander response.",
+    "It supports dispatch-assisted recognition and instruction as part of the emergency response system."
+  ],
+  "license": null,
+  "accessedAt": "2026-11-07",
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-20",
+    "checkedVia": "ILCOR About page + 2020 CoSTR Adult Basic Life Support PDF",
+    "note": "ILCOR About 与 2020 CoSTR BLS 全文已读；1 条因超出该文档范围收窄为 partial。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-07"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-20",
+      "note": "CoSTR BLS 原文覆盖识别、呼救与旁观者反应；systems of care 属 AHA 指南 Part 7，已删除该表述。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-07"
+    }
+  ]
+}

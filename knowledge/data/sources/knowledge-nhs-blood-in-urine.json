@@ -1,0 +1,69 @@
+{
+  "sourceId": "knowledge-nhs-blood-in-urine",
+  "title": "Blood in urine",
+  "url": "https://www.nhs.uk/symptoms/blood-in-urine/",
+  "publisher": "NHS",
+  "publishedAt": "2026-09-25",
+  "accessedAt": "2026-11-07",
+  "claims": [
+    "If you think you have blood in your pee, you need to get it checked, even if there is only a small amount or you are not sure it is blood.",
+    "The NHS advises asking for an urgent GP appointment or getting help from NHS 111 if you have blood in your pee.",
+    "Blood in urine may be bright pink, red or dark brown.",
+    "Blood in your pee must be checked out because it can be a sign of cancer; cancer may be easier to treat if found early.",
+    "At the appointment a GP may ask for a urine sample or arrange a blood test, prescribe antibiotics if an infection is suspected, or refer to a specialist.",
+    "Beetroot, some new medicines, bleeding from the bottom, and vaginal or period bleeding can make urine look bloody; the page says do not self-diagnose.",
+    "The page lists urinary tract infection, kidney stones and enlarged prostate as possible causes, each with a distinct symptom pattern."
+  ],
+  "license": "NHS website content; citation and summary only",
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "NHS 症状页明确：即使量少或不确定是血也要检查。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "页面 Do 项：urgent GP appointment 或 NHS 111。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "页面颜色描述为 bright pink、red、dark brown。"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "页面：可能提示癌症，早发现早治疗。"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "就诊段：尿样、血检、疑感染开抗生素、必要时转专科。"
+    },
+    {
+      "index": 5,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "页面列甜菜根、新药、肛门/阴道/经期出血等假性血尿，并劝勿自行判断。"
+    },
+    {
+      "index": 6,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "页面分列 UTI（烧灼/尿频）、肾结石（腰侧痛）、前列腺增生（排尿困难）的症状。"
+    }
+  ],
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "NHS 症状页 HTML（正文）",
+    "note": "NHS Blood in urine 页面正文可读，7 条逐条核对。"
+  }
+}

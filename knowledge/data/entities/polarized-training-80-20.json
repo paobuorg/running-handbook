@@ -1,0 +1,51 @@
+{
+  "entityId": "knowledge:polarized-training-80-20",
+  "slug": "polarized-training-80-20",
+  "kind": "knowledge",
+  "status": "published",
+  "riskLevel": "guidance",
+  "sourceRefs": [
+    "knowledge-seiler-2010-tid",
+    "knowledge-seiler-tonnessen-2009",
+    "knowledge-seiler-kjerland-2006",
+    "knowledge-stoggl-sperlich-2015-tid",
+    "knowledge-stoggl-sperlich-2014-rct",
+    "knowledge-casado-2022-runners-tid",
+    "knowledge-festa-2019-recreational-tid",
+    "knowledge-rosenblat-2019-meta",
+    "knowledge-treff-2017-rowers-pol",
+    "knowledge-acsm-getp8-hrr",
+    "knowledge-cdc-intensity"
+  ],
+  "relatedRefs": [
+    "knowledge:heart-rate-zones",
+    "knowledge:easy-run",
+    "knowledge:tempo-and-intervals",
+    "knowledge:training-week",
+    "knowledge:training-volume-and-progression",
+    "knowledge:race-day-pacing"
+  ],
+  "license": "CC-BY-4.0",
+  "createdAt": "2026-11-07",
+  "updatedAt": "2026-11-07",
+  "reviewedAt": "2026-11-07",
+  "reviewDueAt": "2027-11-07",
+  "translations": [],
+  "details": {
+    "primaryTopic": "training",
+    "secondaryTopics": [
+      "health",
+      "recovery"
+    ],
+    "contentType": "guide",
+    "audiences": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "scenarios": [
+      "general-training",
+      "race-preparation"
+    ]
+  }
+}

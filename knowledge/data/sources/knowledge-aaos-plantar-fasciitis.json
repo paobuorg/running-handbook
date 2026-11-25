@@ -1,0 +1,62 @@
+{
+  "sourceId": "knowledge-aaos-plantar-fasciitis",
+  "title": "Plantar Fasciitis and Bone Spurs",
+  "url": "https://orthoinfo.aaos.org/en/diseases--conditions/plantar-fasciitis-and-bone-spurs/",
+  "publisher": "American Academy of Orthopaedic Surgeons",
+  "publishedAt": null,
+  "accessedAt": "2026-11-07",
+  "claims": [
+    "AAOS states more than 90% of patients with plantar fasciitis improve within 10 months of starting simple treatment methods.",
+    "AAOS says a heel spur can be the result of longstanding tension, notes that most people with heel spurs do not have heel pain, and states that heel bone spurs are not the cause of plantar fasciitis.",
+    "AAOS calls stretching the calves and plantar fascia the most effective way to relieve pain, with a 10-second hold repeated 20 times per foot.",
+    "AAOS recommends rolling the foot over a cold water bottle or ice for 20 minutes, 3 to 4 times a day.",
+    "AAOS notes night splints stretch the plantar fascia during sleep and are very effective at reducing morning heel pain.",
+    "AAOS reserves surgery for people without improvement after 12 months of aggressive nonsurgical treatment."
+  ],
+  "license": "All rights reserved; facts summarized with attribution",
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "WebFetch 原 URL，301 后读取实际落地页",
+    "note": "AAOS OrthoInfo 足底筋膜炎页全文；2026-11-20 补回“can be”的可能性语气。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：“More than 90% of patients with plantar fasciitis will improve within 10 months of starting simple treatment methods.”"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-20",
+      "note": "原文：“A heel spur can be the result of longstanding tension”；“most people who have bone spurs on their heels do not have heel pain”；“heel bone spurs are not the cause of plantar fasciitis”。补回 can，避免写成确定因果。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：“Stretching your calves and plantar fascia is the most effective way to relieve the pain”；calf stretch 与 plantar fascia stretch 均为“Hold ... 10 seconds. Repeat ... 20 times for each foot”。"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：“Rolling your foot over a cold water bottle or ice for 20 minutes is effective. This can be done 3 to 4 times a day.”"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：“A night splint stretches the plantar fascia while you sleep... a night splint is very effective at reducing heel pain from plantar fasciitis.” “morning”来自紧邻上文晨起痛语境。"
+    },
+    {
+      "index": 5,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：“surgery is generally saved for people who have not seen improvement after 12 months of aggressive nonsurgical treatment.”"
+    }
+  ]
+}

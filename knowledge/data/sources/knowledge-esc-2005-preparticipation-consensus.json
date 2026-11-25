@@ -1,0 +1,44 @@
+{
+  "sourceId": "knowledge-esc-2005-preparticipation-consensus",
+  "title": "Cardiovascular pre-participation screening of young competitive athletes for prevention of sudden death: proposal for a common European protocol",
+  "url": "https://academic.oup.com/eurheartj/article/26/5/516/2888062",
+  "publisher": "European Heart Journal",
+  "publishedAt": "2005-02-02",
+  "accessedAt": "2026-11-07",
+  "claims": [
+    "The 2005 ESC consensus statement proposed a common European protocol for pre-participation cardiovascular screening of young competitive athletes.",
+    "Personal history is considered positive in the case of exertional chest pain or discomfort, syncope or near-syncope, irregular heartbeat or palpitations, and shortness of breath or fatigue out of proportion to exertion.",
+    "Physical examination includes features suggestive of Marfan syndrome, femoral artery pulses, systolic clicks or murmurs and blood pressure.",
+    "The proposed protocol includes a 12-lead ECG."
+  ],
+  "license": "ESC; citation and summary only",
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-07",
+    "checkedVia": "European Heart Journal 26(5):516-524 full-text PDF",
+    "note": "9 页全文 PDF 已读；病史、体检细目与 12 导联 ECG 均逐条核对。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-07"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-07"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-07"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-07"
+    }
+  ]
+}
