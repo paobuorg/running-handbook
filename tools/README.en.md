@@ -6,11 +6,11 @@ This repository holds the tool descriptions, input/output contracts, formula ass
 
 ## Status
 
-- Twelve tools: pace, splits, run-walk, race prediction, fueling planner, track view, format conversion, track simplification, elevation analysis, shoe mileage, race checklist and route-field comparison. Each has Chinese and English documentation.
-- All twelve tools were **AI-assisted editorially reviewed** and published on 2026-10-28 (`published`, with bilingual `approve` records and matching digests). The reviewer is `runmap-editorial`, explicitly AI-assisted, not independent professional review. Physical-device performance remains unverified.
-- Twenty-six independent cases live in `data/cases/`. They cover the three pace modes, negative splits, truncated run-walk schedules, Riegel predictions, track elevation and simplification offsets, fueling durations, missing elevation, shoe-mileage summaries and a trail checklist.
+- Eighteen tools: pace, splits, run-walk, race prediction, fueling planner, carb loading, heat adjustment, training load, injury-risk check, shoe mileage, race checklist, track view, track conversion, track simplification, elevation analysis, grade-adjusted pace, sweat rate and route-field comparison. Each has Chinese and English documentation.
+- All eighteen tools have completed **AI-assisted editorial review** and are published (`published`, with bilingual `approve` records and matching digests). The reviewer is `runmap-editorial`, explicitly AI-assisted, not independent professional review. Physical-device performance remains unverified.
+- Forty-three independent cases live in `data/cases/`. They cover pace modes, splits, truncated run-walk schedules, Riegel predictions, fueling and carbs, heat adjustment, training load, track elevation and simplification offsets, sweat rate, shoe-mileage summaries and a trail checklist.
 - The only author/review identity is `runmap-editorial`, shown as “RunUp Editorial”. No personal qualification is claimed; review records are AI-assisted editorial reviews, not independent professional review.
-- The six repositories are published under `paobuorg`, and the tools site is live at `https://tools.paobu.org/`.
+- This content tree is the `tools/` subtree of `running-handbook`; the tools site passes local builds and has not been pushed to production.
 
 ## Tools and methods
 
