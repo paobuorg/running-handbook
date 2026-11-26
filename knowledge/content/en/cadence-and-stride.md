@@ -84,6 +84,8 @@ This page does not provide individual gait retraining or injury treatment. Caden
 
 ## Related reading
 
+- [Core running terms: pace, RPE, cadence and training language](/en/glossary/core-terms/)
+
 - [Running form: a framework for cadence, stride, breathing and hills](/en/knowledge/running-form/)
 - [Uphill and downhill: how gradient changes movement](/en/knowledge/uphill-and-downhill/)
 - [Shoe fit and cushioning: fit matters more than softness](/en/knowledge/shoe-fit-and-cushioning/)

@@ -58,6 +58,16 @@ When the elevation of an adjacent pair is null, missing or blank, ascent, descen
 
 Assume the file holds two independent segments: segment A is `[0, 0, 0] → [0, 0.001, 50]` and segment B is `[0, 0.003, 50] → [0, 0.004, 0]`. The two segments are not connected in the file. Independent recomputation: each segment is about 111.19 metres horizontally, for a total of about 222.38 metres, rounded to 222 m; segment A is +50 m and segment B is −50 m; minimum 0 m, maximum 50 m; grade on each pair is 50 ÷ 111.19 × 100% ≈ 45.0%; the profile keeps 4 points. The common mistake is to connect the end of A to the start of B, adding an extra horizontal distance and a flat 50-metre connector. The tool does not join segments, so the gap between them is not counted in total distance.
 
+### Case matrix
+
+Existing cases side by side by input, expected output and coverage. Values come from `data/cases`; nothing is re-derived by hand.
+
+| Case | Input | Expected | Coverage |
+|---|---|---|---|
+| `case-route-elevation-hill` | `{"track":{"format":"gpx","segments":[[{"lon":0,"lat":0,"elevation":0},{"lon":0,…` | `{"gainMeters":100,"lossMeters":100,"minElevationMeters":0,"maxElevationMeters":…` | Typical |
+| `case-route-elevation-missing` | `{"track":{"format":"gpx","segments":[[{"lon":0,"lat":0,"elevation":null},{"lon"…` | `{"gainMeters":null,"lossMeters":null,"profilePoints":0,"warning":"elevation-mis…` | Second unit/boundary |
+| `case-route-elevation-segments` | `{"segments":[[[0,0,0],[0,0.001,50]],[[0,0.003,50],[0,0.004,0]]]}` | `{"distanceMeters":222,"gainMeters":50,"lossMeters":50,"minElevationMeters":0,"m…` | Third unit |
+
 ## Reading the result
 
 Read total distance and the scale of climbing first, then look for steep rises, steep drops and long climbs in the profile, alongside aid points, surface and weather. "Unknown" elevation means the data is missing, not that the route is flat. Maximum grade describes one adjacent pair; it does not give the average difficulty of a climb or replace judgments about technical terrain, traffic or rockfall. The elevation range can help you decide clothing and fuel, but it does not assess air density, visibility or surface slipperiness.

@@ -101,6 +101,6 @@ Marathon distance follows the World Athletics marathon page; record categories, 
 <!-- related-ring -->
 ## Related entries
 
-- [Core running terms: pace, RPE, cadence and training language](/en/knowledge/core-terms/)
+- [Core running terms: pace, RPE, cadence and training language](/en/glossary/core-terms/)
 - [Why the marathon is 42.195 kilometres](/en/knowledge/marathon-distance/)
 - [Race and shared-path etiquette: rules, space and predictability](/en/knowledge/race-and-shared-path-etiquette/)

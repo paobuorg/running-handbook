@@ -90,6 +90,16 @@ ACSM sets the goal of drinking during exercise as **preventing more than 2% body
 
 The denominator is pre-exercise body mass, so the same 1.4 L loss is about 2.0% for a 70 kg runner and about 2.3% for a 60 kg runner. That is why the tool asks for body mass instead of reporting only litres per hour.
 
+### Case matrix
+
+Existing cases side by side by input, expected output and coverage. Values come from `data/cases`; nothing is re-derived by hand.
+
+| Case | Input | Expected | Coverage |
+|---|---|---|---|
+| `case-sweat-rate-hour-run` | `{"preWeightKg":70,"postWeightKg":69.2,"fluidIntakeLiters":0.5,"durationMinutes"…` | `{"netLossLiters":1.3,"sweatRateLitersPerHour":1.3,"bodyMassLossPercent":1.14,"a…` | Typical |
+| `case-sweat-rate-ninety-minutes` | `{"preWeightKg":60,"postWeightKg":59.1,"fluidIntakeLiters":0.3,"durationMinutes"…` | `{"netLossLiters":1.2,"sweatRateLitersPerHour":0.8,"bodyMassLossPercent":1.5,"ab…` | Second unit/boundary |
+| `case-sweat-rate-over-two-percent` | `{"preWeightKg":65,"postWeightKg":63.5,"fluidIntakeLiters":0.4,"durationMinutes"…` | `{"netLossLiters":1.9,"sweatRateLitersPerHour":1.9,"bodyMassLossPercent":2.31,"a…` | Third unit |
+
 ## Reading the result
 
 - **Net loss** is the fluid deficit for this session, not a "level of dehydration"; it combines the scale change with the volume drunk.

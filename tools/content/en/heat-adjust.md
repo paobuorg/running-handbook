@@ -60,6 +60,16 @@ At the boundary, 20 °C and 100% humidity give 20 + 0.04 × 100 = 24.0, exactly 
 
 With 32 °C, 70% humidity, a 300 s/km baseline and 120 minutes planned: heat score = 32 + 0.04 × 70 = 34.8, in the extreme band (30 and above). The slowdown range is 10% to 12%: low 300 × 1.10 = 330 s/km, high 300 × 1.12 = 336 s/km. The 120-minute duration is a long exposure, so lean toward the upper end with extra caution. The extreme band does not mean "train slowly and keep going"; postponing, shortening or moving indoors is the safer choice.
 
+### Case matrix
+
+Existing cases side by side by input, expected output and coverage. Values come from `data/cases`; nothing is re-derived by hand.
+
+| Case | Input | Expected | Coverage |
+|---|---|---|---|
+| `case-heat-adjust-very-hot` | `{"temperatureC":22,"relativeHumidityPercent":65,"baselinePaceSecondsPerKm":300,…` | `{"heatScore":24.6,"adjustedPaceLowSeconds":321,"adjustedPaceHighSeconds":330,"b…` | Typical |
+| `case-heat-adjust-boundary` | `{"temperatureC":20,"relativeHumidityPercent":100,"baselinePaceSecondsPerKm":240…` | `{"heatScore":24.0,"adjustedPaceLowSeconds":257,"adjustedPaceHighSeconds":264,"b…` | Second unit/boundary |
+| `case-heat-adjust-extreme` | `{"temperatureC":32,"relativeHumidityPercent":70,"baselinePaceSecondsPerKm":300,…` | `{"heatScore":34.8,"adjustedPaceLowSeconds":330,"adjustedPaceHighSeconds":336,"b…` | Third unit |
+
 ## Rounding and precision
 
 The heat score keeps one decimal and paces round to whole seconds, so pace tolerance is 1 second; scores and percentages use 1e-6. Rounding happens only at the end, so a rounded figure is not multiplied again. Input temperature and humidity usually come from a forecast or watch and are imprecise; one degree or a few humidity points can move the result across a boundary. When recomputing by hand, keep the unrounded product before rounding to seconds.

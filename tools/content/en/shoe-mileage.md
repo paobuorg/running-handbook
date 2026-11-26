@@ -48,6 +48,24 @@ A trail shoe starts at 210.5 km with an 800 km reminder and logs 12.4, 8.6 and 1
 
 Assume a shoe starts at 580 km with a 600 km reminder and logs two 15 km runs: total 580 + 15 + 15 = 610 km. Remaining distance uses max(0, 600 − 610) = 0 km; the tool never reports a negative remaining value. Progress is 610 ÷ 600 × 100 = 101.666…%, shown 101.7%, and may exceed 100%; two runs, latest date 2026-11-25. The common mistakes are reporting a remaining mileage of −10 km, or capping progress at 100%. Crossing the reminder is an inspection signal, not an automatic replacement verdict.
 
+### Case matrix
+
+Existing cases side by side by input, expected output and coverage. Values come from `data/cases`; nothing is re-derived by hand.
+
+| Case | Input | Expected | Coverage |
+|---|---|---|---|
+| `case-shoe-mileage-summary` | `{"shoe":{"id":"shoe-1","name":"Daily trainer","initialKm":100,"reminderKm":600}…` | `{"totalKm":115,"runCount":2,"remainingKm":485,"percentOfReminder":19.2,"lastRun…` | Typical |
+| `case-shoe-mileage-trail` | `{"shoe":{"id":"shoe-2","name":"Trail shoe","initialKm":210.5,"reminderKm":800},…` | `{"totalKm":246.5,"runCount":3,"remainingKm":553.5,"percentOfReminder":30.8,"las…` | Second unit/boundary |
+| `case-shoe-mileage-over-reminder` | `{"shoe":{"id":"shoe-3","name":"Race-day trainer","initialKm":580,"reminderKm":6…` | `{"totalKm":610,"runCount":2,"remainingKm":0,"percentOfReminder":101.7,"lastRunD…` | Third unit |
+
+### Inputs and assumptions
+
+| Input | Unit/range | Role |
+|---|---|---|
+| Current mileage | km or mi | Sets wear already used |
+| Months in use | months | Combined with mileage for replacement timing |
+| Weekly volume | km/week | Projects remaining life |
+
 ## Rounding and tolerance
 
 Total and remaining distance keep one decimal with a ±0.05 km tolerance. Reminder progress keeps one decimal with ±0.05 percentage points. Run count is an integer with no tolerance. Single-run distances also keep one decimal, so rounding can accumulate over many entries; check the total against a longer record if precision matters. When recomputing by hand, keep unrounded intermediate values rather than dividing figures that have already been rounded to one decimal.

@@ -43,6 +43,16 @@ Servings round up so you carry enough; actual intake still needs adjustment in t
 
 These values follow independent arithmetic and can be repeated from a product label.
 
+### Case matrix
+
+The table puts the existing cases side by side by input, expected output and coverage. Values come from `data/cases`; nothing is re-derived by hand.
+
+| Case | Input | Expected | Coverage |
+|---|---|---|---|
+| `case-fueling-planner-90` | `{"durationMinutes":90,"productCarbsGrams":25}` | `{"durationHours":1.5,"lowTotalGrams":45,"highTotalGrams":90,"servingsLow":2,"servingsHigh…` | Typical |
+| `case-fueling-planner-180` | `{"durationMinutes":180,"productCarbsGrams":30}` | `{"durationHours":3,"lowTotalGrams":90,"highTotalGrams":180,"servingsLow":3,"servingsHigh"…` | Second unit/boundary |
+| `case-fueling-planner-short` | `{"durationMinutes":45,"productCarbsGrams":25}` | `{"durationHours":0.75,"needsFuel":false,"lowTotalGrams":0,"highTotalGrams":0,"servingsLow…` | Third unit |
+
 ## Rounding and tolerance
 
 Total carbohydrate is reported in whole grams with a ±0.5-gram tolerance. Servings round up to a whole serving, so the count can only be higher than the exact value, never lower. Duration is reported in hours to two decimals with a ±0.005-hour (about ±18-second) tolerance. Rounding up can exceed the high total: four servings at 25 g is 100 g, above the 90 g planning upper bound. That is a carry margin, not an instruction to eat everything.

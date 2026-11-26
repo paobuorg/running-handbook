@@ -113,4 +113,4 @@ translationStatus: reviewed
 
 - [巴克利马拉松：一场没有官方赛道的比赛](/knowledge/barkley-marathons/)
 - [经典赛事与赛事历史：版本、传统与比赛条件](/knowledge/classic-races-and-history/)
-- [跑步基础术语表：配速、RPE、步频与训练黑话](/knowledge/core-terms/)
+- [跑步基础术语表：配速、RPE、步频与训练黑话](/glossary/core-terms/)

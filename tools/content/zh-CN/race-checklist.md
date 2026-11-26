@@ -54,6 +54,16 @@ translationStatus: reviewed
 
 假设公路、3 小时以内、天气温和、不异地：只有基础四节（参赛与身份、衣物与鞋、补给与水、交通与赛后），共 4 节，不产生导航、紧急、降温、保暖或行程追加项。常见错误是把越野清单的头灯、哨子和急救包默认加进所有比赛；在这个输入下这些章节并不触发。反过来，若赛事规程另有强制装备要求，即使清单没列出，也必须按规程携带。
 
+### 算例矩阵
+
+已有算例按输入、预期与覆盖点并排；数值来自 `data/cases`，不另手算。
+
+| 算例 | 输入摘要 | 预期结果 | 覆盖点 |
+|---|---|---|---|
+| `case-race-checklist-trail` | `{"raceType":"trail","duration":"over-6h","weather":"hot","travel":true}` | `{"sectionIds":["entry","clothing","fuel","logistics","heat","trail","long-race"…` | 典型 |
+| `case-race-checklist-road-rain` | `{"raceType":"road","duration":"3-6h","weather":"rain","travel":false}` | `{"sectionIds":["entry","clothing","fuel","logistics","cold-wet"],"requiredItems…` | 第二口径/边界 |
+| `case-race-checklist-road-mild` | `{"raceType":"road","duration":"under-3h","weather":"mild","travel":false}` | `{"sectionIds":["entry","clothing","fuel","logistics"],"requiredItems":[]}` | 第三口径 |
+
 ## 舍入与精度
 
 清单没有数值取整，输出是结构化章节与项目，容差为 0。章节数量与顺序由输入条件唯一决定；同一组输入重复生成应得到同一结果。工具不合并、不去重跨章节的相似项目，也不按优先级排序，因此“章节数”不能理解为装备件数。项目名称是提醒类别，不代表某一品牌或型号，也不代表装备已经过测试。

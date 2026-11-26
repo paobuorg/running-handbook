@@ -37,6 +37,16 @@ Both distances must lie between 5,000 and 42,195 metres. The exponent is fixed a
 - 10,000 m in 3,000 s, target 21,097.5 m: ratio 2.10975, estimate 6,619.209 → 6,619 s; about 314 s/km, 505 s/mi and 11.47 km/h.
 - 21,097.5 m in 5,700 s, target 42,195 m: ratio 2, estimate 11,884.110 → 11,884 s; about 282 s/km, 453 s/mi and 12.78 km/h.
 
+### Case matrix
+
+Existing cases side by side by input, expected output and coverage. Values come from `data/cases`; nothing is re-derived by hand.
+
+| Case | Input | Expected | Coverage |
+|---|---|---|---|
+| `case-race-predict-5k-10k` | `{"knownDistanceMeters":5000,"knownTimeSeconds":1200,"targetDistanceMeters":1000…` | `{"predictedSeconds":2502,"ratio":2,"paceSecondsPerKm":250,"paceSecondsPerMile":…` | Typical |
+| `case-race-predict-10k-half` | `{"knownDistanceMeters":10000,"knownTimeSeconds":3000,"targetDistanceMeters":210…` | `{"predictedSeconds":6619,"ratio":2.10975,"paceSecondsPerKm":314,"paceSecondsPer…` | Second unit/boundary |
+| `case-race-predict-half-marathon` | `{"knownDistanceMeters":21097.5,"knownTimeSeconds":5700,"targetDistanceMeters":4…` | `{"predictedSeconds":11884,"ratio":2,"paceSecondsPerKm":282,"paceSecondsPerMile"…` | Third unit |
+
 ## Rounding and tolerance
 
 Predicted time is rounded to the nearest whole second with a ±0.5-second tolerance. Pace per kilometre and per mile are also whole seconds with a ±0.5-second tolerance. Speed keeps two decimals with ±0.01 km/h, and the distance ratio is shown to six decimals. Do not feed a rounded displayed pace back into another conversion.

@@ -40,6 +40,16 @@ translationStatus: reviewed
 
 读者可以按上表的第 3 至 5 步手算复核，所有算例不依赖页面脚本自身的输出。
 
+### 算例矩阵
+
+已有算例按输入、预期与覆盖点并排；数值来自 `data/cases`，不另手算。
+
+| 算例 | 输入摘要 | 预期结果 | 覆盖点 |
+|---|---|---|---|
+| `case-splits-10k` | `{"totalDistance":10,"distanceUnit":"km","totalSeconds":3000,"splitDistance":1,"…` | `{"splitCount":10,"splits":[{"index":1,"distance":1,"cumulativeSeconds":300,"spl…` | 典型 |
+| `case-splits-partial` | `{"totalDistance":5,"distanceUnit":"km","totalSeconds":1500,"splitDistance":2,"s…` | `{"splitCount":3,"splits":[{"index":1,"distance":2,"cumulativeSeconds":600,"spli…` | 第二口径/边界 |
+| `case-splits-mile` | `{"totalDistance":5,"distanceUnit":"mi","totalSeconds":2400,"splitDistance":1,"s…` | `{"splitCount":5,"splits":[{"index":1,"distance":1,"cumulativeSeconds":480,"spli…` | 第三口径 |
+
 ## 舍入与精度
 
 精确分段时长先取下整，再用最大余数法把差额分配成整秒，因此每段与精确值最多相差 1 秒，而所有分段之和严格等于输入的总秒数；最后一段的累计时间等于总时间，容差为 0 秒。总时间本身必须以整数秒输入，否则工具拒绝计算。距离单位可选公里或英里，英里按 1,609.344 米换算，表内单位与输入一致。

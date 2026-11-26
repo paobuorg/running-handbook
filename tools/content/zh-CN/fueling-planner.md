@@ -43,6 +43,16 @@ translationStatus: reviewed
 
 这些算例由独立算术核对，读者可以用产品标签上的碳水克数复算。
 
+### 算例矩阵
+
+下表把已有算例按输入、预期与覆盖点并排；数值来自 `data/cases`，不另行手算。
+
+| 算例 | 输入摘要 | 预期结果 | 覆盖点 |
+|---|---|---|---|
+| `case-fueling-planner-90` | `{"durationMinutes":90,"productCarbsGrams":25}` | `{"durationHours":1.5,"lowTotalGrams":45,"highTotalGrams":90,"servingsLow":2,"servingsHigh…` | 典型 |
+| `case-fueling-planner-180` | `{"durationMinutes":180,"productCarbsGrams":30}` | `{"durationHours":3,"lowTotalGrams":90,"highTotalGrams":180,"servingsLow":3,"servingsHigh"…` | 第二口径/边界 |
+| `case-fueling-planner-short` | `{"durationMinutes":45,"productCarbsGrams":25}` | `{"durationHours":0.75,"needsFuel":false,"lowTotalGrams":0,"highTotalGrams":0,"servingsLow…` | 第三口径 |
+
 ## 舍入与精度
 
 碳水总量按整克报告，容差为 ±0.5 克；份数向上取整到整数份，因此只会多不会少，不能按四舍五入理解；时长以小时计并保留两位小数，容差为 ±0.005 小时（约 ±18 秒）。份数取整带来的实际碳水可能高于上限，例如 4 份 × 25 克 = 100 克，超过 90 克的规划上限；这是为了携带量安全，不代表必须全部吃完。

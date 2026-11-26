@@ -41,6 +41,16 @@ translationStatus: reviewed
 
 算例由独立算术核对，不依赖页面脚本自身的输出，读者可用科学计算器复算。
 
+### 算例矩阵
+
+已有算例按输入、预期与覆盖点并排；数值来自 `data/cases`，不另手算。
+
+| 算例 | 输入摘要 | 预期结果 | 覆盖点 |
+|---|---|---|---|
+| `case-race-predict-5k-10k` | `{"knownDistanceMeters":5000,"knownTimeSeconds":1200,"targetDistanceMeters":1000…` | `{"predictedSeconds":2502,"ratio":2,"paceSecondsPerKm":250,"paceSecondsPerMile":…` | 典型 |
+| `case-race-predict-10k-half` | `{"knownDistanceMeters":10000,"knownTimeSeconds":3000,"targetDistanceMeters":210…` | `{"predictedSeconds":6619,"ratio":2.10975,"paceSecondsPerKm":314,"paceSecondsPer…` | 第二口径/边界 |
+| `case-race-predict-half-marathon` | `{"knownDistanceMeters":21097.5,"knownTimeSeconds":5700,"targetDistanceMeters":4…` | `{"predictedSeconds":11884,"ratio":2,"paceSecondsPerKm":282,"paceSecondsPerMile"…` | 第三口径 |
+
 ## 舍入与精度
 
 估算时间四舍五入到最近整秒，容差为 ±0.5 秒；每公里与每英里配速同样取整到秒，容差为 ±0.5 秒；速度保留两位小数，容差为 ±0.01 公里/小时；距离比在显示时保留六位小数。由于输入时间本身通常已经是整秒，取整误差主要来自指数运算，不会因为多次换算继续放大；请勿拿已经取整的显示配速再反推时间。

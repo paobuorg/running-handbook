@@ -38,6 +38,16 @@ The calculation uses metres and seconds internally and converts units only at th
 
 These cases are independent arithmetic.
 
+### Case matrix
+
+Existing cases side by side by input, expected output and coverage. Values come from `data/cases`; nothing is re-derived by hand.
+
+| Case | Input | Expected | Coverage |
+|---|---|---|---|
+| `case-pace-10k` | `{"mode":"distance-time","distance":10,"distanceUnit":"km","durationSeconds":300…` | `{"paceSecondsPerKm":300,"paceSecondsPerMile":483,"speedKmh":12}` | Typical |
+| `case-pace-5mi` | `{"mode":"distance-time","distance":5,"distanceUnit":"mi","durationSeconds":2400}` | `{"paceSecondsPerKm":298,"paceSecondsPerMile":480,"speedKmh":12.07}` | Second unit/boundary |
+| `case-pace-distance-pace` | `{"mode":"distance-pace","distance":10,"distanceUnit":"km","paceSeconds":300,"pa…` | `{"durationSeconds":3000,"paceSecondsPerKm":300,"paceSecondsPerMile":483,"speedK…` | Third unit |
+
 ## Rounding and tolerance
 
 Pace is rounded to the nearest whole second per kilometre or mile, so a displayed value can differ from the exact one by up to 0.5 second. Speed keeps two decimal places with a ±0.01 km/h tolerance, total time is a whole second, and distance keeps three decimal places with a ±0.001 unit tolerance. Do not chain rounded display values through another conversion; the error accumulates.

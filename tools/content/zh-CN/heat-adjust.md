@@ -60,6 +60,16 @@ translationStatus: reviewed
 
 假设气温 32 ℃、相对湿度 70%、基准配速 300 秒/公里、预计 120 分钟：热负荷分 = 32 + 0.04 × 70 = 34.8，落在极端区间（30 及以上）。放慢范围 10% 至 12%：下限 300 × 1.10 = 330 秒/公里，上限 300 × 1.12 = 336 秒/公里。预计时长 120 分钟属于长暴露，应偏向范围上限并额外谨慎。极端区间的提示不是“放慢后仍可训练”，而是改期、缩短或改室内更安全。
 
+### 算例矩阵
+
+下表把已有算例按输入、预期与覆盖点并排；数值来自 `data/cases`，不另行手算。
+
+| 算例 | 输入摘要 | 预期结果 | 覆盖点 |
+|---|---|---|---|
+| `case-heat-adjust-very-hot` | `{"temperatureC":22,"relativeHumidityPercent":65,"baselinePaceSecondsPerKm":300,"durationM…` | `{"heatScore":24.6,"adjustedPaceLowSeconds":321,"adjustedPaceHighSeconds":330,"band":"very…` | 典型 |
+| `case-heat-adjust-boundary` | `{"temperatureC":20,"relativeHumidityPercent":100,"baselinePaceSecondsPerKm":240,"duration…` | `{"heatScore":24.0,"adjustedPaceLowSeconds":257,"adjustedPaceHighSeconds":264,"band":"very…` | 第二口径/边界 |
+| `case-heat-adjust-extreme` | `{"temperatureC":32,"relativeHumidityPercent":70,"baselinePaceSecondsPerKm":300,"durationM…` | `{"heatScore":34.8,"adjustedPaceLowSeconds":330,"adjustedPaceHighSeconds":336,"band":"extr…` | 第三口径 |
+
 ## 舍入与精度
 
 热负荷分保留一位小数，调整后的配速取整到秒，因此容差为 1 秒；分数与百分比本身容差为 1e-6。取整只发生在最后一步，避免先取整再乘造成累积误差。输入的气温与湿度通常来自天气预报或手表，本身有精度限制；不同来源的读数可能相差一两度或几个百分点，足以让结果跨过区间边界。手算复核时应保留未舍入的乘积，再按规则取整到秒。

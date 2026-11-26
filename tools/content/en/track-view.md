@@ -38,6 +38,16 @@ The viewer reads a GPX or GeoJSON file you choose, parses and totals it locally,
 
 These values follow independent WGS84 arithmetic and can be repeated with a geodesic calculator.
 
+### Case matrix
+
+Existing cases side by side by input, expected output and coverage. Values come from `data/cases`; nothing is re-derived by hand.
+
+| Case | Input | Expected | Coverage |
+|---|---|---|---|
+| `case-track-view-equator` | `{"format":"geojson","coordinates":[[0,0],[0.01,0],[0.02,0]]}` | `{"distanceMeters":2226,"pointCount":3,"start":{"longitude":0,"latitude":0},"end…` | Typical |
+| `case-track-view-elevation` | `{"format":"geojson","coordinates":[[0,0,10],[0.001,0,20],[0.002,0,15]]}` | `{"distanceMeters":223,"pointCount":3,"start":{"longitude":0,"latitude":0},"end"…` | Second unit/boundary |
+| `case-track-view-multisegment` | `{"format":"geojson","segments":[[[0,0],[0.01,0]],[[0.02,0],[0.03,0]]]}` | `{"distanceMeters":2226,"pointCount":4,"segmentCount":2,"start":{"longitude":0,"…` | Third unit |
+
 ## Rounding and tolerance
 
 Distance and elevation gain are rounded to the nearest whole metre with a ±0.5-metre tolerance. Point and segment counts are integers with no tolerance. Coordinates keep the precision stored in the file. Whole-metre display does not mean one-metre measurement accuracy: GPS noise, tunnels and signal loss can exceed it, and jumps are not corrected.

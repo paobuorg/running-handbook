@@ -211,5 +211,5 @@ CGTN 写，Jasmin Paris 以 59 小时 58 分 21 秒完成，距离 60 小时关�
 ## 相关条目
 
 - [经典赛事与赛事历史：版本、传统与比赛条件](/knowledge/classic-races-and-history/)
-- [跑步基础术语表：配速、RPE、步频与训练黑话](/knowledge/core-terms/)
+- [跑步基础术语表：配速、RPE、步频与训练黑话](/glossary/core-terms/)
 - [马拉松为什么是 42.195 公里](/knowledge/marathon-distance/)

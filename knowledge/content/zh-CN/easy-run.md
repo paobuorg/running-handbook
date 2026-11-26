@@ -97,6 +97,8 @@ CDC 把“能说话但不能唱歌”作为中等强度有氧活动的典型标�
 
 ## 相关阅读
 
+- [跑步基础术语表：配速、RPE、步频与训练黑话](/glossary/core-terms/)
+
 - [乳酸阈与 VO₂max 测试：定义、误差与怎么用](https://learn.paobu.org/articles/lactate-threshold-and-vo2max-testing/)
 - [节奏跑与间歇跑：强度、结构与进阶](https://learn.paobu.org/articles/tempo-and-intervals/)
 - [配速计算器](https://tools.paobu.org/tools/pace/)

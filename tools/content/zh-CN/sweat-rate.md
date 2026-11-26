@@ -90,6 +90,16 @@ ACSM 把运动中补液的目标定为**防止超过 2% 的体重丢失**，以�
 
 体重下降百分比的分母是运动前体重，所以同样失水 1.4 L，70 kg 的人约 2.0%，60 kg 的人约 2.3%。这也是为什么工具要求输入体重，而不是只给一个「升/小时」。
 
+### 算例矩阵
+
+已有算例按输入、预期与覆盖点并排；数值来自 `data/cases`，不另手算。
+
+| 算例 | 输入摘要 | 预期结果 | 覆盖点 |
+|---|---|---|---|
+| `case-sweat-rate-hour-run` | `{"preWeightKg":70,"postWeightKg":69.2,"fluidIntakeLiters":0.5,"durationMinutes"…` | `{"netLossLiters":1.3,"sweatRateLitersPerHour":1.3,"bodyMassLossPercent":1.14,"a…` | 典型 |
+| `case-sweat-rate-ninety-minutes` | `{"preWeightKg":60,"postWeightKg":59.1,"fluidIntakeLiters":0.3,"durationMinutes"…` | `{"netLossLiters":1.2,"sweatRateLitersPerHour":0.8,"bodyMassLossPercent":1.5,"ab…` | 第二口径/边界 |
+| `case-sweat-rate-over-two-percent` | `{"preWeightKg":65,"postWeightKg":63.5,"fluidIntakeLiters":0.4,"durationMinutes"…` | `{"netLossLiters":1.9,"sweatRateLitersPerHour":1.9,"bodyMassLossPercent":2.31,"a…` | 第三口径 |
+
 ## 结果解读
 
 - **净失水**是这一次的液体差额，不是“脱水程度”。它把体重差与喝下的液体合在一起，说明你在这段时间里净失去了多少水。

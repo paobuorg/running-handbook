@@ -90,6 +90,8 @@ translationStatus: reviewed
 
 ## 相关阅读
 
+- [跑步基础术语表：配速、RPE、步频与训练黑话](/glossary/core-terms/)
+
 - [跑步技术：步频、步幅、呼吸与上下坡的判断框架](/knowledge/running-form/)
 - [上坡与下坡：坡度如何改变动作](/knowledge/uphill-and-downhill/)
 - [鞋楦与缓冲：合脚比软度重要](/knowledge/shoe-fit-and-cushioning/)

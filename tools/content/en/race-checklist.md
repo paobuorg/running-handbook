@@ -54,6 +54,16 @@ Changing to road, 3–6 hours, rain and no travel keeps the four base sections; 
 
 Assume road, under 3 hours, mild weather and no travel: only the four base sections (entry, clothing, fuel, logistics) appear, for four sections, with no navigation, emergency, cooling, warmth or travel additions. The common mistake is assuming trail items such as a headlamp, whistle and first-aid kit appear in every list; under these inputs those sections do not trigger. Conversely, if the organiser's mandatory kit rules require an item, it must be carried even when the checklist does not list it.
 
+### Case matrix
+
+Existing cases side by side by input, expected output and coverage. Values come from `data/cases`; nothing is re-derived by hand.
+
+| Case | Input | Expected | Coverage |
+|---|---|---|---|
+| `case-race-checklist-trail` | `{"raceType":"trail","duration":"over-6h","weather":"hot","travel":true}` | `{"sectionIds":["entry","clothing","fuel","logistics","heat","trail","long-race"…` | Typical |
+| `case-race-checklist-road-rain` | `{"raceType":"road","duration":"3-6h","weather":"rain","travel":false}` | `{"sectionIds":["entry","clothing","fuel","logistics","cold-wet"],"requiredItems…` | Second unit/boundary |
+| `case-race-checklist-road-mild` | `{"raceType":"road","duration":"under-3h","weather":"mild","travel":false}` | `{"sectionIds":["entry","clothing","fuel","logistics"],"requiredItems":[]}` | Third unit |
+
 ## Rounding and tolerance
 
 There is no numerical rounding: the output is structured sections and items with a tolerance of zero. Section count and order follow uniquely from the inputs, and the same inputs should produce the same list. Similar items across sections are not merged or deduplicated, and items are not prioritised, so section count is not an item count. Item names are reminder categories, not brands or models, and a listed item is not necessarily tested.

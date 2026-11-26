@@ -12,6 +12,7 @@
     "knowledge-ceugniez-2025-fitbit-hr"
   ],
   "relatedRefs": [
+    "knowledge:core-terms",
     "knowledge:training-week",
     "knowledge:recovery-day",
     "knowledge:breathing-and-rhythm",
@@ -23,7 +24,7 @@
   "createdAt": "2026-10-26",
   "updatedAt": "2026-11-26",
   "reviewedAt": "2026-11-26",
-  "reviewDueAt": "2027-05-07",
+  "reviewDueAt": "2027-11-25",
   "translations": [],
   "details": {
     "primaryTopic": "training",

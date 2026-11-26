@@ -10,6 +10,7 @@
     "knowledge-running-injury-review"
   ],
   "relatedRefs": [
+    "knowledge:core-terms",
     "knowledge:running-form",
     "knowledge:uphill-and-downhill",
     "knowledge:shoe-fit-and-cushioning",

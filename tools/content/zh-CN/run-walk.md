@@ -34,6 +34,16 @@ translationStatus: reviewed
 
 这些数值由独立算术核对，不依赖页面脚本自身的输出，读者可用秒表或手算重复。
 
+### 算例矩阵
+
+已有算例按输入、预期与覆盖点并排；数值来自 `data/cases`，不另手算。
+
+| 算例 | 输入摘要 | 预期结果 | 覆盖点 |
+|---|---|---|---|
+| `case-run-walk-cycles` | `{"mode":"cycles","runSeconds":120,"walkSeconds":60,"cycles":3}` | `{"requestedSeconds":540,"scheduledSeconds":540,"fullCycles":3,"runSecondsTotal"…` | 典型 |
+| `case-run-walk-duration` | `{"mode":"duration","runSeconds":120,"walkSeconds":60,"totalSeconds":400}` | `{"requestedSeconds":400,"scheduledSeconds":400,"fullCycles":2,"runSecondsTotal"…` | 第二口径/边界 |
+| `case-run-walk-zero-walk` | `{"mode":"cycles","runSeconds":90,"walkSeconds":0,"cycles":2}` | `{"requestedSeconds":180,"scheduledSeconds":180,"fullCycles":2,"runSecondsTotal"…` | 第三口径 |
+
 ## 舍入与精度
 
 所有时长都以整秒输入和输出，工具内部不做小数秒换算，因此没有额外舍入误差，逐段之和与计划总时长的容差为 0 秒。若输入跑步 60.5 秒这类非整数秒，工具会拒绝而不是悄悄取整。循环数必须为整数；总时长上限为 604,800 秒（7 天），分段总数上限为 3000 段，超出时返回错误而不是截断计划。

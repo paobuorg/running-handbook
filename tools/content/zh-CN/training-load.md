@@ -66,6 +66,16 @@ translationStatus: reviewed
 
 当 28 天平均负荷为 0 时，比值和周变化都没有定义，区间显示无法计算。这通常发生在刚开始记录、日志缺失多天或换了记录方式的阶段。此时不应把 0 当成稳定参考去算比值；先补足至少一个周期的日志，再比较两段负荷。工具在这种情况下返回无值，而不是输出无穷大或空比值。
 
+### 算例矩阵
+
+已有算例按输入、预期与覆盖点并排；数值来自 `data/cases`，不另手算。
+
+| 算例 | 输入摘要 | 预期结果 | 覆盖点 |
+|---|---|---|---|
+| `case-training-load-typical` | `{"weeklyTrainingMinutes":240,"sessionsPerWeek":4,"averageRpe":5,"acuteLoad":420…` | `{"acuteChronicRatio":1.05,"weeklyRampPercent":5.0,"band":"typical"}` | 典型 |
+| `case-training-load-boundary` | `{"weeklyTrainingMinutes":300,"sessionsPerWeek":5,"averageRpe":6,"acuteLoad":600…` | `{"acuteChronicRatio":1.5,"weeklyRampPercent":50.0,"band":"elevated"}` | 第二口径/边界 |
+| `case-training-load-spike` | `{"weeklyTrainingMinutes":360,"sessionsPerWeek":5,"averageRpe":7,"acuteLoad":720…` | `{"acuteChronicRatio":1.8,"weeklyRampPercent":80.0,"band":"spike"}` | 第三口径 |
+
 ## 舍入与精度
 
 急慢比保留两位小数，周变化保留一位小数，区间按舍入后的比值判定，因此输出之间不会出现“显示 1.30、却显示偏高”的矛盾。计算容差为 1e-6，整数区间没有取整误差。负荷输入本身的记录精度决定了结果的可信度：如果 28 天日志缺了几天，比值会被系统性高估或低估，这种误差不是舍入能解决的。手算复核时应保留未舍入的中间值，再按规则取整。

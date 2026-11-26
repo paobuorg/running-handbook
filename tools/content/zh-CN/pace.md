@@ -40,6 +40,16 @@ translationStatus: reviewed
 
 这些算例由独立算术核对，不依赖页面脚本自身的输出，读者可以用手算或计算器重复。
 
+### 算例矩阵
+
+已有算例按输入、预期与覆盖点并排；数值来自 `data/cases`，不另手算。
+
+| 算例 | 输入摘要 | 预期结果 | 覆盖点 |
+|---|---|---|---|
+| `case-pace-10k` | `{"mode":"distance-time","distance":10,"distanceUnit":"km","durationSeconds":300…` | `{"paceSecondsPerKm":300,"paceSecondsPerMile":483,"speedKmh":12}` | 典型 |
+| `case-pace-5mi` | `{"mode":"distance-time","distance":5,"distanceUnit":"mi","durationSeconds":2400}` | `{"paceSecondsPerKm":298,"paceSecondsPerMile":480,"speedKmh":12.07}` | 第二口径/边界 |
+| `case-pace-distance-pace` | `{"mode":"distance-pace","distance":10,"distanceUnit":"km","paceSeconds":300,"pa…` | `{"durationSeconds":3000,"paceSecondsPerKm":300,"paceSecondsPerMile":483,"speedK…` | 第三口径 |
+
 ## 舍入与精度
 
 配速四舍五入到最近的整秒（每公里或每英里），因此显示值可能与精确值相差最多 0.5 秒；速度保留两位小数，容差为 ±0.01 公里/小时；总时间取整到整秒；距离保留三位小数，容差为 ±0.001 个所选单位。多次在公里与英里之间往返换算时，请以同一次输入为准重新计算，不要拿已经取整的显示值继续推算，否则误差会累积。

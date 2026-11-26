@@ -32,6 +32,16 @@ Both modes avoid “rounding up to a full cycle”. Duration mode ends exactly a
 - 120 s run, 60 s walk, total 400 seconds: two full cycles use 360 seconds, then a 40-second partial run; 280 running and 120 walking.
 - 90 s run, 0 s walk, 2 cycles: 180 seconds, two run segments and no empty walk rows.
 
+### Case matrix
+
+Existing cases side by side by input, expected output and coverage. Values come from `data/cases`; nothing is re-derived by hand.
+
+| Case | Input | Expected | Coverage |
+|---|---|---|---|
+| `case-run-walk-cycles` | `{"mode":"cycles","runSeconds":120,"walkSeconds":60,"cycles":3}` | `{"requestedSeconds":540,"scheduledSeconds":540,"fullCycles":3,"runSecondsTotal"…` | Typical |
+| `case-run-walk-duration` | `{"mode":"duration","runSeconds":120,"walkSeconds":60,"totalSeconds":400}` | `{"requestedSeconds":400,"scheduledSeconds":400,"fullCycles":2,"runSecondsTotal"…` | Second unit/boundary |
+| `case-run-walk-zero-walk` | `{"mode":"cycles","runSeconds":90,"walkSeconds":0,"cycles":2}` | `{"requestedSeconds":180,"scheduledSeconds":180,"fullCycles":2,"runSecondsTotal"…` | Third unit |
+
 ## Rounding and tolerance
 
 All durations are whole seconds on input and output, so there is no fractional-second rounding and the sum of segments equals the scheduled total with a tolerance of zero. A non-integer run or walk duration such as 60.5 seconds is rejected rather than silently rounded. Cycles must be integers; total duration is capped at 604,800 seconds (seven days) and the plan at 3,000 segments.

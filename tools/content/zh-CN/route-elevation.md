@@ -62,6 +62,16 @@ translationStatus: reviewed
 
 先看总距离和爬升量级，再看剖面中的陡升、陡降和长坡位置，结合补给点、路面和天气阅读。累计爬升为“未知”意味着高程数据缺失，不能读成“全程平地”。最大坡度只描述某一对相邻点，不能说明整段路线的平均难度，也不能替代技术难度或落石、交通风险判断。海拔范围可以帮助判断是否需要按高度调整装备和补给，但它不评估空气密度、能见度或路面湿滑程度。
 
+### 算例矩阵
+
+已有算例按输入、预期与覆盖点并排；数值来自 `data/cases`，不另手算。
+
+| 算例 | 输入摘要 | 预期结果 | 覆盖点 |
+|---|---|---|---|
+| `case-route-elevation-hill` | `{"track":{"format":"gpx","segments":[[{"lon":0,"lat":0,"elevation":0},{"lon":0,…` | `{"gainMeters":100,"lossMeters":100,"minElevationMeters":0,"maxElevationMeters":…` | 典型 |
+| `case-route-elevation-missing` | `{"track":{"format":"gpx","segments":[[{"lon":0,"lat":0,"elevation":null},{"lon"…` | `{"gainMeters":null,"lossMeters":null,"profilePoints":0,"warning":"elevation-mis…` | 第二口径/边界 |
+| `case-route-elevation-segments` | `{"segments":[[[0,0,0],[0,0.001,50]],[[0,0.003,50],[0,0.004,0]]]}` | `{"distanceMeters":222,"gainMeters":50,"lossMeters":50,"minElevationMeters":0,"m…` | 第三口径 |
+
 ## 舍入与精度
 
 距离、爬升、下降取整到最近整米，容差为 ±0.5 米；海拔保留一位小数，容差为 ±0.05 米；坡度保留一位小数，容差为 ±0.05 个百分点；剖面点的距离取整米、海拔保留两位小数。GPS 高程本身存在漂移，不同设备、气压计和修正算法会给出不同的累计爬升，因此显示的精度不代表真实精度。比较两条路线时，应尽量使用同一来源和同一高程口径；手算复核时也应保留中间值，不要在舍入后的数字上再做除法。

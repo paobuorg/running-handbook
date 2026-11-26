@@ -88,6 +88,8 @@ This page gives general principles; it does not provide individual pace tables, 
 
 ## Related reading
 
+- [Core running terms: pace, RPE, cadence and training language](/en/glossary/core-terms/)
+
 - [Lactate Threshold and VO₂max Testing: Definitions, Error and Practical Use](https://learn.paobu.org/en/articles/lactate-threshold-and-vo2max-testing/)
 - [Tempo and interval running: intensity, structure and progression](https://learn.paobu.org/en/articles/tempo-and-intervals/)
 - [Pace calculator](https://tools.paobu.org/en/tools/pace/)

@@ -66,6 +66,16 @@ With a 7-day load of 720 and a 28-day average of 400: ratio 720 ÷ 400 = 1.80, w
 
 When the 28-day average load is zero, the ratio and weekly change are undefined and the band is unknown. This usually happens when records are just starting, several days are missing, or the recording method has changed. In that situation, zero should not be treated as a stable reference: build at least one full period of log before comparing the two loads. The tool returns no value rather than an infinite or empty ratio.
 
+### Case matrix
+
+Existing cases side by side by input, expected output and coverage. Values come from `data/cases`; nothing is re-derived by hand.
+
+| Case | Input | Expected | Coverage |
+|---|---|---|---|
+| `case-training-load-typical` | `{"weeklyTrainingMinutes":240,"sessionsPerWeek":4,"averageRpe":5,"acuteLoad":420…` | `{"acuteChronicRatio":1.05,"weeklyRampPercent":5.0,"band":"typical"}` | Typical |
+| `case-training-load-boundary` | `{"weeklyTrainingMinutes":300,"sessionsPerWeek":5,"averageRpe":6,"acuteLoad":600…` | `{"acuteChronicRatio":1.5,"weeklyRampPercent":50.0,"band":"elevated"}` | Second unit/boundary |
+| `case-training-load-spike` | `{"weeklyTrainingMinutes":360,"sessionsPerWeek":5,"averageRpe":7,"acuteLoad":720…` | `{"acuteChronicRatio":1.8,"weeklyRampPercent":80.0,"band":"spike"}` | Third unit |
+
 ## Rounding and precision
 
 The ratio keeps two decimals and the change one decimal; the band uses the rounded ratio, so a displayed value cannot disagree with its band. Tolerance is 1e-6 and there is no integer rounding. The reliability of the result rests on the recorded load: if the 28-day log has gaps, the ratio is systematically over- or under-estimated, and rounding cannot remove that error. When recomputing by hand, keep unrounded intermediate values before applying the rounding rules.

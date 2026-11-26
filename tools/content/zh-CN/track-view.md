@@ -38,6 +38,16 @@ translationStatus: reviewed
 
 算例由独立 WGS84 算术核对，读者可用在线测地距离计算器复算。
 
+### 算例矩阵
+
+已有算例按输入、预期与覆盖点并排；数值来自 `data/cases`，不另手算。
+
+| 算例 | 输入摘要 | 预期结果 | 覆盖点 |
+|---|---|---|---|
+| `case-track-view-equator` | `{"format":"geojson","coordinates":[[0,0],[0.01,0],[0.02,0]]}` | `{"distanceMeters":2226,"pointCount":3,"start":{"longitude":0,"latitude":0},"end…` | 典型 |
+| `case-track-view-elevation` | `{"format":"geojson","coordinates":[[0,0,10],[0.001,0,20],[0.002,0,15]]}` | `{"distanceMeters":223,"pointCount":3,"start":{"longitude":0,"latitude":0},"end"…` | 第二口径/边界 |
+| `case-track-view-multisegment` | `{"format":"geojson","segments":[[[0,0],[0.01,0]],[[0.02,0],[0.03,0]]]}` | `{"distanceMeters":2226,"pointCount":4,"segmentCount":2,"start":{"longitude":0,"…` | 第三口径 |
+
 ## 舍入与精度
 
 距离和累计爬升都四舍五入到最近的整米，容差为 ±0.5 米；点数与分段数是不带小数的整数，不计容差。坐标以文件中的原始精度显示，工具不做二次取整。由于 GPS 记录本身存在米级甚至更大的噪声，整米显示不代表测量精度达到 1 米；隧道、遮挡和信号丢失引起的跳点也不会被修正。

@@ -101,6 +101,6 @@ translationStatus: reviewed
 <!-- related-ring -->
 ## 相关条目
 
-- [跑步基础术语表：配速、RPE、步频与训练黑话](/knowledge/core-terms/)
+- [跑步基础术语表：配速、RPE、步频与训练黑话](/glossary/core-terms/)
 - [马拉松为什么是 42.195 公里](/knowledge/marathon-distance/)
 - [比赛与共享路面礼仪：规则、空间和安全感](/knowledge/race-and-shared-path-etiquette/)

@@ -48,6 +48,24 @@ translationStatus: reviewed
 
 假设一双鞋初始 580 公里、提醒 600 公里，连续两次各跑 15 公里：累计 580 + 15 + 15 = 610 公里。距提醒按 max(0, 600 − 610) 取 0 公里，不会输出负数剩余里程；进度 610 ÷ 600 × 100 = 101.666…%，显示 101.7%，可以超过 100%；记录 2 次，最后日期 2026-11-25。常见错误是把剩余里程报成 −10 公里，或把进度截断在 100%。到达提醒只是“检查一下”的信号，不等于必须立刻更换。
 
+### 算例矩阵
+
+已有算例按输入、预期与覆盖点并排；数值来自 `data/cases`，不另手算。
+
+| 算例 | 输入摘要 | 预期结果 | 覆盖点 |
+|---|---|---|---|
+| `case-shoe-mileage-summary` | `{"shoe":{"id":"shoe-1","name":"Daily trainer","initialKm":100,"reminderKm":600}…` | `{"totalKm":115,"runCount":2,"remainingKm":485,"percentOfReminder":19.2,"lastRun…` | 典型 |
+| `case-shoe-mileage-trail` | `{"shoe":{"id":"shoe-2","name":"Trail shoe","initialKm":210.5,"reminderKm":800},…` | `{"totalKm":246.5,"runCount":3,"remainingKm":553.5,"percentOfReminder":30.8,"las…` | 第二口径/边界 |
+| `case-shoe-mileage-over-reminder` | `{"shoe":{"id":"shoe-3","name":"Race-day trainer","initialKm":580,"reminderKm":6…` | `{"totalKm":610,"runCount":2,"remainingKm":0,"percentOfReminder":101.7,"lastRunD…` | 第三口径 |
+
+### 输入与假设
+
+| 输入 | 单位/范围 | 作用 |
+|---|---|---|
+| 当前里程 | km 或 mi | 决定已用寿命 |
+| 已用月数 | 月 | 与里程一起估算替代周期 |
+| 每周跑量 | km/周 | 外推剩余寿命 |
+
 ## 舍入与精度
 
 累计里程与距提醒里程保留一位小数，容差为 ±0.05 公里；提醒进度保留一位小数，容差为 ±0.05 个百分点；记录次数是整数，不计容差。单次距离在录入时也保留一位小数，因此多次录入的小数误差可能累积；如果记录跨越很长的里程，建议定期核对汇总值。手算复核时应保留未舍入的中间值，不要在一位小数的结果上再做除法。

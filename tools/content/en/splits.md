@@ -37,6 +37,16 @@ Largest-remainder allocation can put a segment one second away from its exact va
 - 5 km, 1500 seconds, 2 km even splits: 3 segments of 2, 2 and 1 km at 600, 600 and 300 seconds.
 - 10 km, 3000 seconds, 4 km negative splits, delta = 0.02: exact times 1224, 1188 and 588 seconds; the second segment crosses halfway.
 
+### Case matrix
+
+Existing cases side by side by input, expected output and coverage. Values come from `data/cases`; nothing is re-derived by hand.
+
+| Case | Input | Expected | Coverage |
+|---|---|---|---|
+| `case-splits-10k` | `{"totalDistance":10,"distanceUnit":"km","totalSeconds":3000,"splitDistance":1,"…` | `{"splitCount":10,"splits":[{"index":1,"distance":1,"cumulativeSeconds":300,"spl…` | Typical |
+| `case-splits-partial` | `{"totalDistance":5,"distanceUnit":"km","totalSeconds":1500,"splitDistance":2,"s…` | `{"splitCount":3,"splits":[{"index":1,"distance":2,"cumulativeSeconds":600,"spli…` | Second unit/boundary |
+| `case-splits-mile` | `{"totalDistance":5,"distanceUnit":"mi","totalSeconds":2400,"splitDistance":1,"s…` | `{"splitCount":5,"splits":[{"index":1,"distance":1,"cumulativeSeconds":480,"spli…` | Third unit |
+
 ## Rounding and tolerance
 
 Exact durations are floored and the remainder is redistributed in whole seconds. Each segment can differ from its exact value by at most one second, while the sum equals the entered total exactly. Total time must be a whole number of seconds, otherwise the tool rejects the input.

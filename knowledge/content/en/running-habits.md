@@ -113,4 +113,4 @@ The evidence framework for goal setting and execution follows a goal-setting res
 
 - [The Barkley Marathons: A Race With No Official Course](/en/knowledge/barkley-marathons/)
 - [Classic races and their history: versions, tradition and conditions](/en/knowledge/classic-races-and-history/)
-- [Core running terms: pace, RPE, cadence and training language](/en/knowledge/core-terms/)
+- [Core running terms: pace, RPE, cadence and training language](/en/glossary/core-terms/)

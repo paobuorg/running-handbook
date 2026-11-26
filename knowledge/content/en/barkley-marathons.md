@@ -211,5 +211,5 @@ This page is a cultural explainer, not entry advice. The Barkley has no public e
 ## Related entries
 
 - [Classic races and their history: versions, tradition and conditions](/en/knowledge/classic-races-and-history/)
-- [Core running terms: pace, RPE, cadence and training language](/en/knowledge/core-terms/)
+- [Core running terms: pace, RPE, cadence and training language](/en/glossary/core-terms/)
 - [Why the marathon is 42.195 kilometres](/en/knowledge/marathon-distance/)
