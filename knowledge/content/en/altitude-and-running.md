@@ -105,8 +105,15 @@ This page does not provide an individual training plan, drug doses or a diagnosi
 
 - [Heat and humidity: reduce heat risk before chasing pace](https://learn.paobu.org/en/articles/heat-and-humidity/)
 - [Hydration and electrolytes: no universal litre target](https://learn.paobu.org/en/articles/hydration/)
-- [race-day-pacing](https://learn.paobu.org/en/articles/race-day-pacing/)
+- [race-day-pacing](/en/knowledge/race-day-pacing/)
 
 ## Sources and verification
 
 Ascent rates, AMS/HACE/HAPE recognition, descent and the role of medication follow the Wilderness Medical Society 2024 clinical practice guideline (Wilderness Environ Med, DOI 10.1016/j.wem.2023.05.013); the 2700 m/400 m rule, rest days, alcohol and sleeping pills, and the absence of evidence that fitness protects come from the UIAA Medical Commission altitude factsheet; arrival about 2 weeks ahead, 5-7 days of partial acclimatisation and 1-2 days of rest come from the IOC 2012 environmental consensus (Br J Sports Med 46:770-779); 14 hours versus 2 hours, 5-7 days versus 14-19 days and marginal gains beyond 19 days come from Foss 2017 (J Appl Physiol, DOI 10.1152/japplphysiol.00314.2017). Verified 2026-11-07. General education, not medical advice.
+
+<!-- related-ring -->
+## Related entries
+
+- [Cold-weather running: manage exposure before pace](/en/knowledge/cold-weather-running/)
+- [Crew and pacer planning: crew cards, handoff points, segmented drop bags and liaison protocol](/en/knowledge/crew-and-pacer-planning/)
+- [Heat and humidity: heat stress, WBGT and downgrade rules](/en/knowledge/heat-and-humidity/)

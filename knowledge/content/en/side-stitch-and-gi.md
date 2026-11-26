@@ -156,3 +156,10 @@ Stop and seek medical review if it recurs three times on the same stretch, or co
 - NHS, Stomach ache: emergency and urgent-care red flag lists.
 
 This page was verified on 2026-11-07.
+
+<!-- related-ring -->
+## Related entries
+
+- [Air quality and running — the six AQI bands, exercise dose and the "run today?" decision](/en/knowledge/air-quality-and-running/)
+- [Running at altitude: acclimatisation, training and when to descend](/en/knowledge/altitude-and-running/)
+- [Cold-weather running: manage exposure before pace](/en/knowledge/cold-weather-running/)

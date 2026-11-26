@@ -200,3 +200,10 @@ NHS 与 RDaSH 的建议一致：
 - PCDS（Primary Care Dermatology Society），Nail disorders（2026-07-16 更新）：甲下血肿可为红或红黑色，可发生在没有记得外伤的高强度活动后，脚趾甲常无外伤史；随趾甲生长向远端移动；新出现/变化的单条黑色或棕色纵带应考虑甲下黑色素瘤，Hutchinson 征（色素累及甲周皮肤）高度可疑；甲真菌感染多为黄白色、从远端向近端推进。
 - NHS England，Low risk of developing non-healing foot wounds（糖尿病足资料，2018-12）：每天检查双足有无水疱、破损、疼痛或感染征象（肿胀、发热、发红）；不合脚的鞋是常见诱因；发现破损应在 24 小时内联系足病师或 GP。
 - NHS，Blisters（2023-11-22 审阅）：水疱多由摩擦、烧伤或皮肤反应引起；合脚的鞋可减少足部摩擦水疱；用软敷料或 padded dressing 覆盖，不要自行挑破。
+
+<!-- related-ring -->
+## 相关条目
+
+- [跑步后血尿：运动性血尿、血红蛋白尿与肌红蛋白尿](/knowledge/blood-in-urine-after-running/)
+- [跑步中的心脏急症：识别信号、呼救与启动应急链](/knowledge/cardiac-emergency-in-running/)
+- [退赛决策：必须退的红旗信号、怎么退、沟通记录与坚持判据](/knowledge/dnf-decision-making/)

@@ -1,0 +1,23 @@
+{
+  "caseId": "case-route-compare-four",
+  "toolId": "tool:route-compare",
+  "input": {
+    "routes": [
+      { "routeId": "synthetic-zeta", "distanceMeters": 5000, "elevationGainMeters": 20, "surface": "track", "technicality": "low" },
+      { "routeId": "synthetic-eta", "distanceMeters": 10000, "elevationGainMeters": 50, "surface": "road", "technicality": "low" },
+      { "routeId": "synthetic-theta", "distanceMeters": 21097.5, "elevationGainMeters": 120, "surface": "road", "technicality": "medium" },
+      { "routeId": "synthetic-iota", "distanceMeters": 42195, "elevationGainMeters": 300, "surface": "road", "technicality": "medium" }
+    ]
+  },
+  "expected": {
+    "routeCount": 4,
+    "rows": [
+      { "key": "distance", "values": [5000, 10000, 21097.5, 42195] },
+      { "key": "elevation", "values": [20, 50, 120, 300] },
+      { "key": "surface", "values": ["track", "road", "road", "road"] },
+      { "key": "technicality", "values": ["low", "low", "medium", "medium"] }
+    ],
+    "rankingProduced": false
+  },
+  "basis": "Synthetic unit-level case, not a real race: four distinct published versions sit at the upper bound of the 2-to-4 selection. All fields are recorded, so no value stays null. The four columns keep selection order and the output still produces no total score, safety grade or difficulty ranking; longer distance or more gain is not interpreted as harder."
+}

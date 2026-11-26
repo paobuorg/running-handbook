@@ -162,3 +162,10 @@ This is exercise-science education, not a diagnosis or individual prescription. 
 - Železnik Mežan, Accuracy of wearables for determining the maximal oxygen uptake and lactate threshold: a qualitative systematic review, Front Sports Act Living 2025: 13 studies; 7 supported VO₂max estimation and 3 supported lactate threshold estimation; usefulness in elite sport is questionable.
 
 Verified on 2026-11-07.
+
+<!-- related-ring -->
+## Related entries
+
+- [The long run: purpose, conditions and recovery limits](/en/knowledge/long-run/)
+- [Marathon training plan: a decision path from current weekly mileage to an 18–24 week structure](/en/knowledge/marathon-training-plan/)
+- [Periodization: linear, block and reverse linear — and how far the evidence goes](/en/knowledge/periodization/)

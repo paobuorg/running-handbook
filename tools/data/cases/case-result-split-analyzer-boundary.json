@@ -1,0 +1,22 @@
+{
+  "caseId": "case-result-split-analyzer-boundary",
+  "toolId": "tool:result-split-analyzer",
+  "input": {
+    "splits": [
+      { "km": 10, "elapsedMinutes": 30.0 },
+      { "km": 20, "elapsedMinutes": 60.0 }
+    ],
+    "targetFinishMinutes": 60,
+    "splitKm": 10
+  },
+  "expected": {
+    "firstHalfSeconds": 1800,
+    "secondHalfSeconds": 1800,
+    "fadePercent": 0.0,
+    "fadePointKm": null,
+    "variabilityPercent": 0.0,
+    "verdict": "even",
+    "gapToTargetMinutes": 0.0
+  },
+  "basis": "Two equal 10 km checkpoints at 30.0 and 60.0 minutes give two 1800 s segments at 180.0 s/km. Half distance 10 km falls at checkpoint 1; first and second halves are both 1800 s, so fade is 0.0% and the split is even. Both segment paces equal the overall average, giving stdev 0 and variability 0.0%; no segment reaches the 115% threshold. Gap to target = 60.0 − 60 = 0.0 minutes."
+}

@@ -19,6 +19,10 @@ The marathon is a road running event over 42.195 kilometres, also expressed as 2
 
 The two expressions describe the same distance in different units. Training plans and pace tables should use the standard figure unless an event explicitly offers another distance. Writing "42 km" or "26.2 miles" is usually shorthand; pace calculations should use 42.195 km, otherwise a four-hour finish gains or loses minutes.
 
+## Converting 26 miles 385 yards to 42.195 kilometres
+
+Using the fixed imperial-to-metric relations: 1 mile = 1609.344 metres, and 1 yard = 0.9144 metres. Twenty-six miles are 26×1609.344 = 41,842.944 metres; 385 yards are 385×0.9144 = 352.044 metres; together these are 41,842.944 + 352.044 = 42,194.988 metres, about 42.195 kilometres. The World Athletics discipline page lists both 42.195 km and 26 miles 385 yards; this conversion aligns the two units and says nothing about the course's historical evolution. The actual route follows the edition's certified measurement, and a watch track can run slightly long or short because of signal drift.
+
 ## How to: three steps to check distance and pace
 
 1. Confirm the distance: check the official race page and confirm the standard marathon, not a category described as "about 42 km".
@@ -37,12 +41,15 @@ The figures are hypothetical arithmetic conversions.
 
 ## Worked example: splitting 3:30 into segments (hypothetical)
 
-All figures are hypothetical. Assume a 210-minute target over 42.195 km: average pace about 4:59 per km and average speed about 12.1 km/h. For a slower first half, set the first 21 km at 5:05 per km, about 106 minutes 45 seconds, and the remaining 21.195 km at 4:53 per km, about 103 minutes 30 seconds; the total is about 3 hours 30 minutes 15 seconds. If start congestion costs 3 minutes and aid stops 2 minutes, recover about 7 seconds per kilometre on controllable sections.
+All figures are hypothetical. Assume a 210-minute target over 42.195 km: average pace about 210÷42.195 ≈ 4.98 minutes per km, or 4:59 per km, and average speed about 42.195÷3.5 ≈ 12.1 km/h. For a slower first half, set the first 21 km at 5:05 per km, about 106 minutes 45 seconds, and the remaining 21.195 km at 4:53 per km, about 103 minutes 30 seconds; the total is about 3 hours 30 minutes 15 seconds. If start congestion costs 3 minutes and aid stops 2 minutes, recover about 7 seconds per kilometre on controllable sections. The average pace is an accounting baseline; execution relies on splits and buffers. Splits turn the average into checkpoints rather than a per-kilometre watch stare.
 
 ## Common misconceptions
 
 - Treating "42 km" as the exact distance for pace; the error accumulates to minutes.
 - Treating the half marathon as "half the load"; distance halves, but fuelling and fatigue do not.
+- Rejecting the official course from a GPS track; watch distance drifts with signal.
+- Applying ultra-marathon pacing to the marathon; the distance and fuelling logic differ.
+- Mixing units; runners trained in miles and kilometres read the same finish time differently.
 
 ## Course, measurement and records
 
@@ -72,10 +79,19 @@ This page does not decide whether a result can be ratified as a record, and does
 
 ## Related reading
 
-- [Classic races and their history: versions, tradition and conditions](https://learn.paobu.org/en/articles/classic-races-and-history/)
-- [Records and courses: why a fast watch time is not a record](https://learn.paobu.org/en/articles/records-and-course-validity/)
-- [Running culture: race rules, record ratification and reading research](https://learn.paobu.org/en/articles/running-culture/)
+- [Classic races and their history: versions, tradition and conditions](/en/knowledge/classic-races-and-history/)
+- [Records and courses: why a fast watch time is not a record](/en/knowledge/records-and-course-validity/)
+- [Running culture: race rules, record ratification and reading research](/en/knowledge/running-culture/)
+- [Race-day pacing: first half, second half and split execution](/en/knowledge/race-day-pacing/)
+- [Marathon training plan: from current weekly volume to cycle structure](/en/knowledge/marathon-training-plan/)
 
 ## Sources and scope
 
-The definition of the marathon as 42.195 kilometres, or 26 miles and 385 yards, follows the World Athletics marathon discipline page. Record categories, mixed-gender and women-only tables and pending ratification follow the World Athletics records page. Non-transferable bibs, the ban on unregistered companions, headphone limits and the code of conduct follow the BAA 2026 Boston Marathon rules. Verified 2026-11-06.
+The definition of the marathon as 42.195 kilometres, or 26 miles and 385 yards, follows the World Athletics marathon discipline page. Record categories, mixed-gender and women-only tables and pending ratification follow the World Athletics records page. Non-transferable bibs, the ban on unregistered companions, headphone limits and the code of conduct follow the BAA 2026 Boston Marathon rules. The fixed mile and yard to metre factors (1 mile = 1609.344 metres, 1 yard = 0.9144 metres) follow NIST Guide to the SI Appendix B.8; pace, splits and examples are arithmetic or hypothetical. Verified 2026-11-06.
+
+<!-- related-ring -->
+## Related entries
+
+- [Race and shared-path etiquette: rules, space and predictability](/en/knowledge/race-and-shared-path-etiquette/)
+- [How to read running research: question first, conclusion later](/en/knowledge/reading-running-research/)
+- [Records and courses: why a fast watch time is not a record](/en/knowledge/records-and-course-validity/)

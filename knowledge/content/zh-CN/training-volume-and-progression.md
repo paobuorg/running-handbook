@@ -114,7 +114,7 @@ GRONORUN 的逻辑很直接：如果身体需要更多时间适应，那么把�
 ## 相关阅读
 
 - [5K/10K 专项训练计划：周期、强度与减量结构](https://learn.paobu.org/articles/5k-10k-training-plan/)
-- [周期化：线性、块状与反线性，以及证据支持到什么程度](https://learn.paobu.org/articles/periodization/)
+- [周期化：线性、块状与反线性，以及证据支持到什么程度](/knowledge/periodization/)
 - [训练负荷比](https://tools.paobu.org/tools/training-load/)
 
 ## 来源
@@ -122,3 +122,10 @@ GRONORUN 的逻辑很直接：如果身体需要更多时间适应，那么把�
 - Buist 等，No effect of a graded training program on the number of running-related injuries in novice runners（GRONORUN 随机对照试验，2008）：532 人、4 英里赛事、13 周与 8 周程序、20.8% 与 20.3%、P = .90、受伤定义、30%–79% 与每 1000 小时 7–59 次、约 60% 归因于训练错误。
 - Nielsen 等，Excessive progression in weekly running distance and risk of running-related injuries（2014）：874 名新手跑者招募、873 人纳入、202 例受伤、三组无显著差异、风险比 1.59（95% CI 0.96–2.66，P = .07）、作者建议两周内少于 30%。
 - Fredette 等，The Association Between Running Injuries and Training Parameters（系统综述，2022）：36 项研究、23,047 名跑者、26.2% 受伤率、证据冲突、无法给出统一进阶建议。
+
+<!-- related-ring -->
+## 相关条目
+
+- [一周跑步怎么安排：轻松跑、质量课和长距离](/knowledge/training-week/)
+- [超马入门：100 公里真正要求什么](/knowledge/ultra-running-basics/)
+- [呼吸节奏：用它判断强度，不要硬套节拍](/knowledge/breathing-and-rhythm/)

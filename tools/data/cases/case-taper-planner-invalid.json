@@ -1,0 +1,16 @@
+{
+  "caseId": "case-taper-planner-invalid",
+  "toolId": "tool:taper-planner",
+  "input": {
+    "raceDistance": "marathon",
+    "peakWeeklyKm": 70,
+    "peakLongRunKm": 30,
+    "qualitySessionsPerWeek": 0,
+    "taperWeeks": 3,
+    "daysToRace": 21
+  },
+  "expected": {
+    "error": "qualitySessions"
+  },
+  "basis": "Quality sessions per week must be between 1 and 3; 0 is outside the range, so the planner throws a range error on qualitySessions before building any week."
+}

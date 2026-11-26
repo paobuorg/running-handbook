@@ -90,7 +90,7 @@ AAOS sets a specific gate: be **pain-free for at least 2 weeks**, then return at
 
 ## A worked example you can adapt
 
-Example runner: a beginner who went from three runs (20 km per week) to five runs (35 km per week) in two weeks and added two hill sessions; pain now starts at 3 km along the inner shin and walking hurts afterwards.
+Example runner: a beginner who went from three runs (20 km per week) to five runs (35 km per week) in two weeks and added two hill sessions; pain now starts at 3 km along the inner shin and walking hurts afterwards. The load arithmetic: weekly volume rose from 20 km to 35 km, an increase of 15 km, or (35−20)÷20 = 75%, while frequency, session duration and hill intensity all changed at once.
 
 Adjustment example (not a prescription):
 
@@ -100,7 +100,7 @@ Adjustment example (not a prescription):
 4. From day 11, run 3 km on flat ground every other day; add 1 km only if the 24-hour response is clean.
 5. Do not return to three runs per week until at least two pain-free weeks; add hills last.
 
-This example shows the order — frequency first, then duration, then intensity — and does not promise recovery in two weeks.
+This example shows the order — frequency first, then duration, then intensity — and does not promise recovery in two weeks. The 75% is arithmetic for this example only, not a universal injury threshold.
 
 ## Common misconceptions
 
@@ -108,6 +108,7 @@ This example shows the order — frequency first, then duration, then intensity 
 - **"It will run itself off."** NHS explicitly says not to continue the exercise that caused the pain. "Running it off" may only mask it.
 - **"A new carbon-plate shoe lets me keep increasing mileage."** Shoes are one factor; load change is the main driver. New shoes do not change "too much, too soon".
 - **"Barefoot running cures shin splints."** AAOS states there is **no clear evidence** that barefoot running reduces the risk of any injury; if tried, it must be introduced very gradually.
+- **"Once the pain goes away, go straight back to the old mileage."** AAOS gates return on at least two consecutive pain-free weeks, then lower frequency, shorter duration and lower intensity; feeling better does not mean tissue recovery is complete.
 
 ## Frequency, progression, and review
 
@@ -128,14 +129,25 @@ This example shows the order — frequency first, then duration, then intensity 
 
 ## Scope and limits
 
-This is health education, not a substitute for examination or imaging. Causes of shin pain can overlap, and stress fracture and chronic exertional compartment syndrome need professional assessment. AAOS and NHS differ on rest duration ("several weeks" versus "7–14 days"); this page uses the more conservative gate of at least two pain-free weeks before return. Children, adolescents, pregnant runners, post-operative runners, and people taking medication that affects bone metabolism should be assessed clinically first.
+This is health education, not a substitute for examination or imaging, and it provides no diagnosis, medication or rehabilitation prescription. Causes of shin pain can overlap, and stress fracture and chronic exertional compartment syndrome need professional assessment. AAOS and NHS differ on rest duration ("several weeks" versus "7–14 days"); this page uses the more conservative gate of at least two pain-free weeks before return. Children, adolescents, pregnant runners, post-operative runners, and people taking medication that affects bone metabolism should be assessed clinically first.
 
 ## Related reading
 
-- [Running technique: cadence, stride, breathing and hills](https://learn.paobu.org/en/articles/running-form/)
+- [Running technique: cadence, stride, breathing and hills](/en/knowledge/running-form/)
+- [Returning to running after a break: start with repeatable small doses](/en/knowledge/return-to-running/)
+- [Injury prevention: load, strength and movement boundaries](/en/knowledge/running-injury-prevention/)
+- [Shoe fit and cushioning: fit matters more than softness](/en/knowledge/running-shoes/)
+- [Should a recovery day be rest or easy movement?](/en/knowledge/recovery-day/)
 
 ## Sources
 
 - NHS, Shin splints (reviewed 9 February 2023): symptoms, icing, substitute exercise, not continuing the causative activity, GP and 111 thresholds, risk factors.
 - AAOS, Shin Splints: MTSS definition, sudden changes in frequency/duration/intensity, flat feet and worn shoes, ruling out stress fracture, tendinitis, and chronic exertional compartment syndrome, 20-minute icing, compression, orthotics, the 2-week pain-free return gate, and the lack of evidence for barefoot running.
 - NHS, Knee pain and other running injuries: runner-specific shin pain management and when to stop.
+
+<!-- related-ring -->
+## Related entries
+
+- [Side stitch and gut symptoms — how common they are, what triggers them and the red flags that need a doctor](/en/knowledge/side-stitch-and-gi/)
+- [Air quality and running — the six AQI bands, exercise dose and the "run today?" decision](/en/knowledge/air-quality-and-running/)
+- [Running at altitude: acclimatisation, training and when to descend](/en/knowledge/altitude-and-running/)

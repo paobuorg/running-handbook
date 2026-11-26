@@ -1,0 +1,24 @@
+{
+  "caseId": "case-crew-pacer-plan-boundary",
+  "toolId": "tool:crew-pacer-plan",
+  "input": {
+    "distanceKm": 21.1,
+    "startClock": "08:00",
+    "targetFinish": "09:30",
+    "crewLeadMinutes": 0,
+    "accessPoints": [
+      { "km": 10.5, "name": "Midpoint", "crew": true, "pacer": true }
+    ]
+  },
+  "expected": {
+    "handoffs": [
+      { "name": "Midpoint", "km": 10.5, "arrivalClock": "08:45", "crewCallClock": "08:45" }
+    ],
+    "pacerLegs": [],
+    "longestCrewGapMinutes": 0,
+    "warnings": [
+      "Only 1 crew-access point; gaps between crew stops cannot be checked."
+    ]
+  },
+  "basis": "Target duration = 09:30 - 08:00 = 90 min; pace = 21.1 / 90 km per min. Arrival at 10.5 km = 480 + 10.5 * 90 / 21.1 = 480 + 44.787 = 524.787 -> 525 min = 08:45. Crew lead is 0, so the crew call clock is also 08:45. With one crew point there are no adjacent gaps, so longestCrewGapMinutes is 0; with one pacer point there are no pacer legs. The single-point warning is emitted because gaps cannot be checked."
+}

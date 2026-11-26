@@ -85,3 +85,10 @@ This page is not the full race rulebook, traffic law or land-management rule. Th
 ## Sources and scope
 
 Non-transferable bibs, the ban on unregistered pacers, headphone conditions and the event code of conduct follow the BAA 2026 Boston Marathon rules; trip plans, coverage limits, weather and a Plan B follow the U.S. National Park Service “Hike Smart”; water turnaround, alternative navigation, headlamp and first aid follow the NPS hiking safety tips. Verified 2026-11-06.
+
+<!-- related-ring -->
+## Related entries
+
+- [How to read running research: question first, conclusion later](/en/knowledge/reading-running-research/)
+- [Records and courses: why a fast watch time is not a record](/en/knowledge/records-and-course-validity/)
+- [Running culture: race rules, record ratification and reading research](/en/knowledge/running-culture/)

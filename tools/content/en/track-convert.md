@@ -50,13 +50,26 @@ Coordinates and elevation are preserved as parsed, with no rounding or truncatio
 
 ## Reading the result
 
-A successful conversion is judged by matching point count, segment count and elevation coverage, not by the file “looking similar”. Fewer points usually means the input geometry was misread or rejected; fewer elevation values means elevation was lost during parsing. Conversion cannot prove the line is correct, complete or authorised, and it cannot turn a track into an official course file.
+A successful conversion is judged by matching point count, segment count and elevation coverage, not by the file “looking similar”. Fewer points usually means the input geometry was misread or rejected; fewer elevation values means elevation was lost during parsing. Fewer segments or elevation values should send you back to the original file to check parsing, not to fill values into the output. A successful conversion means only that the geometry was re-serialized; it does not certify distance, gain or access, and it cannot turn a track into an official course file.
 
 ## How to use it
 
 1. Export GPX or GeoJSON from the source device or app and confirm it is line geometry.
 2. Choose the target format and convert, noting point count, segment count and elevation coverage.
 3. Reopen the output with the track viewer and compare endpoints, points and distance before sharing.
+
+## Common format and segment cases
+
+| Input format | Accepted geometry | Preserved | Stripped |
+| --- | --- | --- | --- |
+| GPX | trkseg under trk; rte when no trkseg exists | Order, segments, existing elevation | Timestamps, device, names |
+| GeoJSON | LineString, MultiLineString, Features holding only those | Longitude, latitude, optional elevation | Original file name and metadata |
+| Points or polygons | Other geometry types | Rejected, an error returns | No silent discard |
+| Same-format round trip | GPX to GPX or GeoJSON to GeoJSON | Geometry and segments | Indentation and element order may change |
+
+Confirm the input is line geometry before converting: points and polygons are rejected rather than treated as a route. Segments stay independent in the output, and endpoints of different segments are not joined. When checking the result, compare segment count and point count with the input first, then count the positions carrying elevation.
+
+Coordinate order stays longitude first, latitude second, and missing elevation stays missing. If the source uses an obfuscated datum, conversion does not correct the shift: the position moves while the distance looks normal. The output is re-serialized; even at the same format, indentation, number formatting and element order can differ from the original without changing content.
 
 ## Limits and when not to use it
 
@@ -70,8 +83,10 @@ Do not use it for course measurement, permit decisions or preserving track evide
 
 ## Related reading
 
-- [Trail navigation: tracks, maps and backups](https://learn.paobu.org/en/articles/trail-navigation/)
-- [Route safety: plan, weather and escape route](https://learn.paobu.org/en/articles/route-safety/)
+- [Trail navigation: tracks, maps and backups](/en/knowledge/trail-navigation/)
+- [Route safety: plan, weather and escape route](/en/knowledge/route-safety/)
+- [Track viewer: read your GPX and GeoJSON locally](/en/tools/track-view/)
+- [Track simplification: projected tolerance, points and distance](/en/tools/track-simplify/)
 
 ## Privacy and data
 
@@ -80,3 +95,10 @@ The download is generated locally in the browser. Contents are not uploaded, log
 ## Sources and scope
 
 File structure follows the GPX 1.1 specification and RFC 7946 GeoJSON; coordinate order and elevation fields follow those public definitions. The tool changes format only and does not certify the line. Verified 2026-11-06.
+
+<!-- related-ring -->
+## Related entries
+
+- [Track simplification: projected tolerance, points and distance](/en/tools/track-simplify/)
+- [Track viewer: read your GPX and GeoJSON locally](/en/tools/track-view/)
+- [Acute-to-chronic load ratio: review the last 7 days against 28 days](/en/tools/training-load/)

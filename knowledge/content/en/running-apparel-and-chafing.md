@@ -11,86 +11,101 @@ reviewers:
 translationStatus: reviewed
 ---
 
-## Definition and scope
+## What this page covers, and when it applies
 
-Running apparel and friction management means using fit, wicking fabric and fewer seams to reduce repeated rubbing and long periods of wet skin. It applies to everyday and long-distance runners, wet or cold weather and recurrent blisters. It holds when clothing does not rub, the base wicks, shoes and socks fit, and new items have been trialled.
+This page covers clothing fit, moisture management and chafe handling, plus layering for wet and cold weather. It assumes general running and hiking settings; with skin disease, a healing wound or allergy history, fabric and topical product choices should follow medical advice. Sports bra support and sizing are in [Sports bra and breast support](/en/knowledge/sports-bra-and-breast-support/); sun and UV exposure are in [Sun and UV protection](/en/knowledge/sun-and-uv-exposure/), not covered here.
 
-## Layering logic
+## What clothing solves first
 
-Cold weather calls for a wicking base, an insulating mid layer and a wind- and rain-proof shell, adjusted as temperature, wind and effort change. NPS winter advice includes layering, a warm outer layer, sunglasses, sunscreen, water and snacks, and traction devices on ice and snow. Overdressing causes heavy sweating and rapid chilling when you stop.
+Running clothing's first job is reducing skin friction, staying dry and adapting to temperature. Cotton holds sweat against the skin, loses heat quickly when wet and can abrade skin; synthetic or wool blends wick faster, though feel varies between people. Seam positions, labels and elastic bands are common chafe sources; check the inner thighs, armpits, nipples, shoulders and waist when trying on.
 
-## Chafe points
+Fit is not tightness: overly tight clothing restricts movement and adds friction, while loose fabric swings and rubs. Break new clothes in on short easy runs first; do not wear them straight into a long run or race.
 
-Common points are shoulders, armpits, chest, inner thighs, waistband and ankles. Hard seams, labels, zips, loose cuffs and belt edges can stay silent until late in a long run. Anti-chafe products reduce friction at known points but do not replace well-fitting clothing; test a small area first.
+## Fabric, seams and socks
 
-## Moisture management
+Fabric choice centres on wicking and reduced friction. Synthetics wick quickly, wool blends keep some warmth when wet and cold; cotton holds sweat against the skin, loses heat fast in wet cold and reddens more easily. Feel varies between people, so trial new fabrics on short runs first rather than a long run.
 
-The NHS notes that friction blisters are common with poorly fitting shoes, and that moist skin and warm conditions increase risk. Cotton absorbs sweat, becomes heavy, clings and raises friction; in rain a quick-drying base and waterproof shell help more than extra thickness. Keep feet dry and tip grit out of the shoe.
+Seams and labels are hidden chafe sources. Prefer flat seams or seams that do not sit on the inner thigh, armpit or nipple path; remove inner labels where they can be taken off. Socks matter too: flat toeseams, no bunched toe fabric and a cuff that does not slide down into the shoe all reduce toe and sole friction. Break new socks in training as well; do not wear brand-new socks on a long run.
 
-## Blister care
+## Layering and weather
 
-Most blisters heal within about a week. Keep the area clean, cover it with a soft plaster or padded dressing and do not burst it yourself; stop wearing the shoe that caused the friction. Seek advice for a very large or painful blister, or if a burst blister becomes red, hot, swollen or produces pus.
+In cold weather the layering logic is: wicking base, insulating mid, wind- and rain-resistant outer. NPS winter hiking guidance advises adding or removing layers with activity level and weather, and adjusting after sweating to avoid chilling in the wind. Hot weather works the other way: light colours, loose fit and breathability for cooling; when wet cold and wind combine, insulation and wind protection matter more than one thick garment.
 
-## Worked example
+More layers are not automatically better. Check seams and chafe positions on every layer; kit completeness follows the NPS ten essentials guidance.
 
-All weights are hypothetical, not product specifications. Assume 8°C, light rain, wind force 3, a 15 km route and about 90 minutes.
+## Chafe points and handling
 
-- Wicking base: 130 g
-- Insulating mid: 240 g
-- Waterproof shell: 320 g
-- Spare warm layer: 180 g
-- Total: 870 g, about 0.87 kg
+Common points are inner thighs, armpits, nipples, shoulders (pack straps), waist and between toes. Mild redness can be treated before the next run with petroleum jelly or a dedicated anti-chafe balm or patch on the contact area. For blisters, follow NHS blister advice: do not pop small blisters, keep them clean and dry, and seek care if they break or redness worsens.
 
-The list also includes a headlamp, map, compass, whistle, first aid, water and food, matching the NPS Ten Essentials.
+After sweating or rain, wet clothing stays against the skin and keeps rubbing while speeding heat loss. Change out of wet layers and dry the skin as soon as possible after a long run or trail session; carrying a spare base layer or socks works better than waiting until home to deal with it. Check pack belt and strap contact points too: the more the load, the larger the friction area.
 
-## Situations and layers
+Sock-shoe pairing also affects foot friction; shoe size and fit are covered in [Choosing running shoes](/en/knowledge/running-shoes/). Protecting likely points before a long run works better than treating them afterward.
 
-Temperatures are hypothetical.
+## How to do it: pre-run check
 
-| Situation | Base | Mid | Outer |
-| --- | --- | --- | --- |
-| 15°C, dry, calm | Short-sleeve wicking | None | None |
-| 5°C, rain | Long-sleeve wicking | Light insulation | Waterproof shell |
-| 0°C, ice | Long-sleeve wicking | Insulation | Windproof waterproof shell |
+1. Check seams, labels and elastic positions so they are not on a path where skin slides repeatedly.
+2. Layer for the weather with room to add or remove; adjust the outer layer after sweating.
+3. Apply anti-chafe balm or patches to likely points, and check pack-strap shoulder friction.
+4. Do not wear brand-new clothing on a long run or race; break it in during training.
 
-## How to: three steps
+## Quick reference: weather and clothing
 
-1. Test prone areas on a short run and confirm seams, waistband and shoe collar do not rub before upgrading fabric.
-2. Build three layers for the forecast, pack spare warmth and a waterproof shell, and add traction on ice and snow.
-3. Keep skin dry before long runs, pre-treat known chafe points, and clean and cover afterwards.
+| Weather | Base layer | Outer layer | Key checks |
+|---|---|---|---|
+| Cool and dry | Wicking next to skin | Thin jacket by wind | Armpit, waist seams |
+| Wet cold and windy | Wicking base | Wind- and water-resistant outer | Change if soaked |
+| Hot and humid | Light-coloured, breathable | Usually no layer | Inner thigh, nipple chafe |
+| Mixed rain and snow | Wicking base | Waterproof outer, spare socks | Feet and pack-strap friction |
+
+## Worked example: weight of a trail kit
+
+Suppose a vest weighs 130 g, shorts 240 g, trail socks 320 g and wind vest 180 g, totalling 130 + 240 + 320 + 180 = 870 g. Clothing weight is not a performance metric in itself, but accumulated swing and friction over a long distance affect comfort; cut weight without sacrificing fit and protection. Weights are hypothetical examples; weigh the actual items.
+
+## Worked example: chafe-point check and patch choice (evidence limits)
+
+Before the run, check inner thighs, armpits, nipples, shoulders and waist one by one: where clothing slides repeatedly, first adjust fit, then consider anti-chafe patches or petroleum jelly. Patch choice follows skin tolerance, sweat level and how clothing contacts the skin, rather than a "friction coefficient" number; this page gives no applicable coefficient threshold, and existing public guidance does not set a unified coefficient standard, so that part is evidence-insufficient. Peel patches after the run and clean the skin if edges lift or redness appears.
 
 ## Common misconceptions
 
-- Believing tighter is more professional; too tight restricts movement and adds pressure points.
-- Wearing new clothing or socks first on race day; new seams fail at distance.
-- Bursting a blister to "let the fluid out"; the NHS advises against it.
+- Tighter means more professional. Over-tight clothing restricts movement and adds friction; fit means you can move without sliding, not that marks are pressed into the skin.
+- Wearing new clothes straight into a long run. Fabric, seams and labels need breaking in; new kit on a long run or race day is high risk.
+- Looking only at price. Expensive fabric does not guarantee fit; chafe positions and wicking must be verified in training.
+- Running on after a blister breaks. Broken skin worsens with continued friction; treat it and reduce further rubbing, and seek care if redness spreads.
 
-## When to stop or seek care
+## When to stop
 
-Stop and seek advice if a burst blister becomes red, hot, swollen, painful or shows spreading redness or pus; people with diabetes, poor circulation or reduced sensation should have feet assessed early. Persistent shivering, slowed responses or slurred speech suggest hypothermia; altered consciousness in heat is an emergency.
+Stop running and seek medical assessment for widespread abrasion, broken blisters with discharge, worsening redness heat and pain, spreading rash or fever. In cold conditions, persistent shivering, stiff movement or confusion are hypothermia risks; get warm and seek help quickly. These red flags cannot be solved by clothing adjustments alone.
 
-## Frequency and replacement
+## Frequency and progression
 
-Check seams, elastic and waterproof layers every three to six months, trial the full kit before a long-distance season, and inspect feet after long runs. If the same item rubs the same spot twice, replace it or change the combination.
+After every long run, check where clothing chafed and record which garment and which area. Try new-season gear early in the season rather than on the first long run. Evidence limits for compression and recovery wear are covered on the relevant pages; do not treat compression garments as injury-prevention guarantees. If the same garment reddens the same spot repeatedly, check fit and seams first and consider changing style rather than relying on patches every time.
 
-## Checklist
+## Kit checklist
 
-- Base layer wicks and does not cling.
-- Outer layer blocks wind or rain and packs small.
-- Socks and shoes fit, with no grit inside.
-- Prone areas protected; blister dressings packed.
+- Seams and labels are off the repeated friction path.
+- Layered for the weather, outer layers removable.
+- Likely points protected in advance.
+- Socks pair with shoes, toes not squeezed.
+- Carry spare socks or base layer in wet cold weather.
 
 ## Scope and limits
 
-This page does not recommend brands or fabrics and does not diagnose skin disease, infection or foot structure. People with diabetes, circulation problems, reduced sensation or recurrent blisters should consult a professional.
+This page does not diagnose dermatitis, fungal infection, eczema or wound infection, and does not recommend specific fabric brands or topical medicines. Persistent redness, itching, broken skin or slow healing warrants medical review; kit advice is general outdoor and running experience, with local weather and individual skin condition deciding the details.
 
 ## Related reading
 
-- [Cold-weather running: manage exposure before pace](https://learn.paobu.org/en/articles/cold-weather-running/)
-- [Choosing running shoes: fit, comfort and limits](https://learn.paobu.org/en/articles/running-shoes/)
-- [Sports Bras and Breast Support — displacement, fit and pain boundaries](https://learn.paobu.org/en/articles/sports-bra-and-breast-support/)
-- [UV radiation and running — reading the UV Index, reapplying through sweat, and why snow is harsher](https://learn.paobu.org/en/articles/sun-and-uv-exposure/)
+- [Cold-weather running: layering, wind protection and hypothermia signs](/en/knowledge/cold-weather-running/)
+- [Sports bra and breast support: support, sizing and comfort](/en/knowledge/sports-bra-and-breast-support/)
+- [Sun and UV protection: timing, gear and skin signals](/en/knowledge/sun-and-uv-exposure/)
+- [Choosing running shoes: by foot type, distance and surface](/en/knowledge/running-shoes/)
 
 ## Sources and scope
 
-Layering, a warm outer layer, sunscreen, water and food, and traction follow U.S. NPS winter tips; the friction cause, healing in about a week and not bursting blisters follow the NHS blisters page; navigation, illumination and minimum kit follow the NPS Ten Essentials. Verified 2026-11-06.
+Layering and cold-weather kit follow the U.S. National Park Service winter hiking guide; blister care follows the NHS blister page; outdoor essentials and spare clothing follow the NPS ten essentials list. Fabric and patch response vary widely between individuals, so this page gives no brand recommendation or skin diagnosis. Verified 2026-11-26.
+
+<!-- related-ring -->
+## Related entries
+
+- [Choosing running shoes: a decision system, not a product review](/en/knowledge/running-shoes/)
+- [Shoe fit and cushioning: comfort before technology](/en/knowledge/shoe-fit-and-cushioning/)
+- [Carbon plates and advanced shoes: evidence, use cases and limits](/en/knowledge/shoe-technology/)

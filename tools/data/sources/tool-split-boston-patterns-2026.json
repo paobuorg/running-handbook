@@ -1,0 +1,41 @@
+{
+  "sourceId": "tool-split-boston-patterns-2026",
+  "title": "Pacing strategy patterns and performance outcomes in marathon running: A large-scale analysis of split time data",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42467613/",
+  "publisher": "PLOS ONE",
+  "publishedAt": "2026-07-17",
+  "accessedAt": "2026-11-25",
+  "claims": [
+    "Split times from 78,912 Boston Marathon finishers (2015–2017) were analyzed at nine checkpoints from 5K through 40K, converting cumulative times into segment times and segment paces.",
+    "Cluster analysis identified four patterns: even-pacing (47.9%), mild positive-splitting (31.9%), strong positive-splitting (12.2%) and variable-pacing (8.0%); even-pacing was associated with the fastest finish times.",
+    "A pace decline above 20% in the final segment defines hitting the wall in this analysis; variable-pacing runners showed the highest such incidence, and sub-3:00 runners paced even far more often than casual participants."
+  ],
+  "license": "CC-BY-4.0",
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-25",
+    "checkedVia": "web_fetch 读取 PubMed 摘要与图示方法说明",
+    "note": "2026-11-25 直接读取摘要；样本、四类配速占比与 20% 撞墙阈值均见原文。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "摘要：2015–2017 波士顿马拉松 78,912 名完赛者，九个计时点 5K–40K。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "摘要：四类占比 even 47.9%、mild positive 31.9%、strong positive 12.2%、variable 8.0%；匀速组完赛最快。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "图 4 说明：末段配速下降 >20% 记为 hitting the wall；variable 组发生率最高；3 小时内选手匀速占比 82.0%。"
+    }
+  ]
+}

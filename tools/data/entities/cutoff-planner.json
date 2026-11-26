@@ -1,0 +1,163 @@
+{
+  "entityId": "tool:cutoff-planner",
+  "slug": "cutoff-planner",
+  "kind": "tool",
+  "status": "published",
+  "riskLevel": "general",
+  "sourceRefs": [
+    "tool-cutoff-utmb-regulation",
+    "tool-cutoff-wser-aid",
+    "tool-cutoff-wser-faq"
+  ],
+  "relatedRefs": [
+    "knowledge:race-day-pacing",
+    "knowledge:periodization",
+    "tool:race-checklist",
+    "route:utmb",
+    "route:western-states"
+  ],
+  "license": "CC-BY-4.0",
+  "createdAt": "2026-11-25",
+  "updatedAt": "2026-11-26",
+  "reviewedAt": "2026-11-26",
+  "reviewDueAt": "2027-11-25",
+  "translations": [],
+  "details": {
+    "toolId": "tool:cutoff-planner",
+    "specVersion": "1.0.0",
+    "inputs": [
+      {
+        "name": "distanceKm",
+        "type": "number",
+        "unit": "km",
+        "required": true,
+        "minimum": 0,
+        "labels": {
+          "zh-CN": "全程距离（公里）",
+          "en": "Course distance (km)"
+        }
+      },
+      {
+        "name": "startClock",
+        "type": "string",
+        "unit": "HH:MM",
+        "required": true,
+        "labels": {
+          "zh-CN": "枪声/过线时间",
+          "en": "Gun / start time"
+        }
+      },
+      {
+        "name": "targetFinish",
+        "type": "string",
+        "unit": "HH:MM",
+        "required": true,
+        "labels": {
+          "zh-CN": "目标到达终点时刻",
+          "en": "Target finish clock"
+        }
+      },
+      {
+        "name": "finishCutoff",
+        "type": "string",
+        "unit": "HH:MM",
+        "required": true,
+        "labels": {
+          "zh-CN": "终点关门时刻",
+          "en": "Finish cutoff clock"
+        }
+      },
+      {
+        "name": "checkpoints",
+        "type": "array",
+        "unit": "rows",
+        "required": true,
+        "labels": {
+          "zh-CN": "计时点（公里,关门时刻）",
+          "en": "Checkpoints (km, cutoff)"
+        }
+      }
+    ],
+    "outputs": [
+      {
+        "name": "requiredPaceSecondsPerKm",
+        "type": "number",
+        "unit": "s/km",
+        "required": true,
+        "labels": {
+          "zh-CN": "按目标完赛的所需配速",
+          "en": "Required pace at target finish"
+        }
+      },
+      {
+        "name": "cutoffPaceSecondsPerKm",
+        "type": "number",
+        "unit": "s/km",
+        "required": true,
+        "labels": {
+          "zh-CN": "按终点关门的最慢配速",
+          "en": "Cutoff pace at finish cutoff"
+        }
+      },
+      {
+        "name": "tightestCheckpoint",
+        "type": "string",
+        "unit": null,
+        "required": false,
+        "labels": {
+          "zh-CN": "余量最小的计时点",
+          "en": "Tightest checkpoint"
+        }
+      },
+      {
+        "name": "tightestBufferMinutes",
+        "type": "number",
+        "unit": "min",
+        "required": true,
+        "labels": {
+          "zh-CN": "最小余量（分钟）",
+          "en": "Tightest buffer (minutes)"
+        }
+      },
+      {
+        "name": "finishBufferMinutes",
+        "type": "number",
+        "unit": "min",
+        "required": true,
+        "labels": {
+          "zh-CN": "终点余量（分钟）",
+          "en": "Finish buffer (minutes)"
+        }
+      },
+      {
+        "name": "verdict",
+        "type": "enum",
+        "unit": null,
+        "required": true,
+        "enumValues": [
+          "feasible",
+          "at-risk",
+          "infeasible"
+        ],
+        "labels": {
+          "zh-CN": "可行性判定",
+          "en": "Feasibility verdict"
+        }
+      }
+    ],
+    "formulaDescription": "Parse start, target and finish cutoff as minutes since midnight. Require start < target <= finishCutoff, otherwise an order error. requiredPaceSecondsPerKm = round((target - start) * 60 / distanceKm). cutoffPaceSecondsPerKm = round((finishCutoff - start) * 60 / distanceKm). For each checkpoint, predicted = start + km * requiredPaceRaw / 60 and buffer = cutoff - predicted. The tightest checkpoint is the one with the smallest raw buffer; tightestBufferMinutes is that buffer rounded to the nearest minute. finishBufferMinutes = finishCutoff - target. Verdict: any checkpoint buffer below 0 is infeasible; otherwise the smallest raw buffer below 15 minutes is at-risk; otherwise feasible. An empty checkpoint list is allowed and the verdict then follows the finish buffer only.",
+    "assumptions": [
+      "Pace is assumed even and constant from start to finish; the tool does not model climbs, heat, waits or negative splits.",
+      "All clock times are on the same day; the tool does not handle after-midnight cutoffs.",
+      "Checkpoint cutoffs are deadlines to leave the station, as stated by trail race regulations; road races may apply them as passage times.",
+      "The target finish is a planned goal, not a predicted performance; predicted arrivals are projections at the constant required pace.",
+      "The 15-minute at-risk threshold is a planning heuristic, not an official race rule."
+    ],
+    "rounding": "Paces round to the nearest whole second per kilometre; buffers and finish buffer round to the nearest whole minute; verdict thresholds are compared on unrounded raw buffers before rounding.",
+    "caseRefs": [
+      "case-cutoff-planner-typical",
+      "case-cutoff-planner-boundary",
+      "case-cutoff-planner-invalid"
+    ]
+  }
+}

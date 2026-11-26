@@ -1,0 +1,55 @@
+{
+  "sourceId": "knowledge-sleep-uutrecht-2025-runners",
+  "title": "Sleep Matters: Profiling Sleep Patterns to Predict Sports Injuries in Recreational Runners",
+  "url": "https://research-portal.uu.nl/ws/files/273970266/applsci-15-10814.pdf",
+  "publisher": "Applied Sciences (MDPI), Utrecht University repository",
+  "publishedAt": null,
+  "accessedAt": "2026-11-25",
+  "claims": [
+    "The secondary analysis used survey data from 425 Dutch recreational runners, identifying sleep profiles from sleep duration, sleep quality, and sleep problems.",
+    "Runners in the Poor Sleepers profile were significantly more likely to report sports injuries than Steady Sleepers (OR 1.78, 95% CI 1.14-2.78; p=0.01), with a 68% injury probability.",
+    "The Efficient Sleepers and Fragmented Sleepers profiles did not differ significantly from the Steady Sleepers reference group.",
+    "All predictor variables together explained 5% of injury variance, and the cross-sectional design does not allow causal inference.",
+    "The paper treats sleep duration and quality together as an injury-risk factor and advises prioritising sleep as a recovery need, especially after returning from injury."
+  ],
+  "license": "Open access repository copy; citation and summary only",
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-25",
+    "checkedVia": "WebFetch 读取 Utrecht University 仓储 PDF 全文（Abstract、Methods、Table 4 回归结果、Discussion）",
+    "note": "读到摘要、样本构成、Table 3/4 与 Discussion；OR、CI、p 值与 68% 概率逐项核对。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "原文：“A secondary analysis was conducted on survey data from 425 Dutch recreational runners”；三维度为 sleep duration, sleep quality, sleep problems。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "原文 Table 4：Poor Sleepers b=0.58, OR=1.78 (1.14–2.78), p=0.01, injury probability 68%；Steady Sleepers 参照 OR=1.00, 55%。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "原文：Efficient Sleepers OR 1.32 (0.62–2.81)；Fragmented Sleepers OR 1.18 (0.54–2.60)；“No significant differences were observed between the remaining profiles and the reference group.”"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "原文：Nagelkerke R2=5%；“its cross-sectional design limits the possibilities for causal inference”。"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "原文 Discussion：“both sleep duration and sleep quality as well as sleep problems should be considered”；“ensuring adequate sleep duration and sleep quality is even more crucial for proper healing and tissue regeneration”；“sleep should be treated as a performance priority”。"
+    }
+  ]
+}

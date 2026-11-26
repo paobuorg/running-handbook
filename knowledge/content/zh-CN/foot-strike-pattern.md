@@ -174,3 +174,10 @@ translationStatus: reviewed
 - Zhang 等，Effects of a 12-week gait retraining program on the Achilles tendon adaptation of habitually shod runners，Scand J Med Sci Sports 2024：30 名男性随机分组，28 人完成；57%（8/14）转为前掌；跟腱长度与横截面积显著增加。
 
 核验日期：2026-11-07。
+
+<!-- related-ring -->
+## 相关条目
+
+- [登山杖技术：什么时候用、怎么调长度与赛事规则](/knowledge/poles-technique/)
+- [触地时间与垂直振幅：数字能说明什么，不能说明什么](/knowledge/running-dynamics-metrics/)
+- [跑步技术：步频、步幅、呼吸与上下坡的判断框架](/knowledge/running-form/)

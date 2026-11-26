@@ -151,3 +151,10 @@ This is health education, not a diagnostic tool. Outside-knee pain can come from
 - MedlinePlus, Iliotibial band syndrome — aftercare (reviewed 4 June 2025): bursa, 15-minute icing, return-to-running threshold, medication cautions.
 - NHS, Knee pain (reviewed 21 December 2023): 20-minute icing and urgent signs.
 - NHS, Knee pain and other running injuries: when runners should seek help.
+
+<!-- related-ring -->
+## Related entries
+
+- [Jet Lag and Racing Abroad — direction, light and arrival timing](/en/knowledge/jet-lag-and-race-travel/)
+- [Knee Pain in Runners: Triage Boundaries, Three Bands of Action, and Red Flags](/en/knowledge/knee-pain-in-runners/)
+- [Menopause and Running — symptoms, bone loss and how to adjust training](/en/knowledge/menopause-and-running/)

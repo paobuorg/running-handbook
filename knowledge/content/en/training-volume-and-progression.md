@@ -113,7 +113,7 @@ This page is training education, not a personal plan or medical advice. The two 
 ## Related reading
 
 - [5K/10K race training: period, intensity and taper structure](https://learn.paobu.org/en/articles/5k-10k-training-plan/)
-- [Periodization: linear, block and reverse linear — and how far the evidence goes](https://learn.paobu.org/en/articles/periodization/)
+- [Periodization: linear, block and reverse linear — and how far the evidence goes](/en/knowledge/periodization/)
 - [Training load ratio](https://tools.paobu.org/en/tools/training-load/)
 
 ## Sources
@@ -121,3 +121,10 @@ This page is training education, not a personal plan or medical advice. The two 
 - Buist et al., No effect of a graded training program on the number of running-related injuries in novice runners (GRONORUN randomised controlled trial, 2008): 532 runners, 4-mile event, 13-week versus 8-week programmes, 20.8% versus 20.3%, P = .90, injury definition, 30–79% and 7–59 per 1000 hours, about 60% attributed to training errors.
 - Nielsen et al., Excessive progression in weekly running distance and risk of running-related injuries (2014): 874 novice runners recruited, 873 analysed, 202 injuries, no significant difference across three groups, hazard ratio 1.59 (95% CI 0.96–2.66, P = .07), authors advise less than 30% within two weeks.
 - Fredette et al., The Association Between Running Injuries and Training Parameters (systematic review, 2022): 36 studies, 23,047 runners, 26.2% injury rate, conflicting evidence, no universal progression recommendation.
+
+<!-- related-ring -->
+## Related entries
+
+- [A weekly running week: easy runs, quality and the long run](/en/knowledge/training-week/)
+- [Ultramarathon basics: what 100 km really asks](/en/knowledge/ultra-running-basics/)
+- [Breathing rhythm: a gauge for intensity, not a fixed beat](/en/knowledge/breathing-and-rhythm/)

@@ -1,0 +1,44 @@
+{
+  "entityId": "knowledge:crew-and-pacer-planning",
+  "slug": "crew-and-pacer-planning",
+  "kind": "knowledge",
+  "status": "published",
+  "riskLevel": "guidance",
+  "sourceRefs": [
+    "route-western-states-pacer-rules",
+    "route-hardrock-pacers",
+    "route-utmb-2026-rules",
+    "knowledge-baa-rules",
+    "route-bigs-official-rules",
+    "route-sydney-pace-team-2026"
+  ],
+  "relatedRefs": [
+    "knowledge:ultra-running-basics",
+    "knowledge:race-day-fueling",
+    "knowledge:trail-gear",
+    "knowledge:route-safety",
+    "tool:crew-pacer-plan"
+  ],
+  "license": "CC-BY-4.0",
+  "createdAt": "2026-11-25",
+  "updatedAt": "2026-11-26",
+  "reviewedAt": "2026-11-26",
+  "reviewDueAt": "2027-11-25",
+  "translations": [],
+  "details": {
+    "primaryTopic": "safety",
+    "secondaryTopics": [
+      "training",
+      "gear"
+    ],
+    "contentType": "plan",
+    "audiences": [
+      "intermediate",
+      "advanced"
+    ],
+    "scenarios": [
+      "race-day",
+      "trail-running"
+    ]
+  }
+}

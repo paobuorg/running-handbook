@@ -144,7 +144,7 @@ PLOS ONE 2026 对 78,912 名波士顿马拉松完赛者的分段分析发现：�
 
 - [长距离跑：目的、条件和恢复边界](https://learn.paobu.org/articles/long-run/)
 - [5K/10K 专项训练计划：周期、强度与减量结构](https://learn.paobu.org/articles/5k-10k-training-plan/)
-- [周期化：线性、块状与反线性，以及证据支持到什么程度](https://learn.paobu.org/articles/periodization/)
+- [周期化：线性、块状与反线性，以及证据支持到什么程度](/knowledge/periodization/)
 
 ## 来源与核验日期
 
@@ -158,3 +158,10 @@ PLOS ONE 2026 对 78,912 名波士顿马拉松完赛者的分段分析发现：�
 - ACSM，GetP8 储备心率与强度分级：轻松强度约 40%–59% HRR。
 
 核验日期：2026-11-07。
+
+<!-- related-ring -->
+## 相关条目
+
+- [心率漂移——同样配速下心率为什么越跑越高](/knowledge/heart-rate-drift/)
+- [心率区间怎么定——储备心率、公式误差与自查](/knowledge/heart-rate-zones/)
+- [乳酸阈与 VO₂max 测试：定义、误差与怎么用](/knowledge/lactate-threshold-and-vo2max-testing/)

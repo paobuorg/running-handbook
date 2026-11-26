@@ -1,0 +1,43 @@
+{
+  "entityId": "knowledge:pregnancy-and-postpartum-running",
+  "slug": "pregnancy-and-postpartum-running",
+  "kind": "knowledge",
+  "status": "published",
+  "riskLevel": "guidance",
+  "sourceRefs": [
+    "knowledge-acog-2020-pregnancy-exercise",
+    "knowledge-nhs-pregnancy-exercise",
+    "knowledge-cdc-pregnancy-activity",
+    "knowledge-goom-2019-return-to-run"
+  ],
+  "relatedRefs": [
+    "knowledge:return-to-running",
+    "knowledge:strength-training-for-runners",
+    "knowledge:sports-bra-and-breast-support",
+    "knowledge:hydration",
+    "knowledge:cross-training-for-runners",
+    "knowledge:menstrual-cycle-and-training"
+  ],
+  "license": "CC-BY-4.0",
+  "createdAt": "2026-11-25",
+  "updatedAt": "2026-11-26",
+  "reviewedAt": "2026-11-26",
+  "reviewDueAt": "2027-11-25",
+  "translations": [],
+  "details": {
+    "primaryTopic": "health",
+    "secondaryTopics": [
+      "recovery",
+      "safety"
+    ],
+    "contentType": "guide",
+    "audiences": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "scenarios": [
+      "general-training"
+    ]
+  }
+}

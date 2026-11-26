@@ -25,13 +25,19 @@ World Athletics defines the marathon as a road event over 42.195 kilometres, als
 
 World Athletics publishes world records by event and category and marks records pending ratification. Road record tables distinguish mixed-gender from women-only races. A listing is governing-body recognition, not simply the fastest time reported anywhere.
 
+## Founding years and course history: Boston as an example
+
+A founding year belongs to the race archive and must follow the official history page. For the Boston Marathon: the Boston Athletic Association was established in 1887; the first Boston Marathon was run on 19 April 1897, from a 15-member field, won by John J. McDermott in 2:55:10, from Metcalf's Mill in Ashland to the Irvington Oval near Copley Square. In 2026, that first edition is about 2026−1897 = 129 years old; the first route's start and finish differ from today's course version, so old maps, old distance descriptions and old times must be read within their own edition.
+
+The founding years, category history and course changes of the other major marathons and trail races have not been checked one by one on this site; until the official race history is checked, remembered years should not enter time comparisons or entry decisions. When women's or wheelchair divisions were added are likewise historical facts to verify in official records.
+
 ## Conditions and comparability
 
-Weather, wind, temperature and field density differ between editions. Records depend on event rules and course measurement; recreational times also reflect the day’s conditions. Label race, edition, category and course version, and add distance, cumulative climb, surface and altitude across races.
+Weather, wind, temperature and field density differ between editions. Records depend on event rules and course measurement; recreational times also reflect the day's conditions. Label race, edition, category and course version, and add distance, cumulative climb, surface and altitude across races.
 
 ## What history adds
 
-History explains tradition, difficulty and cultural position: why a climb becomes a landmark, why an event has a particular entry culture, why a course is called fast or hard. It also shows that today’s route evolved over time. History does not replace the current notice; an old map is not navigation.
+History explains tradition, difficulty and cultural position: why a climb becomes a landmark, why an event has a particular entry culture, why a course is called fast or hard. It also shows that today's route evolved over time. History does not replace the current notice; an old map is not navigation.
 
 ## How to build version awareness in three steps
 
@@ -47,10 +53,11 @@ History explains tradition, difficulty and cultural position: why a climb become
 | Record status | Event, category, pending ratification | Calling an unratified time a record | World Athletics records |
 | Entry and conduct | Bib, companions, devices, code of conduct | Using old rules or another’s experience | The organiser’s rules |
 | Course version | Start, finish, turnarounds, measurement | Navigating with an old map | The organiser’s current map |
+| Founding year | Year and edition from the official history | Using a remembered year instead of the archive | Official race history |
 
 ## Worked example: context around a finish time
 
-Assume a runner finishes 42.195 kilometres in 4 hours 30 minutes at an even pace. Average pace is 270 minutes ÷ 42.195, about 6 minutes 24 seconds per kilometre. Assume one edition added a 200-metre turnaround; at that pace it takes about 77 seconds. Side-by-side gun times would misread those 77 seconds as fitness change. All figures are hypothetical.
+Assume a runner finishes 42.195 kilometres in 4 hours 30 minutes at an even pace. Average pace is 270 minutes ÷ 42.195 ≈ 6.40 minutes per kilometre, about 6:24 per km. Assume one edition added a 200-metre turnaround; at that pace it takes about 0.2×384 s ≈ 77 seconds. Side-by-side gun times would misread those 77 seconds as fitness change. All figures are hypothetical.
 
 ## Common pitfalls
 
@@ -58,6 +65,7 @@ Assume a runner finishes 42.195 kilometres in 4 hours 30 minutes at an even pace
 - **Sorting times across editions or categories**: conditions, not ability, may explain the gap.
 - **Using an old map for navigation**: routes change for permits, weather or safety.
 - **Lending a bib**: bibs are non-transferable, and unregistered runners should not join the course.
+- **Filling in founding years from memory**: years and division history are archival facts from the official history page.
 
 ## Reading frequency, race cycle and progression
 
@@ -81,10 +89,18 @@ This page does not decide entry, eligibility, route access or ratification, and 
 
 ## Related reading
 
-- [Running culture: race rules, record ratification and reading research](https://learn.paobu.org/en/articles/running-culture/)
-- [Records and courses: why a fast watch time is not a record](https://learn.paobu.org/en/articles/records-and-course-validity/)
-- [Why the marathon is 42.195 kilometres](https://learn.paobu.org/en/articles/marathon-distance/)
+- [Running culture: race rules, record ratification and reading research](/en/knowledge/running-culture/)
+- [Records and courses: why a fast watch time is not a record](/en/knowledge/records-and-course-validity/)
+- [Why the marathon is 42.195 kilometres](/en/knowledge/marathon-distance/)
+- [Boston Marathon race entry](/en/routes/boston/)
 
 ## Sources and scope
 
-Marathon distance follows the World Athletics marathon page; record categories, mixed-gender and women-only tables and pending ratification follow its records page; Boston conduct, bib and device rules follow the BAA’s current rules document. History is background, not the current notice. Verified 2026-11-06.
+Marathon distance follows the World Athletics marathon page; record categories, mixed-gender and women-only tables and pending ratification follow its records page; Boston conduct, bib and device rules follow the BAA’s current rules document; the BAA founding year, first edition, winning time and route history follow the official BAA history page. Other races’ founding years and course changes are not verified here and are not used in conclusions. History is background, not the current notice. Verified 2026-11-06.
+
+<!-- related-ring -->
+## Related entries
+
+- [Core running terms: pace, RPE, cadence and training language](/en/knowledge/core-terms/)
+- [Why the marathon is 42.195 kilometres](/en/knowledge/marathon-distance/)
+- [Race and shared-path etiquette: rules, space and predictability](/en/knowledge/race-and-shared-path-etiquette/)

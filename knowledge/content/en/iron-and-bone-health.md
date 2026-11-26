@@ -165,3 +165,10 @@ This page is health education. It is not a diagnosis, treatment or nutrition pre
 - IOC REDs 2023 consensus (BJSM 2024): energy availability formula; prevalence of low energy availability or REDs indicators 23%–79.5% in female and 15%–70% in male athletes; distinction between adaptable and problematic low energy availability; problematic low energy availability associated with reduced musculoskeletal health, increased injury risk and impaired performance.
 
 This page was verified on 2026-11-07.
+
+<!-- related-ring -->
+## Related entries
+
+- [Outside Knee Pain and Iliotibial Band Syndrome — Recognition, Load Reduction, and Return-to-Running Limits](/en/knowledge/it-band-syndrome/)
+- [Jet Lag and Racing Abroad — direction, light and arrival timing](/en/knowledge/jet-lag-and-race-travel/)
+- [Knee Pain in Runners: Triage Boundaries, Three Bands of Action, and Red Flags](/en/knowledge/knee-pain-in-runners/)

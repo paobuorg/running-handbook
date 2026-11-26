@@ -1,0 +1,41 @@
+{
+  "sourceId": "knowledge-salomon-trail-gaiters",
+  "title": "Salomon Trail Gaiters High — product specifications",
+  "url": "https://www.salomon.com/en-us/product/trail-gaiters-high-ld7276",
+  "publisher": "Salomon",
+  "publishedAt": null,
+  "accessedAt": "2026-11-25",
+  "claims": [
+    "Trail Gaiters High weigh 5 oz per unit and are marketed for trail running; body fabric is 78% polyamide and 22% elastane, back body 100% polyester, insert 88% styrene-butadiene rubber and 12% polyester.",
+    "The gaiters prevent gravel, snow, thorns and loose debris from reaching the feet and protect ankle bones from shocks and scrapes; they attach with a Velcro closure and an under-foot strap.",
+    "Care instructions: hand wash cold at 30 C; do not bleach, dry clean, iron or tumble dry."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-25",
+    "checkedVia": "web_fetch 读取 Salomon 官方产品页 Benefits、Fabrics & Care 段",
+    "note": "2026-11-25 直取 en-us 官方页，读取 Activities/Weight、Composition 三段与 Care 五条。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "Activities Trail running；Weight per unit 5 oz；Composition：Back body 100% Polyester，Body 78% Polyamide/22% Elastane，Insert 88% SBR/12% Polyester。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "Overview：prevent debris from reaching your feet and protect ankle bones from shocks；Durability：bomb-proof strap under the foot；Ease of use：slide over shoes and Velcro closed。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "Care：Do Not Bleach / Dry Clean / Iron / Tumble Dry；Hand Wash Cold (30 C)。"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "sourceId": "knowledge-eah-2015-consensus",
+  "title": "Statement of the 3rd International Exercise-Associated Hyponatremia Consensus Development Conference, Carlsbad, California, 2015",
+  "url": "https://bjsm.bmj.com/content/bjsports/49/22/1432.full.pdf",
+  "publisher": "British Journal of Sports Medicine",
+  "publishedAt": "2015-11-01",
+  "accessedAt": "2026-11-25",
+  "claims": [
+    "The primary aetiology and pathophysiological mechanism underlying exercise-associated hyponatremia and all known fatalities is overconsumption of hypotonic fluids relative to exchangeable sodium, likely combined with non-osmotic AVP secretion (Grade 1A).",
+    "Sodium supplementation can attenuate the fall in serum sodium when fluid intake approximates sweat losses, but cannot prevent exercise-associated hyponatremia when there is persistent excessive fluid intake causing fluid overload (Grade 1C).",
+    "All sports drinks are hypotonic to plasma, typically around 10-38 mmol/L sodium versus about 140 mmol/L serum; the dilution from excess volume overwhelms any protective effect of the beverage sodium.",
+    "Thirst should provide an adequate stimulus for preventing excess dehydration and markedly reduce the risk of hyponatremia; prevention targets drinking behavior, and excessive fluid beyond thirst is not a remedy for fatigue, collapse, cramping or exertional heat stroke.",
+    "Risk factors for EAH include overdrinking water, sports drinks or other hypotonic beverages, weight gain during exercise, exercise duration over 4 hours, event inexperience, slow performance pace, high or low body mass index, and readily available fluids."
+  ],
+  "license": "BMJ copyright; citation and summary only",
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-25",
+    "checkedVia": "WebFetch 读取 BJSM 49(22):1432 共识声明全文 PDF",
+    "note": "读取 Aetiology、Role of thirst、Prevention、Sodium supplementation、Box 2 风险因子与 Summary statement 各节。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "Summary statement：“The primary aetiology and pathophysiological mechanism underlying EAH—and all known fatalities—is the overconsumption of hypotonic fluids relative to exchangeable sodium likely in combination with non-osmotic AVP secretion (Grade 1A).”"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "Summary statement：“Sodium supplementation is a strategy for attenuating sodium concentration reductions that can develop when fluid intakes approximate sweat losses during prolonged exercise but cannot prevent EAH in the setting of a persistent excessive fluid intake that produces fluid overload (Grade 1C).”"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "原文：“All sports beverages are hypotonic to plasma (typical sodium content in sports drinks are approximately 10–38 mmol/L)”；“all sports drinks have a significantly lower [Na+] (…–38 mmol/L) than serum (~140 mmol/L). The dilutional effect of volume excess overwhelms any positive effect of sodium”。"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "Role of thirst：“Thirst should provide adequate stimulus for preventing excess dehydration and markedly reduce the risk of developing EAH in all sports.”；Prevention：“Excessive fluid replacement beyond thirst … is not a panacea for all instances of fatigue, collapse, muscle cramping or exertional heat stroke.”"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "Box 2 Risk factors：Overdrinking water/sports drinks/hypotonic beverages、Weight gain during exercise、Exercise duration >4 h、Event inexperience or inadequate training、Slow running or performance pace、High or low body mass index、Readily available fluids。"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "sourceId": "tool-gear-wser-participant-guide",
+  "title": "2027 Western States 100 Participant Guide",
+  "url": "https://v1.wser.org/participant-guide/",
+  "publisher": "Western States Endurance Run Foundation",
+  "publishedAt": null,
+  "accessedAt": "2026-11-25",
+  "claims": [
+    "Because almost half of the trail may be traveled at night, each runner should carry two LED flashlights; if lights fail, wait for another runner with a light or for the search and rescue sweep teams.",
+    "Western States is a cupless race; runners carry their own reusable cup, and warm clothing plus an extra flashlight are recommended in drop bags for the night sections.",
+    "Temperatures can range from near zero to above 110 °F along the course; runners should plan layered clothing and keep warm layers accessible through crew or drop bags.",
+    "Pacers may not carry water, food, flashlights, shoes or clothing for their runner; supplies are individual, and no muling is allowed on the course."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-25",
+    "checkedVia": "web_fetch 读取 WSER Participant Guide 指南与规则段",
+    "note": "2026-11-25 直接读取指南正文；双灯、无杯赛事、温度跨度与陪跑禁代持均见原文。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "指南 After Dark 段：接近半程赛道在夜间通过，每人应携带两支 LED 手电；灯失效时等待他人或搜救队。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "Aid Stations 段：Western States 为 cupless race；夜间补给袋建议放保暖衣物与备用手电。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "Weather 段：赛道温度可从接近 0 °F 到 110 °F 以上，需分层着装并通过团队或补给袋取用保暖层。"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "Pacer Rules 第 8 条：陪跑不得为参赛者携带水、食物、手电、鞋服；途中禁止 muling。"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "entityId": "knowledge:hydration-systems",
+  "slug": "hydration-systems",
+  "kind": "knowledge",
+  "status": "published",
+  "riskLevel": "guidance",
+  "sourceRefs": [
+    "knowledge-acsm-2007-fluid",
+    "knowledge-salomon-soft-flask",
+    "knowledge-camelbak-crux-reservoir",
+    "knowledge-nalgene-wide-mouth",
+    "route-lavaredo-mandatory-equipment",
+    "route-uta-mandatory-gear-2027",
+    "route-miut-regulations-2027"
+  ],
+  "relatedRefs": [
+    "knowledge:hydration",
+    "knowledge:electrolytes-and-sodium",
+    "knowledge:heat-and-humidity",
+    "knowledge:trail-gear",
+    "tool:sweat-rate"
+  ],
+  "license": "CC-BY-4.0",
+  "createdAt": "2026-11-25",
+  "updatedAt": "2026-11-26",
+  "reviewedAt": "2026-11-26",
+  "reviewDueAt": "2027-11-25",
+  "translations": [],
+  "details": {
+    "primaryTopic": "gear",
+    "secondaryTopics": [
+      "nutrition",
+      "safety",
+      "training"
+    ],
+    "contentType": "guide",
+    "audiences": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "scenarios": [
+      "general-training",
+      "trail-running",
+      "race-preparation",
+      "race-day"
+    ]
+  }
+}

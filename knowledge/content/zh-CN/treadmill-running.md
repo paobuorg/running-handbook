@@ -101,3 +101,10 @@ NHS 的 Couch to 5K 方案是每周三次跑步、两次之间安排休息日，
 ## 来源与适用范围
 
 中等与高强度活动的说话测试描述参考 CDC 的强度说明；每周三次、九周或更久、从 1 分钟跑到连续 30 分钟的进阶结构参考 NHS Couch to 5K；疼痛时停止、何时寻求医疗或物理治疗建议以及鞋与足跟痛的关系参考 NHS 跑步伤病资料；每周活动量与力量训练天数参考 ODPHP 美国人身体活动指南。核验日期为 2026-11-06。
+
+<!-- related-ring -->
+## 相关条目
+
+- [上坡与下坡：同一座山，两种跑法](/knowledge/uphill-and-downhill/)
+- [城市公园与绿道跑步：路面、礼让与环线设计](/knowledge/urban-park-and-greenway-running/)
+- [滨水与海堤跑步：风、反光与潮汐](/knowledge/waterfront-and-promenade-running/)

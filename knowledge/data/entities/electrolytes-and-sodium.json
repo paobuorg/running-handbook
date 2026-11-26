@@ -1,0 +1,42 @@
+{
+  "entityId": "knowledge:electrolytes-and-sodium",
+  "slug": "electrolytes-and-sodium",
+  "kind": "knowledge",
+  "status": "published",
+  "riskLevel": "guidance",
+  "sourceRefs": [
+    "knowledge-acsm-2007-fluid",
+    "knowledge-eah-2015-consensus",
+    "knowledge-baker-2022-sweat-sodium",
+    "knowledge-nhs-hydration"
+  ],
+  "relatedRefs": [
+    "knowledge:hydration",
+    "knowledge:heat-and-humidity",
+    "knowledge:long-run-fueling",
+    "tool:sweat-rate"
+  ],
+  "license": "CC-BY-4.0",
+  "createdAt": "2026-11-25",
+  "updatedAt": "2026-11-26",
+  "reviewedAt": "2026-11-26",
+  "reviewDueAt": "2027-11-25",
+  "translations": [],
+  "details": {
+    "primaryTopic": "nutrition",
+    "secondaryTopics": [
+      "safety",
+      "health"
+    ],
+    "contentType": "guide",
+    "audiences": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "scenarios": [
+      "general-training",
+      "race-day"
+    ]
+  }
+}

@@ -16,9 +16,9 @@
   ],
   "license": "CC-BY-4.0",
   "createdAt": "2026-10-28",
-  "updatedAt": "2026-11-07",
-  "reviewedAt": "2026-11-06",
-  "reviewDueAt": "2027-04-28",
+  "updatedAt": "2026-11-26",
+  "reviewedAt": "2026-11-26",
+  "reviewDueAt": "2027-11-25",
   "translations": [],
   "details": {
     "toolId": "tool:fueling-planner",
@@ -112,7 +112,8 @@
     "rounding": "Total carbohydrate to the nearest gram; servings rounded up to a whole serving; duration in hours to two decimal places.",
     "caseRefs": [
       "case-fueling-planner-90",
-      "case-fueling-planner-180"
+      "case-fueling-planner-180",
+      "case-fueling-planner-short"
     ]
   }
 }

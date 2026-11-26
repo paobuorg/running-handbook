@@ -1,0 +1,25 @@
+{
+  "caseId": "case-gear-weight-planner-boundary",
+  "toolId": "tool:gear-weight-planner",
+  "input": {
+    "bodyWeightKg": 70,
+    "packWeightGrams": 200,
+    "waterLiters": 0,
+    "fuelGrams": 0,
+    "mandatoryItems": [
+      { "name": "强制保温毯", "grams": 200 }
+    ],
+    "optionalItems": []
+  },
+  "expected": {
+    "mandatoryGrams": 200,
+    "optionalGrams": 0,
+    "baseGrams": 400,
+    "carriedGrams": 400,
+    "totalGrams": 400,
+    "percentOfBodyWeight": 0.6,
+    "heaviestItem": "强制保温毯",
+    "suggestions": []
+  },
+  "basis": "A single mandatory item gives mandatory = 200 g and optional = 0 g. Base = 200 + 200 pack = 400 g; with no water or fuel, carried and total both equal 400 g. Percent = 400 / 70000 × 100 = 0.57% → 0.6%. There is no optional gear to trim and water is zero, so the suggestion list stays empty."
+}

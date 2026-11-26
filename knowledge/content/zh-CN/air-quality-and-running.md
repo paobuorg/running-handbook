@@ -116,3 +116,10 @@ WHO 2021 指南把 PM2.5 的年均指南值定为 5 µg/m³、24 小时均值 15
 - DeFlorio-Barker 等，Acute effects of short-term exposure to air pollution while being physically active（Preventive Medicine，2020）：运动通气量上升、更多空气绕过鼻腔、颗粒物更易到达下呼吸道。
 
 本文核验日期为 2026-11-07。
+
+<!-- related-ring -->
+## 相关条目
+
+- [高原跑步：适应、训练安排与下撤门槛](/knowledge/altitude-and-running/)
+- [寒冷天气跑步：先管暴露，再谈配速](/knowledge/cold-weather-running/)
+- [陪跑与支援安排：crew 分工、交接点、分袋补给与联络协议](/knowledge/crew-and-pacer-planning/)

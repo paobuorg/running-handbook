@@ -50,13 +50,26 @@ Distance is shown in kilometres to three decimals with a ±0.0005 km tolerance; 
 
 ## Reading the result
 
-The table helps you see differences, not draw conclusions. A longer course is not automatically harder, and more climbing does not automatically mean slower. Surface and technicality are descriptions too. A column with many gaps has incomplete verification and cannot be read as “easier”. Whether a track geometry is public and redistributable is separate from whether fields can be compared; a visible course page does not grant redistribution rights.
+The table helps you see differences, not draw conclusions. A longer course is not automatically harder, and more climbing does not automatically mean slower. Surface and technicality are descriptions too. A column with many gaps has incomplete verification and cannot be read as “easier”. Whether a track geometry is public and redistributable is separate from whether fields can be compared; a visible course page does not grant redistribution rights. After comparing the two columns, return to each course page to check the source year and recording method, so figures from different versions are not treated as one measurement.
 
 ## How to use it
 
 1. Pick 2 to 4 published versions and confirm their identifiers are distinct.
 2. Read each field, and when you see “unknown”, check the course's source notes instead of filling a value yourself.
 3. Treat the table as one input alongside training, weather, aid and access information; do not turn it into a ranking.
+
+## How to read missing fields
+
+| Table state | Meaning | How to handle it |
+| --- | --- | --- |
+| Distance, elevation, surface and technicality all recorded | Fields can be compared side by side | Check each column's recording basis first |
+| Elevation missing | Gain was not verified for that version | Unknown; do not infer from another version |
+| Surface or technicality missing | The source did not record the field | Unknown; do not judge by distance alone |
+| A column has many gaps | That version's verification is incomplete | Do not read it as "easier" or "gentler" |
+
+Read the basis notes first: one course measured officially and another by GPS can differ by hundreds of metres of gain that reflect method, not difficulty. The table does not convert figures from different sources to one standard, and surface or technicality text is not synonym-merged; wording differences such as road, paved and asphalt are kept as written.
+
+A longer distance or more climbing does not automatically mean harder or slower; difficulty also depends on altitude, weather, surface, aid and condition on the day. The table lists recorded fields only, as one input to race choice, and produces no safety grade, difficulty index or recommendation ranking.
 
 ## Limits and when not to use it
 
@@ -70,8 +83,9 @@ Do not use it for course certification, permit decisions or live conditions, and
 
 ## Related reading
 
-- [Records and course validity: when a length counts](https://learn.paobu.org/en/articles/records-and-course-validity/)
-- [Uphill and downhill running: pace, form and cost](https://learn.paobu.org/en/articles/uphill-and-downhill/)
+- [Records and course validity: when a length counts](/en/knowledge/records-and-course-validity/)
+- [Uphill and downhill running: pace, form and cost](/en/knowledge/uphill-and-downhill/)
+- [Track viewer: read your GPX and GeoJSON locally](/en/tools/track-view/)
 
 ## Privacy and data
 
@@ -80,3 +94,10 @@ All comparisons happen locally; no account is required. Inputs are written into 
 ## Sources and scope
 
 The standard marathon distance follows World Athletics; the Boston Marathon and UTMB example fields come from their official pages. The tool displays recorded fields only and does not certify distance or judge safety. Verified 2026-11-06.
+
+<!-- related-ring -->
+## Related entries
+
+- [Route elevation: a local GPX elevation profile](/en/tools/route-elevation/)
+- [Track conversion: convert GPX and GeoJSON lines](/en/tools/track-convert/)
+- [Track simplification: projected tolerance, points and distance](/en/tools/track-simplify/)

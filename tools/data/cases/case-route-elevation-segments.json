@@ -1,0 +1,42 @@
+{
+  "caseId": "case-route-elevation-segments",
+  "toolId": "tool:route-elevation",
+  "input": {
+    "segments": [
+      [
+        [
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0.001,
+          50
+        ]
+      ],
+      [
+        [
+          0,
+          0.003,
+          50
+        ],
+        [
+          0,
+          0.004,
+          0
+        ]
+      ]
+    ]
+  },
+  "expected": {
+    "distanceMeters": 222,
+    "gainMeters": 50,
+    "lossMeters": 50,
+    "minElevationMeters": 0,
+    "maxElevationMeters": 50,
+    "maxGradePercent": 45.0,
+    "profilePoints": 4
+  },
+  "basis": "Independent arithmetic: segment A horizontal distance 111.19 m, segment B 111.19 m; total 222.38 m, rounded to 222 m. Elevation A: 0→50 is +50 m; B: 50→0 is −50 m. Minimum 0 m, maximum 50 m. Grade on each pair: 50 / 111.19 × 100 = 44.97%, rounded to 45.0%. Profile keeps all 4 points, below the 160-point cap.\n\nSteps: [\"Each segment is measured independently; the gap between the last point of segment A and the first point of segment B is not joined.\", \"At the equator, 0.001 degree of latitude is about 111.19 metres, so each of the two segments contributes one horizontal distance.\", \"Ascent sums only positive elevation differences; descent sums the absolute value of negative differences.\", \"Grade is computed for point pairs at least 5 metres apart: 50 ÷ 111.19 × 100% ≈ 45.0% on each pair.\"]\nNotes: Common mistake: joining the two endpoints across the 0.002-degree gap, which would add an extra horizontal distance and a flat 50-metre connector. The tool does not connect separate segments."
+}

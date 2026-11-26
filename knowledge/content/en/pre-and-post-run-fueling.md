@@ -100,3 +100,10 @@ This page does not provide an individual nutrition prescription, calorie target 
 ## Sources and scope
 
 Pre- and post-exercise timing and individualisation follow the ISSN nutrient-timing position stand; carbohydrate amount, concentration and interval for prolonged high-intensity exercise follow the ISSN carbohydrate-timing paper; hydration and urine colour follow the NHS hydration page. Pre-event timing and amounts follow the 2016 joint position statement of the Academy of Nutrition and Dietetics, Dietitians of Canada and ACSM (1–4 hours, 1–4 g/kg, low fat and fibre) and the IOC 2010 Nutrition for Athletes guide (1–4 g/kg within the 6 hours before events over 60 minutes). Gut-training evidence follows Costa et al. (2017; two weeks of repeated gut challenge at about 90 g/h; one-hour distance improved 5.2% and 4.3% versus −2.1% for placebo). These are general sports-nutrition sources, not clinical assessment. Verified 2026-11-07.
+
+<!-- related-ring -->
+## Related entries
+
+- [Protein for runners: total intake, meal distribution and the plant-protein boundary](/en/knowledge/protein-for-runners/)
+- [Race-day fuelling: take what you have already tested](/en/knowledge/race-day-fueling/)
+- [Race fuel comparison: gels, drink mixes, bars and whole food — how to choose](/en/knowledge/race-fuel-comparison/)

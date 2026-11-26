@@ -163,3 +163,10 @@ Lu 等 2025 让 **100 名**健康休闲跑者先做室内递增负荷测试，�
 - Železnik Mežan，Accuracy of wearables for determining the maximal oxygen uptake and lactate threshold: a qualitative systematic review，Front Sports Act Living 2025：13 项研究中 7 项支持 VO₂max 估计、3 项支持乳酸阈估计；精英运动中的实用性存疑。
 
 核验日期：2026-11-07。
+
+<!-- related-ring -->
+## 相关条目
+
+- [长距离跑：目的、条件和恢复边界](/knowledge/long-run/)
+- [马拉松训练计划：从当前周跑量到 18–24 周结构的决策路径](/knowledge/marathon-training-plan/)
+- [周期化：线性、块状与反线性，以及证据支持到什么程度](/knowledge/periodization/)

@@ -1,0 +1,19 @@
+{
+  "caseId": "case-injury-risk-high-flag",
+  "toolId": "tool:injury-risk-check",
+  "input": {
+    "painDuringRun": true,
+    "painAtRestOrWalking": true,
+    "swelling": true,
+    "nightOrMorningPain": false,
+    "weeklyVolumeChangePercent": 15,
+    "sleepHours": 5.5,
+    "priorInjurySameArea": false
+  },
+  "expected": {
+    "score": 7,
+    "band": "high",
+    "redFlags": true
+  },
+  "basis": "Independent arithmetic: pain run 1 + rest/walk 2 + swelling 2 + volume >10% 1 + sleep <7 h 1 = 7. Band high at 5 or above. redFlags true because painAtRestOrWalking and swelling are both true.\n\nSteps: [\"Pain during running: 1 point.\", \"Pain at rest or while walking: 2 points; swelling: 2 points; either true sets redFlags = true.\", \"Night or morning pain: false, 0 points.\", \"Volume change 15% is above +10%: 1 point; sleep 5.5 h is below 7 h: 1 point; prior injury: false, 0 points.\", \"Total = 1 + 2 + 2 + 0 + 1 + 1 + 0 = 7, which is 5 or above, so band is high.\"]\nNotes: The red flag (rest/walking pain or swelling) outranks the total score: stop running and seek professional assessment. This case gives no individualized exercise prescription; rehabilitation and return-to-run decisions follow clinical assessment, not the checklist."
+}

@@ -104,3 +104,10 @@ This page does not recommend brands or models or diagnose foot, ankle or knee pr
 ## Sources and scope
 
 Metabolic evidence follows a systematic review and meta-analysis; the link between perceived cushioning and injury risk follows a secondary analysis of a randomised trial with 527 runners; fit, wear and care-seeking follow the NHS running-injuries page. The effect size and biomechanics follow two 2026 systematic reviews (running economy MD −5.34 mL·kg⁻¹·km⁻¹; ankle power SMD −0.71), and the 80-minute performance data follow a 2025 study in trained men. Studies have sample and design limits; this page offers a testing framework. Verified 2026-11-07.
+
+<!-- related-ring -->
+## Related entries
+
+- [Sports Bras and Breast Support — displacement, fit and pain boundaries](/en/knowledge/sports-bra-and-breast-support/)
+- [Traction and snow gear compared: trail shoe lugs, microspikes and gaiters](/en/knowledge/traction-and-snow-gear/)
+- [Trail gear: mandatory list, system kit and rule differences](/en/knowledge/trail-gear/)

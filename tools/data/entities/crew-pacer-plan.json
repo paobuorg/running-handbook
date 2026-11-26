@@ -1,0 +1,140 @@
+{
+  "entityId": "tool:crew-pacer-plan",
+  "slug": "crew-pacer-plan",
+  "kind": "tool",
+  "status": "published",
+  "riskLevel": "general",
+  "sourceRefs": [
+    "tool-crew-utmb-assistant",
+    "tool-crew-wser-access",
+    "tool-crew-hardrock-pacers"
+  ],
+  "relatedRefs": [
+    "knowledge:race-day-pacing",
+    "knowledge:trail-gear",
+    "tool:race-checklist",
+    "route:western-states",
+    "route:utmb"
+  ],
+  "license": "CC-BY-4.0",
+  "createdAt": "2026-11-25",
+  "updatedAt": "2026-11-26",
+  "reviewedAt": "2026-11-26",
+  "reviewDueAt": "2027-11-25",
+  "translations": [],
+  "details": {
+    "toolId": "tool:crew-pacer-plan",
+    "specVersion": "1.0.0",
+    "inputs": [
+      {
+        "name": "distanceKm",
+        "type": "number",
+        "unit": "km",
+        "required": true,
+        "minimum": 0,
+        "labels": {
+          "zh-CN": "全程距离（公里）",
+          "en": "Course distance (km)"
+        }
+      },
+      {
+        "name": "startClock",
+        "type": "string",
+        "unit": "HH:MM",
+        "required": true,
+        "labels": {
+          "zh-CN": "起跑时刻",
+          "en": "Start time"
+        }
+      },
+      {
+        "name": "targetFinish",
+        "type": "string",
+        "unit": "HH:MM",
+        "required": true,
+        "labels": {
+          "zh-CN": "目标完赛时刻",
+          "en": "Target finish clock"
+        }
+      },
+      {
+        "name": "accessPoints",
+        "type": "array",
+        "unit": "rows",
+        "required": true,
+        "labels": {
+          "zh-CN": "支援点（公里,名称,crew,pacer）",
+          "en": "Access points (km,name,crew,pacer)"
+        }
+      },
+      {
+        "name": "crewLeadMinutes",
+        "type": "number",
+        "unit": "min",
+        "required": false,
+        "minimum": 0,
+        "maximum": 120,
+        "labels": {
+          "zh-CN": "团队提前到点分钟数",
+          "en": "Crew lead time (minutes)"
+        }
+      }
+    ],
+    "outputs": [
+      {
+        "name": "handoffs",
+        "type": "array",
+        "unit": null,
+        "required": true,
+        "labels": {
+          "zh-CN": "可交接点列表",
+          "en": "Handoff stops"
+        }
+      },
+      {
+        "name": "pacerLegs",
+        "type": "array",
+        "unit": null,
+        "required": true,
+        "labels": {
+          "zh-CN": "陪跑分段",
+          "en": "Pacer legs"
+        }
+      },
+      {
+        "name": "longestCrewGapMinutes",
+        "type": "number",
+        "unit": "min",
+        "required": true,
+        "labels": {
+          "zh-CN": "最长团队间隔（分钟）",
+          "en": "Longest crew gap (minutes)"
+        }
+      },
+      {
+        "name": "warnings",
+        "type": "array",
+        "unit": null,
+        "required": true,
+        "labels": {
+          "zh-CN": "支援风险提示",
+          "en": "Staffing warnings"
+        }
+      }
+    ],
+    "formulaDescription": "Parse start and target finish as minutes since midnight; require start < target finish, otherwise an order error. crewLeadMinutes defaults to 20 and must be between 0 and 120. Access points must be at least one, with strictly increasing km between 0 and distanceKm and a non-empty name. Pace = distanceKm / (target - start) km per minute. For each point, arrival = start + km / pace; crew call clock = arrival - crewLeadMinutes. A point with crew true or pacer true appears in handoffs; a point with both false appears only in warnings. Pacer legs are the segments between consecutive pacer-true points, with km equal to the distance between them. Crew gaps are adjacent arrival differences among crew-true points; longestCrewGapMinutes is the largest, rounded to the nearest minute (0 when fewer than two crew points). A crew gap above 120 minutes and any neither-crew-nor-pacer point produce a warning; a single crew point also produces a warning that gaps cannot be checked.",
+    "assumptions": [
+      "Arrival projections assume an even pace from start to target finish; climbs, stops and fatigue are not modelled.",
+      "All clocks are on the same day; cross-midnight arrival is not handled.",
+      "Crew and pacer rights shown per point come from the race's official access list; the tool does not verify them against current regulations.",
+      "The 120-minute long-gap threshold is a planning heuristic, not an official rule.",
+      "The planner schedules where crew and pacers can appear, not how supplies, transport or communication are arranged on site."
+    ],
+    "rounding": "Arrival and call clocks round to the nearest whole minute; crew gaps and longest gap round to the nearest whole minute; pacer leg km keep two decimals.",
+    "caseRefs": [
+      "case-crew-pacer-plan-typical",
+      "case-crew-pacer-plan-boundary",
+      "case-crew-pacer-plan-invalid"
+    ]
+  }
+}

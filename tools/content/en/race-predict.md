@@ -51,6 +51,19 @@ Read the predicted time first, then the average pace. If the target pace is clea
 2. Enter the target distance in metres, also within 5,000 to 42,195 metres.
 3. Compare the predicted time and pace with your current sustainable training pace, then decide whether to use it as a goal or refine execution with a split table.
 
+## How to read the inputs: picking a reference result
+
+| Reference result | Target distance | Estimate value | Caveat |
+| --- | --- | --- | --- |
+| 5 km race | 10 km | Short-to-medium comparison | Small gap, limited exponent bias |
+| 10 km race | Half marathon | Road long-distance extrapolation | Second-half slowing is more complex |
+| Half marathon | Marathon | Long-distance extrapolation | Ratio 2, largest exponent assumption |
+| Recent road race | Same distance | Result cross-check | Valid when conditions and training are comparable |
+
+Choose a recent race on a standard course in normal weather as the reference. A result pushed through heat, or a first race after a break, does not represent current ability. Both distances are entered in metres; the formula works only on the distance ratio and ignores profile, altitude and surface.
+
+If the two races are months apart, or volume, body mass or injury status changed clearly, recalibrate with a new result instead of reusing the old one. Treat the estimate as a starting point: test the target pace in a shorter race or tempo run before writing it into a race plan.
+
 ## Limits and when not to use it
 
 The model is for road races only, not trail, ultramarathon or heavily climbed routes. It assumes comparable training, pacing and conditions between the two races, and the fixed 1.06 exponent is a simplification. It gives no probability, confidence interval or individual fit, does not replace a training plan and should not set training intensity on its own. If the races are far apart or fitness changed, reassess instead of reusing the old result.
@@ -63,8 +76,11 @@ Do not use it for finish probabilities or confidence intervals, as a training pa
 
 ## Related reading
 
-- [Race-day execution: pacing, corrals and fuelling](https://learn.paobu.org/en/articles/race-day-pacing/)
-- [5K and 10K training: from result to pace](https://learn.paobu.org/en/articles/5k-10k-training-plan/)
+- [Race-day execution: pacing, corrals and fuelling](/en/knowledge/race-day-pacing/)
+- [5K and 10K training: from result to pace](/en/knowledge/5k-10k-training-plan/)
+- [Pace calculator: distance, time, pace and speed](/en/tools/pace/)
+- [Split table: break a target time into segments](/en/tools/splits/)
+- [The marathon distance](/en/knowledge/marathon-distance/)
 
 ## Privacy and data
 
@@ -73,3 +89,10 @@ All calculations happen locally; no account is required. Inputs are written into
 ## Sources and scope
 
 The formula and exponent background follows Blythe and Király (2016), “Prediction and Quantification of Individual Athletic Performance of Runners”, which describes fitting a constant per runner while fixing the exponent at 1.06; the 1.07732-versus-1.06 difference follows Blödorn and Döring (2025), “Running coefficients”, Scientific Reports; the standard marathon distance follows World Athletics. The tool guarantees no race result. Verified 2026-11-07.
+
+<!-- related-ring -->
+## Related entries
+
+- [Result split analyzer: first/second-half fade, fade point and target gap](/en/tools/result-split-analyzer/)
+- [Run-walk planner: schedule by cycles or total duration](/en/tools/run-walk/)
+- [Split table: break a target time into segments](/en/tools/splits/)

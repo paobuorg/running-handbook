@@ -1,0 +1,47 @@
+{
+  "entityId": "knowledge:headlamps-and-lighting",
+  "slug": "headlamps-and-lighting",
+  "kind": "knowledge",
+  "status": "published",
+  "riskLevel": "guidance",
+  "sourceRefs": [
+    "knowledge-petzl-tikkina",
+    "knowledge-fhwa-night-visibility",
+    "route-lavaredo-mandatory-equipment",
+    "route-uta-mandatory-gear-2027",
+    "route-miut-regulations-2027"
+  ],
+  "relatedRefs": [
+    "knowledge:night-running-and-traffic",
+    "knowledge:trail-navigation",
+    "knowledge:route-safety",
+    "knowledge:trail-gear",
+    "route:utmb"
+  ],
+  "license": "CC-BY-4.0",
+  "createdAt": "2026-11-25",
+  "updatedAt": "2026-11-26",
+  "reviewedAt": "2026-11-26",
+  "reviewDueAt": "2027-11-25",
+  "translations": [],
+  "details": {
+    "primaryTopic": "gear",
+    "secondaryTopics": [
+      "safety",
+      "technique",
+      "training"
+    ],
+    "contentType": "guide",
+    "audiences": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "scenarios": [
+      "general-training",
+      "trail-running",
+      "race-preparation",
+      "race-day"
+    ]
+  }
+}

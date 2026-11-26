@@ -1,0 +1,48 @@
+{
+  "sourceId": "knowledge-ioc-2021-ehs-prehospital",
+  "title": "Prehospital management of exertional heat stroke at sports competitions: IOC Adverse Weather Impact Expert Working Group for the Olympic Games Tokyo 2020",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/33888465/",
+  "publisher": "British Journal of Sports Medicine (International Olympic Committee working group)",
+  "publishedAt": "2021-12-01",
+  "accessedAt": "2026-11-25",
+  "claims": [
+    "Competitions scheduled under high environmental heat stress, or those including events with high metabolic demands, should implement and adopt policy and procedures for EHS prehospital management.",
+    "The basic principles of EHS prehospital care are early recognition, early diagnosis, rapid on-site cooling and advanced clinical care; medical organisers should establish an area optimised for EHS diagnosis, treatment and monitoring within or adjacent to the main medical tent.",
+    "After EHS is diagnosed, the athlete must be cooled on-site until the rectal temperature is below 39°C; blood analysis to rule out exercise-associated hyponatraemia or hypoglycaemia may be conducted while cooling, provided it can be done safely without interrupting cooling.",
+    "The athlete is transported to advanced care for a full medical evaluation only after on-site treatment has been provided; coordination among venue medical staff, transport and the hospital is required."
+  ],
+  "license": "BMJ copyright; consensus statement summarized with attribution",
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-25",
+    "checkedVia": "WebFetch PubMed 33888465 摘要与 Results 段（Hosokawa Y, Racinais S, Akama T, et al. Br J Sports Med. 2021 Dec;55(24):1405-1410, DOI 10.1136/bjsports-2020-103854）",
+    "note": "2026-11-25 读取摘要 Objectives/Results/Conclusions；降温目标 39°C、EAH/低血糖排查与转运顺序均见 Results。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "Results：“Sports competitions that are scheduled under high environmental heat stress or those that include events with high metabolic demands should implement and adopt policy and procedures for EHS prehospital management.”"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "Results：“The basic principles of EHS prehospital care are: early recognition, early diagnosis, rapid, on-site cooling and advanced clinical care”；“establish an area called the heat deck within or adjacent to the main medical tent that is optimised for EHS diagnosis, treatment and monitoring”。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "Results：“the athlete must be cooled on-site until the rectal temperature is below 39°C”；“conduct a blood analysis to rule out exercise-associated hyponatraemia or hypoglycaemia, provided that this can be safely performed without interrupting cooling”。"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "Results：“The athlete is transported to advanced care for a full medical evaluation only after the treatment has been provided on-site.”；Conclusions：“A coordination of care among all medical stakeholders at the sports venue, during transport, and at the hospital is warranted”。"
+    }
+  ]
+}

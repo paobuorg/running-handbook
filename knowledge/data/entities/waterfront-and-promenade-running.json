@@ -4,19 +4,38 @@
   "kind": "knowledge",
   "status": "published",
   "riskLevel": "general",
-  "sourceRefs": ["knowledge-nws-heat-illness", "knowledge-nps-hike-smart", "knowledge-running-injury-review"],
-  "relatedRefs": ["knowledge:heat-and-humidity", "knowledge:route-safety", "knowledge:running-apparel-and-chafing", "knowledge:running-surface"],
+  "sourceRefs": [
+    "knowledge-nws-heat-illness",
+    "knowledge-nps-hike-smart",
+    "knowledge-running-injury-review",
+    "knowledge-nws-wind-chill-chart"
+  ],
+  "relatedRefs": [
+    "knowledge:heat-and-humidity",
+    "knowledge:route-safety",
+    "knowledge:running-apparel-and-chafing",
+    "knowledge:running-surface"
+  ],
   "license": "CC-BY-4.0",
   "createdAt": "2026-11-06",
-  "updatedAt": "2026-11-06",
-  "reviewedAt": "2026-11-06",
-  "reviewDueAt": "2027-11-06",
+  "updatedAt": "2026-11-26",
+  "reviewedAt": "2026-11-26",
+  "reviewDueAt": "2027-11-25",
   "translations": [],
   "details": {
     "primaryTopic": "technique",
-    "secondaryTopics": ["safety", "training"],
+    "secondaryTopics": [
+      "safety",
+      "training"
+    ],
     "contentType": "guide",
-    "audiences": ["beginner", "intermediate"],
-    "scenarios": ["daily-training", "general-training"]
+    "audiences": [
+      "beginner",
+      "intermediate"
+    ],
+    "scenarios": [
+      "daily-training",
+      "general-training"
+    ]
   }
 }

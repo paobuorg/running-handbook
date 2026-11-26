@@ -19,6 +19,12 @@ Surface selection means distributing training across roads, pavements, tracks, g
 
 Hardness, evenness, grip, camber and unpredictability change mechanics. Asphalt is uniform but seams and camber interrupt rhythm; tracks encourage circling; grass and dirt hide holes and roots; trails add gradients; a treadmill moves its belt and shifts cadence. Rain or darkness makes the same path harder to read.
 
+## Scale estimate: cadence, stride and contact time (an estimate, not an impact measurement)
+
+The arithmetic below uses the basic kinematic relationship only to show how surface changes stride at a given speed; it is not a measured ground-reaction force. Speed equals cadence multiplied by stride length. Assume a cadence of 165 steps per minute (2.75 steps per second) and a stride of 1.01 m, giving about 2.75 × 1.01 ≈ 2.78 m/s, roughly 10.0 km/h or a 6:00 per km pace. On soft, uneven grass where the stride shortens to 0.95 m, holding the same speed would require about 2.78 ÷ 0.95 ≈ 2.93 steps per second, or 176 steps per minute; on a consistent synthetic track the stride can be a little longer and the cadence slightly lower. Contact time is assumed to sit in the 250–300 ms range, again a rough assumption; this site has not verified a universal contact-time or impact coefficient by surface.
+
+All these figures are illustrative. The only impact evidence verified here is a short-term 30-person mechanics comparison, which cannot show that one surface protects joints across the population. Treat surface as a load-redistributing training variable, not a guaranteed injury shield.
+
 ## What the research can say
 
 A small study of 30 male habitual rear-foot strikers compared artificial grass, rubber and concrete. It found no significant differences in several joint-motion and loading variables, but concrete was associated with lower braking and mediolateral forces, higher ankle moments and higher frontal-plane hip and knee moments. The authors suggested harder surfaces might raise overuse risk for rear-foot strikers; this was a 30-person short-term mechanics comparison and cannot show that a surface causes injury. The sample cannot prove that concrete causes injury; surfaces redistribute load.
@@ -81,10 +87,17 @@ This page does not judge whether a path is safe, prescribe shoes, treat injury o
 
 ## Related reading
 
-- [Uphill and downhill: one hill, two ways to run it](https://learn.paobu.org/en/articles/uphill-and-downhill/)
-- [Choosing running shoes: fit, comfort and limits](https://learn.paobu.org/en/articles/running-shoes/)
-- [Waterfront and promenade running: wind, glare and tide](https://learn.paobu.org/en/articles/waterfront-and-promenade-running/)
+- [Uphill and downhill: one hill, two ways to run it](/en/knowledge/uphill-and-downhill/)
+- [Choosing running shoes: fit, comfort and limits](/en/knowledge/running-shoes/)
+- [Waterfront and promenade running: wind, glare and tide](/en/knowledge/waterfront-and-promenade-running/)
 
 ## Sources and scope
 
 Surface mechanics evidence follows a small PLOS ONE study; injury evidence and the stride-frequency link follow systematic reviews. The samples were 30 male rear-foot strikers and 23,047 runners across 36 studies, neither representing all runners. Verified 2026-11-06
+
+<!-- related-ring -->
+## Related entries
+
+- [Technical trail skills: footing choices on scree, roots, mud, steps and wet rock](/en/knowledge/technical-trail-skills/)
+- [Treadmill running: incline, pace and safety](/en/knowledge/treadmill-running/)
+- [Uphill and downhill: one hill, two ways to run it](/en/knowledge/uphill-and-downhill/)

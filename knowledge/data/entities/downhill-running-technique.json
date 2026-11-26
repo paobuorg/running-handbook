@@ -1,0 +1,43 @@
+{
+  "entityId": "knowledge:downhill-running-technique",
+  "slug": "downhill-running-technique",
+  "kind": "knowledge",
+  "status": "published",
+  "riskLevel": "guidance",
+  "sourceRefs": [
+    "knowledge-bontemps-2020-downhill-review",
+    "knowledge-coratella-2024-downhill-recovery",
+    "knowledge-lu-2025-graded-running-review",
+    "knowledge-minetti-2002-slope-cost"
+  ],
+  "relatedRefs": [
+    "knowledge:uphill-and-downhill",
+    "knowledge:cadence-and-stride",
+    "knowledge:running-form",
+    "knowledge:trail-navigation",
+    "knowledge:knee-pain-in-runners",
+    "tool:grade-adjusted-pace"
+  ],
+  "license": "CC-BY-4.0",
+  "createdAt": "2026-11-25",
+  "updatedAt": "2026-11-26",
+  "reviewedAt": "2026-11-26",
+  "reviewDueAt": "2027-11-25",
+  "translations": [],
+  "details": {
+    "primaryTopic": "technique",
+    "secondaryTopics": [
+      "training",
+      "safety"
+    ],
+    "contentType": "guide",
+    "audiences": [
+      "intermediate",
+      "advanced"
+    ],
+    "scenarios": [
+      "trail-running",
+      "race-preparation"
+    ]
+  }
+}

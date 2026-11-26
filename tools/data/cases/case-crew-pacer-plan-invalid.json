@@ -1,0 +1,15 @@
+{
+  "caseId": "case-crew-pacer-plan-invalid",
+  "toolId": "tool:crew-pacer-plan",
+  "input": {
+    "distanceKm": 100,
+    "startClock": "05:00",
+    "targetFinish": "17:00",
+    "crewLeadMinutes": 20,
+    "accessPoints": []
+  },
+  "expected": {
+    "error": "accessPoints"
+  },
+  "basis": "The rules require at least one access point; an empty list cannot produce handoffs, pacer legs or a crew gap. The planner throws a range error on accessPoints before projecting any arrival."
+}

@@ -19,6 +19,12 @@ Cadence and stride length means how steps per minute and distance per step combi
 
 Speed depends on both cadence and stride length. At the same speed you can take more steps, cover more ground per step, or combine both; extreme values in either are not automatically efficient.
 
+## The relationship: speed equals cadence times stride
+
+The unit relation reads: speed (metres per second) = cadence (steps per second) × stride length (metres per step). A watch usually shows cadence in steps per minute, so divide by 60 to get steps per second; for example 165 steps per minute = 165÷60 = 2.75 steps per second. Conversely, given speed and cadence, stride length = speed ÷ cadence. This conversion describes the kinematic relation only; it does not say which combination is more economical, which also depends on form, strength, surface and fatigue.
+
+Raising cadence at the same speed must shorten the stride, otherwise speed rises as well. A “cadence-only, same-pace” experiment is therefore really a shortening of each step, not merely faster feet.
+
 ## 180 is not a prescription
 
 The 180 figure comes from observations of elite runners, not a prescription for every height, speed and terrain. Proportions, pace, gradient and surface change natural cadence; easy running is usually lower than fast running, and uphill raises it. Compressing those differences into one number makes movement less natural. If you overstride or repeatedly get knee trouble, a small increase may be worth testing.
@@ -46,16 +52,19 @@ The 5–10% range below is a hypothetical example.
 | Easy jogging | Lower | Shorter, relaxed | No need to force it |
 | Flat quality session | Higher | More spring | Keep pace stable first |
 | Uphill | Naturally higher | Shorter | Let it happen |
+| Downhill | May drop | Tends to lengthen | Control stride, land light |
+| Technical ground | Changes with terrain | Unstable | Watch the trail, not the number |
 
 ## Worked example: a cadence change
 
-Assume a runner 175 cm tall, running easily at 6 minutes per kilometre with natural cadence of 165 steps per minute. Speed is about 1000 m ÷ 360 s ≈ 2.78 m/s; cadence is about 2.75 steps per second, so stride length is about 2.78 ÷ 2.75 ≈ 1.01 m. Assume cadence rises 5% to about 173 steps per minute at the same speed; stride becomes about 2.78 ÷ 2.88 ≈ 0.97 m, about 4 cm shorter. Hypothetical example.
+Assume a runner 175 cm tall, running easily at 6 minutes per kilometre with natural cadence of 165 steps per minute. Speed is about 1000 m ÷ 360 s ≈ 2.78 m/s; cadence is about 2.75 steps per second, so stride length is about 2.78 ÷ 2.75 ≈ 1.01 m. Assume cadence rises 5% to about 173 steps per minute at the same speed; stride becomes about 2.78 ÷ 2.88 ≈ 0.97 m, about 4 cm shorter. At a 10% rise, about 182 steps per minute, stride is about 2.78 ÷ 3.03 ≈ 0.92 m, about 9 cm shorter. Hypothetical example.
 
 ## Common misconceptions
 
 - “Everyone must reach 180.” The figure comes from elite observation, not a universal prescription.
 - “Higher cadence is always more efficient.” Research links a higher step rate at fixed speed with less vertical excursion and lower ground reaction force, but not with universal benefit.
 - “Changing cadence alone fixes pain.” Pain also involves volume, frequency, intensity, shoes and recovery.
+- “The cadence number alone matters.” Stride, gradient and daily fatigue change what the same cadence means.
 
 ## When to stop and seek help
 
@@ -75,10 +84,19 @@ This page does not provide individual gait retraining or injury treatment. Caden
 
 ## Related reading
 
-- [Ground Contact Time and Vertical Oscillation: What the Numbers Can and Cannot Tell You](https://learn.paobu.org/en/articles/running-dynamics-metrics/)
-
-- [Treadmill running: incline, pace and safety](https://learn.paobu.org/en/articles/treadmill-running/)
+- [Running form: a framework for cadence, stride, breathing and hills](/en/knowledge/running-form/)
+- [Uphill and downhill: how gradient changes movement](/en/knowledge/uphill-and-downhill/)
+- [Shoe fit and cushioning: fit matters more than softness](/en/knowledge/shoe-fit-and-cushioning/)
+- [Running dynamics metrics: ground contact and vertical oscillation](/en/knowledge/running-dynamics-metrics/)
+- [Pace tool: convert by distance or time](/en/tools/pace/)
 
 ## Sources and scope
 
-Cadence mechanics follow a Sports Health systematic review; surface evidence follows a PLOS ONE study of 30 male rear-foot strikers; injury limits follow a systematic review. Conclusions are limited by sample size and method. Verified 2026-11-06
+Cadence mechanics follow a Sports Health systematic review; surface evidence follows a PLOS ONE study of 30 male rear-foot strikers; injury limits follow a systematic review. Conclusions are limited by sample size and method. Verified 2026-11-06.
+
+<!-- related-ring -->
+## Related entries
+
+- [Downhill running technique: eccentric control, pace math and training dose](/en/knowledge/downhill-running-technique/)
+- [Forefoot vs Rearfoot Striking: Prevalence, Injury Evidence and the Cost of Changing](/en/knowledge/foot-strike-pattern/)
+- [Trekking pole technique: when to use, how to size, and race rules](/en/knowledge/poles-technique/)

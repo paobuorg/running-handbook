@@ -206,3 +206,10 @@ CGTN 写，Jasmin Paris 以 59 小时 58 分 21 秒完成，距离 60 小时关�
 - Tennessee State Parks，《Frozen Head State Park》。用于：24,000+ 英亩、Cumberland Mountains、3,324 英尺、Wartburg 地址、施工关闭与 Chimney Top Trail 状态（claims 0–5）。场地管理方页面，不是赛事发布。https://tnstateparks.com/parks/frozen-head
 
 本页为赛事文化说明，不构成参赛建议。巴克利没有公开报名与官方路线，任何“报名攻略”“赛道 GPX”“关门表”都不具备可核实的官方来源。
+
+<!-- related-ring -->
+## 相关条目
+
+- [经典赛事与赛事历史：版本、传统与比赛条件](/knowledge/classic-races-and-history/)
+- [跑步基础术语表：配速、RPE、步频与训练黑话](/knowledge/core-terms/)
+- [马拉松为什么是 42.195 公里](/knowledge/marathon-distance/)

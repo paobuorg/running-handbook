@@ -97,3 +97,10 @@ This page does not provide an individual plan or guarantee adherence. Habit stac
 ## Sources and scope
 
 The 150-minute target, 2 strength days, spread-out activity and "some is better than none" follow CDC adult activity guidance; goal setting and weekly tracking follow the ODPHP activity planner; the 3 runs, 9 weeks or longer and 1-minute run with 1.5-minute walk structure follow NHS Couch to 5K; the goal-setting effect follows a meta-analysis. Verified 2026-11-06.
+
+<!-- related-ring -->
+## Related entries
+
+- [Race anxiety and training burnout: name the pressure](/en/knowledge/race-anxiety-and-burnout/)
+- [Making running a habit: start with three easy runs](/en/knowledge/running-habits/)
+- [The Barkley Marathons: A Race With No Official Course](/en/knowledge/barkley-marathons/)

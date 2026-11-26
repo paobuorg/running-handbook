@@ -101,3 +101,10 @@ An introduction, not an individual plan. Ultra races carry serious, sometimes ra
 ## Sources and scope
 
 Risk, access, medical problems and costs follow Western States medical information; semi-autonomy, kit checks and aid-station rules follow UTMB regulations; overtraining definitions follow overtraining guidance; taper volume and performance follow the 14-study meta-analysis; carbohydrate rate and timing follow ISSN guidance. Verified 2026-11-06.
+
+<!-- related-ring -->
+## Related entries
+
+- [Breathing rhythm: a gauge for intensity, not a fixed beat](/en/knowledge/breathing-and-rhythm/)
+- [Cadence and stride length: 180 is not a universal answer](/en/knowledge/cadence-and-stride/)
+- [Downhill running technique: eccentric control, pace math and training dose](/en/knowledge/downhill-running-technique/)

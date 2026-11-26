@@ -1,0 +1,15 @@
+{
+  "caseId": "case-race-qualifier-checker-invalid",
+  "toolId": "tool:race-qualifier-checker",
+  "input": {
+    "event": "boston",
+    "sex": "M",
+    "ageOnRaceDay": 15,
+    "qualifyingTimeMinutes": 172,
+    "qualifierCourseCertified": true
+  },
+  "expected": {
+    "error": "ageOnRaceDay"
+  },
+  "basis": "Boston qualification requires being at least 18 on race day; age 15 is outside the accepted 18–90 range. The validator throws an ageOnRaceDay range error before looking up any standard or buffer."
+}

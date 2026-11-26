@@ -19,6 +19,10 @@ An older runner is someone aged 65 or over who still runs or is returning; runne
 
 Maximum heart rate, muscle strength and recovery may decline, and tendons and bones may tolerate sudden load less well. The rate varies, and those who keep training often preserve capacity. Ask how much load to take and how long to leave before the next session. Do not blame every pain on age or restore a ten-year-old volume in one jump; record sleep, fatigue, pain and completion.
 
+## Heart-rate estimate: a formula gives a range, not a medical assessment
+
+Age and maximal heart rate can be linked with a regression formula for a rough estimate. A meta-analysis pooling 351 studies and 18,712 subjects gave the equation 208 − 0.7 × age, and noted that the traditional 220 − age equation significantly underestimates maximal heart rate in older adults. For a 68-year-old runner: 208 − 0.7 × 68 = 208 − 47.6 ≈ 160.4 bpm; the 220 − age version gives 152 bpm. Both are population regression values; this site has not verified an individual error range for the formula, so neither sets a personal heart-rate limit, and neither replaces an exercise test or clinician assessment. Chest pain, fainting, unusual palpitations or severe breathlessness mean seeking care first rather than relying on a formula. This site has not verified a general age-based pace-decline formula; pace changes should be judged from recent performance and recovery.
+
 ## Three pillars: aerobic, strength and balance
 
 CDC guidance for adults 65 and older is at least 150 minutes of moderate aerobic activity weekly, 75 minutes vigorous, or an equivalent combination; strength on at least two days; and balance activities. Running can be the aerobic part but does not replace the other two. Strength can start with sit-to-stand, step-ups, heel raises, split squats, bridges and single-leg standing; balance starts with support and reduces it. Prioritise quality before load.
@@ -70,10 +74,17 @@ This page does not provide an individual prescription, osteoporosis treatment or
 
 ## Related reading
 
-- [Goals and review: turn “run faster” into something you can do](https://learn.paobu.org/en/articles/goal-setting-and-review/)
-- [Strength, cross-training and tapering: fit support work into the plan](https://learn.paobu.org/en/articles/strength-and-taper/)
-- [Menopause and Running — symptoms, bone loss and how to adjust training](https://learn.paobu.org/en/articles/menopause-and-running/)
+- [Goals and review: turn “run faster” into something you can do](/en/knowledge/goal-setting-and-review/)
+- [Strength, cross-training and tapering: fit support work into the plan](/en/knowledge/strength-and-taper/)
+- [Menopause and Running — symptoms, bone loss and how to adjust training](/en/knowledge/menopause-and-running/)
 
 ## Sources and scope
 
-The aerobic, strength and balance mix and weekly targets follow CDC older-adult guidance; principles for chronic conditions and disability follow the CDC chronic-conditions page. Both stress that some activity is better than none, while individual volume and contraindications need assessment. This is general health education, not clinical care. Verified 2026-11-06.
+The aerobic, strength and balance mix and weekly targets follow CDC older-adult guidance; principles for chronic conditions and disability follow the CDC chronic-conditions page; the HRmax regression 208 − 0.7 × age (and its comparison with 220 − age) follows Tanaka 2001. Both stress that some activity is better than none, while individual volume and contraindications need assessment. This is general health education, not clinical care. Verified 2026-11-06.
+
+<!-- related-ring -->
+## Related entries
+
+- [Running pain, load and when to seek help](/en/knowledge/pain-and-load/)
+- [Talking about pain: describe it before you name it](/en/knowledge/pain-communication/)
+- [Plantar Heel Pain — What the First Step in the Morning Means](/en/knowledge/plantar-fasciitis/)

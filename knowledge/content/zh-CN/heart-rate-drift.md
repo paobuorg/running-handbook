@@ -127,9 +127,16 @@ translationStatus: reviewed
 ## 相关阅读
 
 - [心率区间怎么定——储备心率、公式误差与自查](https://learn.paobu.org/articles/heart-rate-zones/)
-- [race-day-pacing](https://learn.paobu.org/articles/race-day-pacing/)
+- [race-day-pacing](/knowledge/race-day-pacing/)
 
 ## 来源
 
 - Coyle 与 González-Alonso，Cardiovascular Drift During Prolonged Exercise: New Perspectives（Exercise and Sport Sciences Reviews，2001）：漂移定义与起点、13% 与 11% 的对照数据、37.8 ℃、β1 阻滞实验、皮肤血流时间关系、35 ℃ 与 8 ℃ 的四倍差异、r² = 0.95、4.9% 体重脱水时每搏量 −28% 与心输出量 −18%、核心温度 38.0→39.3 ℃、血管阻力 +17%、血容量 3%–5%、单纯低血容量约 7%、叠加后 20%–28%。
 - 站内既有来源：运动表现的多因素框架与最大摄氧量、乳酸阈值、跑步经济性的定义（用于界定「强度」而非诊断）。
+
+<!-- related-ring -->
+## 相关条目
+
+- [心率区间怎么定——储备心率、公式误差与自查](/knowledge/heart-rate-zones/)
+- [乳酸阈与 VO₂max 测试：定义、误差与怎么用](/knowledge/lactate-threshold-and-vo2max-testing/)
+- [长距离跑：目的、条件和恢复边界](/knowledge/long-run/)

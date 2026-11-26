@@ -1,0 +1,48 @@
+{
+  "sourceId": "tool-heat-osha-wbgt",
+  "title": "Heat Hazards — WBGT workload and acclimatization guidance (OSHA)",
+  "url": "https://www.osha.gov/heat-exposure/hazards",
+  "publisher": "U.S. Occupational Safety and Health Administration",
+  "publishedAt": null,
+  "accessedAt": "2026-11-25",
+  "claims": [
+    "WBGT integrates four heat-stress factors: temperature, humidity, radiant heat from the sun or other sources, and wind speed.",
+    "Heat stress limits are published as WBGT ranges split by workload level: light, moderate, heavy or very heavy.",
+    "Workers are assumed unacclimatized if they have been doing the job for less than one to two weeks; acclimatization must be built up over repeated heat exposure.",
+    "The heat index is a WBGT substitute that accounts for temperature and humidity, but it does not account for radiant heat or wind speed."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-25",
+    "checkedVia": "web_fetch 读取 OSHA Heat Hazards 正文",
+    "note": "2026-11-25 直接读取页面 WBGT、workload 与 acclimatization 段落。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "WBGT 段：measures four factors — temperature, humidity, radiant heat, wind speed。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "What is WBGT 段：limits broken into four workload categories light/moderate/heavy/very heavy。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "What is acclimatization 段：less than 1-2 weeks 视为未习服；repeated exposure 逐步建立。"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "WBGT substitutes 段：heat index accounts for temp and humidity, not radiant heat or wind。"
+    }
+  ]
+}

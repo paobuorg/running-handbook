@@ -7,18 +7,28 @@
   "sourceRefs": [
     "knowledge-issn-nutrient-timing",
     "knowledge-nhs-hydration",
-    "knowledge-issn-carbohydrate-timing"
+    "knowledge-issn-carbohydrate-timing",
+    "knowledge-acsm-2016-carbohydrate",
+    "knowledge-ioc-2010-nutrition-guide",
+    "knowledge-costa-2017-gut-training",
+    "knowledge-baart-2023-abdominal",
+    "knowledge-issn-protein",
+    "knowledge-issn-ultra-nutrition-2019"
   ],
   "relatedRefs": [
     "knowledge:recovery-day",
     "route:utmb",
-    "tool:pace"
+    "tool:pace",
+    "knowledge:gut-training-for-races",
+    "knowledge:electrolytes-and-sodium",
+    "knowledge:race-day-fueling",
+    "tool:fueling-planner"
   ],
   "license": "CC-BY-4.0",
   "createdAt": "2026-10-26",
-  "updatedAt": "2026-11-07",
-  "reviewedAt": "2026-11-06",
-  "reviewDueAt": "2027-04-28",
+  "updatedAt": "2026-11-26",
+  "reviewedAt": "2026-11-26",
+  "reviewDueAt": "2027-03-15",
   "translations": [],
   "details": {
     "primaryTopic": "nutrition",
@@ -28,12 +38,14 @@
     ],
     "contentType": "guide",
     "audiences": [
+      "beginner",
       "intermediate",
       "advanced"
     ],
     "scenarios": [
       "long-run",
-      "race-preparation"
+      "race-preparation",
+      "race-day"
     ]
   }
 }

@@ -1,0 +1,46 @@
+{
+  "entityId": "knowledge:race-morning-protocol",
+  "slug": "race-morning-protocol",
+  "kind": "knowledge",
+  "status": "published",
+  "riskLevel": "guidance",
+  "sourceRefs": [
+    "knowledge-nyrr-race-procedures",
+    "knowledge-nyrr-marathon-start",
+    "knowledge-nyrr-bag-check",
+    "knowledge-acsm-and-dc-2016-nutrition-performance",
+    "knowledge-acsm-2007-fluid",
+    "knowledge-plos-pacing-2026"
+  ],
+  "relatedRefs": [
+    "knowledge:race-day-pacing",
+    "knowledge:race-day-fueling",
+    "knowledge:carb-loading",
+    "knowledge:hydration",
+    "knowledge:gut-training-for-races",
+    "knowledge:sleep-recovery",
+    "tool:race-checklist"
+  ],
+  "license": "CC-BY-4.0",
+  "createdAt": "2026-11-25",
+  "updatedAt": "2026-11-26",
+  "reviewedAt": "2026-11-26",
+  "reviewDueAt": "2027-11-25",
+  "translations": [],
+  "details": {
+    "primaryTopic": "training",
+    "secondaryTopics": [
+      "nutrition",
+      "safety"
+    ],
+    "contentType": "checklist",
+    "audiences": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "scenarios": [
+      "race-day"
+    ]
+  }
+}

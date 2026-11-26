@@ -1,0 +1,48 @@
+{
+  "sourceId": "tool-cutoff-utmb-regulation",
+  "title": "HOKA UTMB Mont-Blanc — Race Regulations: time limit and cut-off times",
+  "url": "https://montblanc.utmb.world/races-runners/other-information/regulation",
+  "publisher": "UTMB World Series",
+  "publishedAt": null,
+  "accessedAt": "2026-11-25",
+  "claims": [
+    "Cut-off times for leaving the main aid stations are published on the event website and in the Runner's Guide; changes are announced by SMS.",
+    "To be authorized to continue, all participants must leave the checkpoint or aid station before the cut-off time, whatever their time of arrival.",
+    "Departing from a checkpoint after the time barrier is a disqualification breach under the regulation penalty table.",
+    "When the start is organized in several waves, the maximum authorized time and time barriers are calculated from the departure time of runners in the last wave."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-25",
+    "checkedVia": "web_fetch 读取官方规程页正文",
+    "note": "2026-11-25 直接读取 2027 REGULATIONS 页：TIME LIMIT AND CUT-OFF TIMES 段与 PENALTIES 表。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "TIME LIMIT AND CUT-OFF TIMES 首段：cut-off times on the event web site and in the Runner's Guide；变更 via SMS。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "同段：all participants must leave the check point/aid station before the cut-off time (whatever their time of arrival)。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "PENALTIES 表：Departure from a check point after the time barrier — Disqualification。"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "TIME LIMIT 段：multi-wave starts, barriers calculated from the LAST wave departure。"
+    }
+  ]
+}

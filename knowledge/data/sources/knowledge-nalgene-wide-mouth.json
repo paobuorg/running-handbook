@@ -1,0 +1,34 @@
+{
+  "sourceId": "knowledge-nalgene-wide-mouth",
+  "title": "Nalgene 32oz Wide Mouth Bottle — product specifications",
+  "url": "https://nalgene.com/product/32oz-wide-mouth-bottle/",
+  "publisher": "Nalgene",
+  "publishedAt": null,
+  "accessedAt": "2026-11-25",
+  "claims": [
+    "The 32 oz Wide Mouth bottle holds 32 oz, weighs 6.25 oz (177.25 g), stands 8.25 in (21 cm) high, has a 3.5 in (89 mm) diameter and a 2.5 in (63 mm) cap diameter, uses Tritan Renew material, and is made in the USA.",
+    "The wide opening fits most filtration devices and ice cubes; continuous straight semi-buttress threads provide the leak-proof guarantee; the bottle is dishwasher safe and BPA/BPS free."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-25",
+    "checkedVia": "web_fetch 读取 Nalgene 官方产品页 Features 与规格表",
+    "note": "2026-11-25 直取官方产品页，读取 Description、Features 八条与规格表（Material、Volume、Cap/Diameter、Weight、Height、Country of Origin）。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "规格表：Material Tritan Renew；Bottle Volume 32oz；Cap Diameter 2.5 in (63mm)；Diameter 3.5 in (89mm)；Weight 6.25 oz (177.25g)；Height 8.25 in (21cm)；Country of Origin USA。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "Features：Fits Filtration Devices、Fits Ice Cubes、Leak-Proof Guarantee（semi-buttress threads）、Dishwasher Safe、BPA/BPS Free。"
+    }
+  ]
+}

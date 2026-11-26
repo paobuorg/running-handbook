@@ -1,0 +1,16 @@
+{
+  "caseId": "case-result-split-analyzer-invalid",
+  "toolId": "tool:result-split-analyzer",
+  "input": {
+    "splits": [
+      { "km": 10, "elapsedMinutes": 30.0 },
+      { "km": 20, "elapsedMinutes": 28.0 }
+    ],
+    "targetFinishMinutes": 60,
+    "splitKm": 10
+  },
+  "expected": {
+    "error": "splits"
+  },
+  "basis": "The second checkpoint's elapsed time 28.0 minutes is earlier than the first 30.0 minutes, so cumulative time decreases. The validator throws a splits order error before computing halves, fade or variability."
+}

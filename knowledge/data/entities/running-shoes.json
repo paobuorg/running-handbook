@@ -7,21 +7,27 @@
   "sourceRefs": [
     "knowledge-nhs-running-injuries",
     "knowledge-shoe-cushioning",
-    "knowledge-nps-ten-essentials",
-    "knowledge-nielsen-2014-pronation-injury",
+    "knowledge-gstt-athletic-footwear",
     "knowledge-knapik-2014-arch-shoes",
-    "knowledge-neal-2014-foot-posture"
+    "knowledge-nielsen-2014-pronation-injury",
+    "knowledge-neal-2014-foot-posture",
+    "knowledge-carbon-plate-review",
+    "knowledge-carbon-plate-biomechanics-2026",
+    "knowledge-on-trail-shoe-guide"
   ],
   "relatedRefs": [
-    "knowledge:running-form",
-    "knowledge:pain-and-load",
-    "tool:track-view"
+    "knowledge:shoe-fit-and-cushioning",
+    "knowledge:shoe-technology",
+    "knowledge:foot-strike-pattern",
+    "knowledge:running-surface",
+    "knowledge:trail-gear",
+    "tool:shoe-mileage"
   ],
   "license": "CC-BY-4.0",
   "createdAt": "2026-10-27",
-  "updatedAt": "2026-11-07",
-  "reviewedAt": "2026-11-07",
-  "reviewDueAt": "2027-05-07",
+  "updatedAt": "2026-11-26",
+  "reviewedAt": "2026-11-26",
+  "reviewDueAt": "2027-03-15",
   "translations": [],
   "details": {
     "primaryTopic": "gear",

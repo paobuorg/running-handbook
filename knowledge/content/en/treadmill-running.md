@@ -86,3 +86,10 @@ This page gives no individual prescriptions, rehabilitation plans or repair advi
 ## Sources and scope
 
 Talk-test descriptions follow CDC intensity material; the three-runs-a-week structure follows NHS Couch to 5K; pain and shoe–heel advice follows NHS running-injury material; weekly volumes and strength days follow the ODPHP guidelines. Verified 2026-11-06.
+
+<!-- related-ring -->
+## Related entries
+
+- [Uphill and downhill: one hill, two ways to run it](/en/knowledge/uphill-and-downhill/)
+- [Urban park and greenway running: surfaces, courtesy and loops](/en/knowledge/urban-park-and-greenway-running/)
+- [Waterfront and promenade running: wind, glare and tide](/en/knowledge/waterfront-and-promenade-running/)

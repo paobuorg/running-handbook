@@ -93,3 +93,10 @@ This page does not diagnose pain, fatigue or sleep problems. A log is not a medi
 ## Sources and scope
 
 The activity-planning idea follows the ODPHP activity planner; the limits of running-load and injury evidence follow a Journal of Athletic Training systematic review; intensity judgement and the talk test follow CDC guidance. A framework, not a guarantee that a plan suits everyone. Verified 2026-11-06.
+
+<!-- related-ring -->
+## Related entries
+
+- [Training pace zones: official guidance, coaching systems and what can be verified](/en/knowledge/training-pace-zones/)
+- [Training volume progression — the 10% rule, the 30% ceiling and a workable framework](/en/knowledge/training-volume-and-progression/)
+- [A weekly running week: easy runs, quality and the long run](/en/knowledge/training-week/)

@@ -16,9 +16,9 @@
   ],
   "license": "CC-BY-4.0",
   "createdAt": "2026-11-06",
-  "updatedAt": "2026-11-07",
-  "reviewedAt": "2026-11-06",
-  "reviewDueAt": "2027-11-06",
+  "updatedAt": "2026-11-26",
+  "reviewedAt": "2026-11-26",
+  "reviewDueAt": "2027-11-25",
   "translations": [],
   "details": {
     "toolId": "tool:injury-risk-check",
@@ -155,7 +155,8 @@
     "rounding": "The score is a sum of whole points and needs no rounding; volume change and sleep hours are used only for threshold comparisons; the message is text and is not rounded.",
     "caseRefs": [
       "case-injury-risk-low",
-      "case-injury-risk-moderate"
+      "case-injury-risk-moderate",
+      "case-injury-risk-high-flag"
     ]
   }
 }

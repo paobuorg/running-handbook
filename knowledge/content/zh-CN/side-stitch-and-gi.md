@@ -157,3 +157,10 @@ NHS 列出的「尽快就医」信号包括：
 - NHS，Stomach ache：立即就医与尽快就医的红旗清单。
 
 本文核验日期为 2026-11-07。
+
+<!-- related-ring -->
+## 相关条目
+
+- [空气污染与跑步——AQI 六级、运动剂量与「今天跑不跑」](/knowledge/air-quality-and-running/)
+- [高原跑步：适应、训练安排与下撤门槛](/knowledge/altitude-and-running/)
+- [寒冷天气跑步：先管暴露，再谈配速](/knowledge/cold-weather-running/)

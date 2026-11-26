@@ -1,0 +1,55 @@
+{
+  "sourceId": "knowledge-nws-lightning-overview",
+  "title": "Overview: Lightning Safety — National Weather Service",
+  "url": "https://www.weather.gov/safety/lightning-safety-overview",
+  "publisher": "U.S. National Weather Service",
+  "publishedAt": null,
+  "accessedAt": "2026-11-25",
+  "claims": [
+    "There is no safe place outside when thunderstorms are in the area; if you hear thunder you are likely within striking distance of the storm.",
+    "Substantial buildings and hard-topped vehicles are safe options; rain shelters, small sheds and open vehicles are not safe.",
+    "Monitor weather conditions and get to a safe place before the weather becomes threatening; cancel or postpone activities early if thunderstorms are expected.",
+    "Wait 30 minutes after the last lightning or thunder before going back outside; many people go outside too soon after the storm has seemingly passed.",
+    "Lightning victims do not carry an electrical charge and are safe to touch; call emergency services, monitor the victim, and start CPR or use an AED if needed."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-25",
+    "checkedVia": "WebFetch NWS Overview: Lightning Safety 正文",
+    "note": "页面可读；户外无安全处、庇护所类型、提前取消/等待 30 分钟与受害者可触碰逐条核对。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "原文：\"There is no safe place outside when thunderstorms are in the area. If you hear thunder, you are likely within striking distance of the storm.\""
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "原文：\"Substantial buildings and hard-topped vehicles are safe options. Rain shelters, small sheds, and open vehicles are not safe.\""
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "原文：\"Have a lightning safety plan, and cancel or postpone activities early if thunderstorms are expected. Monitor weather conditions and get to a safe place before the weather becomes threatening.\""
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "原文 Minimizing the Risk：\"wait 30 minutes after the last lightning or thunder before going back outside\"；并指出许多人在风暴看似过去后过早外出。"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "原文 Lightning Victims：\"Lightning victims do not carry an electrical charge and are safe to touch. Call 911 and monitor the victim. Start CPR or use an Automated External Defibrillator if needed.\""
+    }
+  ]
+}

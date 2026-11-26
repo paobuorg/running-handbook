@@ -1,0 +1,45 @@
+{
+  "entityId": "knowledge:poles-technique",
+  "slug": "poles-technique",
+  "kind": "knowledge",
+  "status": "published",
+  "riskLevel": "general",
+  "sourceRefs": [
+    "knowledge-schwameder-1999-poles-knee",
+    "knowledge-bohne-2007-poles-load",
+    "knowledge-rei-poles-use",
+    "knowledge-leki-trail-poles",
+    "knowledge-utmb-poles-regulation",
+    "knowledge-vincent-2022-trail-injuries"
+  ],
+  "relatedRefs": [
+    "knowledge:trail-gear",
+    "knowledge:uphill-and-downhill",
+    "knowledge:trail-navigation",
+    "knowledge:technical-trail-skills",
+    "knowledge:running-shoes",
+    "knowledge:strength-training-for-runners"
+  ],
+  "license": "CC-BY-4.0",
+  "createdAt": "2026-11-25",
+  "updatedAt": "2026-11-26",
+  "reviewedAt": "2026-11-26",
+  "reviewDueAt": "2027-11-25",
+  "translations": [],
+  "details": {
+    "primaryTopic": "technique",
+    "secondaryTopics": [
+      "gear",
+      "training"
+    ],
+    "contentType": "guide",
+    "audiences": [
+      "intermediate",
+      "advanced"
+    ],
+    "scenarios": [
+      "trail-running",
+      "race-preparation"
+    ]
+  }
+}

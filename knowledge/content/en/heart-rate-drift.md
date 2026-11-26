@@ -126,9 +126,16 @@ If drift at the same pace grows for two consecutive reviews, check dehydration, 
 ## Related reading
 
 - [How to Set Heart Rate Zones — reserve, formula error and self-checking](https://learn.paobu.org/en/articles/heart-rate-zones/)
-- [race-day-pacing](https://learn.paobu.org/en/articles/race-day-pacing/)
+- [race-day-pacing](/en/knowledge/race-day-pacing/)
 
 ## Sources
 
 - Coyle and González-Alonso, Cardiovascular Drift During Prolonged Exercise: New Perspectives (Exercise and Sport Sciences Reviews, 2001): definition and onset, the 13% and 11% control data, 37.8 °C, the beta-1 blockade experiment, the timing of skin blood flow, the four-fold difference at 35 °C and 8 °C, r-squared = 0.95, stroke volume −28% and cardiac output −18% at 4.9% body-mass dehydration, core temperature 38.0 to 39.3 °C, vascular resistance +17%, blood volume 3–5%, about 7% with hypovolaemia alone and 20–28% when combined.
 - Existing site source on the multi-factorial framework of performance and the definitions of maximal oxygen uptake, lactate threshold and running economy, used here to define intensity rather than to diagnose.
+
+<!-- related-ring -->
+## Related entries
+
+- [How to Set Heart Rate Zones — reserve, formula error and self-checking](/en/knowledge/heart-rate-zones/)
+- [Lactate Threshold and VO₂max Testing: Definitions, Error and Practical Use](/en/knowledge/lactate-threshold-and-vo2max-testing/)
+- [The long run: purpose, conditions and recovery limits](/en/knowledge/long-run/)

@@ -35,6 +35,8 @@ Pain does not mean "the training worked". For severe, persistent pain, night pai
 
 Active recovery means low-load movement: an easy walk, a very gentle jog, swimming or cycling. The talk test applies: at moderate intensity you can talk but not sing; frequent pauses mean it is too hard. You should not finish more tired than you started, and it should not become a hidden quality session.
 
+A reproducible cap is only a practical rule of thumb: a single active recovery session sits at 20–30 minutes, below the talk-test moderate boundary, and finishes easier than it started. Assume a runner training five times a week places one 20-minute walk as active recovery; those 20 minutes do not count toward a mileage target and do not stack with the week's easy run into one long session. The cap lowers to full rest after a race, a poor night's sleep or unusual pain. This site has not verified a universal recovery-day duration or heart-rate ceiling; the minutes above are an arrangement, not a research finding.
+
 ## Sleep is a core recovery variable
 
 The NHS notes that sleep needs differ and that adults average 7 to 9 hours. That is a population range, not a nightly pass mark. If sleep worsens for several days, reduce load and observe rather than stacking gadgets or supplements. A consistent wake time, less pre-bed stimulation and separating hard training from bedtime are common directions; if insomnia persists and affects daytime function, consult a doctor rather than relying on supplements or alcohol.
@@ -87,10 +89,17 @@ General recovery principles only; no diagnosis of illness, insomnia or overtrain
 
 ## Related reading
 
-- [Post-race recovery: bring the body back from the race](https://learn.paobu.org/en/articles/post-race-recovery/)
-- [Sleep and recovery: the variable beneath the gadgets](https://learn.paobu.org/en/articles/sleep-recovery/)
-- [Compression garments, massage and foam rolling — what the evidence actually supports](https://learn.paobu.org/en/articles/compression-massage-and-foam-rolling/)
+- [Post-race recovery: bring the body back from the race](/en/knowledge/post-race-recovery/)
+- [Sleep and recovery: the variable beneath the gadgets](/en/knowledge/sleep-recovery/)
+- [Compression garments, massage and foam rolling — what the evidence actually supports](/en/knowledge/compression-massage-and-foam-rolling/)
 
 ## Sources and scope
 
 Sleep duration and insomnia advice follow the NHS insomnia page; persistent-fatigue boundaries follow an overtraining guide; stop-training advice for pain and footwear follows the NHS running-injury page. Not medical diagnosis or individual treatment advice. Verified 2026-11-06.
+
+<!-- related-ring -->
+## Related entries
+
+- [Sleep and recovery: the variable beneath the gadgets](/en/knowledge/sleep-recovery/)
+- [Watch data and recovery: read trends, not one score](/en/knowledge/wearables-and-recovery-data/)
+- [Caffeine and running: effective is not the same as suitable](/en/knowledge/caffeine-and-running/)

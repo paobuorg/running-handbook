@@ -106,9 +106,16 @@ This page does not provide an individual training plan, race pace or injury trea
 
 - [easy-run](https://learn.paobu.org/en/articles/easy-run/)
 
-- [80/20 Polarized Training — an observed distribution, not a prescription](https://learn.paobu.org/en/articles/polarized-training-80-20/)
+- [80/20 Polarized Training — an observed distribution, not a prescription](/en/knowledge/polarized-training-80-20/)
 - [Breathing rhythm: a gauge for intensity, not a fixed beat](https://learn.paobu.org/en/articles/breathing-and-rhythm/)
 
 ## Sources and scope
 
 Intensity judgement follows the CDC physical activity and talk-test guidance; injury proportion follows a Journal of Athletic Training systematic review; multi-factor performance and measurement differences follow a 2026 physiology review. This is a general framework, not individual assessment. Verified 2026-11-06
+
+<!-- related-ring -->
+## Related entries
+
+- [Trail and ultra training plan: climbing, time-on-foot, night running, load and back-to-back long sessions](/en/knowledge/trail-ultra-training-plan/)
+- [Training logs: record the variables that change decisions](/en/knowledge/training-log/)
+- [Training pace zones: official guidance, coaching systems and what can be verified](/en/knowledge/training-pace-zones/)

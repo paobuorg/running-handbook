@@ -6,6 +6,7 @@
   "riskLevel": "general",
   "sourceRefs": [
     "knowledge-minetti-2002",
+    "knowledge-minetti-2002-slope-cost",
     "knowledge-uphill-downhill-running"
   ],
   "relatedRefs": [
@@ -15,9 +16,9 @@
   ],
   "license": "CC-BY-4.0",
   "createdAt": "2026-11-07",
-  "updatedAt": "2026-11-07",
-  "reviewedAt": "2026-11-07",
-  "reviewDueAt": "2027-11-07",
+  "updatedAt": "2026-11-26",
+  "reviewedAt": "2026-11-26",
+  "reviewDueAt": "2027-11-25",
   "translations": [],
   "details": {
     "toolId": "tool:grade-adjusted-pace",
@@ -116,7 +117,8 @@
     "rounding": "Cost to three decimal places in joules per kilogram per metre; cost ratio to three decimal places; flat-equivalent pace to the nearest whole second per kilometre. The final pace is computed from the unrounded ratio.",
     "caseRefs": [
       "case-grade-adjusted-pace-uphill",
-      "case-grade-adjusted-pace-downhill"
+      "case-grade-adjusted-pace-downhill",
+      "case-grade-adjusted-pace-flat"
     ]
   }
 }

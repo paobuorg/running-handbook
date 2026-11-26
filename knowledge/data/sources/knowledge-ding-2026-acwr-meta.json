@@ -1,0 +1,48 @@
+{
+  "sourceId": "knowledge-ding-2026-acwr-meta",
+  "title": "Acute:chronic workload ratio and load management for team sports: a multilevel meta-analysis",
+  "url": "https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2026.1896651/full",
+  "publisher": "Frontiers in Public Health",
+  "publishedAt": "2026-08-13",
+  "accessedAt": "2026-11-26",
+  "claims": [
+    "This PROSPERO-registered (CRD420245127618) systematic review and multilevel meta-analysis covered team-sport athletes; 41 studies met inclusion criteria and 16 studies involving 797 athletes were included in the meta-analysis.",
+    "Elevated ACWR showed a small-to-moderate association with higher injury risk, Hedges' g = 0.35 (95% CI 0.16–0.54), with substantial heterogeneity (I² = 95.8%).",
+    "Associations were stronger for contact and non-contact injuries, whereas effects were not significant for time-loss injuries or other moderators.",
+    "The conclusion is that current evidence does not support ACWR as a stand-alone causal or predictive model; it should be interpreted as a contextual monitoring indicator within individualized, multi-marker load-management systems."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-26",
+    "checkedVia": "https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2026.1896651/full 全文 HTML",
+    "note": "2026-11-26 直取 Frontiers 全文；核对纳入研究数、797 人、g=0.35、CI、I²=95.8%、time-loss 不显著与结论段。研究对象为团队项目运动员，不是路跑人群。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-26",
+      "note": "原文 Results：“41 studies met the inclusion criteria, and 16 studies involving 797 athletes were included in the meta-analysis.”；注册号 CRD420245127618。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-26",
+      "note": "原文：“small-to-moderate association with higher injury risk (g = 0.35; 95% CI, 0.16–0.54), with substantial heterogeneity (I² = 95.8%).”"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-26",
+      "note": "原文：“Stronger associations were observed for contact and non-contact injuries, whereas effects were not significant for time-loss injuries or other moderators.”"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-26",
+      "note": "原文 Conclusion：“current evidence does not support its use as a stand-alone causal or predictive model. ACWR should be interpreted as a contextual monitoring indicator within individualized, multi-marker load-management systems.”"
+    }
+  ]
+}

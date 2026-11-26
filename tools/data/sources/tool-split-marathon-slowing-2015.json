@@ -1,0 +1,41 @@
+{
+  "sourceId": "tool-split-marathon-slowing-2015",
+  "title": "Men are More Likely than Women to Slow in the Marathon",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4289124/",
+  "publisher": "Medicine & Science in Sports & Exercise (PMC)",
+  "publishedAt": null,
+  "accessedAt": "2026-11-25",
+  "claims": [
+    "The analysis covered 91,929 marathon performances across 14 United States marathons in 2011, comparing pace change from start to finish.",
+    "Runners were classified as maintaining pace when slowing was under 10%, and as marked slowers when slowing reached or exceeded 30%.",
+    "Mean pace change was about 15.6% for men and 11.7% for women, showing that progressive slowing through the latter half is common rather than exceptional."
+  ],
+  "license": "CC-BY-4.0",
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-25",
+    "checkedVia": "web_fetch 读取 PMC 摘要与结果段",
+    "note": "2026-11-25 直接读取正文；样本量、10%/30% 分级与男女平均掉速均见原文。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "摘要：2011 年美国 14 场马拉松共 91,929 个完赛成绩。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "正文：slowing <10% 归为 maintain pace；≥30% 归为 marked slowing。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "结果：男性平均配速变化约 15.6%，女性约 11.7%。"
+    }
+  ]
+}

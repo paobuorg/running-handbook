@@ -57,6 +57,19 @@ The totals and servings describe what to prepare, not what must be consumed. Act
 2. Read the low and high totals and servings, then distribute them across the aid stations.
 3. Trial the same products at a similar intensity and duration in training, note gastrointestinal response, and adjust race-day amounts.
 
+## Common carbohydrate arrangements
+
+| Duration | Carbs per serving | Planning range | Servings (rounded up) | Note |
+| --- | --- | --- | --- | --- |
+| 90 min | 25 g | 45–90 g | 2–4 | Carry count for a longer session |
+| 180 min | 30 g | 90–180 g | 3–6 | Spread across long-session nodes |
+| 45 min | 25 g | 0 g | 0 | Under 60 minutes, no added carbohydrate |
+| Over 3 h | Per label | Upper end may be low | Follow training tolerance | Higher intake needs multiple-transport carbs |
+
+Servings round up so you carry enough; how much you actually eat depends on gastrointestinal tolerance and the day's intensity. The upper serving count can land above the 60 g/h planning ceiling: four 25 g servings are 100 g, above a 90 g planning value, and that is carry margin rather than an instruction to finish everything.
+
+Spread the servings across aid stations or roughly every 20–30 minutes; read the carbohydrate grams off each product label, because gels, drinks and solid foods differ widely. Test every product and rhythm at a similar intensity and duration in training; do not try a new flavour or concentration for the first time on race day.
+
 ## Limits and when not to use it
 
 The 30–60 g/h range is planning guidance, not an individual prescription. Carbohydrate per serving must come from the label, because gels and drinks vary. Fluid and sodium are excluded because sweat rate and conditions vary widely. The plan must be tested in training and adjusted for tolerance, duration and intensity. The tool is not suitable for disease-specific diets or cases needing a dietitian.
@@ -69,9 +82,10 @@ Do not use it as an individual fluid or sodium prescription, or to diagnose gast
 
 ## Related reading
 
-- [Long-run fuelling: from practice to race day](https://learn.paobu.org/en/articles/long-run-fueling/)
-- [Hydration: how much and when](https://learn.paobu.org/en/articles/hydration/)
-- [Race-day fuelling: take what you have already tested](https://learn.paobu.org/en/articles/race-day-fueling/)
+- [Long-run fuelling: from practice to race day](/en/knowledge/long-run-fueling/)
+- [Hydration: how much and when](/en/knowledge/hydration/)
+- [Race-day fuelling: take what you have already tested](/en/knowledge/race-day-fueling/)
+- [Pace calculator: distance, time, pace and speed](/en/tools/pace/)
 
 ## Privacy and data
 
@@ -80,3 +94,10 @@ All calculations happen locally; no account is required. Inputs are written into
 ## Sources and scope
 
 The carbohydrate range follows the ISSN carbohydrate and nutrient-timing position stands; hydration guidance follows the NHS; the relationship between duration and intensity can be read with the CDC intensity description. The tool uses a conservative 30–60 g/h range and does not replace sports-nutrition or medical assessment. Verified 2026-11-06.
+
+<!-- related-ring -->
+## Related entries
+
+- [Gear weight planner: weigh every item, total the carried load and flag trade-offs](/en/tools/gear-weight-planner/)
+- [Pre-race heat acclimation plan: estimate exposure shortfall and daily schedule from WBGT](/en/tools/heat-acclimation-planner/)
+- [Shoe mileage log: track training-shoe distance locally](/en/tools/shoe-mileage/)

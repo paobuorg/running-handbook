@@ -1,0 +1,42 @@
+{
+  "entityId": "knowledge:lightning-and-storm-safety",
+  "slug": "lightning-and-storm-safety",
+  "kind": "knowledge",
+  "status": "published",
+  "riskLevel": "guidance",
+  "sourceRefs": [
+    "knowledge-noaa-jetstream-lightning",
+    "knowledge-nws-lightning-overview",
+    "knowledge-nws-backcountry-lightning",
+    "knowledge-nols-backcountry-lightning",
+    "knowledge-metoffice-thunderstorms"
+  ],
+  "relatedRefs": [
+    "knowledge:route-safety",
+    "knowledge:trail-navigation",
+    "knowledge:hill-and-mountain-path-basics",
+    "knowledge:trail-gear",
+    "tool:race-checklist"
+  ],
+  "license": "CC-BY-4.0",
+  "createdAt": "2026-11-25",
+  "updatedAt": "2026-11-26",
+  "reviewedAt": "2026-11-26",
+  "reviewDueAt": "2027-11-25",
+  "translations": [],
+  "details": {
+    "primaryTopic": "safety",
+    "secondaryTopics": [],
+    "contentType": "plan",
+    "audiences": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "scenarios": [
+      "trail-running",
+      "race-day",
+      "travel"
+    ]
+  }
+}

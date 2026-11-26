@@ -1,0 +1,41 @@
+{
+  "sourceId": "knowledge-salomon-soft-flask",
+  "title": "Salomon Soft Flask 500ml/17oz 42 — product specifications",
+  "url": "https://www.salomon.com/en-ca/shop/product/sflask-500-17-std-42.html",
+  "publisher": "Salomon",
+  "publishedAt": null,
+  "accessedAt": "2026-11-25",
+  "claims": [
+    "The Soft Flask 500ml/17oz 42 holds 0.5 L and weighs 33 g per unit; listed body dimensions are 30 x 8.5 cm (L x W x D).",
+    "The flask shrinks as you drink to limit water bounce and show how much liquid remains; it uses a high-flow valve and a 42 mm opening for refilling, drinking on the move and adding ice.",
+    "Body composition is 55% thermoplastic polyurethane, 35% polyoxymethylene and 10% silicone; it is 100% BPA and PVC free, uses TPU with RF welded seams, and is PFC-free."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-25",
+    "checkedVia": "web_fetch 读取 Salomon 官方产品页 Details / Features 段",
+    "note": "2026-11-25 直取 en-ca 官方页，读取 Overview、Features 与 Details（Dimensions、Volume、Weight、Composition）。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "Details 表：Dimensions 30 x 8.5 cm；Volume 0.5 liters；Weight 33 g。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "Overview：\"Shrinking as you drink to limit water bounce\"；Benefits：high-flow valve、wide 42mm opening，可加冰块。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "Features：100% BPA & PVC free、TPU & RF welded seams、PFC-free；Composition Body 55% TPU / 35% POM / 10% Silicon。"
+    }
+  ]
+}

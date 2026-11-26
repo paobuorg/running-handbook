@@ -46,6 +46,8 @@ A loop avoids repeated road crossings. Mark an early-exit turn point, water loca
 
 The numbers are hypothetical. Assume a 6 km loop of three 2 km laps, a turn point at 3 km, and water at 1.5 km and 4.5 km. At a hypothetical 6:00 per km, the loop takes about 36 minutes, with 3 km and roughly 18 minutes between water points. If the day is warm or sleep was poor, stop at the turn point: 3 km, about 18 minutes. If water points are more than a lap apart, carry water.
 
+A detour can also be checked against available time. Assume only 45 minutes are available; at a hypothetical 6:00 per km pace the feasible distance is about 45 ÷ 6 = 7.5 km. A 6 km main loop plus a 2 km spur, out and back, adds 2 × 2 km, giving 10 km and exceeding the available time, so drop the spur or shorten the loop. If a spur runs one way and returns the same way, the turn point has to sit where you can still get back fresh. The minutes and pace above are assumptions; real cutoff and return judgments follow the clock and your form on the day.
+
 ## Common misconceptions
 
 - Softer grass must be safer. It reduces impact but adds instability, wet patches and holes.
@@ -72,9 +74,16 @@ This page does not judge whether a park or greenway is safe, and does not replac
 
 ## Related reading
 
-- [Race and shared-path etiquette: rules, space and predictability](https://learn.paobu.org/en/articles/race-and-shared-path-etiquette/)
-- [Running surfaces: no absolute best, only adaptation](https://learn.paobu.org/en/articles/running-surface/)
+- [Race and shared-path etiquette: rules, space and predictability](/en/knowledge/race-and-shared-path-etiquette/)
+- [Running surfaces: no absolute best, only adaptation](/en/knowledge/running-surface/)
 
 ## Sources and scope
 
 Surface mechanics follow one small-sample study of running surfaces; it cannot establish causation. Mileage-injury conflicts follow the running injury review; weekly activity and strength advice follows CDC guidance; water turn-back and backup navigation follow NPS hiking-safety material. Verified 2026-11-06.
+
+<!-- related-ring -->
+## Related entries
+
+- [Waterfront and promenade running: wind, glare and tide](/en/knowledge/waterfront-and-promenade-running/)
+- [Compression garments, massage and foam rolling — what the evidence actually supports](/en/knowledge/compression-massage-and-foam-rolling/)
+- [Training load and overtraining: signals, boundaries and evidence conflict](/en/knowledge/load-and-overtraining/)

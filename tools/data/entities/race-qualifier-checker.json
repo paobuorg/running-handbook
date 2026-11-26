@@ -1,0 +1,158 @@
+{
+  "entityId": "tool:race-qualifier-checker",
+  "slug": "race-qualifier-checker",
+  "kind": "tool",
+  "status": "published",
+  "riskLevel": "general",
+  "sourceRefs": [
+    "tool-qualifier-baa-standards",
+    "tool-qualifier-comrades-faq",
+    "tool-qualifier-wa-certified-roads"
+  ],
+  "relatedRefs": [
+    "knowledge:records-and-course-validity",
+    "knowledge:marathon-distance",
+    "knowledge:race-day-pacing",
+    "route:boston",
+    "route:comrades-marathon"
+  ],
+  "license": "CC-BY-4.0",
+  "createdAt": "2026-11-25",
+  "updatedAt": "2026-11-26",
+  "reviewedAt": "2026-11-26",
+  "reviewDueAt": "2027-11-25",
+  "translations": [],
+  "details": {
+    "toolId": "tool:race-qualifier-checker",
+    "specVersion": "1.0.0",
+    "inputs": [
+      {
+        "name": "event",
+        "type": "enum",
+        "unit": null,
+        "required": true,
+        "enumValues": [
+          "boston",
+          "comrades"
+        ],
+        "labels": {
+          "zh-CN": "目标赛事",
+          "en": "Target event"
+        }
+      },
+      {
+        "name": "sex",
+        "type": "enum",
+        "unit": null,
+        "required": true,
+        "enumValues": [
+          "M",
+          "F"
+        ],
+        "labels": {
+          "zh-CN": "性别组别",
+          "en": "Sex category"
+        }
+      },
+      {
+        "name": "ageOnRaceDay",
+        "type": "number",
+        "unit": "years",
+        "required": true,
+        "minimum": 18,
+        "maximum": 90,
+        "labels": {
+          "zh-CN": "比赛当日年龄",
+          "en": "Age on race day"
+        }
+      },
+      {
+        "name": "qualifyingTimeMinutes",
+        "type": "number",
+        "unit": "min",
+        "required": true,
+        "minimum": 1,
+        "maximum": 600,
+        "labels": {
+          "zh-CN": "资格成绩（分钟）",
+          "en": "Qualifying time (minutes)"
+        }
+      },
+      {
+        "name": "qualifierCourseCertified",
+        "type": "boolean",
+        "unit": null,
+        "required": true,
+        "labels": {
+          "zh-CN": "资格赛道已认证",
+          "en": "Qualifier course certified"
+        }
+      }
+    ],
+    "outputs": [
+      {
+        "name": "requirementMinutes",
+        "type": "number",
+        "unit": "min",
+        "required": true,
+        "labels": {
+          "zh-CN": "资格标准（分钟）",
+          "en": "Qualifying standard (minutes)"
+        }
+      },
+      {
+        "name": "bufferMinutes",
+        "type": "number",
+        "unit": "min",
+        "required": true,
+        "labels": {
+          "zh-CN": "超出/余量（分钟）",
+          "en": "Buffer over standard (minutes)"
+        }
+      },
+      {
+        "name": "eligible",
+        "type": "boolean",
+        "unit": null,
+        "required": true,
+        "labels": {
+          "zh-CN": "是否达标",
+          "en": "Meets standard"
+        }
+      },
+      {
+        "name": "missing",
+        "type": "string",
+        "unit": null,
+        "required": true,
+        "labels": {
+          "zh-CN": "缺失条件",
+          "en": "Missing condition"
+        }
+      },
+      {
+        "name": "ruleNote",
+        "type": "string",
+        "unit": null,
+        "required": true,
+        "labels": {
+          "zh-CN": "规则口径说明",
+          "en": "Rule note"
+        }
+      }
+    ],
+    "formulaDescription": "Validate event is boston or comrades, sex is M or F, ageOnRaceDay 18–90, qualifyingTimeMinutes 1–600, and the certified flag is boolean. For Boston, look up the age-group row from the BAA 2027/2028 standards table; M follows the men's column and F the women's column. For Comrades the open requirement is 300 minutes. bufferMinutes = requirementMinutes − qualifyingTimeMinutes, rounded to the nearest minute. eligible is true only when the certified-course flag is true and qualifyingTimeMinutes ≤ requirementMinutes. missing is null when eligible; 'certified-course' when the course is not certified; 'time' when the time misses the standard. ruleNote records that meeting a Boston standard only opens an application, and that Comrades accepts only official published CMA-compliant results, not GPS or Strava splits.",
+    "assumptions": [
+      "The checked result is a net chip time from an officially published, certified course; watch, GPS or Strava recordings are not valid qualifiers.",
+      "The tool applies the standards in force on 2026-11-25; future editions may revise age-group times, and registration cutoffs can exclude qualifiers who meet the standard.",
+      "The tool does not verify the qualifying-window date: whether a result falls inside the event's acceptance period must be checked against that edition's rules.",
+      "Age is interpreted as age on race day; age-group boundaries follow the official standard table, not registration age."
+    ],
+    "rounding": "bufferMinutes rounds to the nearest whole minute; requirement and qualifying times stay in whole minutes.",
+    "caseRefs": [
+      "case-race-qualifier-checker-typical",
+      "case-race-qualifier-checker-boundary",
+      "case-race-qualifier-checker-invalid"
+    ]
+  }
+}

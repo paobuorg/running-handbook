@@ -1,0 +1,41 @@
+{
+  "sourceId": "tool-crew-utmb-assistant",
+  "title": "HOKA UTMB Mont-Blanc — Race Regulations: personal assistant rules",
+  "url": "https://montblanc.utmb.world/races-runners/other-information/regulation",
+  "publisher": "UTMB World Series",
+  "publishedAt": null,
+  "accessedAt": "2026-11-25",
+  "claims": [
+    "Each participant is allowed one Personal Assistant at certain aid stations, who must meet the runner at the designated aid station and leave after it.",
+    "Outside the designated aid-station zones, no one is authorised to give assistance; only the runner's own Personal Assistant is permitted to meet them.",
+    "Medical or other assistance provided by the Personal Assistant outside the permitted area may be treated as a breach under the regulation penalty table."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-25",
+    "checkedVia": "web_fetch 读取官方规程正文",
+    "note": "2026-11-25 读取 2027 REGULATIONS 中 Personal Assistant 与 Semi-autonomy 段落。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "Personal assistant 段：one Personal Assistant at certain aid stations；meet you at the designated aid station and leave you after it。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "同段：no one authorised to give assistance outside zones；only runner's own Personal Assistant permitted。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "Medical assistance 条：PA 在允许区域外提供医疗或其他协助按处罚表处理。"
+    }
+  ]
+}

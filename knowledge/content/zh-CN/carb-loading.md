@@ -137,3 +137,10 @@ translationStatus: reviewed
 - ISSN，Nutrient timing position stand（2017）：长时间高强度运动中约 30–60 克/小时，需结合个体与项目调整。
 
 本文核验日期为 2026-11-07。
+
+<!-- related-ring -->
+## 相关条目
+
+- [日常饮食与补给：先保证总量，再谈补剂](/knowledge/daily-fueling/)
+- [钠与电解质：汗钠差异、抽筋与低钠血症的边界](/knowledge/electrolytes-and-sodium/)
+- [比赛肠胃训练：4–8 周从 30 克/小时逐级耐受碳水的流程](/knowledge/gut-training-for-races/)

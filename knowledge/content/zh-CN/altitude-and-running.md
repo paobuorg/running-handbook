@@ -105,8 +105,15 @@ WMS 2024 讨论了乙酰唑胺和地塞米松在预防与治疗中的角色，�
 
 - [高温与高湿：先把热病风险降下来](https://learn.paobu.org/articles/heat-and-humidity/)
 - [跑步喝水与电解质：没有统一升数](https://learn.paobu.org/articles/hydration/)
-- [race-day-pacing](https://learn.paobu.org/articles/race-day-pacing/)
+- [race-day-pacing](/knowledge/race-day-pacing/)
 
 ## 来源与核验
 
 上升速率、AMS/HACE/HAPE 识别、下撤与药物角色来自 Wilderness Medical Society 2024 临床实践指南（Wilderness Environ Med，DOI 10.1016/j.wem.2023.05.013）；2700 m 后每天 400 m、休息日、体能无预防证据、强制补水无预防证据、酒精与安眠药影响来自 UIAA 医学委员会高原病资料页；提前 2 周、5–7 天部分适应、到达后休息 1–2 天来自 IOC 2012 环境共识（Br J Sports Med 46:770–779）；14 小时 vs 2 小时、5–7 天 vs 14–19 天、超过 19 天边际收益来自 Foss 2017（J Appl Physiol，DOI 10.1152/japplphysiol.00314.2017）。核验日期 2026-11-07。本页为一般科普，不构成医疗建议。
+
+<!-- related-ring -->
+## 相关条目
+
+- [寒冷天气跑步：先管暴露，再谈配速](/knowledge/cold-weather-running/)
+- [陪跑与支援安排：crew 分工、交接点、分袋补给与联络协议](/knowledge/crew-and-pacer-planning/)
+- [酷热与潮湿：热应激、湿球温度与降级规则](/knowledge/heat-and-humidity/)

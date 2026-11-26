@@ -1,0 +1,43 @@
+{
+  "entityId": "knowledge:protein-for-runners",
+  "slug": "protein-for-runners",
+  "kind": "knowledge",
+  "status": "published",
+  "riskLevel": "guidance",
+  "sourceRefs": [
+    "knowledge-issn-protein",
+    "knowledge-issn-nutrient-timing",
+    "knowledge-issn-vegan-protein",
+    "knowledge-acsm-2016-carbohydrate"
+  ],
+  "relatedRefs": [
+    "knowledge:pre-and-post-run-fueling",
+    "knowledge:daily-fueling",
+    "knowledge:post-race-recovery",
+    "knowledge:supplements-and-evidence",
+    "knowledge:strength-training-for-runners"
+  ],
+  "license": "CC-BY-4.0",
+  "createdAt": "2026-11-25",
+  "updatedAt": "2026-11-26",
+  "reviewedAt": "2026-11-26",
+  "reviewDueAt": "2027-11-25",
+  "translations": [],
+  "details": {
+    "primaryTopic": "nutrition",
+    "secondaryTopics": [
+      "recovery",
+      "training"
+    ],
+    "contentType": "guide",
+    "audiences": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "scenarios": [
+      "general-training",
+      "race-preparation"
+    ]
+  }
+}

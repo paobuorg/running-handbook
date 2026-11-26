@@ -16,9 +16,9 @@
   ],
   "license": "CC-BY-4.0",
   "createdAt": "2026-10-26",
-  "updatedAt": "2026-11-07",
-  "reviewedAt": "2026-11-06",
-  "reviewDueAt": "2027-10-28",
+  "updatedAt": "2026-11-26",
+  "reviewedAt": "2026-11-26",
+  "reviewDueAt": "2027-11-25",
   "translations": [],
   "details": {
     "toolId": "tool:track-simplify",
@@ -132,7 +132,8 @@
     "rounding": "Tolerance is used as entered (1 to 100 metres); point counts are whole numbers; distances are reported to the nearest whole metre; retained coordinates are not rounded by the tool.",
     "caseRefs": [
       "case-track-simplify-offset",
-      "case-track-simplify-keep"
+      "case-track-simplify-keep",
+      "case-track-simplify-two-points"
     ]
   }
 }

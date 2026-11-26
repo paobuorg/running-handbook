@@ -1,0 +1,62 @@
+{
+  "sourceId": "knowledge-lauersen-2014-injury-prevention",
+  "title": "The effectiveness of exercise interventions to prevent sports injuries: a systematic review and meta-analysis of randomised controlled trials",
+  "url": "https://bjsm.bmj.com/content/48/11/871",
+  "publisher": "British Journal of Sports Medicine",
+  "publishedAt": "2014-06-01",
+  "accessedAt": "2026-11-25",
+  "claims": [
+    "The review analysed 25 randomised controlled trials including 26,610 participants and 3,464 injuries.",
+    "Strength training reduced sports injuries to an RR of 0.315 (95% CI 0.207-0.480); the four strength studies showed no statistical heterogeneity (I2=0%).",
+    "Proprioception training showed RR 0.550 (95% CI 0.347-0.869), and multi-exposure programmes RR 0.655 (95% CI 0.520-0.826).",
+    "Stretching showed no beneficial effect on injury risk, RR 0.963 (95% CI 0.846-1.095), based on three studies.",
+    "Preventive exercise programmes reduced acute injuries (RR 0.647, 95% CI 0.502-0.836) and overuse injuries (RR 0.527, 95% CI 0.373-0.746).",
+    "The authors concluded that all injury-prevention measures except stretching had consistently favourable estimates, and that strength training cut sports injuries to less than one-third."
+  ],
+  "license": "Publisher terms; abstract and summary of findings cited with attribution",
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-25",
+    "checkedVia": "WebFetch https://bjsm.bmj.com/content/48/11/871（摘要与 Results/Discussion 正文可读）",
+    "note": "读到 Abstract、Study characteristics、Stratified exposure/outcome analyses、Discussion 与 Conclusion；RR 与 95% CI 逐项与原文核对。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "原文 Results：“25 trials, including 26 610 participants with 3464 injuries, were analysed”；Discussion 亦载 26 610 individuals、3464 injuries。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "原文：“The strength training estimate including four studies was RR 0.315 (0.207–0.480, I2=0%, χ2 p=0.808)”。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "原文：“six studies with proprioception training … RR of 0.550 (0.347–0.869)”；“12 studies with multiple exposure interventions … RR of 0.655 (0.520–0.826)”。"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "原文：“the overall estimate for stretching did not prove significant with RR 0.963 (0.846–1.095, I2=0%, χ2 p=0.975) based on three studies”；Discussion 称 stretching did not show any protective effect。"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "原文：acute injury RR 0.647 (0.502–0.836)；overuse injuries RR 0.527 (0.373–0.746)。"
+    },
+    {
+      "index": 5,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "原文 Conclusion：“consistently favourable estimates were obtained for all injury prevention measures except for stretching”；“Strength training reduced sports injuries to less than one-third.”"
+    }
+  ]
+}

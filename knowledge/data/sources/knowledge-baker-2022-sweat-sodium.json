@@ -1,0 +1,48 @@
+{
+  "sourceId": "knowledge-baker-2022-sweat-sodium",
+  "title": "Explaining variation in sweat sodium concentration: effect of individual characteristics and exercise, environmental, and dietary factors",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9942894/",
+  "publisher": "Journal of Applied Physiology (American Physiological Society)",
+  "publishedAt": "2022-10-13",
+  "accessedAt": "2026-11-25",
+  "claims": [
+    "In 1,944 sweat tests from 1,304 subjects, whole-body sweat sodium concentration averaged 42.0 +/- 12.6 mmol/L (median 40.3), ranging from 17 to 106 mmol/L.",
+    "Whole-body sweating rate averaged 1.09 +/- 0.50 L/h, ranging from 0.19 to 5.64 L/h in this dataset.",
+    "Regression models explained only 17%-23% of the variation in whole-body sweat sodium; age group, race/ethnicity, fluid balance, sodium intake and relative VO2max had no association, so individual patch testing cannot easily be replaced by population averages.",
+    "Higher energy expenditure was associated with higher sweat sodium, and warmer months (used as a proxy for heat acclimatization) with lower sweat sodium; exercise mode, air temperature and sex may have small effects."
+  ],
+  "license": "Open access; citation and summary only",
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-25",
+    "checkedVia": "WebFetch PMC9942894 全文（Abstract、Methods Table 1、Discussion、Conclusion）",
+    "note": "读取 Table 1 描述统计（whole body sweat Na+ 42.0±12.6, range 17–106；WBSR 1.09±0.50 L/h）、三个回归模型的解释度与未关联变量。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "Table 1：Whole body sweat sodium concentration, mmol/L — Mean 42.0, SD 12.6, Median 40.3, Range 17–106。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "Table 1：Whole body sweating rate, L/h — Mean 1.09, SD 0.50, Median 1.03, Range 0.19–5.64。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "Conclusion：“the models explained 17%–23% of the variation”；“age group, race/ethnicity, fluid balance, Na+ intake, and relative VO2max were not associated”；Discussion：“it would be difficult to predict sweat [Na+] without individualized sweat patch testing”。"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "Abstract/Conclusion：higher energy expenditure associated with higher sweat [Na+]；warmer months proxy for heat acclimatization associated with lower sweat [Na+]；exercise mode, air temperature, sex may have small effects。"
+    }
+  ]
+}

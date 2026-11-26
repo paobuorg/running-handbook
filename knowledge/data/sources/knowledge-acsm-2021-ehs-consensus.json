@@ -1,0 +1,69 @@
+{
+  "sourceId": "knowledge-acsm-2021-ehs-consensus",
+  "title": "ACSM Expert Consensus Statement on Exertional Heat Illness: Recognition, Management, and Return to Activity",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/34524191/",
+  "publisher": "Current Sports Medicine Reports (American College of Sports Medicine)",
+  "publishedAt": "2021-09-01",
+  "accessedAt": "2026-11-25",
+  "claims": [
+    "Exertional heat stroke (EHS) is a true medical emergency with potential for organ injury and death; optimal management follows a synchronized chain of survival that promotes rapid recognition and management and communication between care teams.",
+    "Suspected EHS requires immediate action: stop activity to stop body heat generation, provide rapid total-body cooling and call for emergency medical support; delayed recognition and insufficient or delayed cooling can result in medical complications including death.",
+    "Subtle to profound central nervous system changes together with a rectal temperature above 40°C are the primary identifying signs of EHS; rectal temperature helps differentiate EHS from other causes of athlete collapse.",
+    "Cold water immersion has effective cooling rates with good clinical outcomes and is the preferred cooling strategy; when cold-water immersion is not possible, the athlete should be cooled using the fastest cooling technique available.",
+    "Most exertional heat illnesses can be prevented by recognizing and modifying well-described risk factors; EHS risk rises with increasing environmental heat stress and increasing physical activity intensity, and activity should be modified or canceled in environments associated with high risk.",
+    "Heat acclimatization reduces the risk of heat illness and improves physical performance in the heat.",
+    "After EHS or exertional heat injury, the medical team should deem the athlete clinically recovered before resuming physical activity; return should be progressively reintroduced over several weeks to months and individualized for each athlete."
+  ],
+  "license": "ACSM copyright; consensus statements and recommendations summarized with attribution",
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-25",
+    "checkedVia": "PubMed 34524191 摘要（Roberts WO, Armstrong LE, Sawka MN, Yeargin SW, Heled Y, O'Connor FG. Curr Sports Med Rep. 2021 Sep 1;20(9):470-484, DOI 10.1249/JSR.0000000000000878）；详细推荐条目与证据等级核对 2023 扩展版 Table 8（Curr Sports Med Rep 2023;22(4):134-149, PMID 37036463，KHSAA 镜像 PDF）",
+    "note": "2026-11-25 读取 PubMed 摘要与 2023 扩展版共识摘要表；识别、处置、降温、复训与预防各条按 SORT 证据等级标注，不把共识建议写成诊断标准。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "摘要：“Exertional heat stroke (EHS) is a true medical emergency with potential for organ injury and death”；“synchronized chain of survival that promotes rapid recognition and management, as well as communication between care teams”。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "摘要：“Identifying the athlete with suspected EHS early… stopping activity (body heat generation), and providing rapid total body cooling are essential for survival”；Table 8：Delayed recognition and insufficient or delayed cooling can result in medical complications of EHS including death（A）；Early cooling is essential（B）。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "Table 8 Recognition：“Subtle to profound CNS changes in conjunction with rectal temperature >40°C are the primary identifying signs of EHS”（A）；“Rectal temperature helps differentiate EHS from other causes of athlete collapse”（A）。"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "Table 8 Management：“Cold water immersion has effective cooling rates with good clinical outcomes in EHS casualties and the preferred cooling strategy”（A）；“When cold-water immersion… is not possible… cooled using the fastest cooling technique available”（B）。"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "Table 8 Prevention：“EHS risk rises with increasing environmental heat stress and increasing physical activity intensity”（A）；“Physical activity should be modified or canceled in environments known to be associated with high risk of EHS”（B）；摘要：多数 EHI 可通过识别并修正已知风险因素预防。"
+    },
+    {
+      "index": 5,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "Table 8 Prevention：“Heat acclimatization reduces the risk of heat illnesses and improves physical performance in the heat”（A）。"
+    },
+    {
+      "index": 6,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "Table 8 Return to activity：“EHS and EHI casualties should be deemed clinically recovered by the medical team prior to resuming physical activity”（C）；“progressively reintroduced… over several weeks to months”（C）；“Return to activity should be individualized”（C）。"
+    }
+  ]
+}

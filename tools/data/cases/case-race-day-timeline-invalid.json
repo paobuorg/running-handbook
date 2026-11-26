@@ -1,0 +1,17 @@
+{
+  "caseId": "case-race-day-timeline-invalid",
+  "toolId": "tool:race-day-timeline",
+  "input": {
+    "startClock": "07:65",
+    "waveOffsetMinutes": 10,
+    "travelMinutes": 30,
+    "checkinMinutes": 15,
+    "bagDropMinutes": 10,
+    "warmupMinutes": 10,
+    "finishTargetHours": 3.5
+  },
+  "expected": {
+    "error": "startClock"
+  },
+  "basis": "The minute field 65 is outside 00–59, so the clock fails the HH:MM validation before any milestone is projected. The error field must be startClock; the other inputs are within range and are not checked after the clock parse fails."
+}

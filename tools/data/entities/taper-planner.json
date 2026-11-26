@@ -1,0 +1,167 @@
+{
+  "entityId": "tool:taper-planner",
+  "slug": "taper-planner",
+  "kind": "tool",
+  "status": "published",
+  "riskLevel": "general",
+  "sourceRefs": [
+    "tool-taper-bosquet-2007",
+    "tool-taper-mujika-2003",
+    "tool-taper-plos-2023"
+  ],
+  "relatedRefs": [
+    "knowledge:strength-and-taper",
+    "knowledge:periodization",
+    "knowledge:load-and-overtraining",
+    "knowledge:marathon-training-plan",
+    "tool:carb-load-planner"
+  ],
+  "license": "CC-BY-4.0",
+  "createdAt": "2026-11-25",
+  "updatedAt": "2026-11-26",
+  "reviewedAt": "2026-11-26",
+  "reviewDueAt": "2027-11-25",
+  "translations": [],
+  "details": {
+    "toolId": "tool:taper-planner",
+    "specVersion": "1.0.0",
+    "inputs": [
+      {
+        "name": "raceDistance",
+        "type": "enum",
+        "unit": null,
+        "required": true,
+        "enumValues": [
+          "5k",
+          "10k",
+          "half",
+          "marathon",
+          "ultra"
+        ],
+        "labels": {
+          "zh-CN": "比赛距离",
+          "en": "Race distance"
+        }
+      },
+      {
+        "name": "peakWeeklyKm",
+        "type": "number",
+        "unit": "km",
+        "required": true,
+        "minimum": 0,
+        "labels": {
+          "zh-CN": "峰值周跑量（公里）",
+          "en": "Peak weekly km"
+        }
+      },
+      {
+        "name": "peakLongRunKm",
+        "type": "number",
+        "unit": "km",
+        "required": true,
+        "minimum": 0,
+        "labels": {
+          "zh-CN": "峰值长距离（公里）",
+          "en": "Peak long-run km"
+        }
+      },
+      {
+        "name": "qualitySessionsPerWeek",
+        "type": "number",
+        "unit": "sessions",
+        "required": true,
+        "minimum": 1,
+        "maximum": 3,
+        "labels": {
+          "zh-CN": "每周高质量课次数",
+          "en": "Quality sessions per week"
+        }
+      },
+      {
+        "name": "taperWeeks",
+        "type": "enum",
+        "unit": "weeks",
+        "required": true,
+        "enumValues": [
+          "2",
+          "3"
+        ],
+        "labels": {
+          "zh-CN": "减量周数",
+          "en": "Taper weeks"
+        }
+      },
+      {
+        "name": "daysToRace",
+        "type": "number",
+        "unit": "days",
+        "required": true,
+        "minimum": 0,
+        "maximum": 28,
+        "labels": {
+          "zh-CN": "距比赛天数",
+          "en": "Days to race"
+        }
+      }
+    ],
+    "outputs": [
+      {
+        "name": "weeks",
+        "type": "array",
+        "unit": null,
+        "required": true,
+        "labels": {
+          "zh-CN": "逐周减量安排",
+          "en": "Weekly taper plan"
+        }
+      },
+      {
+        "name": "taperRatio",
+        "type": "number",
+        "unit": "%",
+        "required": true,
+        "labels": {
+          "zh-CN": "最后一周量占峰值比例",
+          "en": "Last-week volume vs peak"
+        }
+      },
+      {
+        "name": "intensityRetention",
+        "type": "enum",
+        "unit": null,
+        "required": true,
+        "enumValues": [
+          "maintained"
+        ],
+        "labels": {
+          "zh-CN": "强度保留方式",
+          "en": "Intensity retention"
+        }
+      },
+      {
+        "name": "warning",
+        "type": "string",
+        "unit": null,
+        "required": false,
+        "labels": {
+          "zh-CN": "提示",
+          "en": "Warning"
+        }
+      }
+    ],
+    "formulaDescription": "Validate raceDistance against 5k/10k/half/marathon/ultra; peakWeeklyKm greater than zero; peakLongRunKm not negative; qualitySessionsPerWeek between 1 and 3; taperWeeks 2 or 3; daysToRace between 0 and 28. Three-week volume ratios are 0.80, 0.60, 0.40 and long-run ratios 0.85, 0.65, 0.45. Two-week volume ratios are 0.70, 0.45 and long-run ratios 0.70, 0.50. Quality sessions: with one weekly session the plan is 1,1,0 (three weeks) or 1,1 (two weeks); with two or three it is 2,2,1 (three weeks) or 2,1 (two weeks). Week volume = round(peakWeeklyKm * volumeRatio); week long run = round(peakLongRunKm * longRunRatio). taperRatio = round1(last raw weekly volume / peakWeeklyKm * 100). intensityRetention is maintained: session distance and rep count shorten while target pace stays unchanged. Warnings: daysToRace below taperWeeks * 7 reports a taper window too short; marathon with peakWeeklyKm below 30 reports a low peak-volume reference; both join into one warning string.",
+    "assumptions": [
+      "The plan assumes the peak week already delivered by the runner; it does not prescribe how to reach that peak.",
+      "Quality pace remains at target race or threshold pace; reduced volume does not mean slower pace.",
+      "Ratios are group-level planning heuristics from endurance tapering research, not an individual physiological prescription.",
+      "The tool does not schedule strength work, mobility, sleep, nutrition or carbohydrate loading.",
+      "Ultra and trail events may need longer tapering depending on cumulative fatigue and vertical load; the 2-3 week range is a starting point."
+    ],
+    "rounding": "Weekly volume and long-run km round to the nearest whole kilometre; taperRatio keeps one decimal; ratios are applied to raw peak values before rounding.",
+    "caseRefs": [
+      "case-taper-planner-typical",
+      "case-taper-planner-boundary",
+      "case-taper-planner-invalid"
+    ]
+  }
+}

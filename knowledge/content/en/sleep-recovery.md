@@ -11,72 +11,97 @@ reviewers:
 translationStatus: reviewed
 ---
 
-## Definition and conditions of applicability
+## What this page covers, and when it applies
 
-Sleep is the base variable of recovery: it affects repair, mood, daytime function and how training feels. The NHS defines insomnia as regularly having problems sleeping, which usually improves by changing sleeping habits. This page applies to runners who manage recovery through sleep; the condition is that sleep is recorded and adjusted, not offset by supplements.
+This page covers where sleep sits in running recovery, common ways to judge it, and when training load should be reduced. It assumes general training recovery; chronic insomnia, sleep apnoea, anxiety or depression are clinical problems needing medical assessment. The relationship between recovery gadgets, heart-rate metrics and training load is in [Recovery and wearable data](/en/knowledge/wearables-and-recovery-data/); this page does not interpret watch sleep-stage scores.
 
-## Seven to nine hours is a population range, reviewed by week
+## Sleep is the base recovery variable
 
-Adults average seven to nine hours; needs differ with age, stress, illness, travel and load, so the range is a population average, not a nightly pass mark. Review by week: how many nights were hard to start, how often waking interrupted the night, whether mornings felt unrefreshed, and whether daytime function suffered.
+The UK NHS insomnia page lists 7-9 hours as the common adult sleep range, while stressing that individual needs differ and no fixed number must be met every night. Sleep deprivation affects subjective recovery, attention and next-day training quality; conversely, sleep needs often rise after training volume increases.
 
-| Weekly marker | Check | Signal |
-| --- | --- | --- |
-| Time to fall asleep | Seven-night log | Several long nights |
-| Night waking | Count and duration | Frequent, hard to resume |
-| Morning feel | Rate 1 to 5 | Several low days |
-| Daytime function | Work, driving, training | Clearly affected |
+Compared with supplements, massage or foam rolling, sleep is the more basic recovery condition that cannot easily be routed around. Devices can record duration and rough stages, but they cannot replace a regular bedtime, a quiet environment and enough total duration. Sleeping better in the final week before a race cannot cancel accumulated sleep loss earlier.
 
-## Adjusting training when sleep degrades
+## Why devices cannot replace sleep
 
-After several poor nights, cut volume or drop one quality session and watch fatigue and mood instead of masking the problem. A fixed wake time, less stimulation before bed and separating hard training from bedtime are common directions. Around races, plan ahead, bring familiar sleep items and avoid last-minute habit changes; a poor night does not justify unfamiliar caffeine or supplements.
+Watch sleep scores, deep-sleep durations and "recovery" levels are algorithm estimates affected by wear fit, sleeping position and algorithm version. More reliable clues to whether you have recovered are morning fatigue, heavy legs, whether today's planned intensity feels achievable, resting heart rate compared with usual, and mood. Device data are for multi-week trends, not judging one night guilty.
 
-## Persistent fatigue is not always "too much training"
+Sleep is also shaped by routine regularity, light, caffeine, the evening meal and screen time. A late previous night should leave flexibility in the next session rather than forcing the planned intensity.
 
-Overtraining syndrome is a maladapted response to excessive exercise without adequate rest, involving neurological, endocrine and immune systems and mood changes. Persistent fatigue with declining or plateauing performance should prompt exclusion of underlying illness. No single marker exists; assessment is clinical, and management is rest plus correcting the imbalance.
+## Sleep environment and routine details
 
-## Anxiety, sleep and help-seeking
+Sleep quality depends on more than total duration. A fixed wake time, a quiet, dim bedroom, a suitable temperature and a wind-down transition before bed all affect ease of falling asleep and deep-sleep share. Daylight exposure and regular daytime activity support the night-time rhythm; late hard exercise, prolonged screen stimulation and late meals can delay onset.
 
-Generalised anxiety means persistent worry affecting daily life and hard to control, with sleep difficulty, restlessness, irritability, fatigue, tension, stomach problems and palpitations. It is more likely when anxiety is present most of the time. Adults can see a GP or self-refer to talking therapies; sleep and mood notes help describe the pattern.
+If a daytime nap is needed, keep it short and place it earlier in the afternoon so it does not affect night sleep. Caffeine timing interferes with sleep; dose and timing are in [Caffeine and running](/en/knowledge/caffeine-and-running/). When clearly stimulated before bed, trace caffeine, mood and light exposure earlier that day rather than blaming "poor sleep quality" directly.
 
-## How to do it: three steps
+## Three priorities
 
-1. Log bedtime, sleep onset, wake time and morning feel for two weeks.
-2. Fix the wake time, move hard sessions earlier and hold off on gadgets and supplements.
-3. Review every two weeks: if most nights fall under six hours and daytime function suffers, cut load and consider medical advice.
+1. A fixed wake time is easier to keep than a fixed bedtime; do not shift the weekend wake time far from weekdays.
+2. Lower light and screen stimulation in the last hour before bed, and place caffeine earlier in the day.
+3. When sleep worsens for several nights, first reduce load: cut quality sessions and long runs, then schedule active recovery.
 
-## Worked example: five weeks at 6.5 versus 7.5 hours (hypothetical)
+When logging sleep and training, look at resting heart rate, subjective fatigue and the day's session together; judging one night's duration alone leads to misreading. Logging methods that pair with device data are in [Training log](/en/knowledge/training-log/).
 
-Assume five sessions and 40 km a week, with 6.5 hours a night for three weeks and 7.5 for two. Weekly sleep rises from 45.5 to 52.5 hours, up 7 hours, while training volume is unchanged and perceived fatigue falls from 7 to 5 on a 0 to 10 scale. This describes a log, not proof of cause.
+## Quick reference: sleep, state and adjustment
+
+| Observation | Likely meaning | Suggested adjustment |
+|---|---|---|
+| Stable duration, light mornings, normal legs | Recovery adequate | Follow the plan |
+| 2-3 nights short, heavy in the morning | Recovery under pressure | Swap one quality session for an easy run or rest |
+| Worsening sleep onset, with anxiety or low mood | Sign of a sleep or mood issue | Reduce load and seek medical advice |
+| Heavy snoring, daytime sleepiness | Sleep apnoea needs checking | Medical review; do not self-treat with supplements |
+
+## Worked example: weekly sleep duration
+
+Assume a target average of 7.5 hours per night. In one week you sleep 6.5 hours each night: weekly total is 6.5 × 7 = 45.5 hours. At 7.5 hours each night the total is 52.5 hours, a gap of 7 hours. Sleeping one hour less every day accumulates over the week to a full night lost. This calculation compares total duration only, not sleep quality; enough duration with frequent waking still impairs recovery.
+
+## Worked example: sleep debt in your own log (personal bookkeeping, not a clinical model)
+
+Assume your target is 7.5 hours. From Monday to Friday you sleep 6.0 hours each night, a daily deficit of 7.5 − 6.0 = 1.5 hours, totalling 1.5 × 5 = 7.5 hours over five days. On Saturday and Sunday you sleep 9.0 hours each, gaining (9.0 − 7.5) × 2 = 3.0 hours against target. The weekly net deficit remains 7.5 − 3.0 = 4.5 hours; weekend extra sleep does not fully repay it.
+
+Note that no universally validated hourly formula for clinical "sleep debt" exists, and deficit hours cannot directly predict a performance drop. The arithmetic above is personal log bookkeeping for observing trends. Whether a sleep problem needs intervention is a clinician's judgement.
 
 ## Common misconceptions
 
-- "Eight hours is the pass mark": seven to nine is a population range, and needs differ.
-- "Gadgets and supplements replace sleep": they cannot offset chronic short sleep.
-- "Fatigue means good training": persistent fatigue with stagnation needs other causes excluded.
+- Assuming weekend extra sleep repays the week's loss. Catch-up sleep partly relieves fatigue but does not equivalently cancel weekday sleep deprivation; a regular routine matters more than one long sleep-in.
+- Treating the watch sleep score as a diagnosis. Device staging is an algorithm estimate; heavy snoring, daytime sleepiness or persistent difficulty falling asleep needs medical review.
+- Pushing through poor sleep with caffeine. Caffeine changes subjective feel without replacing the lost recovery; repeating this masks insufficient recovery.
+- Thinking about sleep only in the race week. Recovery accumulates over weeks, and last-minute extra sleep has limited effect.
 
-## When to stop and seek care
+## When to stop: red flags
 
-Stop signals: several short nights, impaired daytime function, palpitations or stomach symptoms worsening in training, marked mood change, or pain that worsens across sessions; cut load and pause quality sessions. Seek medical advice or talking therapies for persistent sleep problems affecting daily life, hard-to-control worry, or persistent fatigue with declining or flat performance. Do not drive when drowsy.
+Chest pain, fainting, unusual palpitations, severe breathlessness, or insomnia, low mood or anxiety lasting two weeks or more are signs needing medical assessment. Stop exercising when physical red flags appear during training; sleep problems should not be countered with supplements or hard sessions. The NHS advises seeking a clinician for persistent sleep problems rather than relying long-term on self-help sleep aids.
 
-## Checklist
+## Frequency and progression
 
-- Two weeks of bedtime, sleep onset, wake time and morning feel logged.
-- Wake time stable and pre-bed stimulation reduced.
-- Trend reviewed every two weeks, with the next block adjusted.
-- Medical advice arranged if insomnia or daytime impairment persists.
+Review the sleep trend every 4 weeks: average duration, ease of falling asleep and morning fatigue. During training build-up, go to bed 30 minutes earlier proactively rather than making up sleep after fatigue accumulates. Routine changes around time-zone races are in [Jet lag and race travel](/en/knowledge/jet-lag-and-race-travel/); post-race bodily response and recovery rhythm are in [Post-race recovery](/en/knowledge/post-race-recovery/).
 
-## Scope and limits
+If one week sleeps clearly worse, first review that day's training intensity, caffeine, mood and environment before adjusting next week's plan. One poor night need not cause anxiety; trends over several nights are the basis for judging recovery pressure. Keeping sleep and training records together explains more than the watch sleep score alone.
 
-This page does not diagnose insomnia, anxiety or another sleep or mental-health problem, or recommend medication, supplements or a fixed duration. A sleep log describes trends and cannot replace clinical assessment; pregnancy, shift work and coexisting illness need professional guidance.
+## Pre-race checklist
+
+- Keep a fixed wake time in race week; do not stay up late adding sessions.
+- Place caffeine earlier in the day so it does not disturb the night before the race.
+- If the two pre-race nights were poor, ease down during the race instead of forcing target pace.
+- Plan a post-race recovery day as in [What to do on a recovery day](/en/knowledge/recovery-day/).
+
+## This page's limits: no diagnosis or medication advice
+
+This page does not diagnose insomnia, sleep apnoea, anxiety disorder or depression, does not recommend prescription sleep medication or sedating supplements, and does not assess drug interactions. Snoring with daytime sleepiness, nighttime waking gasping, persistent low mood or anxiety warrant medical review; whether recovery arrangements are adequate needs judgement against your own history. The relationship between training load and overtraining is in [Load and overtraining](/en/knowledge/load-and-overtraining/).
 
 ## Related reading
 
-- [A weekly running week: easy runs, quality and the long run](https://learn.paobu.org/en/articles/training-week/)
-- [Running pain, load and when to seek help](https://learn.paobu.org/en/articles/pain-and-load/)
-- [Jet Lag and Racing Abroad — direction, light and arrival timing](https://learn.paobu.org/en/articles/jet-lag-and-race-travel/)
-- [Post-race recovery: bring the body back from the race](https://learn.paobu.org/en/articles/post-race-recovery/)
-- [Should a recovery day be rest or easy movement?](https://learn.paobu.org/en/articles/recovery-day/)
+- [Recovery and wearable data: metrics, trends and what they cannot answer](/en/knowledge/wearables-and-recovery-data/)
+- [Jet lag and race travel: itinerary, routine and pre-race adjustment](/en/knowledge/jet-lag-and-race-travel/)
+- [Post-race recovery: what the body needs after finishing](/en/knowledge/post-race-recovery/)
+- [Load and overtraining: volume, intensity and signals](/en/knowledge/load-and-overtraining/)
 
 ## Sources and scope
 
-Sleep needs and the insomnia definition follow the NHS insomnia page; overtraining features and management follow the overtraining guide; anxiety symptoms and help pathways follow the NHS anxiety page. This is general recovery information, not diagnosis or treatment. Verified 2026-11-06.
+Adult sleep duration range and individual differences follow the UK NHS insomnia page; recovery pressure and load management follow an overtraining review; persistent low mood or anxiety follow the NHS mental wellbeing guidance. Sleep needs vary between individuals, and this page gives no clinical sleep prescription. Verified 2026-11-26.
+
+<!-- related-ring -->
+## Related entries
+
+- [Watch data and recovery: read trends, not one score](/en/knowledge/wearables-and-recovery-data/)
+- [Caffeine and running: effective is not the same as suitable](/en/knowledge/caffeine-and-running/)
+- [Calcium and Vitamin D for Runners — recommended intakes, food amounts and testing boundaries](/en/knowledge/calcium-and-vitamin-d-for-runners/)

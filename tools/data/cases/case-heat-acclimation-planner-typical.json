@@ -1,0 +1,26 @@
+{
+  "caseId": "case-heat-acclimation-planner-typical",
+  "toolId": "tool:heat-acclimation-planner",
+  "input": {
+    "raceWbgtC": 26,
+    "arrivalDaysBefore": 7,
+    "currentDailyHeatMinutes": 30,
+    "planDays": 14,
+    "sessionMinutes": 45
+  },
+  "expected": {
+    "targetDays": 14,
+    "dailyMinutesTarget": 45,
+    "totalExposureMinutes": 210,
+    "shortfallMinutes": 420,
+    "riskBand": "high",
+    "schedule": [
+      { "day": 1, "minutes": 45 }, { "day": 2, "minutes": 45 }, { "day": 3, "minutes": 45 },
+      { "day": 4, "minutes": 45 }, { "day": 5, "minutes": 45 }, { "day": 6, "minutes": 45 },
+      { "day": 7, "minutes": 45 }, { "day": 8, "minutes": 45 }, { "day": 9, "minutes": 45 },
+      { "day": 10, "minutes": 45 }, { "day": 11, "minutes": 45 }, { "day": 12, "minutes": 45 },
+      { "day": 13, "minutes": 27 }, { "day": 14, "minutes": 27 }
+    ]
+  },
+  "basis": "Total exposure already accumulated = 7 * 30 = 210 min. Planned exposure = 14 * 45 = 630 min. Shortfall = max(0, 630 - 210) = 420 min. WBGT 26 is below 28 but shortfall 420 > 300, so the band is high. Schedule keeps 45 min per day for the first 12 days; the last two days drop to 45 * 0.6 = 27 min."
+}

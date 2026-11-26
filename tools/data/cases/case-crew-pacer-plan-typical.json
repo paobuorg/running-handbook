@@ -1,0 +1,37 @@
+{
+  "caseId": "case-crew-pacer-plan-typical",
+  "toolId": "tool:crew-pacer-plan",
+  "input": {
+    "distanceKm": 100,
+    "startClock": "05:00",
+    "targetFinish": "17:00",
+    "crewLeadMinutes": 20,
+    "accessPoints": [
+      { "km": 24.4, "name": "Duncan Canyon", "crew": true, "pacer": false },
+      { "km": 30.3, "name": "Robinson Flat", "crew": true, "pacer": false },
+      { "km": 55.7, "name": "Michigan Bluff", "crew": true, "pacer": true },
+      { "km": 62, "name": "Foresthill", "crew": true, "pacer": true },
+      { "km": 78, "name": "Rucky Chucky", "crew": true, "pacer": true },
+      { "km": 85.2, "name": "Auburn Lake Trails", "crew": false, "pacer": false }
+    ]
+  },
+  "expected": {
+    "handoffs": [
+      { "name": "Duncan Canyon", "km": 24.4, "arrivalClock": "07:56", "crewCallClock": "07:36" },
+      { "name": "Robinson Flat", "km": 30.3, "arrivalClock": "08:38", "crewCallClock": "08:18" },
+      { "name": "Michigan Bluff", "km": 55.7, "arrivalClock": "11:41", "crewCallClock": "11:21" },
+      { "name": "Foresthill", "km": 62, "arrivalClock": "12:26", "crewCallClock": "12:06" },
+      { "name": "Rucky Chucky", "km": 78, "arrivalClock": "14:22", "crewCallClock": "14:02" }
+    ],
+    "pacerLegs": [
+      { "fromName": "Michigan Bluff", "toName": "Foresthill", "km": 6.3 },
+      { "fromName": "Foresthill", "toName": "Rucky Chucky", "km": 16 }
+    ],
+    "longestCrewGapMinutes": 183,
+    "warnings": [
+      "Auburn Lake Trails (km 85.2) has neither crew access nor a pacer change; it will not appear in handoffs.",
+      "Crew gap from Robinson Flat to Michigan Bluff is 183 minutes; confirm staffing and supplies."
+    ]
+  },
+  "basis": "Target duration = 17:00 - 05:00 = 720 min; pace = 100 / 720 km per min = 7.2 min per km. Arrival = 05:00 + km * 7.2 min; crew call = arrival - 20 min. Duncan 24.4: 300 + 175.68 = 475.68 -> 07:56, call 455.68 -> 07:36. Robinson 30.3: 518.16 -> 08:38, call 498.16 -> 08:18. Michigan 55.7: 701.04 -> 11:41, call 681.04 -> 11:21. Foresthill 62: 746.4 -> 12:26, call 726.4 -> 12:06. Rucky 78: 861.6 -> 14:22, call 841.6 -> 14:02. Crew gaps: 42.48, 182.88, 45.36, 115.2 min; longest 182.88 -> 183 min. Pacer legs between consecutive pacer points: 62 - 55.7 = 6.3 km; 78 - 62 = 16 km. Auburn Lake Trails is neither crew nor pacer, so it only appears in warnings."
+}

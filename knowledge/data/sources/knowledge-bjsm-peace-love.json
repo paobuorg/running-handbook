@@ -1,0 +1,76 @@
+{
+  "sourceId": "knowledge-bjsm-peace-love",
+  "title": "Soft-tissue injuries simply need PEACE and LOVE",
+  "url": "https://bjsm.bmj.com/content/54/2/72",
+  "publisher": "British Journal of Sports Medicine (editorial)",
+  "publishedAt": "2020-01-23",
+  "accessedAt": "2026-11-25",
+  "claims": [
+    "PEACE and LOVE replace the earlier ICE, RICE, PRICE and POLICE acronyms, spanning immediate care (PEACE) through subsequent management (LOVE) rather than covering only the acute stage.",
+    "Protect: unload or restrict movement for 1-3 days to minimise bleeding and fibre distension; rest should be minimised because prolonged rest compromises tissue strength and quality, and pain signals guide when to stop protection.",
+    "Elevate the limb higher than the heart to promote fluid flow; evidence for elevation is weak but its risk-to-benefit ratio is low.",
+    "The editorial advises against routine anti-inflammatory medication, because inhibiting inflammation may negatively affect long-term tissue healing, especially at higher doses; it also questions cryotherapy, stating there is no high-quality evidence that ice treats soft-tissue injuries.",
+    "Compression with taping or bandages limits oedema and haemorrhage; after an ankle sprain compression seems to reduce swelling and improve quality of life despite conflicting studies.",
+    "Education: early passive modalities such as electrotherapy, manual therapy or acupuncture have insignificant effects on pain and function compared with an active approach, and may be counterproductive long term; realistic recovery expectations should be set.",
+    "Load: add mechanical stress early and resume normal activities as soon as symptoms allow; optimal loading without exacerbating pain promotes repair, remodelling and tissue tolerance.",
+    "Vascularisation: pain-free aerobic exercise should start a few days after injury to boost motivation and blood flow; Exercise: strong evidence supports exercise for treating ankle sprains and reducing recurrence, restoring mobility, strength and proprioception, with pain guiding subacute progression."
+  ],
+  "license": "Publisher terms; editorial summarized with attribution",
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-25",
+    "checkedVia": "WebFetch https://bjsm.bmj.com/content/54/2/72 全文（PEACE/LOVE 各字母小节与 Figure 1）",
+    "note": "读到 P/E/A/C/E 与 L/O/V/E 各小节原文；抗炎药与冰敷的争议表述按 editorial 立场如实记录，不与其他指南取平均。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "原文：“acronyms guiding their management have evolved from ICE to RICE, then on to PRICE and POLICE”；“encompass the rehabilitation continuum from immediate care (PEACE) to subsequent management (LOVE)”。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "原文 P for protect：“Unload or restrict movement for 1–3 days”；“Rest should be minimised as prolonged rest can compromise tissue strength and quality”；“Pain signals should guide the cessation of protection.”"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "原文 E for elevate：“Elevate the limb higher than the heart”；“Despite weak evidence supporting its use, elevation shows a low risk-to-benefit ratio.”"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "原文 A for avoid anti-inflammatory modalities：“inhibiting inflammation using medications may negatively affect long-term tissue healing, especially when higher dosages are used”；“there is no high-quality evidence on the efficacy of ice for treating soft-tissue injuries”。"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "原文 C for compress：“External mechanical pressure using taping or bandages helps limit intra-articular oedema and tissue haemorrhage”；“compression after an ankle sprain seems to reduce swelling and improve quality of life”。"
+    },
+    {
+      "index": 5,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "原文 E for educate：“Passive modalities, such as electrotherapy, manual therapy or acupuncture, early after injury have insignificant effects on pain and function compared with an active approach, and may even be counterproductive in the long term”；“setting realistic expectations with patients about recovery times”。"
+    },
+    {
+      "index": 6,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "原文 L for load：“Mechanical stress should be added early and normal activities resumed as soon as symptoms allow. Optimal loading without exacerbating pain promotes repair, remodelling and builds tissue tolerance”。"
+    },
+    {
+      "index": 7,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "原文 V for vascularisation：“pain-free aerobic exercise should be started a few days after injury”；E for exercise：“strong level of evidence supporting the use of exercise for the treatment of ankle sprains and for reducing the prevalence of recurrent injuries”；“Pain should be avoided … and should be used as a guide for exercise progressions.”"
+    }
+  ]
+}

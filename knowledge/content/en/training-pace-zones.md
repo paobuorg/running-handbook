@@ -121,3 +121,10 @@ This page is training education. It provides no personal pace prescription and e
 - Blödorn and Döring, Special endurance coefficients enable the evaluation of running performance, Sci Rep 2025: VDOT tables and the online calculator differ by about 10 seconds over 5000 m; Riegel exponent 1.07732 versus 1.06.
 
 Verification date: 2026-11-07.
+
+<!-- related-ring -->
+## Related entries
+
+- [Training volume progression — the 10% rule, the 30% ceiling and a workable framework](/en/knowledge/training-volume-and-progression/)
+- [A weekly running week: easy runs, quality and the long run](/en/knowledge/training-week/)
+- [Ultramarathon basics: what 100 km really asks](/en/knowledge/ultra-running-basics/)

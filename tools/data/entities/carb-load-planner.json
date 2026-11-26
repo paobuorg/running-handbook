@@ -6,7 +6,8 @@
   "riskLevel": "general",
   "sourceRefs": [
     "knowledge-acsm-2016-carbohydrate",
-    "knowledge-beck-2015-carbohydrate"
+    "knowledge-beck-2015-carbohydrate",
+    "knowledge-issn-carbohydrate-timing"
   ],
   "relatedRefs": [
     "knowledge:carb-loading",
@@ -15,9 +16,9 @@
   ],
   "license": "CC-BY-4.0",
   "createdAt": "2026-11-07",
-  "updatedAt": "2026-11-07",
-  "reviewedAt": "2026-11-07",
-  "reviewDueAt": "2027-11-07",
+  "updatedAt": "2026-11-26",
+  "reviewedAt": "2026-11-26",
+  "reviewDueAt": "2027-11-25",
   "translations": [],
   "details": {
     "toolId": "tool:carb-load-planner",
@@ -134,7 +135,8 @@
     "rounding": "Daily and window totals are rounded to the nearest whole gram. The final values are computed from the unrounded daily range before rounding the window total.",
     "caseRefs": [
       "case-carb-load-planner-marathon",
-      "case-carb-load-planner-short-race"
+      "case-carb-load-planner-short-race",
+      "case-carb-load-planner-mid-window"
     ]
   }
 }

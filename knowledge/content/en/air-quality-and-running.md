@@ -116,3 +116,10 @@ Keep a weekly note of three things through a training block: cough, eye or nose 
 - DeFlorio-Barker et al., Acute effects of short-term exposure to air pollution while being physically active (Preventive Medicine, 2020): higher ventilation, more air bypassing the nose, particles reaching the lower respiratory tract.
 
 This page was verified on 2026-11-07.
+
+<!-- related-ring -->
+## Related entries
+
+- [Running at altitude: acclimatisation, training and when to descend](/en/knowledge/altitude-and-running/)
+- [Cold-weather running: manage exposure before pace](/en/knowledge/cold-weather-running/)
+- [Crew and pacer planning: crew cards, handoff points, segmented drop bags and liaison protocol](/en/knowledge/crew-and-pacer-planning/)

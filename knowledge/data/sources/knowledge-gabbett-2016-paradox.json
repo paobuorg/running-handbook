@@ -1,0 +1,48 @@
+{
+  "sourceId": "knowledge-gabbett-2016-paradox",
+  "title": "The training-injury prevention paradox: should athletes be training smarter and harder?",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4789704/",
+  "publisher": "British Journal of Sports Medicine",
+  "publishedAt": "2016-03-01",
+  "accessedAt": "2026-11-26",
+  "claims": [
+    "This narrative review frames the acute:chronic workload ratio (ACWR) as a best-practice predictor of training-related injuries: acute load is the recent workload, chronic load is the rolling average of medium-term workload.",
+    "In elite cricket fast bowlers, an ACWR ≤0.99 was associated with approximately 4% injury likelihood in the following 7 days, while an ACWR ≥1.5 was associated with a 2–4 times greater injury risk in the subsequent 7 days; similar load spikes were reported in elite rugby league and soccer cohorts.",
+    "The review proposes 0.8–1.3 as the training “sweet spot” and ≥1.5 as the “danger zone”, while noting that different sports may have different workload–injury relationships and that applying these recommendations to individual-sport athletes should be performed with caution.",
+    "The evidence base is a narrative synthesis of mostly elite team-sport cohorts; non-contact injuries are attributed more to inappropriate programming than to training load per se, and the review notes that under-training may also increase injury risk."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-26",
+    "checkedVia": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4789704/ 全文 HTML",
+    "note": "2026-11-26 直接读取 PMC 全文；逐条核对 ACWR 定义、板球快投手 4% 与 2–4 倍风险、0.8–1.3/≥1.5 区间及作者本人的外推谨慎限定。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-26",
+      "note": "原文：“I describe the critical variable—acute:chronic workload ratio—as a best practice predictor of training-related injuries.”"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-26",
+      "note": "原文：“ACWR ≤0.99 … likelihood of injury … approximately 4% … ACWR ≥1.5 … risk of injury was 2–4 times greater in the subsequent 7 days”；板球、rugby league、soccer 三项精英团队运动队列。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-26",
+      "note": "原文：“ratios within the range of 0.8–1.3 could be considered the training ‘sweet spot’, while ≥1.5 represent the ‘danger zone’”；同段：“different sports will have different training load–injury relationships … applying these recommendations to individual sport athletes should be performed with caution.”"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-26",
+      "note": "原文：“non-contact injuries are not caused by training per se, but more likely by an inappropriate training programme”；“under-training may increase injury risk”；纳入队列以精英团队项目为主，综述为叙述性综合，非 RCT。"
+    }
+  ]
+}

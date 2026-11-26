@@ -137,3 +137,10 @@ Test the same foods and timing in one long run the week before; review gut sympt
 - ISSN, Nutrient timing position stand (2017): about 30–60 g/h during prolonged high-intensity exercise, adjusted to the individual and the event.
 
 This page was verified on 2026-11-07.
+
+<!-- related-ring -->
+## Related entries
+
+- [Everyday fuel: get the basics before supplements](/en/knowledge/daily-fueling/)
+- [Sodium and electrolytes: sweat-sodium variation, cramps and the hyponatremia boundary](/en/knowledge/electrolytes-and-sodium/)
+- [Gut training for races: a 4–8 week protocol from 30 to 60–90 g of carbohydrate per hour](/en/knowledge/gut-training-for-races/)

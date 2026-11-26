@@ -1,0 +1,48 @@
+{
+  "sourceId": "tool-qualifier-baa-standards",
+  "title": "Boston Marathon Qualifying Standards — BAA",
+  "url": "https://www.baa.org/races/boston-marathon/qualify/",
+  "publisher": "Boston Athletic Association",
+  "publishedAt": null,
+  "accessedAt": "2026-11-25",
+  "claims": [
+    "Boston qualifying standards are age- and gender-based net chip times from officially submitted results; the 18–34 men's standard is 2:55:00 and the women's standard is 3:25:00, rising by age group.",
+    "The minimum age to qualify is 18 on race day; non-binary athletes are expected to meet the women's standard.",
+    "Meeting the standard only qualifies a runner to apply; the accepted field is capped and qualifiers faster than the cutoff may still be turned away.",
+    "Certified, measured courses are required; net-downhill time adjustments apply under BAA rules, and a newly measured course must be submitted by the race director and approved by USATF, AIMS or the foreign equivalent."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-25",
+    "checkedVia": "web_fetch 读取 BAA Qualify 页正文与年龄组标准表",
+    "note": "2026-11-25 直接读取页面标准表；男/女各年龄组分钟数与非binary口径均见正文。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "页面标准表逐行列出 Men / Women 各组分钟数；18–34 为 2:55:00 / 3:25:00。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "页面写明参赛最低年龄 18；Non-binary athletes follow the women's standard。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "页面说明达到标准仅获得申请资格，名额有限时按成绩 cutoff 截取。"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "页面规则段：赛道须经测量认证，下坡净成绩调整规则适用；新测量须由赛事总监提交并经 USATF/AIMS 或对等机构批准。"
+    }
+  ]
+}

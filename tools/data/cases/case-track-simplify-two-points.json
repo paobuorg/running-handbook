@@ -1,0 +1,19 @@
+{
+  "caseId": "case-track-simplify-two-points",
+  "toolId": "tool:track-simplify",
+  "input": {
+    "toleranceMeters": 10,
+    "coordinates": [
+      [0, 0],
+      [0.002, 0]
+    ]
+  },
+  "expected": {
+    "segmentCount": 1,
+    "originalPointCount": 2,
+    "simplifiedPointCount": 2,
+    "distanceBeforeMeters": 223,
+    "distanceAfterMeters": 223
+  },
+  "basis": "Independent arithmetic: a segment with only two points always keeps both endpoints under RDP, regardless of tolerance. The 0.002-degree equator span is about 222.639 m, rounded to 223 m before and after simplification; no middle point exists to remove, so the distance does not change."
+}

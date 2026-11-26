@@ -100,3 +100,10 @@ This page does not prescribe an individual strength programme, treat injury or g
 ## Sources and scope
 
 Adult activity and strength guidance follows CDC and ODPHP; taper effects follow the PLOS ONE review and meta-analysis; injury evidence limits follow a systematic review. Strength dose and running-economy ranges follow Blagrove 2018 (20 studies reporting 2%–8%; 2–3 sessions per week as a common range, with no universal programme). Samples differ, so this page offers principles, not a guaranteed plan. Verified 2026-11-07
+
+<!-- related-ring -->
+## Related entries
+
+- [Strength training for runners: exercise menu, sets and frequency, and how to place it in the week](/en/knowledge/strength-training-for-runners/)
+- [Tempo and interval running: intensity, structure and progression](/en/knowledge/tempo-and-intervals/)
+- [Trail and ultra training plan: climbing, time-on-foot, night running, load and back-to-back long sessions](/en/knowledge/trail-ultra-training-plan/)

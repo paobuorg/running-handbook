@@ -1,0 +1,42 @@
+{
+  "entityId": "knowledge:ankle-sprain-and-return",
+  "slug": "ankle-sprain-and-return",
+  "kind": "knowledge",
+  "status": "published",
+  "riskLevel": "guidance",
+  "sourceRefs": [
+    "knowledge-aaos-ankle-sprain",
+    "knowledge-nhs-sprains-strains",
+    "knowledge-bjsm-peace-love",
+    "knowledge-bjsm-2018-ankle-guideline",
+    "knowledge-bjsm-2021-paass-rtsp"
+  ],
+  "relatedRefs": [
+    "knowledge:return-to-running",
+    "knowledge:pain-and-load",
+    "knowledge:it-band-syndrome",
+    "tool:injury-risk-check"
+  ],
+  "license": "CC-BY-4.0",
+  "createdAt": "2026-11-25",
+  "updatedAt": "2026-11-26",
+  "reviewedAt": "2026-11-26",
+  "reviewDueAt": "2027-11-25",
+  "translations": [],
+  "details": {
+    "primaryTopic": "health",
+    "secondaryTopics": [
+      "recovery",
+      "training"
+    ],
+    "contentType": "plan",
+    "audiences": [
+      "beginner",
+      "intermediate"
+    ],
+    "scenarios": [
+      "injury",
+      "general-training"
+    ]
+  }
+}

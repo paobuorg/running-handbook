@@ -138,3 +138,10 @@ This is health education, not a substitute for imaging, physical examination, or
 - NHS, Plantar fasciitis (reviewed 14 February 2025): symptom timing, self-care, risk factors, 2-week review threshold.
 - AAOS, Plantar Fasciitis and Bone Spurs: about 2 million patients per year, more than 90% improve within 10 months, the spur–pain relationship, 10 seconds × 20 repetitions stretching, 20-minute cold-bottle rolling, night splints, 12-month surgical threshold.
 - NHS, Knee pain and other running injuries: runner-specific heel pain management and when to stop.
+
+<!-- related-ring -->
+## Related entries
+
+- [Pre-Participation Heart Screening: Differing Guidelines, Warning Signs and the Limits of Screening](/en/knowledge/pre-participation-heart-screening/)
+- [Running during pregnancy and after birth: boundaries, red flags and the return-to-run window](/en/knowledge/pregnancy-and-postpartum-running/)
+- [Return to running after injury: staged gates, reinjury criteria and progression boundaries](/en/knowledge/return-to-running/)

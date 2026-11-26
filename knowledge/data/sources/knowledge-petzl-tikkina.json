@@ -1,0 +1,41 @@
+{
+  "sourceId": "knowledge-petzl-tikkina",
+  "title": "Petzl TIKKINA headlamp — ANSI/PLATO FL 1 lighting performance",
+  "url": "https://www.petzl.com/GB/en/Sport/Headlamps/TIKKINA",
+  "publisher": "Petzl",
+  "publishedAt": null,
+  "accessedAt": "2026-11-25",
+  "claims": [
+    "The Tikkina is rated 300 lumens under the ANSI/PLATO FL 1 protocol, weighs 92 g, has a wide beam and IPX4 weather resistance, and runs on three AAA/LR03 batteries (included) or an optional CORE rechargeable battery; alkaline, lithium or Ni-MH cells are compatible.",
+    "With three AAA/LR03 batteries: MAX BURN TIME 7 lm / 10 m / 100 h; STANDARD 100 lm / 40 m / 10 h; MAX POWER 300 lm / 65 m / 2.5 h, with 20 h reserve lighting on the higher modes.",
+    "With the CORE rechargeable battery: MAX BURN TIME 7 lm / 120 h; STANDARD 100 lm / 7 h; MAX POWER 300 lm / 3 h."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-25",
+    "checkedVia": "web_fetch 读取 Petzl 官方产品页 Specifications 与 Lighting performance 表",
+    "note": "2026-11-25 直取 GB 官方页，读取 Specifications 段及两张 ANSI/PLATO FL 1 照明性能表（AAA 与 CORE）。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "Specifications：Brightness 300 lumens (ANSI/PLATO FL 1)；Weight 92 g；Beam pattern Wide；Energy three AAA/LR03 or CORE；Battery compatibility Alkaline/lithium/Ni-MH；Watertightness IPX4。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "AAA 表：MAX BURN TIME 7 lm/10 m/100 h；STANDARD 100 lm/40 m/10 h；MAX POWER 300 lm/65 m/2.5 h；Reserve Lighting 20 h。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "CORE 表：7 lm/120 h；100 lm/7 h；300 lm/3 h。"
+    }
+  ]
+}

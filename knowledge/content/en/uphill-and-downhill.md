@@ -34,10 +34,13 @@ A suddenly longer stride, foot far ahead, concentrates braking at the knee and s
 | Cadence | Higher | Lower | Below flat |
 | Flight | Short | Long | Heavy landing |
 | Load | Hip and calf | Quadriceps | Knee giving way |
+| Effort control | Talk test, breathing rhythm | Landing control, line choice | A few words per breath or no line choice |
 
 ## Worked example: 6 x 90 seconds uphill (hypothetical)
 
 Assume a dry 6% slope, 6 x 90 seconds uphill with a 2 minute jog down. Repeats 1-2 stay moderate: talking is possible, singing is not. If repeats 5-6 allow only a few words per breath, shorten the work or lengthen recovery. Assume a flat pace of 6 minutes per km; the site's grade-adjusted pace tool (Minetti 2002 running cost polynomial) puts the same metabolic cost at about 8 minutes 13 seconds per km on a 6% climb (about 1.37x), with the equivalent flat pace still 6:00. Technique, surface and fatigue can push that towards 8 minutes 30 seconds or slower. Numbers are hypothetical.
+
+On the descent the same 6% slope works the quadriceps eccentrically rather than as concentric climb; a repeat that looks controlled at the top often degrades on the way down. Recover between repeats with an easy jog or walk rather than standing still, and judge the last repeat by its form, not by the watch. DOMS in the front of the thigh after downhill repeats is common; if it lingers beyond 48 hours or swells, treat it as a load signal and cut the next session.
 
 ## How to do it
 
@@ -74,16 +77,23 @@ General principles, not individual coaching or medical advice. Gradient, surface
 
 ## Related reading
 
-- [Grade-adjusted pace](https://tools.paobu.org/en/tools/grade-adjusted-pace/)
-- [Track elevation](https://tools.paobu.org/en/tools/route-elevation/)
-- [Route comparison](https://tools.paobu.org/en/tools/route-compare/)
-- [Track simplifier](https://tools.paobu.org/en/tools/track-simplify/)
+- [Grade-adjusted pace](/en/tools/grade-adjusted-pace/)
+- [Track elevation](/en/tools/route-elevation/)
+- [Route comparison](/en/tools/route-compare/)
+- [Track simplifier](/en/tools/track-simplify/)
 
-- [Trail navigation: a GPX is a base map, not a safety net](https://learn.paobu.org/en/articles/trail-navigation/)
-- [Tempo and interval running: intensity, structure and progression](https://learn.paobu.org/en/articles/tempo-and-intervals/)
-- [Hills and mountain paths: a first outing](https://learn.paobu.org/en/articles/hill-and-mountain-path-basics/)
-- [Running surfaces: no absolute best, only adaptation](https://learn.paobu.org/en/articles/running-surface/)
+- [Trail navigation: a GPX is a base map, not a safety net](/en/knowledge/trail-navigation/)
+- [Tempo and interval running: intensity, structure and progression](/en/knowledge/tempo-and-intervals/)
+- [Hills and mountain paths: a first outing](/en/knowledge/hill-and-mountain-path-basics/)
+- [Running surfaces: no absolute best, only adaptation](/en/knowledge/running-surface/)
 
 ## Sources and scope
 
 Uphill gait and hip work, and downhill flight, cadence, rear-foot striking and eccentric load, follow a Sports Medicine review. Stride frequency and injury follow a Sports Health review whose studies were small and varied, with no universal cadence target. The talk test follows CDC guidance as a rule of thumb. Verified 2026-11-06.
+
+<!-- related-ring -->
+## Related entries
+
+- [Urban park and greenway running: surfaces, courtesy and loops](/en/knowledge/urban-park-and-greenway-running/)
+- [Waterfront and promenade running: wind, glare and tide](/en/knowledge/waterfront-and-promenade-running/)
+- [Compression garments, massage and foam rolling — what the evidence actually supports](/en/knowledge/compression-massage-and-foam-rolling/)

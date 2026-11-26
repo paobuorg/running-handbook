@@ -1,0 +1,55 @@
+{
+  "sourceId": "knowledge-bontemps-2020-downhill-review",
+  "title": "Downhill Running: What Are The Effects and How Can We Adapt? A Narrative Review",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/33037592/",
+  "publisher": "Sports Medicine",
+  "publishedAt": "2020-12-01",
+  "accessedAt": "2026-11-25",
+  "claims": [
+    "Downhill running is a whole-body eccentric exercise model that accentuates exercise-induced muscle damage (EIMD) and can reduce subsequent running performance.",
+    "In reviewed studies, EIMD after downhill running was assessed through isometric maximal voluntary contraction, blood creatine kinase and delayed onset muscle soreness, with slope, exercise duration and running speed as the main influencing factors.",
+    "The median downhill protocol across reviewed studies was -12% slope (25th-75th percentile -15% to -10%), 40 min duration (30-45 min) and 11.3 km/h speed (9.8-12.9 km/h).",
+    "Runners least accustomed to downhill running generally experienced the most EIMD, and prior exposure to downhill running is the preventive strategy with the strongest supporting evidence.",
+    "The review states that evidence for in-situ strategies such as compression garments and specific footwear to limit downhill muscle damage remains unconfirmed."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-25",
+    "checkedVia": "PubMed 摘要全文读取（PMID 33037592, Sports Med 2020;50(12):2083-2110）",
+    "note": "摘要可读，逐条核对 EIMD 评估指标、坡度/时长/速度中位数、适应人群与预防策略结论。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "Abstract: DR is used to investigate eccentric actions/EIMD; \"DR sections can be part of running disciplines... and can accentuate EIMD, leading to a reduction in performance.\""
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "Abstract: \"EIMD are assessed through isometric maximal voluntary contraction, blood creatine kinase and delayed onset muscle soreness, with DR characteristics (slope, exercise duration, and running speed) acting as the main influencing factors.\""
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "Abstract: median slope -12% (Q1 -15%; Q3 -10%), duration 40 min (30; 45), speed 11.3 km/h (9.8; 12.9)."
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "Abstract: \"people the least accustomed to DR generally experienced the most EIMD\"；\"preventive strategies that consist of prior exposure to DR are the most effective to better tolerate DR.\""
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "Abstract: \"The effectiveness of in-situ strategies such as lower limb compression garments and specific footwear remains to be confirmed.\""
+    }
+  ]
+}

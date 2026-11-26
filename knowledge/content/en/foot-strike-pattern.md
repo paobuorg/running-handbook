@@ -173,3 +173,10 @@ This is exercise-science education, not a diagnosis or individual prescription. 
 - Zhang et al., Effects of a 12-week gait retraining program on the Achilles tendon adaptation of habitually shod runners, Scand J Med Sci Sports 2024: 30 men randomised, 28 completed; 57% (8/14) converted to forefoot; Achilles tendon length and cross-sectional area increased significantly.
 
 Verified on 2026-11-07.
+
+<!-- related-ring -->
+## Related entries
+
+- [Trekking pole technique: when to use, how to size, and race rules](/en/knowledge/poles-technique/)
+- [Ground Contact Time and Vertical Oscillation: What the Numbers Can and Cannot Tell You](/en/knowledge/running-dynamics-metrics/)
+- [Running technique: cadence, stride, breathing and hills](/en/knowledge/running-form/)

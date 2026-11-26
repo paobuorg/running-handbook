@@ -4,19 +4,38 @@
   "kind": "knowledge",
   "status": "published",
   "riskLevel": "general",
-  "sourceRefs": ["knowledge-cdc-intensity", "knowledge-nhs-couch-to-5k", "knowledge-nhs-running-injuries", "knowledge-odphp-pag"],
-  "relatedRefs": ["knowledge:easy-run", "knowledge:training-week", "tool:pace", "tool:splits"],
+  "sourceRefs": [
+    "knowledge-cdc-intensity",
+    "knowledge-nhs-couch-to-5k",
+    "knowledge-nhs-running-injuries",
+    "knowledge-odphp-pag"
+  ],
+  "relatedRefs": [
+    "knowledge:easy-run",
+    "knowledge:training-week",
+    "tool:pace",
+    "tool:splits"
+  ],
   "license": "CC-BY-4.0",
   "createdAt": "2026-11-06",
-  "updatedAt": "2026-11-06",
-  "reviewedAt": "2026-11-06",
+  "updatedAt": "2026-11-26",
+  "reviewedAt": "2026-11-26",
   "reviewDueAt": "2027-11-06",
   "translations": [],
   "details": {
     "primaryTopic": "technique",
-    "secondaryTopics": ["training", "gear"],
+    "secondaryTopics": [
+      "training",
+      "gear"
+    ],
     "contentType": "guide",
-    "audiences": ["beginner", "intermediate"],
-    "scenarios": ["daily-training", "general-training"]
+    "audiences": [
+      "beginner",
+      "intermediate"
+    ],
+    "scenarios": [
+      "daily-training",
+      "general-training"
+    ]
   }
 }

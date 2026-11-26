@@ -1,0 +1,41 @@
+{
+  "sourceId": "knowledge-nws-wbgt",
+  "title": "Wet Bulb Globe Temperature (WBGT) — National Weather Service",
+  "url": "https://www.weather.gov/sgf/WBGT",
+  "publisher": "U.S. National Weather Service",
+  "publishedAt": null,
+  "accessedAt": "2026-11-25",
+  "claims": [
+    "WBGT is a heat stress index combining temperature, humidity, wind speed, and solar radiation using measured wet bulb, globe and dry bulb temperatures.",
+    "The heat index combines air temperature and relative humidity but does not account for wind speed, cloud cover or radiant heat.",
+    "WBGT is used to determine heat-related risk and set rest-work cycles, while wet bulb temperature alone measures the cooling limit through evaporation."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-25",
+    "checkedVia": "WebFetch 读取 NWS WBGT 说明页正文",
+    "note": "2026-11-25 直接读取页面 WBGT 定义、与 heat index 对比及用途段落。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "What is WBGT 段：combines temperature, humidity, wind speed, solar radiation；三个温度分量。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "Heat Index 段：air temp + relative humidity；does not account for wind, cloud cover, radiant heat。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "How it is used 段：WBGT 决定 heat-related risk 与 rest-work cycles；wet bulb 单独衡量蒸发冷却极限。"
+    }
+  ]
+}

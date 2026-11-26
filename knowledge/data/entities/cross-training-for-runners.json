@@ -1,0 +1,46 @@
+{
+  "entityId": "knowledge:cross-training-for-runners",
+  "slug": "cross-training-for-runners",
+  "kind": "knowledge",
+  "status": "published",
+  "riskLevel": "guidance",
+  "sourceRefs": [
+    "knowledge-kwok-2022-deep-water-running",
+    "knowledge-galbraith-2009-mtss-conservative",
+    "knowledge-cdc-adult-activity",
+    "knowledge-running-injury-review",
+    "knowledge-overtraining-guide",
+    "knowledge-nhs-running-injuries"
+  ],
+  "relatedRefs": [
+    "knowledge:return-to-running",
+    "knowledge:load-and-overtraining",
+    "knowledge:treadmill-running",
+    "knowledge:easy-run",
+    "knowledge:strength-and-taper",
+    "tool:run-walk"
+  ],
+  "license": "CC-BY-4.0",
+  "createdAt": "2026-11-25",
+  "updatedAt": "2026-11-26",
+  "reviewedAt": "2026-11-26",
+  "reviewDueAt": "2027-11-25",
+  "translations": [],
+  "details": {
+    "primaryTopic": "training",
+    "secondaryTopics": [
+      "recovery"
+    ],
+    "contentType": "guide",
+    "audiences": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "scenarios": [
+      "general-training",
+      "race-preparation",
+      "travel"
+    ]
+  }
+}

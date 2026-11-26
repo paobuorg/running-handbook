@@ -1,0 +1,46 @@
+{
+  "entityId": "knowledge:traction-and-snow-gear",
+  "slug": "traction-and-snow-gear",
+  "kind": "knowledge",
+  "status": "published",
+  "riskLevel": "guidance",
+  "sourceRefs": [
+    "knowledge-kahtoola-microspikes",
+    "knowledge-salomon-trail-gaiters",
+    "knowledge-on-trail-shoe-guide",
+    "knowledge-nps-winter"
+  ],
+  "relatedRefs": [
+    "knowledge:running-shoes",
+    "knowledge:shoe-fit-and-cushioning",
+    "knowledge:cold-weather-running",
+    "knowledge:trail-gear",
+    "route:miut"
+  ],
+  "license": "CC-BY-4.0",
+  "createdAt": "2026-11-25",
+  "updatedAt": "2026-11-26",
+  "reviewedAt": "2026-11-26",
+  "reviewDueAt": "2027-11-25",
+  "translations": [],
+  "details": {
+    "primaryTopic": "gear",
+    "secondaryTopics": [
+      "safety",
+      "technique",
+      "training"
+    ],
+    "contentType": "guide",
+    "audiences": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "scenarios": [
+      "general-training",
+      "trail-running",
+      "race-preparation",
+      "race-day"
+    ]
+  }
+}

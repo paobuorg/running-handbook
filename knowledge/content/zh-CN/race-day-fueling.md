@@ -29,6 +29,8 @@ ISSN 的立场文件建议，超过 60 分钟的高强度运动按每小时约 3
 
 假设一瓶 500 毫升的饮料浓度为 7%，按定义含 35 克碳水；那么每小时一瓶就提供约 35 克，落在 30 到 60 克的下半段。假设一支胶含 22 克碳水，每 30 分钟一支约等于每小时 44 克。两者混用时要把所有来源相加，而不是只数胶的包数。
 
+补给点数量也要和摄入节奏对上。假设赛道每 5 公里设一站、目标配速 5:00/公里，两站间隔约 5 × 5 = 25 分钟，长于“每 10–15 分钟少量摄入”的节奏；这 25 分钟里需要自备一支胶或饮料补足，而不能只等站点发放。站距、提供内容和自备规则应以赛事指南为准。
+
 ## 算例：70 公斤跑者、3:30 目标
 
 以下数字均为假设情景。假设跑者体重 70 公斤，目标完赛 3 小时 30 分（210 分钟），计划按每小时 45 克碳水执行，所用能量胶每支 22 克。
@@ -92,15 +94,22 @@ ISSN 的立场文件建议，超过 60 分钟的高强度运动按每小时约 3
 
 ## 相关阅读
 
-- [补给计划器](https://tools.paobu.org/tools/fueling-planner/)
-- [碳水负荷规划器](https://tools.paobu.org/tools/carb-load-planner/)
+- [补给计划器](/tools/fueling-planner/)
+- [碳水负荷规划器](/tools/carb-load-planner/)
 
-- [长距离跑怎么练补给](https://learn.paobu.org/articles/long-run-fueling/)
-- [跑步喝水与电解质：没有统一升数](https://learn.paobu.org/articles/hydration/)
-- [岔气与跑步胃肠不适——常见程度、诱因与必须就医的红旗](https://learn.paobu.org/articles/side-stitch-and-gi/)
-- [咖啡因与跑步：有效不代表适合每个人](https://learn.paobu.org/articles/caffeine-and-running/)
-- [碳水加载——36–48 小时、10–12 g/kg 与「吃不下」的上限](https://learn.paobu.org/articles/carb-loading/)
+- [长距离跑怎么练补给](/knowledge/long-run-fueling/)
+- [跑步喝水与电解质：没有统一升数](/knowledge/hydration/)
+- [岔气与跑步胃肠不适——常见程度、诱因与必须就医的红旗](/knowledge/side-stitch-and-gi/)
+- [咖啡因与跑步：有效不代表适合每个人](/knowledge/caffeine-and-running/)
+- [碳水加载——36–48 小时、10–12 g/kg 与「吃不下」的上限](/knowledge/carb-loading/)
 
 ## 来源与适用范围
 
 赛中 30 到 60 克/小时、6% 到 8% 饮料与 10 到 15 分钟间隔，参考 ISSN 的碳水化合物时机与营养时机立场文件；咖啡因的剂量范围、运动前约 60 分钟与个体差异，参考 ISSN 的咖啡因立场文件。立场文件给出的是运动营养原则，不是个体化医疗建议。核验日期为 2026-11-06。
+
+<!-- related-ring -->
+## 相关条目
+
+- [比赛补给形式对比：能量胶、冲剂、固体棒与真食怎么选](/knowledge/race-fuel-comparison/)
+- [补剂判断：先看证据，再看标签](/knowledge/supplements-and-evidence/)
+- [体重与跑步：别把轻当成快的代名词](/knowledge/weight-and-running/)

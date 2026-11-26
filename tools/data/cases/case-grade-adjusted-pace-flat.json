@@ -1,0 +1,15 @@
+{
+  "caseId": "case-grade-adjusted-pace-flat",
+  "toolId": "tool:grade-adjusted-pace",
+  "input": {
+    "actualPaceSecondsPerKm": 300,
+    "gradientPercent": 0
+  },
+  "expected": {
+    "costJoulesPerKgPerM": 3.6,
+    "costRatio": 1.0,
+    "flatEquivalentPaceSeconds": 300,
+    "direction": "flat"
+  },
+  "basis": "Independent arithmetic: with i = 0 every polynomial term vanishes except the constant 3.6 J/kg/m. Ratio 3.6/3.6 = 1.000. Pace 300/1.000 = 300 s/km, rounded to the nearest whole second.\n\nSteps: [\"Gradient fraction i = 0 / 100 = 0.\", \"Cost Cr = 155.4×0⁵ − 30.4×0⁴ − 43.3×0³ + 46.3×0² + 19.5×0 + 3.6 = 3.600 J/kg/m.\", \"Cost ratio = 3.600 / 3.6 = 1.000.\", \"Flat-equivalent pace = 300 / 1.000 = 300 s/km; direction is flat.\"]\nNotes: Boundary check at zero gradient: the polynomial reduces to the flat constant, so the cost ratio is 1.000 and the flat-equivalent pace equals the actual pace. This confirms the conversion has no hidden bias on level ground."
+}

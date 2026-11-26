@@ -1,0 +1,41 @@
+{
+  "sourceId": "tool-taper-bosquet-2007",
+  "title": "Effects of tapering on performance in endurance athletes: a meta-analysis (Bosquet et al., 2007)",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/17762369/",
+  "publisher": "PubMed / Sports Medicine",
+  "publishedAt": null,
+  "accessedAt": "2026-11-25",
+  "claims": [
+    "The meta-analysis found that a 2-week taper produced the largest performance improvement in endurance athletes.",
+    "Reducing training volume while maintaining training intensity and frequency was associated with the best performance outcomes.",
+    "Performance improvements after tapering were observed in time-trial and endurance performance measures."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-25",
+    "checkedVia": "PubMed 摘要页",
+    "note": "2026-11-25 复核 PubMed 17762369 摘要；结论与 knowledge-bosquet-2007-taper 一致。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "摘要：two-week taper yielded the greatest performance improvement。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "摘要：volume reduction with maintained intensity and frequency 与最佳表现相关。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "摘要：time-trial 与耐力表现指标在减量后改善。"
+    }
+  ]
+}

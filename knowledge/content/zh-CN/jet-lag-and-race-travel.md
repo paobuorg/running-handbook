@@ -143,3 +143,10 @@ NHS 的立场不同：**褪黑素在英国国民健康服务体系内不推荐�
 - NHS，Jet lag（页面审阅 2023-05-31）：定义、症状、出发前/机上/落地后的做法、短途行程、药物与褪黑素立场。
 - CDC Yellow Book 2026，Jet Lag Disorder（Riedy & Williams，2025-04-23 上线）：症状、68% 商务旅行者、东行 1 小时/天与西行 1.5 小时/天、AASM 标准治疗、出发前 2–3 天每日平移 1 小时、机上酒精与咖啡因、落地短盹 20–30 分钟、晨光提前与暮光延后、褪黑素方向。
 - Eastman & Burgess，How to Travel the World Without Jet Lag（CDC Stacks 收录）：东行需相位提前、西行需相位延迟、92/57 分钟每天的真实旅客估计、12 小时平移实验的 2.4/1.6 小时每天、行程计划假设的 2/1.5 小时每天。
+
+<!-- related-ring -->
+## 相关条目
+
+- [跑者膝痛：分诊边界、三档处理与必须就医的信号](/knowledge/knee-pain-in-runners/)
+- [更年期与跑步——症状波动、骨量流失和训练怎么调](/knowledge/menopause-and-running/)
+- [月经期训练与比赛：证据、症状管理与就医门槛](/knowledge/menstrual-cycle-and-training/)

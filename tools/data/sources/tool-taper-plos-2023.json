@@ -1,0 +1,41 @@
+{
+  "sourceId": "tool-taper-plos-2023",
+  "title": "Effects of tapering on performance in endurance athletes: a systematic review and meta-analysis (PLOS ONE, 2023)",
+  "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0282838",
+  "publisher": "PLOS ONE",
+  "publishedAt": "2023-05-10",
+  "accessedAt": "2026-11-25",
+  "claims": [
+    "The review included 14 studies and found significant improvements in time-trial and time-to-exhaustion performance after tapering.",
+    "A taper reducing training volume by 41-60%, maintaining intensity and frequency, and lasting up to 21 days was associated with improved time-trial performance.",
+    "Recovery and the optimal taper duration vary between individuals, so tapering should be adapted to the runner rather than copied rigidly."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-25",
+    "checkedVia": "PLOS ONE 摘要与全文",
+    "note": "2026-11-25 复核 PLOS 0282838 摘要；与 knowledge-plos-taper 核验记录一致。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "摘要：14 项研究；TT 与 TTE 减量后显著改善。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "摘要：volume 降 41%–60%、强度频率保持、≤21 天与 TT 改善相关。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "结论：恢复与最佳减量时长存在个体差异，需要个体化安排。"
+    }
+  ]
+}

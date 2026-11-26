@@ -9,7 +9,14 @@
     "Overtraining syndrome is described as a maladapted response to excessive exercise without adequate rest, involving neurological, endocrine and immune systems and mood changes.",
     "Persistent fatigue and a decline or plateau in performance should prompt consideration of overtraining syndrome and exclusion of underlying illness.",
     "There is no single diagnostic marker; assessment is clinical and requires identifying contributing training, recovery and health factors.",
-    "Management includes rest and correction of the factors that led to the imbalance between training and recovery."
+    "Management includes rest and correction of the factors that led to the imbalance between training and recovery.",
+    "Functional overreaching is a temporary performance decrement that improves after rest (days to weeks) with super-compensation; nonfunctional overreaching and OTS involve longer decrement, with OTS recovery measured in weeks to months.",
+    "By some definitions, fewer than 14 to 21 days of rest to return to previous performance is classified as NFO, and more than 14 to 21 days as OTS; the boundary can often only be made retrospectively, based on time to recovery rather than symptom degree or type.",
+    "Resting heart rate, maximal heart rate and HRV do not show consistent results and do not differentiate FO, NFO and OTS; there are no specific and validated blood markers for NFO or OTS.",
+    "Potential triggers include increased training load without adequate recovery, training monotony, excessive competitions, sleep disturbances and personal-life stressors.",
+    "One of the initial signs of overreaching is an increased rating of perceived exertion for a given workload.",
+    "FO needs only balancing overload training with appropriate recovery; treatment of NFO and OTS is rest (some propose relative rest), rebuilding volume before intensity, starting from 5 to 10 minutes daily until 1 hour is tolerated; which strategy is best remains unclear.",
+    "A clinical history suggestive of NFO/OTS should show decreased performance persisting despite weeks to months of recovery, mood disturbances, and absence of signs, symptoms or diagnosis of other possible causes of underperformance."
   ],
   "license": null,
   "verification": {
@@ -43,6 +50,48 @@
       "status": "supported",
       "checkedAt": "2026-11-08",
       "note": "\"Treatment of NFO and OTS is rest\"；并写按病因调整。"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-26",
+      "note": "Table 1（ECSS 立场术语）：FO “temporary performance decrement and with improved performance after rest, days to weeks, positive (super-compensation)”；NFO/OTS 恢复更长，OTS 以周到月计。"
+    },
+    {
+      "index": 5,
+      "status": "supported",
+      "checkedAt": "2026-11-26",
+      "note": "原文：“If less than 14 to 21 days of rest are required for return to previous performance, NFO would be diagnosed. If it has been greater than 14 to 21 days of rest, OTS is diagnosed by some.”；“difference between the 2 is based on time to recovery and not necessarily the degree or type of symptoms”；诊断只能回顾性做出。"
+    },
+    {
+      "index": 6,
+      "status": "supported",
+      "checkedAt": "2026-11-26",
+      "note": "原文：“Physiologic testing with resting heart rate, maximal heart rate, and HRV do not show consistent results, nor do they allow differentiation of FO, NFO, and OTS.”；“there are no specific and validated blood markers for NFO or OTS.”"
+    },
+    {
+      "index": 7,
+      "status": "supported",
+      "checkedAt": "2026-11-26",
+      "note": "Table 4 Potential triggers：“Increased training load without adequate recovery；Monotony of training；Excessive number of competitions；Sleep disturbances；Stressors including personal life (family …)”。"
+    },
+    {
+      "index": 8,
+      "status": "supported",
+      "checkedAt": "2026-11-26",
+      "note": "Prevention 段：“one of the initial signs of overreaching is increased rating of perceived exertion for a given workload.”"
+    },
+    {
+      "index": 9,
+      "status": "supported",
+      "checkedAt": "2026-11-26",
+      "note": "Treatment 段：“No treatment is required for FO other than balancing overload training with appropriate recovery.”；“Treatment of NFO and OTS is rest; however, some propose that relative rest is more appropriate.”；“build up volume prior to intensity, starting from 5 to 10 minutes daily until 1 hour is tolerated.”；“It is unclear which strategy is best”。"
+    },
+    {
+      "index": 10,
+      "status": "supported",
+      "checkedAt": "2026-11-26",
+      "note": "原文 History 段：(1) decreased performance persisting despite weeks to months of recovery, (2) disturbances in mood, (3) lack of signs/symptoms or diagnosis of other possible causes of underperformance。"
     }
   ]
 }

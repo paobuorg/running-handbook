@@ -1,0 +1,17 @@
+{
+  "caseId": "case-training-load-spike",
+  "toolId": "tool:training-load",
+  "input": {
+    "weeklyTrainingMinutes": 360,
+    "sessionsPerWeek": 5,
+    "averageRpe": 7,
+    "acuteLoad": 720,
+    "chronicLoad": 400
+  },
+  "expected": {
+    "acuteChronicRatio": 1.8,
+    "weeklyRampPercent": 80.0,
+    "band": "spike"
+  },
+  "basis": "Independent arithmetic: 720/400 = 1.80; (720 − 400)/400 × 100 = 80.0%. The spike band begins only above 1.5; 1.80 is above that line, so band is spike.\n\nSteps: [\"Acute:chronic ratio = 720 ÷ 400 = 1.80, rounded to two decimals.\", \"Weekly ramp = (720 − 400) ÷ 400 × 100 = 80.0%.\", \"The rounded ratio 1.80 is above 1.5, so the band is spike.\", \"Weekly minutes, session count and average RPE are context-only inputs; they do not alter the ratio.\"]\nNotes: A spike band is a review prompt: hold volume, check sleep, pain and recovery before adding more, and seek clinical assessment for persistent fatigue or performance decline. It is not an injury diagnosis or a prescription."
+}

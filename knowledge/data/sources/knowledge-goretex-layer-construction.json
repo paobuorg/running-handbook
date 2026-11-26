@@ -1,0 +1,48 @@
+{
+  "sourceId": "knowledge-goretex-layer-construction",
+  "title": "GORE-TEX Brand blog — 2-layer, 2.5-layer and 3-layer waterproof construction",
+  "url": "https://www.gore-tex.com/blog/waterproof-pants-how-to-choose",
+  "publisher": "GORE-TEX Brand (W. L. Gore & Associates)",
+  "publishedAt": "2017-07-26",
+  "accessedAt": "2026-11-25",
+  "claims": [
+    "Waterproof-breathable garments come in 2-layer, 2.5-layer and 3-layer constructions: the face fabric sits outside, the membrane is the waterproof-breathable middle layer, and the inner layer protects the membrane from sweat and oil that could clog its pores.",
+    "A 3-layer garment uses a durable PU/backer laminated directly to the membrane; a 2.5-layer garment uses a very thin, painted-on half layer; a 2-layer garment typically uses a hanging mesh liner that is less effective and less lightweight.",
+    "3-layer garments are more durable but pricier, while 2.5-layer is lighter and more packable; a DWR chemical treatment on the face fabric keeps it from absorbing water without inhibiting membrane breathability.",
+    "During high-intensity uphill activity, sweat-soaked clothing can lead to hypothermia, which is why pant breathability matters; lower-intensity standing activity can accept a heavier 2-layer garment."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-25",
+    "checkedVia": "web_fetch 读取 GORE-TEX 官方博客正文",
+    "note": "2026-11-25 直取官方博客，读取 Waterproof breathable fabric、2/2.5/3-layer 对比、DWR 与活动强度建议段。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "原文：three options 2-layer / 2.5-layer / 3-layer；face fabric 在外，membrane 在中间，innermost layer 防止 body sweat and oil clogging the pores。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "原文：3-layer use polyurethane backing, very durable；2.5-layer thin laminate essentially painted on, half layer；2-layer hanging layer of mesh, not as effective or lightweight。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "原文：\"3-layer pants are pricier\"；2.5-layer lightweight and packable；DWR resists moisture and \"does not inhibit the breathability of the middle layer\"。"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "原文：backcountry touring uphill 高强度出汗，\"wet layers can lead to hypothermia\"；fishing/standing 低强度可接受 2-layer。"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "sourceId": "knowledge-vincent-2022-trail-injuries",
+  "title": "Injury Prevention, Safe Training Techniques, Rehabilitation, and Return to Sport in Trail Runners",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/35141547/",
+  "publisher": "Arthroscopy, Sports Medicine, and Rehabilitation",
+  "publishedAt": "2022-01-28",
+  "accessedAt": "2026-11-25",
+  "claims": [
+    "Most acute and chronic trail running musculoskeletal injuries occur in the lower leg, primarily the knee and ankle; more than 70% are overuse injuries, and ankle sprains are the most common acute injury.",
+    "Key mechanisms underlying injury and progression include inadequate neuromotor control, balance and coordination, running through fatigue, and abnormal kinematics on variable terrain.",
+    "Real-time adjustments to cadence, step length and knee flexion on the trail may mitigate impact-related injury risk.",
+    "Multicomponent prehabilitation combining dynamic flexibility, neuromotor strength and balance, and plyometrics fosters stable, controlled movement on trails."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-25",
+    "checkedVia": "PubMed 摘要全文读取（PMID 35141547, Arthrosc Sports Med Rehabil 2022;4(1):e151-e162）",
+    "note": "摘要可读，逐条核对损伤部位、占比、急性损伤类型、机制与预防手段结论。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "Abstract: \"injuries in trail runners occur in the lower leg, primarily in the knee and ankle. More than 70% are due to overuse, and ankle sprains are the most common acute injury.\""
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "Abstract: \"Key mechanisms... include inadequate neuromotor control-balance-coordination, running through fatigue, and abnormal kinematics on variable terrain.\""
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "Abstract: \"Real-time adjustments to cadence, step length, and knee flexion on the trail may also mitigate impact-related risk for injury.\""
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "Abstract: \"Complete kinetic chain prehabilitation programs consisting of dynamic flexibility, neuromotor strength and balance, and plyometrics exercise can foster stable, controlled movement on trails.\""
+    }
+  ]
+}

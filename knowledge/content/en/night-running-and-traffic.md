@@ -85,3 +85,10 @@ No route is guaranteed safe at night, and this page does not replace local law, 
 ## Sources and scope
 
 The 55-foot detection distance data follow an FHWA article citing NHTSA; water turn-back, backup navigation, lighting and clothing advice follows NPS hiking-safety and ten-essentials material. Verified 2026-11-06.
+
+<!-- related-ring -->
+## Related entries
+
+- [Route safety: write the plan, weather and escape route first](/en/knowledge/route-safety/)
+- [UV radiation and running — reading the UV Index, reapplying through sweat, and why snow is harsher](/en/knowledge/sun-and-uv-exposure/)
+- [Trail navigation: a GPX is a base map, not a safety net](/en/knowledge/trail-navigation/)

@@ -1,0 +1,21 @@
+{
+  "caseId": "case-cutoff-planner-boundary",
+  "toolId": "tool:cutoff-planner",
+  "input": {
+    "distanceKm": 10,
+    "startClock": "08:00",
+    "targetFinish": "09:00",
+    "finishCutoff": "10:00",
+    "checkpoints": []
+  },
+  "expected": {
+    "requiredPaceSecondsPerKm": 360,
+    "cutoffPaceSecondsPerKm": 720,
+    "tightestCheckpoint": null,
+    "tightestBufferMinutes": 60,
+    "finishBufferMinutes": 60,
+    "verdict": "feasible",
+    "checkpoints": []
+  },
+  "basis": "Empty checkpoint list is allowed; the verdict is based on the finish only. Target duration = 09:00 - 08:00 = 60 min; required pace = 60 * 60 / 10 = 360 s/km. Cutoff duration = 10:00 - 08:00 = 120 min; cutoff pace = 120 * 60 / 10 = 720 s/km. Finish buffer = 10:00 - 09:00 = 60 min, which doubles as the tightest (only) buffer. 60 >= 15, so feasible."
+}

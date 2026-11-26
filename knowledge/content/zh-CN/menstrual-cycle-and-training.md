@@ -144,3 +144,10 @@ Ekenros 2022 调查了 **1,086 名**来自 **57 个运动项目**的女性运动
 - NHS，Periods（Delaying your period）：延迟经期可通过复方口服避孕药实现，具体取决于药片类型；不使用复方药时医生可开具炔诺酮，但并非适合所有人；需要医生、药师或性健康门诊评估，不能自行操作。原「How can I delay my period?」页面已重定向至该总页，原页的副作用清单不再可核对。
 
 核验日期：2026-11-07。
+
+<!-- related-ring -->
+## 相关条目
+
+- [大龄跑者：用力量、平衡和渐进负荷换长期](/knowledge/older-runners/)
+- [跑步疼痛、负荷与何时求助](/knowledge/pain-and-load/)
+- [疼痛沟通：把“哪里痛”说清楚](/knowledge/pain-communication/)

@@ -108,3 +108,10 @@ This page does not recommend a brand, dose combination or shop, or decide whethe
 ## Sources and scope
 
 Supplement regulation follows the FDA dietary-supplements page; protein totals, serving doses and food-first principles follow the ISSN protein and exercise position stand; caffeine dose, timing and variation follow the ISSN caffeine position stand. This is general information, not individual advice. Verified 2026-11-06
+
+<!-- related-ring -->
+## Related entries
+
+- [Weight and running: lighter is not automatically faster](/en/knowledge/weight-and-running/)
+- [Headlamps and lighting strategy: lumens, burn time, redundancy and how to read race rules](/en/knowledge/headlamps-and-lighting/)
+- [Hydration systems compared: soft flasks, hard bottles, reservoir packs and handheld bottles](/en/knowledge/hydration-systems/)

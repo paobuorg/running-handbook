@@ -1,0 +1,41 @@
+{
+  "sourceId": "knowledge-issn-ultra-nutrition-2019",
+  "title": "ISSN Position Stand: Nutritional Considerations for Single-Stage Ultra-Marathon Training and Racing",
+  "url": "https://jissn.biomedcentral.com/articles/10.1186/s12970-019-0312-9",
+  "publisher": "Journal of the International Society of Sports Nutrition",
+  "publishedAt": "2019-11-07",
+  "accessedAt": "2026-11-25",
+  "claims": [
+    "During ultra-marathon racing, runners should aim for 150–400 kcal per hour, with carbohydrate 30–50 g per hour and protein 5–10 g per hour, chosen for palatability and individual gut tolerance.",
+    "Fluid volumes of 450–750 mL per hour (about 150–250 mL every 20 minutes) are recommended during racing; electrolyte needs rise in hot and humid conditions.",
+    "Carbohydrate intake tolerance varies widely, and high intake or hyperosmolar solutions are a primary nutritional cause of gastrointestinal distress during racing."
+  ],
+  "license": "CC-BY-4.0",
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-25",
+    "checkedVia": "WebFetch 读取 ISSN 立场声明 Racing Recommendations 段（J Int Soc Sports Nutr 2019;16:52）",
+    "note": "2026-11-25 直接读取正文；每小时热量、碳水/蛋白克数与饮水量均见 Recommendations vi) vii)。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "Recommendations vi)：150–400 kcal/h，碳水 30–50 g/h，蛋白 5–10 g/h。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "Recommendations vii)：450–750 mL/h，约每 20 分钟 150–250 mL；湿热环境电解质需求增加。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "正文：高碳水摄入与高渗溶液是赛中胃肠不适的主要营养诱因，个体耐受差异大。"
+    }
+  ]
+}

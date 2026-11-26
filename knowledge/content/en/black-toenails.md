@@ -198,3 +198,10 @@ Verified: 2026-11-07.
 - PCDS (Primary Care Dermatology Society). Nail disorders (updated 16 July 2026): subungual haematoma may be red or red-black and can follow vigorous activity with no remembered trauma; toenails often have no trauma history; it moves distally with nail growth; a new or changing single black/brown longitudinal band should raise concern for subungual melanoma, and Hutchinson sign (pigment on surrounding skin) is highly suspicious; onychomycosis is usually yellow-white and spreads from the distal edge proximally.
 - NHS England. Low risk of developing non-healing foot wounds (diabetes foot information, December 2018): check the feet every day for blisters, breaks, pain or infection signs (swelling, heat, redness); badly fitting footwear is a common cause; contact a podiatrist or GP within 24 hours if a break is found.
 - NHS. Blisters (reviewed 22 November 2023): mostly caused by friction, burns or skin reactions; well-fitting shoes help prevent friction blisters; cover with a soft plaster or padded dressing and do not burst a blister yourself.
+
+<!-- related-ring -->
+## Related entries
+
+- [Blood in urine after running: exercise-induced haematuria, haemoglobinuria and myoglobinuria](/en/knowledge/blood-in-urine-after-running/)
+- [Cardiac emergencies in running: recognise, call, activate the chain](/en/knowledge/cardiac-emergency-in-running/)
+- [DNF decision-making: red flags that mean stop, how to withdraw, records, and the persistence-versus-risk line](/en/knowledge/dnf-decision-making/)

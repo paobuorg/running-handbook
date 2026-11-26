@@ -195,3 +195,10 @@ Reviewed 2026-11-07.
 - Sarzynski et al., Measured maximal heart rates compared to commonly used age-based prediction equations in the HERITAGE Family Study (Am J Hum Biol, 2013): 762 subjects, Fox SEE 12.4 bpm, Tanaka SEE 11.4 bpm, subgroup values, Fox 7–12 bpm, Tanaka about 10 bpm, resting heart rate 65.4 (SD 9.1, 40.3–105.3).
 - CDC, How to Measure Physical Activity Intensity: moderate means can talk but not sing, vigorous means only a few words before a breath, talk test is a rule-of-thumb method.
 - NHS, Heart palpitations: common and usually not serious, triggers, when to see a GP, when to call emergency services.
+
+<!-- related-ring -->
+## Related entries
+
+- [Lactate Threshold and VO₂max Testing: Definitions, Error and Practical Use](/en/knowledge/lactate-threshold-and-vo2max-testing/)
+- [The long run: purpose, conditions and recovery limits](/en/knowledge/long-run/)
+- [Marathon training plan: a decision path from current weekly mileage to an 18–24 week structure](/en/knowledge/marathon-training-plan/)

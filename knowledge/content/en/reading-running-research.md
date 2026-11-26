@@ -93,3 +93,10 @@ This page is not a statistics course, an individual training prescription or a q
 ## Sources and scope
 
 The injury proportion and conflicting training-parameter evidence follow a Journal of Athletic Training systematic review; taper volume, duration and performance follow a PLOS ONE review and meta-analysis; the multi-factor framework and non-interchangeable measurements follow a PubMed physiology review. Verified 2026-11-06.
+
+<!-- related-ring -->
+## Related entries
+
+- [Records and courses: why a fast watch time is not a record](/en/knowledge/records-and-course-validity/)
+- [Running culture: race rules, record ratification and reading research](/en/knowledge/running-culture/)
+- [5K/10K race training: period, intensity and taper structure](/en/knowledge/5k-10k-training-plan/)

@@ -1,0 +1,76 @@
+{
+  "sourceId": "knowledge-nhs-sprains-strains",
+  "title": "Sprains and strains",
+  "url": "https://www.nhs.uk/conditions/sprains-and-strains/",
+  "publisher": "National Health Service",
+  "publishedAt": "2024-04-23",
+  "accessedAt": "2026-11-25",
+  "claims": [
+    "A sprain is a torn or twisted ligament, most common in wrists, ankles, thumbs and knees; a strain is an overstretched or torn muscle.",
+    "Likely sprain or strain signs include pain, tenderness or weakness around the joint, swelling or bruising, inability to put weight on the injury or use it normally, and muscle spasms.",
+    "For the first 2 to 3 days NHS advises PRICE: Protection, Rest, Ice for up to 20 minutes every 2 to 3 hours, Compression, and Elevation; heat, alcohol and massage are avoided in the first couple of days.",
+    "When the injured area can be moved without pain stopping you, keep moving it so the joint or muscle does not become stiff.",
+    "Most sprains and strains feel better after 2 weeks; strenuous exercise such as running should be avoided for up to 8 weeks because of further damage risk, and severe cases can take months.",
+    "Get NHS 111 advice if the injury is very painful or worsening, there is large or worsening swelling or bruising, you cannot put any weight on it or walk more than a few steps, it feels very stiff or difficult to move, it has not improved after self-care, or you have a high temperature with hot, cold or shivery feelings suggesting infection.",
+    "Call 999 or go to A&E if you heard a crack at the injury, the body part has changed shape or points at an odd angle, it is numb, tingling or has pins and needles, or the skin around it is blue/grey or cold to touch.",
+    "The page was last reviewed on 23 April 2024, with the next review due 23 April 2027."
+  ],
+  "license": "Crown copyright; cited under NHS website terms",
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-25",
+    "checkedVia": "WebFetch https://www.nhs.uk/conditions/sprains-and-strains/ 正文全文",
+    "note": "读到 Symptoms、How to treat、Healing time、Urgent advice、Immediate action required 各节与页脚复审日期。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "原文对照表：Sprains “Torn or twisted ligament”，most common wrists/ankles/thumbs/knees；Strains “Overstretched or torn muscle”。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "原文 Symptoms 清单：pain/tenderness/weakness、swollen or bruised、cannot put weight on it or use normally、muscle spasms or cramping。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "原文：first 2 to 3 days PRICE 五步；ice “up to 20 minutes every 2 to 3 hours”；“avoid heat … alcohol and massages for the first couple of days”。"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "原文：“When you can move the injured area without pain stopping you, try to keep moving it so the joint or muscle does not become stiff.”"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "原文：“After 2 weeks, most sprains and strains will feel better. Avoid strenuous exercise such as running for up to 8 weeks, as there's a risk of further damage. Severe sprains and strains can take months to get back to normal.”"
+    },
+    {
+      "index": 5,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "原文 Urgent advice 六条逐项对应：very painful/worsening、large/worsening swelling or bruising、cannot bear weight or walk more than a few steps、very stiff/difficult to move、not better after treating yourself、very high temperature/hot/cold/shivery。"
+    },
+    {
+      "index": 6,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "原文 Immediate action required：heard a crack、changed shape/odd angle、numb/tingling/pins and needles、skin blue/grey or cold to touch。"
+    },
+    {
+      "index": 7,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "页脚：“Page last reviewed: 23 April 2024; Next review due: 23 April 2027.”"
+    }
+  ]
+}

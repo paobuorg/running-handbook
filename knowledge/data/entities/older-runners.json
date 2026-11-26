@@ -7,7 +7,8 @@
   "sourceRefs": [
     "knowledge-cdc-older-adults",
     "knowledge-cdc-chronic-conditions",
-    "knowledge-cdc-adult-activity"
+    "knowledge-cdc-adult-activity",
+    "knowledge-tanaka-2001-hrmax"
   ],
   "relatedRefs": [
     "knowledge:running-across-life",
@@ -17,9 +18,9 @@
   ],
   "license": "CC-BY-4.0",
   "createdAt": "2026-10-28",
-  "updatedAt": "2026-11-06",
-  "reviewedAt": "2026-11-06",
-  "reviewDueAt": "2027-04-28",
+  "updatedAt": "2026-11-26",
+  "reviewedAt": "2026-11-26",
+  "reviewDueAt": "2027-11-25",
   "translations": [],
   "details": {
     "primaryTopic": "health",

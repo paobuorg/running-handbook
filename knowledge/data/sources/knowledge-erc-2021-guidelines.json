@@ -7,16 +7,21 @@
   "claims": [
     "The 2021 ERC guidelines set out the European approach to basic life support and the chain of survival.",
     "They emphasise early recognition, calling emergency services and early defibrillation by bystanders.",
-    "They describe dispatch centres as able to guide callers through recognition and immediate response."
+    "They describe dispatch centres as able to guide callers through recognition and immediate response.",
+    "Start CPR in any person who is unresponsive with absent or abnormal breathing; slow, laboured agonal breathing counts as cardiac arrest, and breathing is assessed for no more than 10 seconds.",
+    "Compress the adult chest to a depth of at least 5 cm but not more than 6 cm, at a rate of 100-120 per minute, allowing complete chest-wall recoil after each compression.",
+    "Rescue breathing alternates 30 compressions and 2 rescue breaths; untrained rescuers may give compression-only CPR at 100-120 per minute.",
+    "When the AED arrives, switch it on and attach the pads to the bare chest, continue CPR while attaching, follow the spoken/visual prompts, ensure nobody touches the victim during analysis and shock, press the shock button if advised, then immediately resume CPR; if no shock is advised, resume CPR.",
+    "Continue CPR until an AED or defibrillator arrives; do not delay defibrillation once the device is ready, and there is a period of CPR, commonly about 2 minutes, before the next rhythm analysis."
   ],
   "license": null,
   "accessedAt": "2026-11-07",
   "verification": {
     "access": "direct",
     "bodyRead": true,
-    "checkedAt": "2026-11-07",
-    "checkedVia": "ERC Guidelines 2021 Basic Life Support PDF (Resuscitation 161:98-114)",
-    "note": "正文 PDF 已读；3 条 claim 与 BLS 章节及 ERC 指南页逐条核对。"
+    "checkedAt": "2026-11-26",
+    "checkedVia": "ERC Guidelines 2021 Basic Life Support full-text PDF mirror (Resuscitation 161:98-114)",
+    "note": "2026-11-26 读取 BLS 全文 PDF 镜像，逐条核对识别标准、按压深度/频率/回弹、30:2 与 AED 顺序；3 条旧 claim 维持原核对结论。"
   },
   "claimVerification": [
     {
@@ -33,6 +38,36 @@
       "index": 2,
       "status": "supported",
       "checkedAt": "2026-11-07"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-26",
+      "note": "BLS：start CPR in any unresponsive person with absent or abnormal breathing；agonal breathing counts；look/listen/feel for breathing for no more than 10 seconds。"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-26",
+      "note": "BLS：depth at least 5 cm but not more than 6 cm；rate 100-120 min-1；complete recoil, do not lean。"
+    },
+    {
+      "index": 5,
+      "status": "supported",
+      "checkedAt": "2026-11-26",
+      "note": "BLS：alternate 30 compressions and 2 rescue breaths；untrained/unable → continuous compressions-only at 100-120 min-1。"
+    },
+    {
+      "index": 6,
+      "status": "supported",
+      "checkedAt": "2026-11-26",
+      "note": "BLS AED 段：switch on, attach pads to bare chest, continue CPR while attaching, follow prompts, nobody touching during analysis/shock, push shock button as directed, immediately resume CPR; no shock → resume CPR。"
+    },
+    {
+      "index": 7,
+      "status": "supported",
+      "checkedAt": "2026-11-26",
+      "note": "BLS：continue CPR until AED arrives; do not delay defibrillation once ready; commonly 2 min CPR before next analysis。"
     }
   ]
 }

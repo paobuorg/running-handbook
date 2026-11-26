@@ -1,0 +1,62 @@
+{
+  "sourceId": "knowledge-noaa-jetstream-lightning",
+  "title": "Lightning Safety — NOAA JetStream",
+  "url": "https://www.noaa.gov/jetstream/lightning/lightning-safety",
+  "publisher": "NOAA National Weather Service / JetStream",
+  "publishedAt": null,
+  "accessedAt": "2026-11-25",
+  "claims": [
+    "Count the seconds between lightning flash and thunder; divide by five for miles, or by three for kilometres. A 15-second gap means the lightning is 3 miles (5 km) away.",
+    "If you hear thunder, lightning is near and there is NO SAFE PLACE OUTSIDE: immediately move to a substantial building with electricity or plumbing, or an enclosed metal-topped vehicle with windows up.",
+    "Stay in safe shelter at least 30 minutes after the last sound of thunder.",
+    "If outdoors, never lie flat on the ground, never shelter under an isolated tree, and never use a cliff or rocky overhang for shelter; get away from ponds, lakes and other bodies of water, and stay away from conductors such as barbed-wire fences, power lines and windmills.",
+    "Positive lightning bolts come from the upper parts of thunderstorms and can strike up to several miles away; it does not have to be raining overhead for a strike.",
+    "Rubber shoe soles and rubber tires are not insulators and offer zero lightning protection."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-25",
+    "checkedVia": "WebFetch NOAA JetStream Lightning Safety 正文（Fast Facts 与海报规则 1-6、Myths 节）",
+    "note": "页面可读；flash-bang 换算、安全庇护所、30 分钟等待、户外禁避点、正闪电与橡胶绝缘误区逐条核对。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "Fast Facts: divide seconds by five for miles, by three for kilometres; 15 seconds = 3 miles (5 km)."
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "Rules: \"There is NO SAFE PLACE OUTSIDE. 1. Immediately move to safe shelter: a substantial building with electricity or plumbing or an enclosed, metal-topped vehicle with windows up.\""
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "Rules: \"2. Stay in safe shelter at least 30 minutes after the last sound of thunder.\""
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "Rules 6: never lie flat, never isolated tree, never cliff/rocky overhang; get away from ponds/lakes/water; stay away from barbed wire fences, power lines, windmills."
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "海报说明：\"Positive lightning bolts come from the upper parts of thunderstorms, striking up to several miles away.\"；Myth 4: not raining does not mean you cannot be struck."
+    },
+    {
+      "index": 5,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "Myth 5: \"Rubber soles of shoes (or rubber tires) are not insulators from lightning. They offer zero lightning protection.\""
+    }
+  ]
+}

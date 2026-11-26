@@ -7,19 +7,24 @@
   "sourceRefs": [
     "knowledge-cdc-adult-activity",
     "knowledge-odphp-activity-planner",
-    "knowledge-nhs-couch-to-5k"
+    "knowledge-nhs-couch-to-5k",
+    "knowledge-seiler-2010-tid",
+    "knowledge-overtraining-guide"
   ],
   "relatedRefs": [
     "knowledge:easy-run",
     "knowledge:long-run",
     "knowledge:running-habits",
+    "knowledge:polarized-training-80-20",
+    "knowledge:strength-and-taper",
+    "knowledge:load-and-overtraining",
     "tool:splits"
   ],
   "license": "CC-BY-4.0",
   "createdAt": "2026-10-27",
-  "updatedAt": "2026-11-06",
-  "reviewedAt": "2026-11-06",
-  "reviewDueAt": "2027-10-28",
+  "updatedAt": "2026-11-26",
+  "reviewedAt": "2026-11-26",
+  "reviewDueAt": "2027-11-25",
   "translations": [],
   "details": {
     "primaryTopic": "training",

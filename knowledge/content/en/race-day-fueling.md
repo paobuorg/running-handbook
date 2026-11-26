@@ -27,6 +27,8 @@ The ISSN position stand suggests about 30–60 grams of carbohydrate per hour fo
 
 Packets differ in grams per serving, so "one gel every 20 minutes" cannot replace the label. Find grams per serving, divide the target by that number, then place the result on the clock. Assume a 500 ml bottle at 7%, containing 35 grams: one bottle per hour supplies about 35 grams. A 22-gram gel every 30 minutes is about 44 grams per hour.
 
+Station spacing has to match the intake rhythm. Assume stations every 5 km at a 5:00 per km pace; the gap is about 5 × 5 = 25 minutes, longer than the 10–15 minute small-snack rhythm, so a self-carried gel or drink has to cover that gap rather than waiting for the station. Spacing, supplies and what you may carry follow the race guide.
+
 ## Worked example
 
 Figures are hypothetical: 70 kg, a 3:30 target (210 minutes), 45 grams per hour, 22-gram gels.
@@ -97,15 +99,22 @@ No individual prescription, fluid volume or medical clearance. People with diabe
 
 ## Related reading
 
-- [Fueling planner](https://tools.paobu.org/en/tools/fueling-planner/)
-- [Carb-load planner](https://tools.paobu.org/en/tools/carb-load-planner/)
+- [Fueling planner](/en/tools/fueling-planner/)
+- [Carb-load planner](/en/tools/carb-load-planner/)
 
-- [How to practise fuelling for long runs](https://learn.paobu.org/en/articles/long-run-fueling/)
-- [Hydration and electrolytes: no universal litre target](https://learn.paobu.org/en/articles/hydration/)
-- [Side stitch and gut symptoms — how common they are, what triggers them and the red flags that need a doctor](https://learn.paobu.org/en/articles/side-stitch-and-gi/)
-- [Caffeine and running: effective is not the same as suitable](https://learn.paobu.org/en/articles/caffeine-and-running/)
-- [Carb loading — 36–48 hours, 10–12 g/kg and the absorption ceiling](https://learn.paobu.org/en/articles/carb-loading/)
+- [How to practise fuelling for long runs](/en/knowledge/long-run-fueling/)
+- [Hydration and electrolytes: no universal litre target](/en/knowledge/hydration/)
+- [Side stitch and gut symptoms — how common they are, what triggers them and the red flags that need a doctor](/en/knowledge/side-stitch-and-gi/)
+- [Caffeine and running: effective is not the same as suitable](/en/knowledge/caffeine-and-running/)
+- [Carb loading — 36–48 hours, 10–12 g/kg and the absorption ceiling](/en/knowledge/carb-loading/)
 
 ## Sources and scope
 
 The 30–60 g/h range, 6–8% drink and 10–15 minute intervals follow the ISSN carbohydrate-timing and nutrient-timing position stands; caffeine dose and timing follow the ISSN caffeine position stand. These are principles, not medical advice. Verified 2026-11-06.
+
+<!-- related-ring -->
+## Related entries
+
+- [Race fuel comparison: gels, drink mixes, bars and whole food — how to choose](/en/knowledge/race-fuel-comparison/)
+- [Judging supplements: evidence before the label](/en/knowledge/supplements-and-evidence/)
+- [Weight and running: lighter is not automatically faster](/en/knowledge/weight-and-running/)

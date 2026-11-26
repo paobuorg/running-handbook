@@ -23,6 +23,8 @@ Into wind, stride shortens and the upper body works harder; with a tailwind, pac
 
 Water reflects sunlight, so radiant load exceeds an inland street; a hat, sunglasses and sun protection are standard. Heat illness follows National Weather Service descriptions: heat exhaustion brings heavy sweating, weakness, dizziness, nausea, headache and fainting; heat stroke is an emergency with confusion, slurred speech, very high body temperature, a rapid pulse and possible loss of consciousness. Call emergency services first and cool the person while waiting.
 
+Hard waterfront paving and the water also create a daily temperature gap: concrete and stone absorb heat by day, while the water cools faster after dark, so the same path can feel several degrees apart morning and evening. The NWS wind-chill index is defined only at temperatures at or below 10°C and wind speeds above 3 mph (about 4.8 km/h); above that point the wind affects comfort after sweating, and the wind-chill chart does not apply. This site has not verified a general waterfront temperature-gap magnitude, so dress by the day's forecast and wind rather than an assumed range.
+
 ## Tide, wet boardwalk and crowds
 
 Seawall width changes with the tide. After high tide, swell or rain, boardwalk and stone turn wet and algae cuts grip; check the tide table, confirm the turn point stays dry, and never step outside the railing. Waterfronts are busy sightseeing spots: warn before passing, go around groups and avoid narrow platforms at peaks.
@@ -79,9 +81,16 @@ This page does not judge whether a waterfront route is open or safe, nor replace
 
 ## Related reading
 
-- [Running surfaces: no absolute best, only adaptation](https://learn.paobu.org/en/articles/running-surface/)
-- [Running clothing and chafing: fit, dry, fewer seams](https://learn.paobu.org/en/articles/running-apparel-and-chafing/)
+- [Running surfaces: no absolute best, only adaptation](/en/knowledge/running-surface/)
+- [Running clothing and chafing: fit, dry, fewer seams](/en/knowledge/running-apparel-and-chafing/)
 
 ## Sources and scope
 
-Heat illness recognition follows National Weather Service material; lightning, flood preparation and Plan B follow NPS hiking-safety material; mileage-injury conflicts follow the injury review. Verified 2026-11-06.
+Heat illness recognition follows National Weather Service material; the temperature and wind thresholds for wind chill follow the NWS wind-chill chart; lightning, flood preparation and Plan B follow NPS hiking-safety material; mileage-injury conflicts follow the injury review. Verified 2026-11-06.
+
+<!-- related-ring -->
+## Related entries
+
+- [Compression garments, massage and foam rolling — what the evidence actually supports](/en/knowledge/compression-massage-and-foam-rolling/)
+- [Training load and overtraining: signals, boundaries and evidence conflict](/en/knowledge/load-and-overtraining/)
+- [Post-race recovery: bring the body back from the race](/en/knowledge/post-race-recovery/)

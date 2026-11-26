@@ -75,16 +75,23 @@ translationStatus: reviewed
 
 ## 相关阅读
 
-- [坡度等效配速](https://tools.paobu.org/tools/grade-adjusted-pace/)
-- [轨迹爬升统计](https://tools.paobu.org/tools/route-elevation/)
-- [赛道比较](https://tools.paobu.org/tools/route-compare/)
-- [轨迹简化](https://tools.paobu.org/tools/track-simplify/)
+- [坡度等效配速](/tools/grade-adjusted-pace/)
+- [轨迹爬升统计](/tools/route-elevation/)
+- [赛道比较](/tools/route-compare/)
+- [轨迹简化](/tools/track-simplify/)
 
-- [山径导航：GPX 是底图，不是保障](https://learn.paobu.org/articles/trail-navigation/)
-- [节奏跑与间歇跑：强度、结构与进阶](https://learn.paobu.org/articles/tempo-and-intervals/)
-- [坡道与山径入门：第一次走上起伏路面](https://learn.paobu.org/articles/hill-and-mountain-path-basics/)
-- [路面选择：没有绝对最好，只有适应过程](https://learn.paobu.org/articles/running-surface/)
+- [山径导航：GPX 是底图，不是保障](/knowledge/trail-navigation/)
+- [节奏跑与间歇跑：强度、结构与进阶](/knowledge/tempo-and-intervals/)
+- [坡道与山径入门：第一次走上起伏路面](/knowledge/hill-and-mountain-path-basics/)
+- [路面选择：没有绝对最好，只有适应过程](/knowledge/running-surface/)
 
 ## 来源与适用范围
 
 上坡的步频、摆动与腾空、支撑时间占比和髋部做功，以及下坡的腾空时间、步频、后跟落地和离心负荷，参考 Sports Medicine 关于上下坡跑步生物力学与生理学的综述。步频与损伤因素的讨论参考 Sports Health 的步态频率系统综述；该综述纳入研究样本小且方法不一，未建立统一的目标步频。强度判断的谈话测试参考 CDC 的强度测量说明，属于经验规则而非精确测量。以上来源描述群体规律，不等于个人技术模板。核验日期为 2026-11-06。
+
+<!-- related-ring -->
+## 相关条目
+
+- [城市公园与绿道跑步：路面、礼让与环线设计](/knowledge/urban-park-and-greenway-running/)
+- [滨水与海堤跑步：风、反光与潮汐](/knowledge/waterfront-and-promenade-running/)
+- [压缩衣、按摩与泡沫轴——证据到底支持哪一种恢复](/knowledge/compression-massage-and-foam-rolling/)

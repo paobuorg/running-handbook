@@ -95,3 +95,10 @@ translationStatus: reviewed
 ## 来源与适用范围
 
 行程计划、天气准备与备用方案参考美国国家公园管理局的“Hike Smart”建议；十项必备装备与导航冗余参考其“Ten Essentials”；饮水折返规则、照明与哨子等参考其徒步安全页面；上坡与下坡在步频、腾空时间、落地方式与肌肉工作上的差异，参考相关的上坡下坡跑步生物力学研究。核验日期为 2026-11-06。
+
+<!-- related-ring -->
+## 相关条目
+
+- [雷暴与闪电安全流程：识别、下撤、蹲姿与赛事中断](/knowledge/lightning-and-storm-safety/)
+- [夜跑与交通：先让司机看见你](/knowledge/night-running-and-traffic/)
+- [路线安全：把行程、天气与撤退方案先写好](/knowledge/route-safety/)

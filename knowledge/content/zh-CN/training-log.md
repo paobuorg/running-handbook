@@ -99,3 +99,10 @@ translationStatus: reviewed
 ## 来源与适用范围
 
 活动计划与周记录思路参考 ODPHP 的活动计划器；跑步负荷与伤病关系的证据边界参考 Journal of Athletic Training 的系统综述；强度判断与谈话测试参考 CDC 的活动强度说明。本文只提供记录框架，不保证某种训练安排适合所有人。核验日期为 2026-11-06。
+
+<!-- related-ring -->
+## 相关条目
+
+- [配速区间：官方口径、教练体系与能核验的部分](/knowledge/training-pace-zones/)
+- [跑量进阶——10% 规则、30% 上限与可执行的加量框架](/knowledge/training-volume-and-progression/)
+- [一周跑步怎么安排：轻松跑、质量课和长距离](/knowledge/training-week/)

@@ -23,6 +23,12 @@ Watches record pace, heart rate, cadence, elevation, sleep and HRV; some give re
 
 HRV varies with sleep, alcohol, caffeine, infection, stress and training, so one low day is not overtraining. Resting heart rate rises with heat, dehydration, late nights or nerves. Build a baseline over weeks under similar conditions. A sustained HRV fall, sustained resting-heart-rate rise, worse sleep or declining performance may justify adjusting load.
 
+## How a baseline is calculated: a four-week example
+
+A baseline starts with your own reference, not someone else's number. Assume morning resting heart rate reads 52, 53 and 52 beats per minute in weeks 1 to 3; the three-week average is (52+53+52)÷3 ≈ 52.3 beats per minute. In week 4 the reading rises to 58, a deviation of about 58−52.3 = 5.7 beats per minute, or about 5.7÷52.3 ≈ 10.8% above the baseline. HRV has no fixed conversion like this: it depends on device algorithm, measurement time and the previous night's state, so it is read as relative movement from your own baseline, not as an absolute number compared across devices.
+
+This site uses a conservative rule of thumb: adjust load only when the same-direction deviation lasts several days and comes with worse sleep, heavier fatigue or declining performance; a single high or low reading is noted but acted on later. Overtraining has no single diagnostic marker; assessment is clinical and excludes anaemia, thyroid disease, infection or depression, and a watch score cannot replace that process. The reviewed sources do not set one universal resting-heart-rate increase that mandates stopping training; 10.8% here is arithmetic for the example, not a threshold recommendation.
+
 ## Recovery is more than a number
 
 Overtraining syndrome is a maladapted response to excessive exercise without adequate rest, involving neurological, endocrine, immune and mood changes. Persistent fatigue and performance decline should prompt consideration and exclusion of anaemia, thyroid disease, infection or depression. Assessment is clinical with no single marker; management is rest plus correcting the imbalance. The NHS notes adults average 7–9 hours of sleep, insomnia usually improves with habit change, and persistent problems may need medical advice.
@@ -44,6 +50,8 @@ Review weekly, not hourly. Record morning resting heart rate and HRV under simil
 | Resting heart rate | Recovery and stress trend | Heat, dehydration, late nights | Multi-day average |
 | HRV | Autonomic variation | Algorithms differ by device | Personal baseline |
 | Sleep duration | Sleep opportunity | Staging is not laboratory testing | Regularity and alertness |
+| Readiness score | Algorithm-based summary | Not comparable across brands | Reference only |
+| Training load | Relative volume change | Excludes life stress and pain | Read with felt experience |
 
 ## Worked example: a four-week trend
 
@@ -52,6 +60,7 @@ Assume 4 runs a week for 40 km and morning resting heart rate records. Weeks 1�
 ## Common misconceptions
 
 - “One low score means overtraining.” A single reading reflects sleep, alcohol, infection and stress.
+- “A low HRV means no training today.” One reading is not a stop order; read the trend alongside sleep and performance before adjusting.
 - “Scores from different brands can be compared.” Algorithms and baselines differ.
 - “Data can replace a doctor.” Overtraining has no single diagnostic marker.
 
@@ -73,8 +82,19 @@ This page does not provide individual training-load advice, HRV interpretation o
 
 ## Related reading
 
-- [Ground Contact Time and Vertical Oscillation: What the Numbers Can and Cannot Tell You](https://learn.paobu.org/en/articles/running-dynamics-metrics/)
+- [Sleep and recovery: the variable beneath the gadgets](/en/knowledge/sleep-recovery/)
+- [Load and overtraining: fatigue is not a character test](/en/knowledge/load-and-overtraining/)
+- [Watch and GPS: positioning and signal limits](/en/knowledge/watch-gps/)
+- [Running dynamics metrics: ground contact and vertical oscillation](/en/knowledge/running-dynamics-metrics/)
+- [Should a recovery day be rest or easy movement?](/en/knowledge/recovery-day/)
 
 ## Sources and scope
 
-Overtraining concepts and the need to exclude other causes follow a review in Current Sports Medicine Reports; sleep guidance follows the NHS; injury evidence limits follow a systematic review. Consumer-device data is a trend aid, not a clinical diagnosis. Verified 2026-11-06
+Overtraining concepts and the need to exclude other causes follow a review in Current Sports Medicine Reports; sleep guidance follows the NHS; injury evidence limits follow a systematic review. The 10.8% deviation in the example is arithmetic, and no reviewed source sets a universal stop-training threshold. Consumer-device data is a trend aid, not a clinical diagnosis. Verified 2026-11-06.
+
+<!-- related-ring -->
+## Related entries
+
+- [Caffeine and running: effective is not the same as suitable](/en/knowledge/caffeine-and-running/)
+- [Calcium and Vitamin D for Runners — recommended intakes, food amounts and testing boundaries](/en/knowledge/calcium-and-vitamin-d-for-runners/)
+- [Carb loading — 36–48 hours, 10–12 g/kg and the absorption ceiling](/en/knowledge/carb-loading/)

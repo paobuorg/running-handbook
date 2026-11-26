@@ -1,0 +1,44 @@
+{
+  "entityId": "knowledge:technical-trail-skills",
+  "slug": "technical-trail-skills",
+  "kind": "knowledge",
+  "status": "published",
+  "riskLevel": "guidance",
+  "sourceRefs": [
+    "knowledge-vincent-2022-trail-injuries",
+    "knowledge-bjsm-2018-ankle-guideline",
+    "knowledge-aaos-ankle-sprain",
+    "knowledge-on-trail-shoe-guide"
+  ],
+  "relatedRefs": [
+    "knowledge:uphill-and-downhill",
+    "knowledge:trail-navigation",
+    "knowledge:trail-gear",
+    "knowledge:ankle-sprain-and-return",
+    "knowledge:running-shoes",
+    "tool:injury-risk-check"
+  ],
+  "license": "CC-BY-4.0",
+  "createdAt": "2026-11-25",
+  "updatedAt": "2026-11-26",
+  "reviewedAt": "2026-11-26",
+  "reviewDueAt": "2027-11-25",
+  "translations": [],
+  "details": {
+    "primaryTopic": "technique",
+    "secondaryTopics": [
+      "safety",
+      "gear"
+    ],
+    "contentType": "guide",
+    "audiences": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "scenarios": [
+      "trail-running",
+      "race-preparation"
+    ]
+  }
+}

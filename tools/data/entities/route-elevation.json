@@ -16,9 +16,9 @@
   ],
   "license": "CC-BY-4.0",
   "createdAt": "2026-10-28",
-  "updatedAt": "2026-11-07",
-  "reviewedAt": "2026-11-06",
-  "reviewDueAt": "2027-10-28",
+  "updatedAt": "2026-11-26",
+  "reviewedAt": "2026-11-26",
+  "reviewDueAt": "2027-11-25",
   "translations": [],
   "details": {
     "toolId": "tool:route-elevation",
@@ -118,7 +118,8 @@
     "rounding": "Distance, gain and loss to the nearest metre; elevations to one decimal place; grade to one decimal place; profile points keep whole-metre distance and two-decimal elevation.",
     "caseRefs": [
       "case-route-elevation-hill",
-      "case-route-elevation-missing"
+      "case-route-elevation-missing",
+      "case-route-elevation-segments"
     ]
   }
 }

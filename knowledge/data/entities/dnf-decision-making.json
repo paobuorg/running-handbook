@@ -1,0 +1,50 @@
+{
+  "entityId": "knowledge:dnf-decision-making",
+  "slug": "dnf-decision-making",
+  "kind": "knowledge",
+  "status": "published",
+  "riskLevel": "guidance",
+  "sourceRefs": [
+    "knowledge-nws-heat-illness",
+    "knowledge-nws-cold",
+    "knowledge-nhs-dvt",
+    "knowledge-aha-2020-cpr-ecc",
+    "knowledge-erc-2021-guidelines",
+    "knowledge-world-athletics-medical-guidelines-2020",
+    "route-western-states-medical-2026",
+    "route-comrades-2026-medical",
+    "knowledge-wms-2024-altitude-illness",
+    "knowledge-acsm-2007-fluid"
+  ],
+  "relatedRefs": [
+    "knowledge:cardiac-emergency-in-running",
+    "knowledge:heat-and-humidity",
+    "knowledge:hydration",
+    "knowledge:pain-and-load",
+    "knowledge:post-race-recovery",
+    "knowledge:ultra-running-basics"
+  ],
+  "license": "CC-BY-4.0",
+  "createdAt": "2026-11-25",
+  "updatedAt": "2026-11-26",
+  "reviewedAt": "2026-11-26",
+  "reviewDueAt": "2027-11-25",
+  "translations": [],
+  "details": {
+    "primaryTopic": "health",
+    "secondaryTopics": [
+      "safety",
+      "recovery"
+    ],
+    "contentType": "guide",
+    "audiences": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "scenarios": [
+      "race-day",
+      "trail-running"
+    ]
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "sourceId": "tool-cutoff-wser-aid",
+  "title": "Aid Stations and checkpoint chart — Western States 100",
+  "url": "https://www.wser.org/course/aid-stations/",
+  "publisher": "Western States Endurance Run Foundation",
+  "publishedAt": null,
+  "accessedAt": "2026-11-25",
+  "claims": [
+    "The checkpoint chart lists a cut-off time for each aid station, expressed as the deadline for leaving that station.",
+    "Cut-off times are strictly enforced by cutoff coordinators or aid station captains; anyone leaving after the cut-off is disqualified, and a runner who misses the cut-off must stop.",
+    "The official note states that cut-off times are not intended to be a pacing guide, and that runners close to the cut-offs are in trouble.",
+    "Cut-offs marked with an asterisk are default cut-offs identical to the cut-off at the next aid station."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-25",
+    "checkedVia": "web_fetch 读取官方 Aid Stations 页正文与 Checkpoint 表",
+    "note": "2026-11-25 直接读取页面 Checkpoint 表与 Notes 段。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "Checkpoint 表每行含 Cutoff 列；Notes 第 1 条：deadlines for LEAVING the aid station。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "Notes 第 2 条：strictly enforced；anyone leaving after the cut-off time will be disqualified；IF YOU MISS THE CUT-OFF, YOU MUST STOP。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "Notes 第 4 条：cutoff times are not intended to be a pacing guide；If you're close to the cut-offs you're in trouble。"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "Notes 第 3 条：*Cutoffs denoted with an asterisk are default cutoffs，与下一站相同。"
+    }
+  ]
+}

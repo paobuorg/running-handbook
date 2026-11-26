@@ -108,3 +108,10 @@ translationStatus: reviewed
 ## 来源与适用范围
 
 步频与负荷的关系参考 Sports Health 的系统综述；上下坡差异参考 Sports Medicine 的综述；路面差异参考 PLOS ONE 对 30 名男性后跟着地跑者的小样本研究；呼吸与强度判断参考 CDC 的谈话测试。研究结论有样本和设计限制，本页只把它们转化为可观察的实践框架。核验日期为 2026-11-06
+
+<!-- related-ring -->
+## 相关条目
+
+- [路面选择：没有绝对最好，只有适应过程](/knowledge/running-surface/)
+- [技术地形通过：碎石、树根、泥、石阶与湿滑岩面的动作判断](/knowledge/technical-trail-skills/)
+- [跑步机训练：坡度、配速与安全](/knowledge/treadmill-running/)

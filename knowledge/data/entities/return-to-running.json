@@ -7,19 +7,29 @@
   "sourceRefs": [
     "knowledge-nhs-running-injuries",
     "knowledge-nhs-couch-to-5k",
-    "knowledge-running-injury-review"
+    "knowledge-running-injury-review",
+    "knowledge-buist-2008-10-percent-rule",
+    "knowledge-nielsen-2014-progression",
+    "knowledge-bjsm-peace-love",
+    "knowledge-lauersen-2014-injury-prevention",
+    "knowledge-fokkema-2020-half-marathon-volume",
+    "knowledge-bjsm-2021-paass-rtsp"
   ],
   "relatedRefs": [
     "knowledge:pain-and-load",
     "knowledge:running-habits",
     "knowledge:easy-run",
-    "tool:run-walk"
+    "tool:run-walk",
+    "knowledge:training-volume-and-progression",
+    "knowledge:running-injury-prevention",
+    "tool:injury-risk-check",
+    "knowledge:marathon-training-plan"
   ],
   "license": "CC-BY-4.0",
   "createdAt": "2026-10-27",
-  "updatedAt": "2026-11-07",
-  "reviewedAt": "2026-11-06",
-  "reviewDueAt": "2027-04-28",
+  "updatedAt": "2026-11-26",
+  "reviewedAt": "2026-11-26",
+  "reviewDueAt": "2027-03-15",
   "translations": [],
   "details": {
     "primaryTopic": "health",
@@ -30,10 +40,12 @@
     "contentType": "guide",
     "audiences": [
       "beginner",
-      "intermediate"
+      "intermediate",
+      "advanced"
     ],
     "scenarios": [
-      "general-training"
+      "general-training",
+      "race-preparation"
     ]
   }
 }

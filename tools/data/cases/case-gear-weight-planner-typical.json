@@ -1,0 +1,32 @@
+{
+  "caseId": "case-gear-weight-planner-typical",
+  "toolId": "tool:gear-weight-planner",
+  "input": {
+    "bodyWeightKg": 62,
+    "packWeightGrams": 450,
+    "waterLiters": 1.5,
+    "fuelGrams": 360,
+    "mandatoryItems": [
+      { "name": "防水冲锋衣", "grams": 280 },
+      { "name": "头灯", "grams": 95 },
+      { "name": "保温毯", "grams": 120 },
+      { "name": "导航设备", "grams": 180 }
+    ],
+    "optionalItems": [
+      { "name": "能量胶四个", "grams": 240 },
+      { "name": "遮阳帽", "grams": 45 },
+      { "name": "备用薄外套", "grams": 320 }
+    ]
+  },
+  "expected": {
+    "mandatoryGrams": 675,
+    "optionalGrams": 605,
+    "baseGrams": 1125,
+    "carriedGrams": 3590,
+    "totalGrams": 3590,
+    "percentOfBodyWeight": 5.8,
+    "heaviestItem": "备用薄外套",
+    "suggestions": []
+  },
+  "basis": "Mandatory = 280 + 95 + 120 + 180 = 675 g; optional = 240 + 45 + 320 = 605 g. Base = 675 + 450 pack = 1125 g. Carried = 1125 + 605 + 1.5 × 1000 g water + 360 g fuel = 3590 g; total equals carried load. Percent of body weight = 3590 / 62000 × 100 = 5.79% → 5.8%. The heaviest single item is the spare layer at 320 g. Load is below the 15% trim threshold and water is at 1.5 L, so no suggestion fires."
+}

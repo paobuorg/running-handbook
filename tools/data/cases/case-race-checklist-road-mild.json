@@ -1,0 +1,20 @@
+{
+  "caseId": "case-race-checklist-road-mild",
+  "toolId": "tool:race-checklist",
+  "input": {
+    "raceType": "road",
+    "duration": "under-3h",
+    "weather": "mild",
+    "travel": false
+  },
+  "expected": {
+    "sectionIds": [
+      "entry",
+      "clothing",
+      "fuel",
+      "logistics"
+    ],
+    "requiredItems": []
+  },
+  "basis": "Rule-based checklist: baseline entry, clothing, fuel and logistics sections only. Road, mild, under-3h and no-travel selections trigger no conditional section, so the count is 4 and no conditional item is required.\n\nSteps: [\"Start with the four baseline sections: entry, clothing, fuel, logistics.\", \"Road adds no trail or navigation section.\", \"Mild weather adds no heat, cold or rain section.\", \"Under-3h duration adds no long-race section; no travel adds no travel section.\"]\nNotes: Common mistake: assuming every checklist includes navigation or emergency items. On a short mild road race with no travel, only the four baseline sections apply; any extra item still follows the organiser's rules, not this list."
+}

@@ -11,86 +11,98 @@ reviewers:
 translationStatus: reviewed
 ---
 
-## Definition and who this page applies to
+## What this page covers, and when it applies
 
-A weekly arrangement distributes easy, quality, long and recovery days so the load repeats. It applies to runners doing about three runs a week and beginners building continuous running. It holds when the weekly run count stays constant.
+This page covers the basic structure of a weekly running plan: how easy runs, quality sessions, the long run and recovery days fit together, plus beginner starting and progression principles. It assumes a generally healthy recreational runner; those with injury, cardiovascular issues or a long layoff should get assessed before arranging volume. The beginner walk-run start follows the NHS Couch to 5K approach; this page does not build an individual periodised plan.
 
-## Start with the number of runs you can repeat
+## Three session types in a week
 
-Choose days you can actually run. NHS Couch to 5K uses three runs a week with rest days, from 1-minute runs and 1.5-minute walks to 30 minutes continuous over 9 weeks or longer.
+A running week usually contains three kinds of work: easy runs build volume and the aerobic base; quality sessions (tempo, intervals, hills) stimulate speed and endurance; the long run adds time and fuelling practice. A recovery day can be rest, walking or very light cross-training, meant to absorb the previous load rather than add more fatigue.
 
-## Easy running takes most of the week
+The US CDC recommends adults do 150 minutes of moderate-intensity aerobic activity per week; that is a baseline health minimum, not a runner's weekly volume target. The NHS Couch to 5K plan starts with three walk-run sessions per week and progresses to continuous running; the ODPHP activity planner arranges activity around personal time and preferences. For runners, session repeatability comes before single-session intensity.
 
-Easy running builds aerobic stimulus cheaply; full sentences should be possible with something left. Two easy runs plus one quality or long run is a common shape.
+## Structure ratio: easy work dominates
 
-## Quality is a small slice
+Descriptive studies of endurance athletes show competitive runners training 10-13 times per week with about 80% of sessions at low intensity and about 20% dominated by high-intensity work such as intervals around 90% VO2max; low-intensity long work combined with a small amount of high-intensity bouts may be complementary for adaptive signalling, technical mastery and acceptable stress. This ratio describes high-level athletes and is not a mandatory prescription for beginners, who train fewer sessions and should keep the quality-session share even lower.
 
-Tempo, intervals and hills give a stronger stimulus and cost more recovery. Place them when sleep and weather are stable, avoid consecutive hard days, and note CDC's 150 weekly moderate minutes and two strength days.
+Treat the week as a whole: quality sessions are buffered by easy runs or recovery days, and a low-load day follows the long run. Two hard days back to back compress the recovery window and turn fatigue into injury risk over time. The full polarised framework is in [80/20 polarised training](/en/knowledge/polarized-training-80-20/).
 
-## Where the long run fits
+Recovery spacing between sessions also matters. With two quality sessions in one week, keep at least an easy run or rest day between them; do not stack the long run and a quality session on adjacent days. Beginners run few sessions a week, so limited energy should go to steady completion of easy runs; quality work joins gradually after the aerobic base and movement habits are established.
 
-The long run practises sustained movement and fuelling, not a weekly maximum; length follows current base and goal. Follow it with an easy day.
+## How to do it: weekly planning steps
 
-## Recovery days and progression cycle
+1. Fix the number of running days and time blocks available in the week, then place quality and long run inside them.
+2. Put quality sessions on well-rested days, with easy runs or recovery on either side.
+3. Schedule the long run on the most unhurried day, extending gradually from recent long-run distance.
+4. Keep at least one true recovery day with no running.
+5. Review at the weekend: completion, subjective fatigue and soreness, then plan the next week.
 
-A recovery day is rest or very light walking that leaves you no more tired. Add one variable at a time: an extra easy run, then a longer long run, then quality. Move up after two stable weeks and step back after poor sleep. The ODPHP planner suggests goals and a printed weekly tracking plan.
+Training load and accumulated fatigue are covered in [Load and overtraining](/en/knowledge/load-and-overtraining/); strength work and pre-race tapering are in [Strength training and taper](/en/knowledge/strength-and-taper/).
 
-## How to build a week in three steps
+## Quick reference: where each session sits
 
-1. Mark three or four days you can genuinely run, with at least one rest day between.
-2. Make two runs easy; schedule only one quality or long run, not on adjacent days.
-3. Review which session was hardest to recover from and which day is always skipped; shrink that part.
-
-## Sample week table
-
-The times below are hypothetical examples.
-
-| Day | Session | Intensity | Purpose |
+| Session | Intensity | Frequency (typical runner) | Neighbouring arrangement |
 |---|---|---|---|
-| Tuesday | Easy run, 30 minutes | Full sentences | Aerobic base |
-| Thursday | Quality or easy run | Moderate | Stimulus |
-| Saturday | Long run | Easy, slower | Endurance |
+| Easy run | Talk test: full sentences | Most sessions | Can be consecutive, watch fatigue |
+| Quality | Tempo or intervals | 1 session, 2 in small groups | Recovery or easy run before and after |
+| Long run | Easy to moderate | 1 session | Low-load day after |
+| Recovery day | Rest / walk / light cross | At least 1 day | No added running volume |
 
-## Worked example: a three-week progression
+## Worked example: three-week progression, not one jump
 
-Assume 15 km across three runs, aiming at 30 continuous minutes after nine weeks. Weeks 1–3 use 20–25 minute sessions of 1-minute running and 1.5-minute walking; weeks 4–6 extend blocks to 3–5 minutes; weeks 7–9 finish with 30 continuous minutes. Runs stay at three; only continuous time changes. Hypothetical example.
+Suppose week one volume is 30 km. Week two adds about 20%: 30 × 1.2 = 36 km. Week three adds about 17% again: 36 × 1.17 ≈ 42 km. The three weeks climb gradually rather than reaching the target volume in week one. Any week with persistent soreness, worse sleep or a rising resting heart rate should return to the previous week's load rather than chase the increase.
 
-## Building the week around the sessions that matter
+## Worked example: intensity split for a 40 km week (reference to high-level observed ratio)
 
-A week is easier to hold together when two sessions are protected and everything else flexes. Decide which sessions carry the training purpose, place them on the days you are most likely to be rested, and keep the rest genuinely easy. If a week collapses, keep the protected sessions and drop the filling, rather than compressing five days into three consecutive hard ones.
+Suppose weekly total volume is 40 km, using the observed roughly 80% low-intensity / 20% high-intensity split: easy runs and long run account for about 40 × 0.80 = 32 km, quality sessions about 40 × 0.20 = 8 km. Note that the 80/20 figure describes the training distribution observed in high-level endurance athletes, not a ratio beginners must copy; a beginner may run only three sessions totalling a dozen or so kilometres, with quality a small part of that. The ratio adjusts with training history and current load.
 
-The order also matters. A long run the day after a hard interval session accumulates fatigue before the next quality day, while an easy day between them lets both sessions show their purpose. When life forces a reshuffle, separate two demanding days by at least one easy day and keep the total volume steady rather than chasing the original layout.
+## Flexibility and adjustment within the week
+
+A weekly plan is a framework, not a contract to tick off item by item. Work, weather, sleep and family affairs change available energy each week; when the plan breaks, protect one easy run and the long run first, the quality session can move, and missed sessions are not repaid with double volume. If completion stays low for two weeks, weekly volume exceeds the current life rhythm; cut sessions or session length rather than compressing recovery days to hold on.
+
+Schedule a load reduction periodically so accumulated stimulus from prior weeks is absorbed: a reduction week cuts total mileage and quality-session count while keeping easy activity. Whether to reduce depends on morning fatigue, heavy legs, sleep and subjective state, not mileage alone. Beginners and returnees after a layoff reduce more often; experienced runners periodise around target races.
 
 ## Common misconceptions
 
-- “Running every day is what serious training looks like.” The NHS plan builds rest days into the structure.
-- “More quality means faster progress.” Stacked hard days leave easy runs heavy.
-- “A missed day must be made up.” Squeezing it into the next week changes the load.
+- Assuming piling on volume brings progress by itself. The aerobic base takes time, but stacking hard work without recovery raises fatigue and injury risk; studies do not show convincing long-term gains from more high-intensity work in already trained athletes.
+- Thinking running every day counts as serious. Serious means repeatable sessions with gaps between quality work; a recovery day is part of the plan, not laziness.
+- Scheduling quality on a fatigued day. Hard quality after poor sleep or an unrecovered previous session gives low benefit and high risk.
+- Copying an elite weekly mileage. Athletes differ in session count, recovery conditions and training history; both volume and intensity must progress from your own baseline.
 
-## When to stop and seek help
+## When to reduce or seek medical help
 
-Lower the load and seek assessment if pain worsens, insomnia persists, resting heart rate rises, performance declines for weeks, or training produces marked fear and fatigue. Chest pain or fainting is an emergency. The NHS advises speaking to a GP if worried about health.
+When fatigue does not settle for several days, legs feel heavy at easy pace, sleep worsens or resting heart rate rises clearly, cut this week's volume and intensity first. Persistent pain, swelling, limping, or chest pain, fainting or unusual palpitations during exercise mean stop running and seek medical review. Signals and overtraining boundaries are in [Load and overtraining](/en/knowledge/load-and-overtraining/).
 
-## Checklist
+## Frequency and progression
 
-- [ ] The number of runs matches available days.
-- [ ] At least half the volume is conversational easy running.
-- [ ] One day separates two quality sessions.
-- [ ] An easy day follows the long run.
-- [ ] Recovery and skipped sessions are reviewed weekly.
+Review weekly session count, average pace and subjective fatigue every 4 weeks; add volume first through easy runs and the long run, keeping quality sessions few and steady. Beginners start walk-run and add volume only when the current week feels comfortable; long-run arrangement and fuelling are in [The long run](/en/knowledge/long-run/).
+
+## Weekly checklist
+
+- Recovery buffers on either side of quality sessions.
+- Long run and quality are not stacked hard on the same day.
+- At least one true recovery day.
+- This week's increase stays within progression range over last week.
+- Record completion, fatigue and soreness for next week's adjustment.
 
 ## Scope and limits
 
-This page does not give an individual plan or promise that a frequency suits your injury history, health or race goal. Pain, persistent fatigue, worsening sleep or previous injury should prompt a lower load and assessment. Pregnancy or rehabilitation should follow medical advice.
+This page does not build an individual season plan, diagnose injury or overtraining syndrome, or replace a coach's arrangement for an individual level. Weekly structure adjusts with training history, injury background and target race; persistent discomfort or abnormal symptoms warrant medical review.
 
 ## Related reading
 
-- [The long run: purpose, conditions and recovery limits](https://learn.paobu.org/en/articles/long-run/)
-- [Making running a habit: start with three easy runs](https://learn.paobu.org/en/articles/running-habits/)
-- [80/20 Polarized Training — an observed distribution, not a prescription](https://learn.paobu.org/en/articles/polarized-training-80-20/)
-- [Strength, cross-training and tapering: fit support work into the plan](https://learn.paobu.org/en/articles/strength-and-taper/)
-- [Sleep and recovery: the variable beneath the gadgets](https://learn.paobu.org/en/articles/sleep-recovery/)
+- [The long run: distance, pace and fuelling rhythm](/en/knowledge/long-run/)
+- [80/20 polarised training: mostly low intensity, a little high quality](/en/knowledge/polarized-training-80-20/)
+- [Strength training and taper: injury prevention, support and pre-race reduction](/en/knowledge/strength-and-taper/)
+- [Load and overtraining: volume, intensity and signals](/en/knowledge/load-and-overtraining/)
 
 ## Sources and scope
 
-Frequency and progression follow NHS Couch to 5K; adult activity and strength guidance follow the CDC; weekly tracking follows the ODPHP planner. These are general suggestions, not an individual prescription. Verified 2026-11-06
+Beginner start and walk-run follow the NHS Couch to 5K; adult aerobic activity baseline follows the US CDC activity guidelines; weekly activity planning follows the ODPHP activity planner; training intensity distribution follows Seiler 2010 on endurance training intensity distribution; fatigue and load boundaries follow an overtraining review. Ratios and increments are general references, and the individual plan should adjust with bodily response. Verified 2026-11-26.
+
+<!-- related-ring -->
+## Related entries
+
+- [Ultramarathon basics: what 100 km really asks](/en/knowledge/ultra-running-basics/)
+- [Breathing rhythm: a gauge for intensity, not a fixed beat](/en/knowledge/breathing-and-rhythm/)
+- [Cadence and stride length: 180 is not a universal answer](/en/knowledge/cadence-and-stride/)

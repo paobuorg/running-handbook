@@ -1,0 +1,17 @@
+{
+  "caseId": "case-fueling-planner-short",
+  "toolId": "tool:fueling-planner",
+  "input": {
+    "durationMinutes": 45,
+    "productCarbsGrams": 25
+  },
+  "expected": {
+    "durationHours": 0.75,
+    "needsFuel": false,
+    "lowTotalGrams": 0,
+    "highTotalGrams": 0,
+    "servingsLow": 0,
+    "servingsHigh": 0
+  },
+  "basis": "Independent arithmetic: 45 minutes = 0.75 hours. Because the session is under 60 minutes, needsFuel is false, the 30–60 g/h band is not applied, and both totals and both serving counts are zero. The 25 g per serving label is read but not converted into a plan; no rounding-up applies to a zero total."
+}

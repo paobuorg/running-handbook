@@ -15,6 +15,10 @@ translationStatus: reviewed
 
 The items most often forgotten before a race are small ones: pins for the bib, spare batteries, a dry layer for afterwards, medication or the return journey. Choose race type, expected duration, weather and whether you travel, and the tool lists base items plus conditional sections. It is for runners preparing for a new type of race or turning preparation into a tickable sheet. It is a preparation aid, not a rulebook. Organiser mandatory kit, course notes, medical requirements and local law override this list. Technical mountain terrain, extreme weather or roped sections still need specific training and local information.
 
+## Inputs and outputs
+
+There are four inputs: race type (road or trail), expected duration (under 3 hours, 3–6 hours, over 6 hours), weather (mild, hot, cold, rain) and whether you travel. The output is a structured list of sections, each with items to tick. Sections are triggered by the inputs; the tool calculates no score, predicts no finish time and does not rank equipment by quality. The list answers which categories of preparation to remember under these conditions, not which single item suits you; the final choice still follows the organiser's rules, course notes and your own habits.
+
 ## Decision rules and generation logic
 
 The list is rule-driven; it calculates no score and predicts no performance. Four base sections always appear, and conditional sections are added when their trigger is met.
@@ -28,9 +32,9 @@ The list is rule-driven; it calculates no score and predicts no performance. Fou
 | Cold or rain | Cold and wet | Windproof shell, gloves and warm hat, dry bag |
 | Travelling | Travelling to a race | Kit in carry-on, personal medication, time zone and arrival plan |
 
-Rules decide which sections appear, not which item you personally need. Whether an item is ticked depends on the rules and your own situation.
+Rules decide which sections appear, not which item you personally need. Whether an item is ticked depends on the rules and your own situation. Similar items repeated in different sections are not merged across sections, because their use and checking basis differ by scenario.
 
-## Worked example
+## Worked example 1: trail, long, heat and travel
 
 Assume trail, over 6 hours, heat and travelling:
 
@@ -40,42 +44,57 @@ Assume trail, over 6 hours, heat and travelling:
 | Section count | 8 |
 | Key items | Head torch, heat-illness stop signals, spare power, kit in carry-on |
 
-The rule table produces this result, not the page display. Changing to road, 3–6 hours, rain and no travel adds only the cold-and-wet section, for five sections in total.
+The rule table derives this result: beyond the four base sections, trail triggers navigation and emergency items, heat triggers cooling and withdrawal signals, over 6 hours triggers long-distance extras, and travel triggers itinerary and carry-on items. The result does not depend on the page display order; repeating the same inputs produces the same set of sections.
+
+## Worked example 2: road race in rain
+
+Changing to road, 3–6 hours, rain and no travel keeps the four base sections; rain adds the cold-and-wet section, road adds no trail navigation section, 3–6 hours adds no long-distance section, and no travel adds no travel section, for five sections in total. Key items include a windproof waterproof shell, gloves, a dry bag and dry clothes for afterwards. Wet roads reduce grip; the checklist reminds about clothing and dry preparation but does not replace your own assessment of standing water, corners and visibility on the course.
+
+## Worked example 3: short mild road race (common pitfall)
+
+Assume road, under 3 hours, mild weather and no travel: only the four base sections (entry, clothing, fuel, logistics) appear, for four sections, with no navigation, emergency, cooling, warmth or travel additions. The common mistake is assuming trail items such as a headlamp, whistle and first-aid kit appear in every list; under these inputs those sections do not trigger. Conversely, if the organiser's mandatory kit rules require an item, it must be carried even when the checklist does not list it.
 
 ## Rounding and tolerance
 
-There is no numerical rounding: the output is structured sections and items with a tolerance of zero. Section count and order follow uniquely from the inputs, and the same inputs should produce the same list. Similar items across sections are not merged or deduplicated, and items are not prioritised, so section count is not an item count.
+There is no numerical rounding: the output is structured sections and items with a tolerance of zero. Section count and order follow uniquely from the inputs, and the same inputs should produce the same list. Similar items across sections are not merged or deduplicated, and items are not prioritised, so section count is not an item count. Item names are reminder categories, not brands or models, and a listed item is not necessarily tested.
 
 ## Reading the result
 
-The list is a reminder, not a completion score. A tick means “remembered”, not “tested” or “guaranteed to work”. If a section appears, its conditions may add risk, so check each item. If a section does not appear, the risk is not necessarily absent; a late heat warning or a night section may not match your selections. The list does not replace a technical briefing, course notes or medical advice.
+The list is a reminder, not a completion score. A tick means "remembered", not "tested" or "guaranteed to work". If a section appears, its conditions may add risk, so check each item. If a section does not appear, the risk is not necessarily absent; a late heat warning or a night section may not match your selections. The list does not replace a technical briefing, course notes or medical advice. The day before the race, still check the latest forecast and organiser announcements for last-minute additions or removals.
+
+## Common pitfalls
+
+The first pitfall is treating the list as a rulebook: it lists general reminders, while mandatory kit, capacity requirements and carry method follow the organiser. The second is confusing "remembered" with "tested": new shoes, gels, medication or packs first used on race day are not ready however many boxes are ticked. The third is applying lists across scenarios: copying a short road list onto a night trail race misses safety items, while carrying a full trail load onto a city half marathon adds useless weight. The fourth is ignoring last-minute changes: heat, thunderstorms or a reroute issued before departure may require extra items not in the generated list.
+
+## Limits and when not to use it
+
+The list is general preparation support, not an event's mandatory kit list. Organiser rules, course briefings and medical advice take precedence. A tick means remembered, not tested or guaranteed. The tool stores and uploads no personal data. It is not suitable for roped, crampon or technical climbing terrain, night navigation, or replacing medical assessment, insurance or permits. New shoes, gels, packs or medication should never debut on race day. If you have fever, chest tightness, persistent pain or another abnormal symptom before the start, consult a medical professional first rather than relying on the checklist to decide whether to race.
 
 ## How to use it
 
 1. Choose road or trail, expected duration, weather and travel, then generate the list.
-2. Check each section several days ahead, handling anything that must be bought, washed or tested; treat a tick as “remembered”.
+2. Check each section several days ahead, handling anything that must be bought, washed or tested; treat a tick as "remembered".
 3. Recheck the day before the race against the organiser's mandatory kit list and the latest forecast.
-
-## Limits and when not to use it
-
-The list is general preparation support, not an event's mandatory kit list. Organiser rules, course briefings and medical advice take precedence. A tick means remembered, not tested or guaranteed. The tool stores and uploads no personal data. It is not suitable for roped, crampon or technical climbing terrain, night navigation, or replacing medical assessment, insurance or permits. New shoes, gels, packs or medication should never debut on race day.
-
-## When this number misleads you
-
-This is a general preparation checklist; a tick means "remembered", not "tested". Road and trail races require very different mandatory kit: applying a road checklist to a trail race that needs a headlamp, waterproof layer and insulation omits exactly what keeps you safe, while a trail checklist on a city half marathon just adds weight. Organiser rules, the route briefing and medical requirements always outrank the checklist. New shoes, gels or medication first used on race day are not "ready" because they are ticked.
-
-Do not use it in place of race regulations, medical assessment, insurance requirements or local permits, and do not treat it as proof that equipment performs as claimed.
 
 ## Related reading
 
-- [Race-day execution: pacing, corrals and fuelling](https://learn.paobu.org/en/articles/race-day-pacing/)
-- [Trail gear: mandatory kit and trade-offs](https://learn.paobu.org/en/articles/trail-gear/)
-- [Route safety: write the plan, weather and escape route first](https://learn.paobu.org/en/articles/route-safety/)
+- [Race-day execution: pacing, corrals and fuelling](/en/knowledge/race-day-pacing/)
+- [Trail gear: mandatory kit and trade-offs](/en/knowledge/trail-gear/)
+- [Route safety: write the plan, weather and escape route first](/en/knowledge/route-safety/)
+- [Cold-weather running: clothing and risk](/en/knowledge/cold-weather-running/)
+- [Heat and humidity: cooling and stop signals](/en/knowledge/heat-and-humidity/)
 
 ## Privacy and data
 
-The list is generated locally, not uploaded and not tied to an account. Printing uses only the current page. No personal data is saved; close the page on a shared device.
+The list is generated locally, not uploaded and not tied to an account. Printing uses only the current page. No personal data is saved; close the page on a shared device. The checklist text contains no name, bib number or contact details; any handwritten entries should be kept with the printout.
 
 ## Sources and scope
 
-The minimum trail-kit framework follows the NPS Ten Essentials; trip planning and phone-signal limits follow NPS Hike Smart; heat-illness stop signals follow the NWS; winter route and warmth guidance follows the NPS. Event rules, land management and forecasts override this list. Verified 2026-11-06.
+The minimum trail-kit framework follows the NPS Ten Essentials; trip planning and phone-signal limits follow NPS Hike Smart; heat-illness stop signals follow the NWS; winter route and warmth guidance follows the NPS. Event rules, land management and forecasts override this list. Where a kit requirement lacks a traceable basis, the text labels it a general reminder rather than inventing a mandatory standard. Verified 2026-11-26.
+
+<!-- related-ring -->
+## Related entries
+
+- [Race-day timeline planner: work backward from the gun to wake-up and every reserve](/en/tools/race-day-timeline/)
+- [Race qualifier checker: compare your result against the official standard, buffer and missing conditions](/en/tools/race-qualifier-checker/)
+- [Pre-race taper plan: drop volume over two or three weeks, keep pace](/en/tools/taper-planner/)

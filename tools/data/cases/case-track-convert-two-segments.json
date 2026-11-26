@@ -1,0 +1,18 @@
+{
+  "caseId": "case-track-convert-two-segments",
+  "toolId": "tool:track-convert",
+  "input": {
+    "sourceFormat": "gpx",
+    "targetFormat": "geojson",
+    "segments": [
+      [[0, 0, 120], [0.0004, 0, 128]],
+      [[0.0009, 0, 135], [0.0014, 0, 141]]
+    ]
+  },
+  "expected": {
+    "segmentCount": 2,
+    "pointCount": 4,
+    "elevationPointCount": 4
+  },
+  "basis": "Independent round-trip check: the GPX track holds two independent trkseg segments, each with two points, and every point carries elevation. Converting to GeoJSON must preserve the two segment boundaries, all four positions in order, and all four elevation values; endpoints of different segments are not joined."
+}

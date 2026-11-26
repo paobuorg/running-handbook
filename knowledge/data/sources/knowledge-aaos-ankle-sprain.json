@@ -1,0 +1,97 @@
+{
+  "sourceId": "knowledge-aaos-ankle-sprain",
+  "title": "Sprained Ankle",
+  "url": "https://www.orthoinfo.org/diseases--conditions/sprained-ankle",
+  "publisher": "American Academy of Orthopaedic Surgeons (OrthoInfo)",
+  "publishedAt": null,
+  "accessedAt": "2026-11-25",
+  "claims": [
+    "An ankle sprain occurs when the ligaments supporting the ankle stretch beyond their limits and tear; severity depends on the number of ligaments involved and how much they are torn.",
+    "Symptoms include pain at rest and with weightbearing or activity, swelling, bruising, tenderness to touch, and instability or a feeling that the ankle gives out; severe sprain symptoms resemble a broken bone and require prompt medical evaluation.",
+    "An ankle sprain is largely a clinical diagnosis based on injury history, symptoms, and examination; X-rays or MRI are ordered to rule out a fracture or injury to nearby tendons and cartilage.",
+    "Grade 1 is slight stretching and microscopic tearing with mild tenderness, bruising and swelling, typically no pain with weightbearing, and no instability; Grade 2 is a partial tear with moderate swelling and bruising, mild weightbearing pain, and slight instability; Grade 3 is a complete tear with significant weightbearing pain and much instability.",
+    "Most isolated low ankle sprains heal without surgery through a three-phase program: short immobilization/rest/ice with early weightbearing as tolerated; range-of-motion, isometric strengthening and proprioception; then advanced strengthening and balance work with gradual return, starting with non-cutting activities before cutting sports.",
+    "Home RICE advice: rest the ankle; ice 20 to 30 minutes, 3 or 4 times daily, with a towel or pack barrier; compression dressing or wrap; elevate above heart level as often as possible during the first 48 hours.",
+    "A Grade 3 sprain may require a short leg cast or cast-brace for 10 to 14 days; the three-phase program may take about 2 weeks for minor sprains or 6 to 12 weeks for more severe injuries.",
+    "MRI is not required to diagnose ankle sprains; it may be ordered to assess ligaments, cartilage or tendons, for signs of a high ankle sprain, or if symptoms continue beyond 6 to 8 weeks despite conservative treatment.",
+    "Incomplete rehabilitation is the most common cause of chronic ankle instability; stopping strengthening exercises weakens the injured ligaments and raises the risk of repeat sprains.",
+    "A runner should be seen by a professional if the ankle remains swollen or painful for several weeks despite conservative treatment, or if there is trouble putting weight on the ankle.",
+    "Prevention rests on maintaining muscle strength, balance and flexibility: thorough warm-up, strengthening exercises for ankle stability, and supportive footwear."
+  ],
+  "license": "All rights reserved; facts summarized with attribution",
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-25",
+    "checkedVia": "WebFetch OrthoInfo AAOS Sprained Ankle 页面全文（Symptoms、Diagnosing、Classification、Treatment、Recovery、Preventing 各节）",
+    "note": "页面无发布日期；分级、三阶段、RICE 时长、MRI 指征与康复门槛逐条按原文核对。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "原文：“the strong ligaments that support the ankle stretch beyond their limits and tear”；“It depends on the number of ligaments involved and how much the ligaments are torn.”"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "原文 Symptoms 清单：pain at rest/weightbearing/activity、swelling、bruising、tenderness、instability/giving out；“Symptoms of a severe sprain are similar to those of a broken bone and require prompt medical evaluation.”"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "原文：“An ankle sprain is largely a clinical diagnosis based on how the injury happened, symptoms, and examination by a medical professional.”；“Occasionally, a doctor will order imaging tests, such as X-rays and magnetic resonance imaging (MRI) scans, to rule out a fracture or other injury to the nearby tendons and cartilage.”"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "原文 Classification：Grade 1 slight stretching/microscopic tearing, mild tenderness/bruising/swelling, typically no pain with weightbearing, no instability；Grade 2 partial tearing, moderate, mild pain with weightbearing, slight instability；Grade 3 complete tear, significant pain with weightbearing, a lot of instability。"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "原文 Phase 1 short immobilization/rest/ice, early weightbearing as tolerated；Phase 2 ROM/isometric/proprioception；Phase 3 advanced strengthening/proprioception, “begins with activities that do not require turning or twisting the ankle. It is followed later by activities that require sharp, sudden turns (cutting activities)”。"
+    },
+    {
+      "index": 5,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "原文 Home Treatments：ice “20 to 30 minutes, 3 or 4 times daily”，隔布；compression dressings/bandages/ace-wraps；elevate above heart “during the first 48 hours”。"
+    },
+    {
+      "index": 6,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "原文：Grade 3 “may require a short leg cast or cast-brace for 10 to 14 days”；“This three-phase treatment program may take just 2 weeks to complete for minor sprains, or up to 6 to 12 weeks for more severe injuries.”"
+    },
+    {
+      "index": 7,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "原文 MRI 节：“An MRI scan is not required to diagnose ankle sprains.”；指征：other structures、high ankle sprain、“symptoms continue beyond 6 to 8 weeks after the injury despite conservative treatment”。"
+    },
+    {
+      "index": 8,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "原文 Outcomes：“Incomplete rehabilitation is the most common cause of chronic ankle instability after a sprain. If a patient stops doing the strengthening exercises, the injured ligament(s) will weaken and put the patient at risk for future ankle sprains.”"
+    },
+    {
+      "index": 9,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "原文：“you may need to be seen by a medical professional … if: Your ankle remains swollen or painful for several weeks despite conservative treatments; You have trouble putting weight on your ankle.”"
+    },
+    {
+      "index": 10,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "原文 Preventing：“maintain good muscle strength, balance, and flexibility”；warm up thoroughly；strengthening exercises for ankle stability；footwear with appropriate support。"
+    }
+  ]
+}

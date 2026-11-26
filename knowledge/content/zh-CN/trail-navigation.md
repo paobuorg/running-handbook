@@ -93,3 +93,10 @@ translationStatus: reviewed
 ## 来源与适用范围
 
 行程计划、可信联系人、定位信标、电量节省、天气与备用计划参考 NPS 的 Hike Smart 指引；地图、指北针、GPS、头灯与备用电池、哨子、急救包和额外保暖等最低装备框架参考 NPS 的 Ten Essentials；用水与替代导航原则参考 NPS 的 Hiking Safety Tips；GPX 的格式与 GPX 1.1 的轨迹、路线、路点结构参考 GPX 标准说明。以上来源描述的是通用原则，具体路线仍需独立核对。核验日期为 2026-11-06。
+
+<!-- related-ring -->
+## 相关条目
+
+- [目标与复盘：把“想跑快”变成可执行的事](/knowledge/goal-setting-and-review/)
+- [习惯叠加与坚持度：让跑步自动发生](/knowledge/habit-stacking-and-adherence/)
+- [赛前焦虑与训练倦怠：把压力说清楚](/knowledge/race-anxiety-and-burnout/)

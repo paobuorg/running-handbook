@@ -1,0 +1,17 @@
+{
+  "caseId": "case-heat-adjust-extreme",
+  "toolId": "tool:heat-adjust",
+  "input": {
+    "temperatureC": 32,
+    "relativeHumidityPercent": 70,
+    "baselinePaceSecondsPerKm": 300,
+    "durationMinutes": 120
+  },
+  "expected": {
+    "heatScore": 34.8,
+    "adjustedPaceLowSeconds": 330,
+    "adjustedPaceHighSeconds": 336,
+    "band": "extreme"
+  },
+  "basis": "Independent arithmetic: 32 + 0.04 × 70 = 34.8. Threshold 30 or above maps to extreme. 300 × 1.10 = 330 s/km; 300 × 1.12 = 336 s/km, both exact whole seconds.\n\nSteps: [\"Heat score = 32 + 0.04 × 70 = 34.8, rounded to one decimal.\", \"34.8 is at or above 30, so the band is extreme.\", \"The extreme band adds 10–12%: 300 × 1.10 = 330 and 300 × 1.12 = 336 whole seconds.\", \"Duration is exposure context only; a 120-minute session leans to the upper end and extra caution.\"]\nNotes: An extreme band is not permission to train slowly: the safer action is to postpone, shorten or move indoors. Heat-illness symptoms require stopping; confusion, slurred speech, very high temperature or loss of consciousness is an emergency."
+}

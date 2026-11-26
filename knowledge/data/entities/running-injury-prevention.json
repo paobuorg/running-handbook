@@ -1,0 +1,49 @@
+{
+  "entityId": "knowledge:running-injury-prevention",
+  "slug": "running-injury-prevention",
+  "kind": "knowledge",
+  "status": "published",
+  "riskLevel": "guidance",
+  "sourceRefs": [
+    "knowledge-nhs-running-injuries",
+    "knowledge-running-injury-review",
+    "knowledge-buist-2008-10-percent-rule",
+    "knowledge-nielsen-2014-progression",
+    "knowledge-blagrove-2018-strength",
+    "knowledge-overtraining-guide",
+    "knowledge-knapik-2014-arch-shoes",
+    "knowledge-fokkema-2020-half-marathon-volume",
+    "knowledge-lauersen-2014-injury-prevention",
+    "knowledge-sleep-uutrecht-2025-runners"
+  ],
+  "relatedRefs": [
+    "knowledge:pain-and-load",
+    "knowledge:return-to-running",
+    "knowledge:sleep-recovery",
+    "knowledge:training-volume-and-progression",
+    "tool:injury-risk-check",
+    "tool:training-load"
+  ],
+  "license": "CC-BY-4.0",
+  "createdAt": "2026-11-25",
+  "updatedAt": "2026-11-26",
+  "reviewedAt": "2026-11-26",
+  "reviewDueAt": "2027-11-25",
+  "translations": [],
+  "details": {
+    "primaryTopic": "health",
+    "secondaryTopics": [
+      "training",
+      "recovery"
+    ],
+    "contentType": "guide",
+    "audiences": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "scenarios": [
+      "general-training"
+    ]
+  }
+}

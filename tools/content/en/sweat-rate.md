@@ -15,7 +15,11 @@ translationStatus: reviewed
 
 "How much should I drink?" needs a measurable starting point: **how much fluid did this session actually cost**. The 2007 ACSM position stand on exercise and fluid replacement gives the method — weigh before and after exercise, and add back the fluid consumed during the session. This tool turns that method into repeatable arithmetic so you can build a personal reference across different weather and intensities.
 
-It does not predict your next sweat rate, and it does not tell you to hit a fixed number. A single result is affected by weather, intensity, clothing, heat acclimatisation, menstrual cycle and illness; judging a typical sweat rate needs repeated measurements under similar conditions.
+It does not predict your next sweat rate, and it does not tell you to hit a fixed number. A single result is affected by weather, intensity, clothing, heat acclimatisation, menstrual cycle and illness; judging a typical sweat rate needs repeated measurements under similar conditions. The output is an estimate for this one session, not a fixed long-term sweat standard.
+
+## Inputs and outputs
+
+There are four inputs: body mass before exercise (kg), body mass after exercise (kg), fluid actually swallowed during the session (L), and exercise duration (minutes). Outputs are net fluid loss (L), estimated sweat rate (L/h), body mass loss percentage, and a flag for whether the loss exceeds 2% of body mass, plus a plain-language note. Net loss answers how much water was lost once the scale change and fluid drunk are combined; sweat rate answers the per-hour equivalent; the body-mass percentage is what the 2% flag uses. The tool does not calculate sodium loss and does not output a drinking prescription.
 
 ## Usage steps
 
@@ -44,7 +48,7 @@ Input ranges:
 
 If the combination implies a negative net loss (for example, finishing heavier than starting while also logging a large intake), the tool reports an error and asks you to check the weighings and intake rather than returning a negative sweat rate.
 
-## Worked examples
+## Worked example 1: a 60-minute regular session
 
 **Example 1: 70 kg, 60 minutes, 69.2 kg afterwards, 0.5 L consumed**
 
@@ -53,6 +57,10 @@ If the combination implies a negative net loss (for example, finishing heavier t
 - Body mass loss = (70 − 69.2) ÷ 70 × 100 = **1.14%**
 - 2% flag: **not exceeded**
 
+This sweat rate is not low, but the body-mass loss stays inside the threshold; a high hourly sweat rate is not the same as excessive dehydration.
+
+## Worked example 2: a 90-minute longer session
+
 **Example 2: 60 kg, 90 minutes, 59.1 kg afterwards, 0.3 L consumed**
 
 - Net loss = 60 − 59.1 + 0.3 = **1.2 L**
@@ -60,7 +68,18 @@ If the combination implies a negative net loss (for example, finishing heavier t
 - Body mass loss = (60 − 59.1) ÷ 60 × 100 = **1.5%**
 - 2% flag: **not exceeded**
 
-Both examples sit below 2%, which shows that a high hourly sweat rate is not the same as excessive dehydration. The threshold applies to body mass loss percentage, not to litres per hour.
+Ninety minutes is scaled to 1.5 hours, so the sweat rate is lower than in example one. The threshold applies to the body-mass percentage, not to litres per hour.
+
+## Worked example 3: above the 2% body-mass loss
+
+**Example 3: 65 kg, 60 minutes, 63.5 kg afterwards, 0.4 L consumed**
+
+- Net loss = 65 − 63.5 + 0.4 = **1.9 L**
+- Sweat rate = 1.9 ÷ 1 = **1.9 L/h**
+- Body mass loss = (65 − 63.5) ÷ 65 × 100 = **2.31%**
+- 2% flag: **exceeded**
+
+This case checks the percentage threshold: at roughly 1.9 L/h, a 65 kg runner loses 2.31% of body mass, above the 2% flag. The flag is a review prompt, not a diagnosis. Weakness, dizziness, nausea or headache suggest stopping the session; confusion, slurred speech, very high temperature or loss of consciousness is an emergency — call first and cool while waiting.
 
 ## How to use the 2% flag
 
@@ -79,25 +98,6 @@ The denominator is pre-exercise body mass, so the same 1.4 L loss is about 2.0% 
 - **The 2% flag** is a screening prompt, not a diagnosis, and crossing 2% does not guarantee a problem; it tells you to review the fuelling plan.
 - This number **says nothing about sodium loss** and cannot prescribe sodium intake; salt and electrolyte plans need separate evidence.
 
-## Assumptions and limits
-
-- The calculation assumes body mass change reflects mainly sweat loss and consumed fluid; urine, stool, substrate oxidation and metabolic water are not measured separately.
-- It needs the same scale, similar clothing and a consistent weighing routine; household scale precision feeds straight into the result.
-- Fluid intake must be the volume actually swallowed, excluding spills, fluid held in the mouth or left in the bottle.
-- Sweat sodium loss is outside the calculation; whether water alone is appropriate after heavy sweating depends on duration, intensity and the individual.
-- The tool does not diagnose dehydration, heat illness, kidney or cardiac problems, and gives no hydration or medication prescription. People with relevant medical conditions, on medication or pregnant should ask a clinician first.
-
-## When this number misleads you
-
-It assumes the change in body mass is mainly sweat plus the fluid you drank; urine, stool, metabolic water and substrate oxidation are not measured. A household scale error of 0.1 kg over a 60-minute session is a 0.1 L/h error in sweat rate, the same order as a real difference between sessions. One measurement represents only that weather, intensity, clothing and acclimatisation state and cannot be scaled to a hotter or longer run. The 2% flag is a screening marker.
-
-Do not use it as a drinking prescription or a sodium requirement, or to diagnose dehydration or heat illness; during pregnancy, on medication, or with kidney or heart conditions, do not change fluid intake based on this number. It is not medical advice.
-
-## Related reading
-
-- [Hydration: how much and when](https://learn.paobu.org/en/articles/hydration/)
-- [Heat and humidity: risk, acclimatisation and adjustment](https://learn.paobu.org/en/articles/heat-and-humidity/)
-
 ## Common misconceptions
 
 | Misconception | More accurate statement |
@@ -107,9 +107,42 @@ Do not use it as a drinking prescription or a sodium requirement, or to diagnose
 | "Weight lost in a session is fat loss" | The acute change is mostly water and cannot be used to estimate fat change |
 | "You should finish at exactly the same weight" | Losing less than 2% of body mass during exercise is common and acceptable; zero loss is not the target |
 
-## Sources
+## Assumptions and limits
+
+- The calculation assumes body mass change reflects mainly sweat loss and consumed fluid; urine, stool, substrate oxidation and metabolic water are not measured separately.
+- It needs the same scale, similar clothing and a consistent weighing routine; household scale precision feeds straight into the result.
+- Fluid intake must be the volume actually swallowed, excluding spills, fluid held in the mouth or left in the bottle.
+- Sweat sodium loss is outside the calculation; whether water alone is appropriate after heavy sweating depends on duration, intensity and the individual.
+- The tool does not diagnose dehydration, heat illness, kidney or cardiac problems, and gives no hydration or medication prescription. People with relevant medical conditions, on medication or pregnant should ask a clinician first.
+
+## Boundaries
+
+This tool is a post-session weighing estimate, not a medical diagnosis, and it does not constitute a fluid or weight-loss prescription. The 2% threshold comes from the ACSM position stand's anti-dehydration goal and is a screening marker; a personal fluid plan should account for duration, environment, sweat composition and prior health. With persistent dizziness, fainting, altered consciousness, chest pain or inability to keep fluids down, stop exercise and seek medical help.
+
+## When this number misleads you
+
+It assumes the change in body mass is mainly sweat plus the fluid you drank; urine, stool, metabolic water and substrate oxidation are not measured. A household scale error of 0.1 kg over a 60-minute session is a 0.1 L/h error in sweat rate, the same order as a real difference between sessions. One measurement represents only that weather, intensity, clothing and acclimatisation state and cannot be scaled to a hotter or longer run. The 2% flag is a screening marker.
+
+Do not use it as a drinking prescription or a sodium requirement, or to diagnose dehydration or heat illness; during pregnancy, on medication, or with kidney or heart conditions, do not change fluid intake based on this number. It is not medical advice.
+
+## Related reading
+
+- [Hydration: how much and when](/en/knowledge/hydration/)
+- [Heat and humidity: risk, acclimatisation and adjustment](/en/knowledge/heat-and-humidity/)
+- [Electrolytes and sodium: sweat loss and replacement](/en/knowledge/electrolytes-and-sodium/)
+- [Race-day fuelling: carbohydrate, fluid and rhythm](/en/knowledge/race-day-fueling/)
+
+## Sources and scope
 
 - American College of Sports Medicine, Exercise and Fluid Replacement position stand (2007): the goal of drinking during exercise is to prevent more than 2% body mass loss and excessive electrolyte changes; individual sweat rate can be estimated from body mass before and after exercise; sweating rate and sweat electrolyte content vary considerably between individuals, so customised programmes are recommended.
 - NHS, Water, drinks and hydration: daily hydration can be checked against urine colour, and longer or hotter activity may require more fluid; this is general hydration advice, not a substitute for measuring your own sweat rate.
+- U.S. National Weather Service heat-illness page: heat-exhaustion and heat-stroke signs and the call-first, cool-while-waiting instruction, used to set stop-signal boundaries; it does not enter the sweat-rate calculation.
 
-This page was verified on 2026-11-07.
+This page was verified on 2026-11-26.
+
+<!-- related-ring -->
+## Related entries
+
+- [Running pain self-check: seven questions before deciding on assessment](/en/tools/injury-risk-check/)
+- [Course comparison: compare published versions field by field](/en/tools/route-compare/)
+- [Route elevation: a local GPX elevation profile](/en/tools/route-elevation/)

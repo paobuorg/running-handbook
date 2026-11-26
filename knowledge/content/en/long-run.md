@@ -25,6 +25,12 @@ It develops aerobic endurance, practises eating and drinking while moving, build
 
 Length depends on weekly volume, goal distance, surface and recovery capacity. A common approach is the longer easy run of the week, not a sudden doubling. Stabilise frequency and easy-run time before adding length, and let someone who knows your history adjust the distance.
 
+## What share of weekly volume: no fixed recipe
+
+How much of the week the long run should take depends on your base, goal event and recovery; there is no universal percentage. In the worked example below, a 16 km long run in a 40 km week is 16÷40 = 40% of weekly volume. For a less experienced runner on a smaller week, the same 40% may already be too much; for a well-built runner in a race block, one long run can make up a lower share because the week contains several sessions. A systematic review pooling 36 studies and 23,047 runners found conflicting evidence linking weekly distance, duration, frequency, intensity or recent changes to injury, and cautioned against one optimal progression for everyone. A share is therefore a reference for reviewing your own plan, not a safety ceiling or floor.
+
+Most endurance training stays low intensity, with a small number of sessions at higher intensity; the long run is aerobic accumulation and should not be stacked on top of a quality session on the same day. See the [marathon training plan](/en/knowledge/marathon-training-plan/), [trail and ultra training plan](/en/knowledge/trail-ultra-training-plan/) and [polarized 80/20 training](/en/knowledge/polarized-training-80-20/), with progression rules in [training volume and progression](/en/knowledge/training-volume-and-progression/).
+
 ## Practise fuelling and route judgement together
 
 The ISSN nutrient-timing position stand says carbohydrate timing and amount around exercise can affect performance and recovery, but guidance must fit exercise demand, duration and individual tolerance. The NHS notes that long activity or heat can increase fluid needs. Do not debut a new gel, drink or breakfast on race day.
@@ -48,12 +54,13 @@ Choose routes with water, escape points, low traffic risk and familiarity. A GPX
 
 ## Worked example: distance within volume and pace (assumed)
 
-Assume a weekly volume of 40 kilometres and a long run of 16 kilometres, which is 40% of the week. At 6 minutes 30 seconds per kilometre, 16 kilometres takes about 104 minutes; at the same pace, 2 hours covers about 18.5 kilometres. These figures are hypothetical; 40% is not a recommended share.
+Assume a weekly volume of 40 kilometres and a long run of 16 kilometres, which is 16÷40 = 40% of the week. At 6 minutes 30 seconds per kilometre, 16 kilometres takes about 16×6.5 = 104 minutes; at the same pace, 2 hours (120 minutes) covers about 120÷6.5 ≈ 18.5 kilometres. These figures are hypothetical; 40% is not a recommended share.
 
 ## Common pitfalls
 
 - **Treating the long run as a weekly test.** Running to the limit squeezes recovery.
 - **Doubling distance suddenly.** A single jump adds a large load.
+- **Longer is always better.** Distance must serve the purpose and recovery; one ultra-long run does not automatically build endurance.
 - **Debuting new fuelling on race day.** Gut and kit need training verification.
 - **Using a fixed percentage as proof of safety.** The evidence is conflicting.
 
@@ -81,12 +88,19 @@ This page does not prescribe an individual distance or promise that a distance i
 
 ## Related reading
 
-- [Run-walk planner](https://tools.paobu.org/en/tools/run-walk/)
-
-- [How to practise fuelling for long runs](https://learn.paobu.org/en/articles/long-run-fueling/)
-- [Should a recovery day be rest or easy movement?](https://learn.paobu.org/en/articles/recovery-day/)
-- [A weekly running week: easy runs, quality and the long run](https://learn.paobu.org/en/articles/training-week/)
+- [Run-walk planner](/en/tools/run-walk/)
+- [How to practise fuelling for long runs](/en/knowledge/long-run-fueling/)
+- [Should a recovery day be rest or easy movement?](/en/knowledge/recovery-day/)
+- [A weekly running week: easy runs, quality and the long run](/en/knowledge/training-week/)
+- [Easy run: where low-intensity running sits in the plan](/en/knowledge/easy-run/)
 
 ## Sources and scope
 
 Fuelling follows the ISSN nutrient-timing position stand and NHS hydration guidance; the conflicting training-parameter evidence follows a Journal of Athletic Training systematic review. This page offers a decision framework. Verified 2026-11-06.
+
+<!-- related-ring -->
+## Related entries
+
+- [Marathon training plan: a decision path from current weekly mileage to an 18–24 week structure](/en/knowledge/marathon-training-plan/)
+- [Periodization: linear, block and reverse linear — and how far the evidence goes](/en/knowledge/periodization/)
+- [80/20 Polarized Training — an observed distribution, not a prescription](/en/knowledge/polarized-training-80-20/)

@@ -1,0 +1,27 @@
+{
+  "caseId": "case-cutoff-planner-typical",
+  "toolId": "tool:cutoff-planner",
+  "input": {
+    "distanceKm": 42,
+    "startClock": "08:00",
+    "targetFinish": "11:30",
+    "finishCutoff": "12:00",
+    "checkpoints": [
+      { "km": 21, "cutoff": "10:00" },
+      { "km": 32, "cutoff": "11:00" }
+    ]
+  },
+  "expected": {
+    "requiredPaceSecondsPerKm": 300,
+    "cutoffPaceSecondsPerKm": 343,
+    "tightestCheckpoint": "km 21",
+    "tightestBufferMinutes": 15,
+    "finishBufferMinutes": 30,
+    "verdict": "feasible",
+    "checkpoints": [
+      { "km": 21, "predictedClock": "09:45", "cutoffClock": "10:00", "bufferMinutes": 15 },
+      { "km": 32, "predictedClock": "10:40", "cutoffClock": "11:00", "bufferMinutes": 20 }
+    ]
+  },
+  "basis": "Target duration = 11:30 - 08:00 = 210 min; required pace = 210 * 60 / 42 = 300 s/km exactly. Cutoff duration = 12:00 - 08:00 = 240 min; cutoff pace = 240 * 60 / 42 = 342.857, rounded to 343 s/km. At km 21 the predicted arrival = 08:00 + 21 * (300/60) min = 09:45, buffer = 10:00 - 09:45 = 15 min. At km 32 predicted = 08:00 + 32 * 5 min = 10:40, buffer = 11:00 - 10:40 = 20 min. Tightest is km 21 with 15 min, which is at the 15-minute lower edge of feasible. Finish buffer = 12:00 - 11:30 = 30 min."
+}

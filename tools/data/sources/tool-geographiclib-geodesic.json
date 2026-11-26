@@ -1,0 +1,34 @@
+{
+  "sourceId": "tool-geographiclib-geodesic",
+  "title": "Geodesics on an ellipsoid of revolution (GeographicLib documentation)",
+  "url": "https://geographiclib.sourceforge.io/html/geodesic.html",
+  "publisher": "GeographicLib — Charles F. F. Karney (SourceForge)",
+  "publishedAt": null,
+  "accessedAt": "2026-11-26",
+  "claims": [
+    "The geodesic direct and inverse problems on an ellipsoid give the shortest curve (geodesic) between two positions; the inverse problem returns distance and azimuth.",
+    "GeographicLib's geodesic classes provide accurate solutions for the WGS84 ellipsoid, and series solutions are recommended for most geodetic applications."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-26",
+    "checkedVia": "web_fetch 读取 GeographicLib geodesic 文档页",
+    "note": "2026-11-26 直接读取页面正文：页面写明 Geodesic/GeodesicLine 求解 direct 与 inverse geodesic problems，并说明 WGS84 椭球上的级数解在多数大地测量应用中推荐使用。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-26",
+      "note": "正文：“Geodesic and GeodesicLine provide accurate solutions to the direct and inverse geodesic problems.”"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-26",
+      "note": "正文：“For the WGS84 ellipsoid, the series solutions are about 2–3 times faster … Geodesic and GeodesicLine are recommended for most geodetic applications.”"
+    }
+  ]
+}

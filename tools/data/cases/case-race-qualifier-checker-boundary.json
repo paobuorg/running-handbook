@@ -1,0 +1,18 @@
+{
+  "caseId": "case-race-qualifier-checker-boundary",
+  "toolId": "tool:race-qualifier-checker",
+  "input": {
+    "event": "comrades",
+    "sex": "F",
+    "ageOnRaceDay": 35,
+    "qualifyingTimeMinutes": 300,
+    "qualifierCourseCertified": true
+  },
+  "expected": {
+    "requirementMinutes": 300,
+    "bufferMinutes": 0,
+    "eligible": true,
+    "missing": null
+  },
+  "basis": "Comrades applies one open requirement of 300 minutes (the official limit is 4:59:59; this gate rounds to 5:00:00). A 300-minute finish sits exactly on the standard, so buffer is 0 and eligible is true with missing null. The result must still come from an official published CMA-compliant race; GPS or Strava splits are not accepted."
+}

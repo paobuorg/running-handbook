@@ -1,0 +1,55 @@
+{
+  "sourceId": "knowledge-kwok-2022-deep-water-running",
+  "title": "Effectiveness of Deep Water Running on Improving Cardiorespiratory Fitness, Physical Function and Quality of Life: A Systematic Review",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9367787/",
+  "publisher": "International Journal of Environmental Research and Public Health (MDPI)",
+  "publishedAt": "2022-08-01",
+  "claims": [
+    "The systematic review compared deep water running (DWR) with land-based training, no active exercise, and other modalities for cardiorespiratory fitness, physical function and quality of life.",
+    "Five studies found similar effects of DWR and land-based training on VO2max; in athletic populations the standardized mean difference for VO2max ranged from 0.06 to 0.10.",
+    "DWR may produce lower physiological responses than land running, including lower VO2max and maximal heart rate, although the stimulus may still suffice for supplementary training with reduced orthopedic trauma.",
+    "DWR is non-weight-bearing; its biomechanics compared with land running remain unclear, and muscle activation differs between distal leg and proximal thigh muscles.",
+    "The review concludes that the small number of studies, heterogeneity and varied participant types limit stronger conclusions, and further research is needed for targeted prescriptions."
+  ],
+  "accessedAt": "2026-11-25",
+  "license": "Publisher terms; open access CC BY, citation and summary only",
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-25",
+    "checkedVia": "web_fetch PMC9367787 全文（Results、Discussion、Conclusions 与 Figure 3 说明）",
+    "note": "读到正文 3.4.1 Cardiorespiratory Fitness、4 Discussion 与 5 Conclusions；五条 claim 均与原文段落对应。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "摘要与 Methods 写明纳入 DWR vs land-based、no active exercise 对照，结局含 CRF、physical function、QoL。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "原文：“Similar effects were found by five individual studies between DWR and land-based training for improving VO2max”；“Among athletic populations, VO2max max ranged from SMD 0.06–0.10”。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "原文：“Although DWR may induce lower physiological responses when compared with land running with a lower maximal oxygen uptake (VO2max) and HRmax, the training stimulus is likely to still be sufficient for supplementary training, with decreased orthopaedic trauma compared to land running”。"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "原文：“the biomechanics of DWR when compared with land running remains unclear”；“muscle activity during DWR demonstrated a higher activation of distal leg muscles than proximal thigh muscles, in comparison with land treadmill running”。"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "原文 Conclusions：“The small number of studies and quality of the evidence limits further conclusions”；Discussion 写 heterogeneity、interventions 与 participant types limits stronger conclusions。"
+    }
+  ]
+}

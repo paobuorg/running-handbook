@@ -1,0 +1,69 @@
+{
+  "sourceId": "knowledge-acog-2020-pregnancy-exercise",
+  "title": "ACOG Committee Opinion No. 804: Physical Activity and Exercise During Pregnancy and the Postpartum Period",
+  "url": "https://physicians.utah.edu/sites/g/files/zrelqx276/files/media/documents/2022/acog-committee-opinion-physical-activity-and-exercise-during-pregnancy-and-the-postpartum-period.pdf",
+  "publisher": "American College of Obstetricians and Gynecologists (Obstetrics & Gynecology)",
+  "publishedAt": "2020-04-01",
+  "accessedAt": "2026-11-25",
+  "claims": [
+    "Physical activity and exercise in pregnancy are associated with minimal risks and have been shown to benefit most women, although some modification to exercise routines may be necessary because of normal anatomic and physiologic changes and fetal requirements.",
+    "A thorough clinical evaluation should be conducted before recommending an exercise program to ensure a patient does not have a medical reason to avoid exercise; women with medical or obstetric complications should be evaluated carefully by their obstetric care provider.",
+    "The 2018 U.S. Physical Activity Guidelines recommend at least 150 minutes of moderate-intensity aerobic activity per week during pregnancy and the postpartum period, spread throughout the week.",
+    "Women who habitually engaged in vigorous-intensity aerobic activity or who were physically active before pregnancy can continue these activities during pregnancy and the postpartum period; sedentary women should follow a more gradual progression.",
+    "Box 3 warning signs to discontinue exercise: vaginal bleeding, abdominal pain, regular painful contractions, amniotic fluid leakage, dyspnea before exertion, dizziness, headache, chest pain, muscle weakness affecting balance, calf pain or swelling.",
+    "Exercise routines may be resumed gradually after pregnancy as soon as medically safe, depending on the mode of delivery and the presence or absence of medical or surgical complications; pelvic floor exercises can be initiated in the immediate postpartum period.",
+    "After 20 weeks of gestation, maintaining a supine position during exercise may reduce venous return due to aortocaval compression and lead to hypotension; pregnant women should avoid prolonged lying flat and prolonged heat exposure."
+  ],
+  "license": "ACOG copyright; citation and summary only",
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-25",
+    "checkedVia": "WebFetch 读取 University of Utah Health 托管的 CO 804 全文 PDF（Obstet Gynecol 2020;135(4):e178-e188）",
+    "note": "读取 Abstract、Recommendations、Anatomic and Physiologic Aspects、Athletes、Exercise in the Postpartum Period 各节及 Box 3 警告信号表。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "Abstract 与 Recommendations 原文：“Physical activity and exercise in pregnancy are associated with minimal risks and have been shown to benefit most women, although some modification to exercise routines may be necessary…”。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "原文：“A thorough clinical evaluation should be conducted before recommending an exercise program to ensure that a patient does not have a medical reason to avoid exercise.”；“Obstetrician–gynecologists … should evaluate women with medical or obstetric complications carefully…”。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "原文：“The 2018 update to the U.S. Department of Health and Human Services Physical Activity Guidelines for Americans reinforces prior recommendations of at least 150 minutes of moderate intensity aerobic activity per week during pregnancy and the postpartum period (4). This activity should be spread throughout the week.”"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "Abstract：“Women who habitually engaged in vigorous-intensity aerobic activity or who were physically active before pregnancy can continue these activities during pregnancy and the postpartum period.”；正文：“Pregnant women who were sedentary before pregnancy should follow a more gradual progression of exercise.”"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "Box 3 逐行核对：Vaginal bleeding / Abdominal pain / Regular painful contractions / Amniotic fluid leakage / Dyspnea before exertion / Dizziness / Headache / Chest pain / Muscle weakness affecting balance / Calf pain or swelling。"
+    },
+    {
+      "index": 5,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "Exercise in the Postpartum Period：“Exercise routines may be resumed gradually after pregnancy as soon as medically safe, depending on the mode of delivery (vaginal or cesarean birth) and the presence or absence of medical or surgical complications.”；“Pelvic floor exercises can be initiated in the immediate postpartum period.”"
+    },
+    {
+      "index": 6,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "原文：“Maintaining a supine position during exercise after 20 weeks of gestation may result in decreased venous return due to aortocaval compression from the gravid uterus, leading to hypotension”；“Prolonged exercise should be performed in a thermoneutral environment … pregnant women should avoid prolonged exposure to heat”。"
+    }
+  ]
+}

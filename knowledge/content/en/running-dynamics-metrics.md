@@ -147,3 +147,10 @@ This page is training education. It does not diagnose gait, prescribe retraining
 - Adams et al., Altering Cadence or Vertical Oscillation During Running: Effects on Running Related Injury Factors, Int J Sports Phys Ther 2018: 20 runners; high cadence reduced contact time by 4.7%, average vertical loading rate by 21.2% and instantaneous vertical loading rate by 16.0%; the low-oscillation cue increased contact time by 3.5% and reduced average vertical loading rate by 33.4%; performance and economy were not measured.
 
 Verified on 2026-11-07.
+
+<!-- related-ring -->
+## Related entries
+
+- [Running technique: cadence, stride, breathing and hills](/en/knowledge/running-form/)
+- [Running surfaces: no absolute best, only adaptation](/en/knowledge/running-surface/)
+- [Technical trail skills: footing choices on scree, roots, mud, steps and wet rock](/en/knowledge/technical-trail-skills/)

@@ -1,0 +1,43 @@
+{
+  "entityId": "knowledge:gut-training-for-races",
+  "slug": "gut-training-for-races",
+  "kind": "knowledge",
+  "status": "published",
+  "riskLevel": "guidance",
+  "sourceRefs": [
+    "knowledge-costa-2017-gut-training",
+    "knowledge-issn-carbohydrate-timing",
+    "knowledge-ioc-2010-nutrition-guide",
+    "knowledge-acsm-2016-carbohydrate",
+    "knowledge-baart-2023-abdominal"
+  ],
+  "relatedRefs": [
+    "knowledge:long-run-fueling",
+    "knowledge:race-day-fueling",
+    "knowledge:side-stitch-and-gi",
+    "knowledge:hydration",
+    "tool:fueling-planner"
+  ],
+  "license": "CC-BY-4.0",
+  "createdAt": "2026-11-25",
+  "updatedAt": "2026-11-26",
+  "reviewedAt": "2026-11-26",
+  "reviewDueAt": "2027-11-25",
+  "translations": [],
+  "details": {
+    "primaryTopic": "nutrition",
+    "secondaryTopics": [
+      "training",
+      "health"
+    ],
+    "contentType": "plan",
+    "audiences": [
+      "intermediate",
+      "advanced"
+    ],
+    "scenarios": [
+      "race-preparation",
+      "race-day"
+    ]
+  }
+}

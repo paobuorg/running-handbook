@@ -1,0 +1,15 @@
+{
+  "caseId": "case-cutoff-planner-invalid",
+  "toolId": "tool:cutoff-planner",
+  "input": {
+    "distanceKm": 42,
+    "startClock": "10:00",
+    "targetFinish": "09:30",
+    "finishCutoff": "11:00",
+    "checkpoints": []
+  },
+  "expected": {
+    "error": "targetFinish"
+  },
+  "basis": "Start = 10:00 = 600 min; target = 09:30 = 570 min. The rule requires start < target, but 570 <= 600, so the planner throws an order error on targetFinish before any pace is computed."
+}

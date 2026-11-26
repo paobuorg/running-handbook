@@ -7,24 +7,35 @@
   "sourceRefs": [
     "knowledge-nws-heat-illness",
     "knowledge-nhs-hydration",
-    "knowledge-cdc-intensity"
+    "knowledge-cdc-intensity",
+    "knowledge-beal-2022-doha-pacing",
+    "knowledge-jap-2025-air-speed",
+    "knowledge-world-athletics-medical-guidelines-2020",
+    "knowledge-acsm-2021-ehs-consensus",
+    "knowledge-nws-wbgt",
+    "knowledge-osha-heat-hazards",
+    "knowledge-ioc-2021-ehs-prehospital"
   ],
   "relatedRefs": [
     "knowledge:hydration",
     "knowledge:long-run-fueling",
     "knowledge:route-safety",
-    "knowledge:cold-weather-running"
+    "knowledge:cold-weather-running",
+    "tool:heat-acclimation-planner",
+    "tool:heat-adjust",
+    "knowledge:electrolytes-and-sodium"
   ],
   "license": "CC-BY-4.0",
   "createdAt": "2026-10-28",
-  "updatedAt": "2026-11-07",
-  "reviewedAt": "2026-11-06",
-  "reviewDueAt": "2027-04-28",
+  "updatedAt": "2026-11-26",
+  "reviewedAt": "2026-11-26",
+  "reviewDueAt": "2027-03-15",
   "translations": [],
   "details": {
     "primaryTopic": "safety",
     "secondaryTopics": [
-      "nutrition"
+      "nutrition",
+      "health"
     ],
     "contentType": "guide",
     "audiences": [
@@ -34,7 +45,8 @@
     ],
     "scenarios": [
       "general-training",
-      "race-preparation"
+      "race-preparation",
+      "race-day"
     ]
   }
 }

@@ -1,0 +1,41 @@
+{
+  "sourceId": "tool-qualifier-comrades-faq",
+  "title": "Comrades Marathon FAQs — Qualification and Entry",
+  "url": "https://www.comrades.com/faqs",
+  "publisher": "Comrades Marathon Association",
+  "publishedAt": null,
+  "accessedAt": "2026-11-25",
+  "claims": [
+    "Qualifying races must be at least 42.2 km and meet CMA technical and verification standards; only official published results are accepted, and GPS, Strava or watch splits are not accepted.",
+    "The marathon qualifying limit is 4:59:59; the minimum age on qualification day is 20.",
+    "The qualification window for the 2027 race runs from 15 June 2026 to 3 May 2027, and entrants must also complete the medical questionnaire."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-25",
+    "checkedVia": "web_fetch 读取 Comrades 官方 FAQ 正文资格段",
+    "note": "2026-11-25 直接读取 FAQ 资格、成绩接受口径与年龄要求。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "FAQ 明确：认可至少 42.2 km、符合 CMA 标准的赛事官方公开成绩；Garmin、Strava 等个人记录不被接受。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "FAQ 成绩表：42.2 km 项目上限 4:59:59；资格当日最低年龄 20 岁。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "FAQ 列出 2027 届资格窗口 2026-06-15 至 2027-05-03，并要求填写医疗问卷。"
+    }
+  ]
+}

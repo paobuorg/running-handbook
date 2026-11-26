@@ -1,0 +1,17 @@
+{
+  "caseId": "case-sweat-rate-over-two-percent",
+  "toolId": "tool:sweat-rate",
+  "input": {
+    "preWeightKg": 65,
+    "postWeightKg": 63.5,
+    "fluidIntakeLiters": 0.4,
+    "durationMinutes": 60
+  },
+  "expected": {
+    "netLossLiters": 1.9,
+    "sweatRateLitersPerHour": 1.9,
+    "bodyMassLossPercent": 2.31,
+    "aboveTwoPercent": true
+  },
+  "basis": "Independent arithmetic: 65 − 63.5 = 1.5 kg; + 0.4 L intake = 1.9 L net loss. 1.9 L over 1 hour = 1.9 L/h. 1.5/65 × 100 = 2.3077…, rounded to 2.31%, which is above the 2% threshold.\n\nSteps: [\"Net loss = 65 − 63.5 + 0.4 = 1.9 L.\", \"Sweat rate = 1.9 ÷ (60 / 60) = 1.9 L/h.\", \"Body mass loss = (65 − 63.5) ÷ 65 × 100 = 2.3077…%, rounded to 2.31%.\", \"2.31% is above 2%, so aboveTwoPercent is true.\"]\nNotes: The 2% flag is a screening prompt to review the fluid plan, not a diagnosis. Heavy sweating with weakness, dizziness, nausea or headache should stop the session; confusion, slurred speech, very high temperature or loss of consciousness is an emergency."
+}

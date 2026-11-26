@@ -151,3 +151,10 @@ MedlinePlus 的复跑门槛写得很具体：**当拉伸和力量练习可以在
 - MedlinePlus，Iliotibial band syndrome - aftercare（2025-06-04 复审）：滑囊、冰敷 15 分钟、复跑门槛、用药注意事项。
 - NHS，Knee pain（2023-12-21 复审）：冰敷 20 分钟与紧急信号。
 - NHS，Knee pain and other running injuries：跑者膝痛的就医时机。
+
+<!-- related-ring -->
+## 相关条目
+
+- [出国比赛倒时差——方向、光照与落地时间](/knowledge/jet-lag-and-race-travel/)
+- [跑者膝痛：分诊边界、三档处理与必须就医的信号](/knowledge/knee-pain-in-runners/)
+- [更年期与跑步——症状波动、骨量流失和训练怎么调](/knowledge/menopause-and-running/)

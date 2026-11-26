@@ -47,6 +47,13 @@ The authors are explicit that correlation is not causation. You cannot conclude 
 
 "Negative split is best" is close to common sense in running circles, but the evidence is more specific: **record races are close to even, championship races often show negative splits, and the main amateur problem is not a missing negative split but starting too fast.** Three layers:
 
+> **Two positions side by side (no averaging).**
+>
+> - **"Even/negative split first" position:** the two large observational analyses — Boston 78,912 finishers and Chicago 2005–2016 — show even or mildly negative splitters finishing faster on average; source type: post-race observational split analysis, not a randomized controlled trial.
+> - **"Positive splitting may suit elites with pacers" position:** Fernandes and Maldonado 2023 use an energetic model plus CFD simulation; with drafting behind pacers, positive splitting can be fastest; source type: non-peer-reviewed preprint model, applicable only to elite races with pacers.
+>
+> The two sides differ in population and evidence type and cannot be averaged into "everyone should negative split".
+
 | Context | Observation | Explanation |
 |---|---|---|
 | Men's marathon world records (1998–2023, 12 races) | Fastest first 5 km, then close to even; pace CV 1.52% ± 0.54% | Pacers and a time trial |
@@ -81,7 +88,7 @@ Minetti et al. (2002) measured the metabolic cost of running from −45% to +45%
 Beal et al. (2022) analysed the 2019 Doha women's World Championships: 32.0°C, 74% relative humidity, with 40 of 68 starters finishing (28 non-finishers, 41%), against 15% at London 2017. The top 10 started at **93.7%** of personal-best pace; places 21–40 started at **96.6%**. Groups did not differ before 15 km; the slower group then faded first.
 
 - Set the opening target at 93%–95% of PB pace and take another 2%–3% off the first half, instead of "run PB pace and see".
-- Pace is no longer the main metric: heart rate drifts with heat and dehydration (see [heart-rate drift](https://learn.paobu.org/en/articles/heart-rate-drift/)), so use feel, breathing and cooling points.
+- Pace is no longer the main metric: heart rate drifts with heat and dehydration (see [heart-rate drift](/en/knowledge/heart-rate-drift/)), so use feel, breathing and cooling points.
 - Non-finishers matched finishers to 10 km, so "the start feels fine" does not predict completion; fluid, cooling and heat acclimation matter as much.
 
 **Unknown:** there is no randomised trial linking negative splits to better times, no universal half-to-half target, and no official grade-to-pace conversion. All figures above are observational or modelled, not individual prescriptions.
@@ -133,6 +140,16 @@ Three practical rules:
 3. **Run the first 5 km by feel.** Do not chase people who pass you. The aim of the opening is to be slightly slower than target, not to win back time.
 4. **Check in at 10–15 km.** Can you still hold a conversation, are the legs easy, is heart rate controllable? If it already feels hard, take 5–10 seconds per kilometre off the target.
 5. **Only accelerate after 30 km if you have reserves.** If the legs feel heavy and pace is slipping, take carbohydrate and fluid, shorten your stride, and do not fight it. Once wall symptoms appear, forcing the pace usually makes the second half slower.
+
+## Decision table: choosing race-day pacing by condition
+
+| Condition (if) | Action (then) | Boundary |
+| --- | --- | --- |
+| Flat, cool, and target pace repeatable in training | First 5 km 5–10 s/km slower, then even to target | Observational analyses show association, not causation |
+| Hot and humid (around 32°C-type race) | Drop target to 93%–95% of PB pace, another 2%–3% off the first half | Based on one women's World Championships analysis; not extrapolated to every hot race |
+| Net-downhill start or hilly course | Do not defend flat pace uphill; do not sprint downhill; hold the start by feel | Grade metabolic cost is asymmetric; no official seconds-per-climb standard |
+| A pacing group matches the goal and your plan is settled | Follow a group slightly slower than ability; selection bias remains | Group association with even splits is strong, not causal |
+| Already struggling at 10–15 km | Take 5–10 s/km off the target, prioritize finishing | This page does not make medical judgments for you |
 
 ## A worked example (hypothetical)
 
@@ -192,16 +209,28 @@ Worked arithmetic: a 3:30 goal is 5:00/km. If the first 5 km is 2% fast, you sav
 
 ## Limits
 
-This page rests on two observational analyses: 78,912 Boston Marathon finishers from 2015–2017 and Chicago Marathon data from 2005–2016. They cannot establish causation between pacing pattern and outcome, and they do not transfer directly to half marathons or trail races. The elite negative-split data come from post-race split analyses of world records and championships; the heat section comes from one women's World Championship analysis and does not transfer directly to amateur races. Every split example here is hypothetical, not a personal prescription. Runners with cardiovascular disease, a history of exercise-related fainting or heat illness should race under medical guidance.
+This page rests on two observational analyses: 78,912 Boston Marathon finishers from 2015–2017 and Chicago Marathon data from 2005–2016. They cannot establish causation between pacing pattern and outcome, and they do not transfer directly to half marathons or trail races. The elite negative-split data come from post-race split analyses of world records and championships; the heat section comes from one women's World Championship analysis and does not transfer directly to amateur races. Every split example here is hypothetical, not a personal prescription. This page **does not give medical diagnosis** and does not replace a clinician's face-to-face assessment; runners with cardiovascular disease, a history of exercise-related fainting or heat illness should race under medical guidance.
+
+## What would change this advice
+
+- New randomized trials or larger, stricter observational studies that change the direction or size of the association between even/mildly negative splits and finish outcome would move this page's guidance.
+- Changes in your own training state, weather and course: heat, a net-downhill start or hilly terrain call for the target to be reset per the decision table, not copied from training-day pace.
+- Updated institutional conclusions on hot-race pace reduction and grade-to-pace conversion; the current 93%–95% figure comes from one women's World Championships analysis, and no official grade-seconds standard exists.
+- When stop signals such as chest pain, fainting or serious heat illness appear, this pacing advice yields to on-course medical care.
 
 ## Related reading
 
-- [Running at altitude: acclimatisation, training and when to descend](https://learn.paobu.org/en/articles/altitude-and-running/)
-- [Heat and humidity: reduce heat risk before chasing pace](https://learn.paobu.org/en/articles/heat-and-humidity/)
-- [Hydration and electrolytes: no universal litre target](https://learn.paobu.org/en/articles/hydration/)
-- [Split table](https://tools.paobu.org/en/tools/splits/)
-- [Race time prediction](https://tools.paobu.org/en/tools/race-predict/)
-- [Race checklist](https://tools.paobu.org/en/tools/race-checklist/)
+- [Marathon Distance](/en/knowledge/marathon-distance/)
+- [Race-Day Fueling](/en/knowledge/race-day-fueling/)
+- [The Long Run](/en/knowledge/long-run/)
+- [Race Anxiety and Burnout](/en/knowledge/race-anxiety-and-burnout/)
+- [Heart-Rate Drift](/en/knowledge/heart-rate-drift/)
+- [Running at altitude: acclimatisation, training and when to descend](/en/knowledge/altitude-and-running/)
+- [Heat and humidity: reduce heat risk before chasing pace](/en/knowledge/heat-and-humidity/)
+- [Hydration and electrolytes: no universal litre target](/en/knowledge/hydration/)
+- [Split table](/en/tools/splits/)
+- [Race time prediction](/en/tools/race-predict/)
+- [Race checklist](/en/tools/race-checklist/)
 
 ## Sources
 
@@ -214,3 +243,12 @@ This page rests on two observational analyses: 78,912 Boston Marathon finishers 
 - World Athletics, Marathon discipline page: the marathon distance of 42.195 km, used for split arithmetic.
 - New York Road Runners, The Start (2026 NYC Marathon): corral and wave assignment from best pace or estimated finish; 2026 corral closings at 8:45, 9:25, 10:00, 10:40 and 11:15.
 - New York Road Runners, Race Procedures and Bag Pre-Check: arrive at least 60 minutes early and enter the corral at least 10 minutes before the start; pre-checked bags close at 17:00 the day before and collection runs until 19:00. These are that race's rules, not a universal standard.
+
+Verified: 2026-11-07; next review: 2027-03-15. **Changes this round:** added the two-position conflict box, the condition-based decision branch table and the What-would-change-this-advice section; related reading and body links now use internal paths; the no-medical-diagnosis boundary is stated explicitly.
+
+<!-- related-ring -->
+## Related entries
+
+- [Race-morning protocol: an if/then timeline from waking to the gun (road and trail versions)](/en/knowledge/race-morning-protocol/)
+- [Strength, cross-training and tapering: fit support work into the plan](/en/knowledge/strength-and-taper/)
+- [Strength training for runners: exercise menu, sets and frequency, and how to place it in the week](/en/knowledge/strength-training-for-runners/)

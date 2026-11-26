@@ -1,0 +1,55 @@
+{
+  "sourceId": "knowledge-issn-vegan-protein",
+  "title": "Vegan diets: practical advice for athletes and exercisers",
+  "url": "https://jissn.biomedcentral.com/articles/10.1186/s12970-017-0192-9",
+  "publisher": "Journal of the International Society of Sports Nutrition",
+  "publishedAt": "2017-09-13",
+  "accessedAt": "2026-11-25",
+  "claims": [
+    "The ISSN broad protein recommendation of 1.4-2.0 g/kg/day is described as appropriate for most athletic contexts; endurance-sport athletes are commonly cited at 1.2-1.4 g/kg/day and strength or power athletes at 1.6-1.7 g/kg/day.",
+    "Plant-based protein sources are often incomplete in essential amino acids and typically contain less branched-chain amino acids than animal-based equivalents; lysine is the limiting amino acid in many cereal grains.",
+    "Leucine appears to be a primary trigger of muscle protein synthesis; plant proteins are often low in leucine, while soy beans and lentils are cited plant sources of leucine.",
+    "Vegetarians may need to consume more protein than meat eaters to compensate for poorer digestibility of plant sources; vegan athletes may aim toward the higher end of the 1.4-2.0 g/kg/day range.",
+    "The older recommendation to combine plant protein sources within a single feeding to achieve a complete essential amino acid profile is no longer considered necessary; a variety of grains, legumes, nuts and seeds across the diet provides the essential amino acids."
+  ],
+  "license": "Open access (CC BY 4.0); citation and summary only",
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-25",
+    "checkedVia": "WebFetch 读取 JISSN 2017;14:38 PDF 全文 Protein 一节",
+    "note": "读取 Abstract、Protein 小节（植物蛋白氨基酸、亮氨酸、消化率、素食者蛋白上限建议）与 Table 2 高植物蛋白食物。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "原文：“Typical recommendations therefore include 1.6-1.7 g·kg−1·day−1 for strength and power athletes and 1.2-1.4 g·kg−1·day−1 for endurance-sport athletes”；“The ISSN provides a broad protein recommendation of 1.4-2.0 g·kg·day−1, which is likely to be appropriate for most athletic contexts”。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "原文：“Plant-based protein sources are often incomplete, missing important essential amino acids, and typically contain less Branched Chain Amino Acids (BCAA)”；“lysine appears to be to be most commonly absent, particularly from cereal grains”。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "原文：“Leucine appears to be a primary trigger of MPS”；“leucine can be obtained from soy beans and lentils”。"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "原文：“it has been suggested that vegetarians might need to consume more protein than meat eaters to compensate for the poorer digestibility”；“it might be prudent for vegan athletes to aim for protein intakes towards the higher end of the ISSN's protein recommendation of 1.4 to 2.0 g·kg·day−1”。"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "原文：“the once-popular recommendation of combining protein sources to achieve a complete essential amino acid profile in each feeding is no longer considered necessary”；grains/legumes/nuts/seeds 多样摄入提供全部 EAA。"
+    }
+  ]
+}

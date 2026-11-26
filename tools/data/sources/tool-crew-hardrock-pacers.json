@@ -1,0 +1,48 @@
+{
+  "sourceId": "tool-crew-hardrock-pacers",
+  "title": "Pacers and crew rules — Hardrock 100",
+  "url": "https://hardrock100.com/hardrock-pacers.php",
+  "publisher": "Hardrock Hundred Endurance Run",
+  "publishedAt": null,
+  "accessedAt": "2026-11-25",
+  "claims": [
+    "In 2027 pacers are allowed from Grouse Gulch onward, and a runner may have only one pacer on course at a time.",
+    "Pacers may meet their runner and start only at crew-access aid stations; the KT station allows a pacer exchange only.",
+    "A pacer must run at least the whole leg to the next crew-access or specifically allowed aid station; there is generally no access for them in between, and they may not continue unless accompanying their runner.",
+    "All pacers must check in with aid-station personnel and sign a waiver to receive a wristband; crews are restricted to roughly a 400-yard radius of the aid station and may not meet runners outside crew stations."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-25",
+    "checkedVia": "web_fetch 读取官方 Pacers at Hardrock 与 Crew Rules 正文",
+    "note": "2026-11-25 直接读取页面两段正文，含 2027 陪跑起始站、一人一陪跑、签到签 waiver 与 400 码半径条款。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "Pacers at Hardrock 首段：allowed from Grouse Gulch on；only one pacer on course with them at a time。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "同段：start ONLY at crew access aid stations；KT Aid Station pacer exchange ONLY。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "Crew Rules 第 14 条与首段：whole leg to the next crew access；no access in between；may not continue unless accompanying runner。"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "签到签 waiver 领 wristband 段；Crew Rules 第 8、9 条：不得在站外会面，400-yard radius。"
+    }
+  ]
+}

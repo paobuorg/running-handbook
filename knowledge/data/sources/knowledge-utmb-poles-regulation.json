@@ -1,0 +1,48 @@
+{
+  "sourceId": "knowledge-utmb-poles-regulation",
+  "title": "HOKA UTMB Mont-Blanc 2027 Race Regulations — Equipment and Penalties",
+  "url": "https://montblanc.utmb.world/races-runners/other-information/regulation",
+  "publisher": "UTMB World Series / HOKA UTMB Mont-Blanc",
+  "publishedAt": "2026-11-25",
+  "accessedAt": "2026-11-25",
+  "claims": [
+    "If runners choose to take hiking poles, they must carry them for the entire duration of the race; it is forbidden to start without poles and get them during the course of the race, and no poles are authorized in the spare bags.",
+    "The use of poles may be prohibited in certain areas marked by specific signs along the course, for safety or environmental reasons.",
+    "For UTMB, CCC and TDS 100M races, use of poles not carried from the start or abandonment of poles during the race draws a 1-hour penalty; for OCC, MCC and ETC races it draws a 30-minute penalty.",
+    "Proven dangerous behavior such as poles with uncovered tips oriented towards runners or spectators, or dangerous overtaking, draws a 15-minute penalty in the 100M races and a 10-minute penalty in the OCC/MCC/ETC races."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-25",
+    "checkedVia": "WebFetch UTMB 2027 规程 EQUIPMENT 与 PENALTIES 表",
+    "note": "规程正文可读；杖全程携带、禁入换装包、标志区域禁用、两组别罚时与危险行为罚时逐条核对。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "原文 EQUIPMENT：\"If runners choose to take hiking poles with them, they must carry them for the entire duration of the race. It is forbidden to start without poles and get them during the course of the race. No poles are authorized in the spare bags.\""
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "原文：\"The use of poles may be prohibited in certain areas marked by specific signs along the course, for safety or environmental reasons.\""
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "原文 PENALTIES：UTMB/CCC/TDS 表 \"Use of poles not carried from the start of the race or abandonment of poles during the race. 1 hour penalty\"；OCC/MCC/ETC 表同条 30 minute penalty。"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "原文 PENALTIES：100M \"Poles with uncovered tips oriented towards runners or spectators, dangerous overtaking. 15 minute penalty\"；OCC/MCC/ETC 表 10 minute penalty。"
+    }
+  ]
+}

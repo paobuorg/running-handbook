@@ -1,0 +1,41 @@
+{
+  "sourceId": "tool-crew-wser-access",
+  "title": "Aid Stations — Western States 100: crew access and pacer change",
+  "url": "https://www.wser.org/course/aid-stations/",
+  "publisher": "Western States Endurance Run Foundation",
+  "publishedAt": null,
+  "accessedAt": "2026-11-25",
+  "claims": [
+    "The checkpoint chart has dedicated Crew Access and Pacer Change columns marking which stations crews may enter and where a pacer may join the runner.",
+    "Pacers may join only at designated pacer-change stations on the official chart.",
+    "Many checkpoints are restricted to race officials because of limited parking and the need to keep narrow access roads clear."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-25",
+    "checkedVia": "web_fetch 读取官方 Aid Stations 表 Crew Access / Pacer Change 列",
+    "note": "2026-11-25 读取 Checkpoint 表与备注；Pacer Change 列在 Michigan Bluff、Foresthill、Rucky Chucky、Highway 49 Crossing、Auburn Lake Trails 等站标注。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "Checkpoint 表含 Crew Access 与 Pacer Change 两列，逐站标注 Yes/No。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "Pacer Change 列仅在指定站点为 Yes；其余站点 No。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "Crew Access 列多处 No；FAQ 段说明停车受限与救援通道要求。"
+    }
+  ]
+}

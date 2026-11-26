@@ -1,0 +1,17 @@
+{
+  "caseId": "case-carb-load-planner-mid-window",
+  "toolId": "tool:carb-load-planner",
+  "input": {
+    "bodyMassKg": 65,
+    "eventDurationMinutes": 120,
+    "loadWindowHours": 36
+  },
+  "expected": {
+    "indicated": true,
+    "dailyLowGrams": 650,
+    "dailyHighGrams": 780,
+    "windowTotalLowGrams": 975,
+    "windowTotalHighGrams": 1170
+  },
+  "basis": "Independent arithmetic: 65 × 10 = 650 g/day; 65 × 12 = 780 g/day; 36/24 = 1.5; 650 × 1.5 = 975 g; 780 × 1.5 = 1,170 g. 120 > 90, so loading is indicated.\n\nSteps: [\"Daily lower bound = round(65 × 10) = 650 g/day; daily upper bound = round(65 × 12) = 780 g/day.\", \"A 36-hour window is 36/24 = 1.5 days.\", \"Window total lower = round(650 × 1.5) = 975 g; window total upper = round(780 × 1.5) = 1,170 g.\", \"Indicated = 120 minutes > 90 minutes, so true.\"]\nNotes: A non-integer window fraction (1.5 days) checks the window-total arithmetic: totals scale by window hours / 24 rather than by whole days. The 36-hour edge of the planning band is a range, not a precise start hour."
+}

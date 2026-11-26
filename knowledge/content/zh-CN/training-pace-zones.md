@@ -122,3 +122,10 @@ translationStatus: reviewed
 - Blödorn 与 Döring，Special endurance coefficients enable the evaluation of running performance，Sci Rep 2025：VDOT 表格与在线计算器在 5000 米约差 10 秒；Riegel 指数 1.07732 与 1.06 的差异。
 
 核验日期：2026-11-07。
+
+<!-- related-ring -->
+## 相关条目
+
+- [跑量进阶——10% 规则、30% 上限与可执行的加量框架](/knowledge/training-volume-and-progression/)
+- [一周跑步怎么安排：轻松跑、质量课和长距离](/knowledge/training-week/)
+- [超马入门：100 公里真正要求什么](/knowledge/ultra-running-basics/)

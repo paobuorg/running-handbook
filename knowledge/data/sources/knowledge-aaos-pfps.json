@@ -1,0 +1,62 @@
+{
+  "sourceId": "knowledge-aaos-pfps",
+  "title": "Patellofemoral Pain Syndrome",
+  "url": "https://orthoinfo.aaos.org/en/diseases--conditions/patellofemoral-pain-syndrome/",
+  "publisher": "American Academy of Orthopaedic Surgeons (OrthoInfo)",
+  "publishedAt": null,
+  "accessedAt": "2026-11-25",
+  "claims": [
+    "Patellofemoral pain syndrome (PFPS) is a broad term for pain in the front of the knee and around the kneecap, sometimes called runner's knee; it is common in active people, especially females and young adults, but can also occur in nonathletes.",
+    "The most common symptom is a dull, aching pain in the front of the knee that begins gradually and is activity-related, affecting one or both knees.",
+    "PFPS pain occurs with repeated knee bending such as climbing stairs, running, jumping, or squatting, and after prolonged sitting with the knee bent; it may follow a change in activity level or intensity, playing surface, or equipment, and popping or crackling sounds may occur.",
+    "Most PFPS cases are treated nonsurgically: activity change to low-impact cycling, elliptical, or swimming; physical therapy focusing on quadriceps and hip strengthening; and sometimes shoe orthotics.",
+    "Surgical treatment for patellofemoral pain is very rarely needed and is performed only for severe cases that do not respond to nonsurgical treatment.",
+    "Prevention advice includes activity-appropriate shoes, a thorough warm-up, quadriceps and hamstring stretching, gradual increases in training intensity and duration, and maintaining a healthy body weight."
+  ],
+  "license": "All rights reserved; facts summarized with attribution",
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-25",
+    "checkedVia": "WebFetch OrthoInfo AAOS 页面正文（Symptoms、Home Remedies、Diagnosing、Treatment、Preventing 各节）",
+    "note": "页面无发布日期；症状、保守治疗、手术门槛与预防清单逐条按原文核对。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "原文：“broad term used to describe pain in the front of the knee and around the patella, or kneecap. It is sometimes called 'runner's knee'”；“common in people who participate in sports — especially females and young adults — PFPS can occur in nonathletes, as well.”"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "原文：“The most common symptom of PFPS is a dull, aching pain in the front of the knee. This pain — which usually begins gradually and is frequently activity-related — may be present in one or both knees.”"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "原文 Symptoms 清单：stairs/running/jumping/squatting；prolonged bent-knee sitting；“Pain related to a change in activity level or intensity, playing surface, or equipment”；“Popping or crackling sounds”。"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "原文：low-impact “riding a stationary bike, using an elliptical machine, or swimming”；PT 重点 “strengthening and stretching your quadriceps and strengthening your hip muscles”；Orthotics 对齐足踝。"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "原文：“Surgical treatment for patellofemoral pain is very rarely needed and is performed only for severe cases that do not respond to nonsurgical treatment.”"
+    },
+    {
+      "index": 5,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "原文 Preventing 清单：appropriate shoes、warming up thoroughly、quadriceps/hamstring stretching、“Gradually increasing the intensity and duration of your training”、healthy body weight。"
+    }
+  ]
+}

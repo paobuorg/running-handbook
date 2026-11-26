@@ -69,6 +69,14 @@ Rowing records show how wide the sport-to-sport range is: German junior rowers a
 
 Running is not one line either: Billat et al. (2001) reported top-class marathoners at 78/4/18 (classified by marathon pace), while Billat et al. (2003) reported Kenyan 10 km runners at about 84% below lactate-threshold velocity and about 7%–14% at threshold velocity. Distance, race pace and training tradition all shift the distribution.
 
+## Boundaries and counterexamples to 80/20
+
+- **Time-limited, under three sessions per week.** The session ratio cannot be forced to 80/20; go by the low-intensity time share and recovery between hard sessions, not by counting sessions.
+- **Returning from injury or illness.** Follow rehabilitation and clinician-set intensity first; the ratio yields to the recovery gate.
+- **Marathon and long distance.** Casado et al. (2022) note marathoners lean pyramidal, with threshold work in a regular place; the middle zone need not be compressed to near zero.
+- **Short distance (1500 m level).** Repeated high-intensity capacity matters more, and the distribution leans polarized; that is a sport characteristic, not a recreational default.
+- **Recorded counterexamples.** Treff et al. (2017) found no difference between polarized and pyramidal in elite rowers; Festa et al. (2019) achieved similar gains with the focused group using about 17% less time; one successful French rower recorded 45% Zone 1 / 55% Zone 2. These cases show the ratio moves with sport, population and phase, rather than being a fixed constant.
+
 ## How to define low intensity: talk test and %HRR
 
 In polarized training, "low intensity" is not "whatever feels easy"; it has a physiological anchor: **below the first ventilatory threshold or first lactate threshold, commonly approximated as blood lactate ≤ 2 mmol/L** (Seiler 2010; Seiler & Tønnessen 2009). Without a lab, two practical checks work.
@@ -125,14 +133,32 @@ Below is an example for **five runs per week**, used to show the difference betw
 
 - **By sessions**: 4 of 5 easy = 80%; 1 of 5 hard = 20%.
 - **By time**: roughly 205–260 min easy versus 35–40 min hard; low intensity is about **84%–87%**.
+- **Recomputable (session midpoints)**: easy days 52.5 + 45 + 45 + 90 = 232.5 min, hard session 37.5 min, total 232.5 + 37.5 = 270.0 min; low-intensity time share = 232.5 ÷ 270.0 ≈ **86.1%**. Session share = 4 ÷ 5 = **80%**; count the two metrics separately, do not mix them.
 - **If you run only 3 times per week**: 2 easy + 1 hard = 67% of sessions, but the time share may still be close to 80%. At this frequency, "80/20 by sessions" is arithmetically awkward; use time, or a 10-day block, instead.
 - **If you run 6 times per week**: 5 easy + 1 hard = 83% of sessions; 4 easy + 2 hard = 67%. Two hard sessions need at least 48 hours between them, and total intensity should not be maximal in both.
 
-The ordering principle matters more than the ratio: **leave easy days between hard days; do not stack intensity around the long run; in race and taper weeks, cut the hard session rather than deleting easy runs.** This site's article on the training week discusses those principles in more detail.
+The ordering principle matters more than the ratio: **leave easy days between hard days; do not stack intensity around the long run; in race and taper weeks, cut the hard session rather than deleting easy runs.** This site's article on [the training week](/en/knowledge/training-week/) discusses those principles in more detail.
+
+## Decision table: choosing a distribution by condition
+
+| Condition (if) | Action (then) | Boundary |
+| --- | --- | --- |
+| Five-plus sessions per week and stable recovery | Mostly low intensity, one to two genuinely hard sessions per week, compress the middle | Polarized observations come from well-trained athletes; they are not a causal prescription |
+| Marathon preparation; threshold work is the main race-pace stimulus | Keep regular threshold sessions, lean pyramidal | Casado et al. 2022: marathoners lean pyramidal |
+| Only two to three sessions per week | Arrange by low-intensity time share; do not force an 80/20 session ratio | Session and time metrics cannot be mixed |
+| Easy day speech is already broken and not recovered the next day | Push the easy day back to full sentences; recover first | Low intensity anchors on ventilatory threshold / talk test, not on pace |
+| Post-injury, illness or on medication | Follow clinician or rehabilitation advice first; do not chase the ratio | This page does not give medical diagnosis |
 
 ## Evidence boundary: no evidence for one exact ratio
 
 Treating 80/20 as a precise physiological law is not supported by the evidence:
+
+> **Two positions side by side (no averaging).**
+>
+> - **"Polarized has an advantage" position:** Rosenblat et al. 2019 meta-analysis (4 RCTs, 3 pooled) gives a moderate effect on time-trial performance (ES = −0.66, 95% CI −1.17 to −0.15); Stöggl and Sperlich 2014's four-group comparison shows the polarized group VO2peak +11.7% and time to exhaustion +17.4%. Source types: randomized controlled trial and meta-analysis, but a thin evidence base with PEDro 4–5/10.
+> - **"Polarized is not superior" position:** Festa et al. 2019 finds no between-group difference in recreational runners, with the focused group using about 17% less time; Treff et al. 2017 finds no significant difference between distributions in elite rowers; Casado et al. 2022 notes pyramidal distribution is more common in highly trained runners. Source types: randomized controlled trial, randomized controlled trial and systematic review.
+>
+> The two sides cannot be averaged into "80/20 is the only correct ratio". The evidence agrees only at the coarse level that most training should be low intensity; how much low intensity there should be has no single answer.
 
 - **Rosenblat et al. (2019)**, a systematic review and meta-analysis, screened 329 records but included only **4 randomised controlled trials**, of which **3** entered the meta-analysis. Two studies scored only **4/10** on the PEDro scale and two scored **5/10**. The pooled result showed a moderate effect for time-trial performance (ES = −0.66, 95% CI −1.17 to −0.15) favouring polarized training, but the evidence base is thin.
 - **Festa et al. (2019)** found no between-group difference in recreational runners, and the focused group used about 17% less time.
@@ -154,14 +180,25 @@ So the conclusion of this page is: use 80/20 as a **starting point and a checkin
 
 ## Scope and limits
 
-This page is education about exercise physiology and training organisation. It gives no individual coaching prescription, diagnosis or treatment. All percentages are research observations or illustrations, not predictions for you; every example week must be adjusted for your training age, total volume, injury history and recovery capacity. If you have cardiovascular, respiratory, metabolic or endocrine disease, or take medication that affects heart rate, exercise intensity should follow your clinician's advice. If you develop persistent fatigue, worsening sleep, an unusually elevated resting heart rate or a sustained drop in performance, reduce load and seek professional assessment rather than chasing a ratio.
+This page is education about exercise physiology and training organisation. It gives no individual coaching prescription, diagnosis or treatment, and it **does not give medical diagnosis** or replace a clinician's face-to-face assessment and prescription. All percentages are research observations or illustrations, not predictions for you; every example week must be adjusted for your training age, total volume, injury history and recovery capacity. If you have cardiovascular, respiratory, metabolic or endocrine disease, or take medication that affects heart rate, exercise intensity should follow your clinician's advice. If you develop persistent fatigue, worsening sleep, an unusually elevated resting heart rate or a sustained drop in performance, reduce load and seek professional assessment rather than chasing a ratio.
 
-Verified: 2026-11-07.
+## What would change this advice
+
+- New, higher-quality running-specific RCTs or meta-analyses that stably show one training intensity distribution superior for a specific distance or level would move this page's distribution recommendation.
+- Changes in your weekly session count, recovery capacity, injury history and target distance: at low session counts go by time share, long distance leans pyramidal, short distance leans polarized.
+- Updated institutional criteria for defining low intensity (%HRR bands, talk-test calibration); the current 40%–59% HRR comes from ACSM's 8th edition, and thresholds differ between people.
+- This page does not give medical diagnosis; cardiovascular, metabolic or respiratory questions and medication-related intensity are decided by a clinician's assessment.
+
+Verified: 2026-11-07; next review: 2027-03-15. **Changes this round:** added the boundaries and counterexamples section, the decision branch table, the recomputable weekly arithmetic and the two-position conflict box; related reading now uses internal links.
 
 ## Related reading
 
-- [Tempo and interval running: intensity, structure and progression](https://learn.paobu.org/en/articles/tempo-and-intervals/)
-- [A weekly running week: easy runs, quality and the long run](https://learn.paobu.org/en/articles/training-week/)
+- [Heart-Rate Zones](/en/knowledge/heart-rate-zones/)
+- [Easy Run](/en/knowledge/easy-run/)
+- [Tempo and interval running: intensity, structure and progression](/en/knowledge/tempo-and-intervals/)
+- [A weekly running week: easy runs, quality and the long run](/en/knowledge/training-week/)
+- [Volume progression: when to add and how much](/en/knowledge/training-volume-and-progression/)
+- [Race-Day Pacing](/en/knowledge/race-day-pacing/)
 
 ## Sources
 
@@ -176,3 +213,10 @@ Verified: 2026-11-07.
 - Treff G., Winkert K., Sareban M., Steinacker J. M., Becker M. & Sperlich B. Eleven-Week Preparation Involving Polarized Intensity Distribution Is Not Superior to Pyramidal Distribution in National Elite Rowers. *Frontiers in Physiology*. 2017;8:515. 14 elite rowers, 11 weeks, no significant difference.
 - ACSM. *Guidelines for Exercise Testing and Prescription*, 8th edition, relative intensity table: moderate 40%–59% HRR (about 64%–76% HRmax), vigorous 60%–84% HRR.
 - CDC. How to Measure Physical Activity Intensity: moderate intensity allows talking but not singing; vigorous intensity allows only a few words before a breath.
+
+<!-- related-ring -->
+## Related entries
+
+- [Race-day pacing — the wall, negative splits and the cost of the first 5 km](/en/knowledge/race-day-pacing/)
+- [Race-morning protocol: an if/then timeline from waking to the gun (road and trail versions)](/en/knowledge/race-morning-protocol/)
+- [Strength, cross-training and tapering: fit support work into the plan](/en/knowledge/strength-and-taper/)

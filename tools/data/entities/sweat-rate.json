@@ -6,7 +6,8 @@
   "riskLevel": "general",
   "sourceRefs": [
     "knowledge-acsm-2007-fluid",
-    "knowledge-nhs-hydration"
+    "knowledge-nhs-hydration",
+    "knowledge-nws-heat-illness"
   ],
   "relatedRefs": [
     "knowledge:heat-and-humidity",
@@ -16,9 +17,9 @@
   ],
   "license": "CC-BY-4.0",
   "createdAt": "2026-11-07",
-  "updatedAt": "2026-11-07",
-  "reviewedAt": "2026-11-07",
-  "reviewDueAt": "2027-11-07",
+  "updatedAt": "2026-11-26",
+  "reviewedAt": "2026-11-26",
+  "reviewDueAt": "2027-11-25",
   "translations": [],
   "details": {
     "toolId": "tool:sweat-rate",
@@ -137,7 +138,8 @@
     "rounding": "Net loss and sweat rate are rounded to 2 decimal places; body mass loss percentage is rounded to 2 decimal places before the 2% flag is evaluated.",
     "caseRefs": [
       "case-sweat-rate-hour-run",
-      "case-sweat-rate-ninety-minutes"
+      "case-sweat-rate-ninety-minutes",
+      "case-sweat-rate-over-two-percent"
     ]
   }
 }

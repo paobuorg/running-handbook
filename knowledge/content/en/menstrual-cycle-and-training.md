@@ -142,3 +142,10 @@ This is health education, not gynaecological or sports-medicine care. Heavy blee
 - NHS, Periods (Delaying your period): a period can be delayed with the combined pill, depending on the pill type; where the combined pill is not used a doctor may prescribe norethisterone, which is not suitable for everyone; assessment by a doctor, pharmacist or sexual health clinic is required and it should not be self-managed. The former "How can I delay my period?" page now redirects to this overview, and its side-effect list can no longer be checked.
 
 Verified on 2026-11-07.
+
+<!-- related-ring -->
+## Related entries
+
+- [Older runners: trade speed for strength, balance and gradual load](/en/knowledge/older-runners/)
+- [Running pain, load and when to seek help](/en/knowledge/pain-and-load/)
+- [Talking about pain: describe it before you name it](/en/knowledge/pain-communication/)

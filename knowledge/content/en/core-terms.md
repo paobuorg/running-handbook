@@ -111,3 +111,10 @@ This page does not provide an individual prescription, diagnosis or guarantee of
 ## Sources and scope
 
 Intensity and the talk test follow the CDC; cadence and stride follow the Sports Health review; uphill and downhill follow the Sports Medicine review; the VO2max and running-economy framework follows the PubMed review; marathon distance follows World Athletics; GPX follows GPX 1.1; GeoJSON follows RFC 7946. Verified 2026-11-06.
+
+<!-- related-ring -->
+## Related entries
+
+- [Why the marathon is 42.195 kilometres](/en/knowledge/marathon-distance/)
+- [Race and shared-path etiquette: rules, space and predictability](/en/knowledge/race-and-shared-path-etiquette/)
+- [How to read running research: question first, conclusion later](/en/knowledge/reading-running-research/)

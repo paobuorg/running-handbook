@@ -142,3 +142,10 @@ GSTT 写得很直接：多数人需要 **6–9 个月**康复才能无痛回到�
 - AAOS，Achilles Tendinitis：两型分类、断裂警示、离心提踵的适用限制、激素注射不推荐、3 个月与 6 个月的时间线、非甾体抗炎药 1 个月提醒。
 - Guy's and St Thomas' NHS，Achilles tendinopathy（2024-10 复审）：症状、相对休息、早期/后期提踵剂量、6–9 个月康复预期、冲击波。
 - NHS，Knee pain and other running injuries：跑者跟腱痛 2–3 周就医门槛与突然撕裂的就医提示。
+
+<!-- related-ring -->
+## 相关条目
+
+- [踝扭伤后回归流程：逐级门槛、退回条件与影像红旗](/knowledge/ankle-sprain-and-return/)
+- [黑指甲与趾甲问题——成因、预防与不要自行穿刺](/knowledge/black-toenails/)
+- [跑步后血尿：运动性血尿、血红蛋白尿与肌红蛋白尿](/knowledge/blood-in-urine-after-running/)

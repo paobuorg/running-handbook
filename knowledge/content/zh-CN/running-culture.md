@@ -104,3 +104,10 @@ World Athletics 按项目和类别公布世界纪录，并会标注仍在等待�
 ## 来源与适用范围
 
 赛事礼仪参考波士顿体育协会的 2026 波士顿马拉松规则与政策；纪录分类与待批准标注参考 World Athletics 世界纪录页面；马拉松距离参考 World Athletics 项目说明；伤病比例与证据冲突参考 Journal of Athletic Training 的系统综述；表现多因素与测量差异参考 2026 年生理学综述。本文是阅读与判断框架，不替代官方规则或原始研究。核验日期为 2026-11-06
+
+<!-- related-ring -->
+## 相关条目
+
+- [5K/10K 专项训练计划：周期、强度与减量结构](/knowledge/5k-10k-training-plan/)
+- [跑者交叉训练：什么时候替代跑步、怎么换算，以及哪些方式保留不住跑步特异性](/knowledge/cross-training-for-runners/)
+- [关门时间管理：读关门表、折算段配速、算余量与保完赛切换](/knowledge/cutoff-management/)

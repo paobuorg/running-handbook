@@ -93,3 +93,10 @@ This page does not diagnose disease, prescribe individual exercise, or replace m
 ## Sources and scope
 
 Adult, older-adult and chronic-condition guidance follows CDC activity pages; pregnancy activity, postpartum volume and weight factors follow CDC maternal-health and healthy-weight guidance. Restrictions should be judged by a professional who knows your health situation. Verified 2026-11-06.
+
+<!-- related-ring -->
+## Related entries
+
+- [Preventing Running Injuries: The Priority Order for Load, Strength, Sleep, and Early Signals](/en/knowledge/running-injury-prevention/)
+- [Front-Inner Shin Pain — Tibial Stress Syndrome and What Must Be Ruled Out](/en/knowledge/shin-splints/)
+- [Side stitch and gut symptoms — how common they are, what triggers them and the red flags that need a doctor](/en/knowledge/side-stitch-and-gi/)

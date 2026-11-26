@@ -1,0 +1,41 @@
+{
+  "sourceId": "knowledge-lu-2025-graded-running-review",
+  "title": "A review of uphill and downhill running: biomechanics, physiology and modulating factors",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/41209300/",
+  "publisher": "Frontiers in Bioengineering and Biotechnology",
+  "publishedAt": "2025-10-24",
+  "accessedAt": "2026-11-25",
+  "claims": [
+    "Downhill running relies heavily on eccentric muscle contractions, which are associated with greater fatigue and a higher injury risk than level running.",
+    "Forefoot striking reduces peak impact forces compared with rearfoot striking, especially in downhill running.",
+    "Adjusting cadence can reduce per-step load and energy expenditure during both uphill and downhill running."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-25",
+    "checkedVia": "PubMed 摘要全文读取（PMID 41209300, Front Bioeng Biotechnol 2025;13:1690023）",
+    "note": "摘要可读，逐条核对下坡离心负荷、落地方式与步频调节结论。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "Abstract: \"downhill running relies heavily on eccentric muscle contractions, which show an association with great fatigue and a high risk of injury.\""
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "Abstract: \"Forefoot striking reduces peak impact forces compared to rearfoot striking, especially in downhill running, helping to lower impact on the lower limbs.\""
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "Abstract: \"adjusting cadence can reduce per-step load and energy expenditure during uphill and downhill running.\""
+    }
+  ]
+}

@@ -8,19 +8,23 @@
     "knowledge-nps-hike-smart",
     "knowledge-nps-ten-essentials",
     "knowledge-nps-hiking-safety",
-    "tool-gpx-standard"
+    "tool-gpx-standard",
+    "knowledge-ceugniez-2025-fitbit-hr",
+    "knowledge-zeleznik-mezan-2025-wearables-review"
   ],
   "relatedRefs": [
     "knowledge:route-safety",
     "knowledge:running-form",
     "knowledge:easy-run",
+    "knowledge:wearables-and-recovery-data",
+    "knowledge:training-log",
     "tool:track-view"
   ],
   "license": "CC-BY-4.0",
   "createdAt": "2026-10-27",
-  "updatedAt": "2026-10-28",
-  "reviewedAt": "2026-10-28",
-  "reviewDueAt": "2027-10-28",
+  "updatedAt": "2026-11-26",
+  "reviewedAt": "2026-11-26",
+  "reviewDueAt": "2027-11-25",
   "translations": [],
   "details": {
     "primaryTopic": "gear",

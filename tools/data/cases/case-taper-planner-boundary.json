@@ -1,0 +1,22 @@
+{
+  "caseId": "case-taper-planner-boundary",
+  "toolId": "tool:taper-planner",
+  "input": {
+    "raceDistance": "half",
+    "peakWeeklyKm": 50,
+    "peakLongRunKm": 21,
+    "qualitySessionsPerWeek": 1,
+    "taperWeeks": 2,
+    "daysToRace": 14
+  },
+  "expected": {
+    "weeks": [
+      { "index": 1, "volumeKm": 35, "longRunKm": 15, "qualitySessions": 1, "intensityNote": "Keep target pace unchanged; shorten session duration and the number of reps." },
+      { "index": 2, "volumeKm": 23, "longRunKm": 11, "qualitySessions": 1, "intensityNote": "Keep target pace unchanged; shorten session duration and the number of reps." }
+    ],
+    "taperRatio": 45.0,
+    "intensityRetention": "maintained",
+    "warning": null
+  },
+  "basis": "Two-week volume ratios 0.70 / 0.45; long-run ratios 0.70 / 0.50; quality plan for 1 session is 1 / 1. W1 volume = 50 * 0.70 = 35; long run = 21 * 0.70 = 14.7 -> 15. W2 volume = 50 * 0.45 = 22.5 -> 23; long run = 21 * 0.50 = 10.5 -> 11. Taper ratio = 22.5 / 50 * 100 = 45.0% on the raw last-week volume. Days to race 14 equals 2 * 7, so the window is sufficient; half distance has no marathon low-volume warning."
+}

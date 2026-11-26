@@ -195,3 +195,10 @@ NHS 的建议是：心悸很常见，通常不严重，可由剧烈运动、缺�
 - Sarzynski 等，Measured maximal heart rates compared to commonly used age-based prediction equations in the HERITAGE Family Study（Am J Hum Biol，2013）：762 人、Fox SEE 12.4 bpm、Tanaka SEE 11.4 bpm、分性别与族裔数值、Fox 7–12 bpm、Tanaka 约 10 bpm、静息心率 65.4（SD 9.1，40.3–105.3）。
 - CDC，How to Measure Physical Activity Intensity：中等强度能说话但不能唱歌、高强度只能说几个词就要换气、说话测试是粗略估计方法。
 - NHS，Heart palpitations：常见且通常不严重、触发因素、何时看 GP、何时拨打急救。
+
+<!-- related-ring -->
+## 相关条目
+
+- [乳酸阈与 VO₂max 测试：定义、误差与怎么用](/knowledge/lactate-threshold-and-vo2max-testing/)
+- [长距离跑：目的、条件和恢复边界](/knowledge/long-run/)
+- [马拉松训练计划：从当前周跑量到 18–24 周结构的决策路径](/knowledge/marathon-training-plan/)

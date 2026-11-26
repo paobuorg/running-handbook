@@ -143,3 +143,10 @@ This page is health education, not a diagnostic tool, and gives no drugs, surger
 - StatPearls, Myoglobinuria: positive dipstick with no red cells, brownish urine, markedly raised CK.
 - BMJ, The haematuria of the long-distance runner, 1979: bladder-wall contusion mechanism, "10,000 metres haematuria", resolution over 24–48 hours, recurrent episodes require exclusion of underlying disease.
 - AUA/SUFU, Microhematuria Guideline: risk stratification guiding cystoscopy and upper-tract imaging.
+
+<!-- related-ring -->
+## Related entries
+
+- [Cardiac emergencies in running: recognise, call, activate the chain](/en/knowledge/cardiac-emergency-in-running/)
+- [DNF decision-making: red flags that mean stop, how to withdraw, records, and the persistence-versus-risk line](/en/knowledge/dnf-decision-making/)
+- [Female runners and RED-S: low energy is not “not training hard enough”](/en/knowledge/female-runners-and-red-s/)

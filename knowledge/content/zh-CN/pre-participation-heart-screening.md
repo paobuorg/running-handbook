@@ -145,3 +145,10 @@ ESC 2020 指出，35 岁以上运动员心血管筛查的证据有限，筛查�
 - Williams 等，Performance of the AHA 14-Point Evaluation Versus Electrocardiography…，J Am Heart Assoc 2019：14 项评估假阳性多、敏感性差、阳性预测值低；由有经验医生判读时心电图表现更好。
 
 核验日期：2026-11-07。
+
+<!-- related-ring -->
+## 相关条目
+
+- [孕期与产后跑步：边界、红旗信号与回归时间窗](/knowledge/pregnancy-and-postpartum-running/)
+- [伤后复跑：分阶段闸门、再伤判据与训练增量边界](/knowledge/return-to-running/)
+- [不同人生阶段的跑步：女性、年长跑者与慢性病](/knowledge/running-across-life/)

@@ -142,3 +142,10 @@ ROS 还建议，如果有脊柱骨折、多次骨折、正在从骨折恢复，�
 - Treviño 等，Cureus（2025，DOI 10.7759/cureus.99210）：美国人群数据、每年 3%–5% 骨量流失、HRT 时机假说与剂型风险、负重与抗阻运动证据。
 
 本页核验日期为 2026-11-07。
+
+<!-- related-ring -->
+## 相关条目
+
+- [月经期训练与比赛：证据、症状管理与就医门槛](/knowledge/menstrual-cycle-and-training/)
+- [大龄跑者：用力量、平衡和渐进负荷换长期](/knowledge/older-runners/)
+- [跑步疼痛、负荷与何时求助](/knowledge/pain-and-load/)

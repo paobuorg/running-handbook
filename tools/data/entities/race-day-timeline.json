@@ -1,0 +1,219 @@
+{
+  "entityId": "tool:race-day-timeline",
+  "slug": "race-day-timeline",
+  "kind": "tool",
+  "status": "published",
+  "riskLevel": "general",
+  "sourceRefs": [
+    "tool-timeline-nyrr-procedures",
+    "tool-timeline-nyrr-start",
+    "tool-timeline-warmup-2021"
+  ],
+  "relatedRefs": [
+    "knowledge:race-morning-protocol",
+    "knowledge:race-day-pacing",
+    "tool:race-checklist",
+    "route:new-york",
+    "route:boston"
+  ],
+  "license": "CC-BY-4.0",
+  "createdAt": "2026-11-25",
+  "updatedAt": "2026-11-26",
+  "reviewedAt": "2026-11-26",
+  "reviewDueAt": "2027-11-25",
+  "translations": [],
+  "details": {
+    "toolId": "tool:race-day-timeline",
+    "specVersion": "1.0.0",
+    "inputs": [
+      {
+        "name": "startClock",
+        "type": "string",
+        "unit": "HH:MM",
+        "required": true,
+        "labels": {
+          "zh-CN": "发枪时刻",
+          "en": "Start time"
+        }
+      },
+      {
+        "name": "waveOffsetMinutes",
+        "type": "number",
+        "unit": "min",
+        "required": true,
+        "minimum": 0,
+        "maximum": 90,
+        "labels": {
+          "zh-CN": "分区出发延迟",
+          "en": "Wave offset"
+        }
+      },
+      {
+        "name": "travelMinutes",
+        "type": "number",
+        "unit": "min",
+        "required": true,
+        "minimum": 0,
+        "maximum": 180,
+        "labels": {
+          "zh-CN": "通勤与停车时间",
+          "en": "Travel and parking time"
+        }
+      },
+      {
+        "name": "checkinMinutes",
+        "type": "number",
+        "unit": "min",
+        "required": true,
+        "minimum": 0,
+        "maximum": 120,
+        "labels": {
+          "zh-CN": "检录时间",
+          "en": "Check-in time"
+        }
+      },
+      {
+        "name": "bagDropMinutes",
+        "type": "number",
+        "unit": "min",
+        "required": true,
+        "minimum": 0,
+        "maximum": 120,
+        "labels": {
+          "zh-CN": "存包时间",
+          "en": "Bag drop time"
+        }
+      },
+      {
+        "name": "warmupMinutes",
+        "type": "number",
+        "unit": "min",
+        "required": true,
+        "minimum": 0,
+        "maximum": 60,
+        "labels": {
+          "zh-CN": "热身时长",
+          "en": "Warm-up duration"
+        }
+      },
+      {
+        "name": "finishTargetHours",
+        "type": "number",
+        "unit": "hours",
+        "required": true,
+        "minimum": 0,
+        "maximum": 12,
+        "labels": {
+          "zh-CN": "目标完赛用时",
+          "en": "Target finish duration"
+        }
+      }
+    ],
+    "outputs": [
+      {
+        "name": "effectiveStartClock",
+        "type": "string",
+        "unit": "HH:MM",
+        "required": true,
+        "labels": {
+          "zh-CN": "实际出发时刻",
+          "en": "Effective start time"
+        }
+      },
+      {
+        "name": "wakeClock",
+        "type": "string",
+        "unit": "HH:MM",
+        "required": true,
+        "labels": {
+          "zh-CN": "起床时刻",
+          "en": "Wake time"
+        }
+      },
+      {
+        "name": "leaveClock",
+        "type": "string",
+        "unit": "HH:MM",
+        "required": true,
+        "labels": {
+          "zh-CN": "出发离家时刻",
+          "en": "Departure time"
+        }
+      },
+      {
+        "name": "arriveClock",
+        "type": "string",
+        "unit": "HH:MM",
+        "required": true,
+        "labels": {
+          "zh-CN": "到达会场时刻",
+          "en": "Arrival time"
+        }
+      },
+      {
+        "name": "checkinClock",
+        "type": "string",
+        "unit": "HH:MM",
+        "required": true,
+        "labels": {
+          "zh-CN": "完成检录时刻",
+          "en": "Check-in finish time"
+        }
+      },
+      {
+        "name": "bagDropClock",
+        "type": "string",
+        "unit": "HH:MM",
+        "required": true,
+        "labels": {
+          "zh-CN": "存包结束时刻",
+          "en": "Bag drop finish time"
+        }
+      },
+      {
+        "name": "warmupClock",
+        "type": "string",
+        "unit": "HH:MM",
+        "required": true,
+        "labels": {
+          "zh-CN": "热身开始时刻",
+          "en": "Warm-up start time"
+        }
+      },
+      {
+        "name": "finishClock",
+        "type": "string",
+        "unit": "HH:MM",
+        "required": true,
+        "labels": {
+          "zh-CN": "预计完赛时刻",
+          "en": "Estimated finish time"
+        }
+      },
+      {
+        "name": "milestones",
+        "type": "array",
+        "unit": null,
+        "required": true,
+        "labels": {
+          "zh-CN": "时间轴节点",
+          "en": "Timeline milestones"
+        }
+      }
+    ],
+    "formulaDescription": "Parse startClock as minutes since midnight (HH:MM, 00:00–23:59); reject malformed clocks. waveOffsetMinutes must be 0–90, travelMinutes 0–180, checkinMinutes 0–120, bagDropMinutes 0–120, warmupMinutes 0–60, finishTargetHours 0–12. effectiveStart = start + waveOffsetMinutes. Warm-up ends at effectiveStart: warmup = effectiveStart − warmupMinutes; bagDrop = warmup − bagDropMinutes; checkin = bagDrop − checkinMinutes; arrive = checkin − 10 fixed on-site buffer; leave = arrive − travelMinutes; wake = leave − 90 fixed wake prep; finish = effectiveStart + finishTargetHours × 60. If any pre-start milestone falls before midnight, it wraps onto the previous day and the milestone is flagged previousDay. milestones list wake, leave, arrive, checkin, bagDrop, warm-up, effective start and finish in race order.",
+    "assumptions": [
+      "All times are on race morning of the same day; a milestone before midnight wraps to the previous day, but the tool does not model multi-day travel.",
+      "The fixed 10-minute on-site buffer and 90-minute wake prep are planning heuristics, not official race requirements; corral close times and shuttle schedules must be checked against the current race guide.",
+      "Travel covers door-to-venue movement including parking; it does not model ticket, security, toilet or queue delays that vary by event.",
+      "Warm-up is placed immediately before the start; the tool does not rehearse race-pace strides, drills or repeat toilet stops after the warm-up.",
+      "Clock windows are projections at the entered durations, not commitments; real race-day congestion can compress every on-site block."
+    ],
+    "rounding": "All clock times round to the nearest whole minute; finish duration converts hours to whole minutes; no fractional minute is retained in output.",
+    "caseRefs": [
+      "case-race-day-timeline-typical",
+      "case-race-day-timeline-boundary",
+      "case-race-day-timeline-invalid"
+    ]
+  }
+}

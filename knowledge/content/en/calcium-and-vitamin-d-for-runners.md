@@ -192,3 +192,10 @@ Review rhythm: check intake against a food record every 2–3 months; if you als
 - NIH Office of Dietary Supplements, Vitamin D — Fact Sheet for Health Professionals: RDA, UL, 25(OH)D bands (<30 / 30–50 / ≥50 / >125 nmol/L), food amounts, sunlight and skin limits, deficiency and excess, about one quarter of the population insufficient.
 - IOC, Relative Energy Deficiency in Sport (REDs) consensus 2023: problematic low energy availability is associated with reduced musculoskeletal health and increased injury risk.
 - AAOS, Shin Splints: pain on the inner shin requires differentiating stress fracture, tendinitis and chronic exertional compartment syndrome.
+
+<!-- related-ring -->
+## Related entries
+
+- [Carb loading — 36–48 hours, 10–12 g/kg and the absorption ceiling](/en/knowledge/carb-loading/)
+- [Everyday fuel: get the basics before supplements](/en/knowledge/daily-fueling/)
+- [Sodium and electrolytes: sweat-sodium variation, cramps and the hyponatremia boundary](/en/knowledge/electrolytes-and-sodium/)

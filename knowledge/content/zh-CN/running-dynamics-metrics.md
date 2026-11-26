@@ -149,3 +149,10 @@ Adams 2018 让 20 名活跃跑者做三种条件：基线、提高步频、按�
 - Adams 等，Altering Cadence or Vertical Oscillation During Running: Effects on Running Related Injury Factors，Int J Sports Phys Ther 2018：20 名跑者；高步频使触地时间 −4.7%、平均垂直负荷率 −21.2%、瞬时垂直负荷率 −16.0%；低振幅提示使触地时间 +3.5%、平均垂直负荷率 −33.4%；未测成绩与经济性。
 
 核验日期：2026-11-07。
+
+<!-- related-ring -->
+## 相关条目
+
+- [跑步技术：步频、步幅、呼吸与上下坡的判断框架](/knowledge/running-form/)
+- [路面选择：没有绝对最好，只有适应过程](/knowledge/running-surface/)
+- [技术地形通过：碎石、树根、泥、石阶与湿滑岩面的动作判断](/knowledge/technical-trail-skills/)

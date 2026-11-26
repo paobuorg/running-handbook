@@ -18,9 +18,9 @@
   ],
   "license": "CC-BY-4.0",
   "createdAt": "2026-10-28",
-  "updatedAt": "2026-11-07",
-  "reviewedAt": "2026-11-07",
-  "reviewDueAt": "2027-04-28",
+  "updatedAt": "2026-11-26",
+  "reviewedAt": "2026-11-26",
+  "reviewDueAt": "2027-11-25",
   "translations": [],
   "details": {
     "toolId": "tool:race-checklist",
@@ -104,7 +104,8 @@
     "rounding": "No numerical rounding; the output is a structured checklist.",
     "caseRefs": [
       "case-race-checklist-trail",
-      "case-race-checklist-road-rain"
+      "case-race-checklist-road-rain",
+      "case-race-checklist-road-mild"
     ]
   }
 }

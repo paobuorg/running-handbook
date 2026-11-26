@@ -1,0 +1,49 @@
+{
+  "entityId": "knowledge:rain-and-wind-shells",
+  "slug": "rain-and-wind-shells",
+  "kind": "knowledge",
+  "status": "published",
+  "riskLevel": "guidance",
+  "sourceRefs": [
+    "knowledge-goretex-membrane",
+    "knowledge-goretex-layer-construction",
+    "knowledge-intertek-breathability",
+    "route-lavaredo-mandatory-equipment",
+    "route-uta-mandatory-gear-2027",
+    "route-miut-regulations-2027",
+    "knowledge-nws-wind-chill-chart"
+  ],
+  "relatedRefs": [
+    "knowledge:cold-weather-running",
+    "knowledge:running-apparel-and-chafing",
+    "knowledge:route-safety",
+    "knowledge:trail-gear",
+    "tool:race-checklist"
+  ],
+  "license": "CC-BY-4.0",
+  "createdAt": "2026-11-25",
+  "updatedAt": "2026-11-26",
+  "reviewedAt": "2026-11-26",
+  "reviewDueAt": "2027-11-25",
+  "translations": [],
+  "details": {
+    "primaryTopic": "gear",
+    "secondaryTopics": [
+      "safety",
+      "training",
+      "habits"
+    ],
+    "contentType": "guide",
+    "audiences": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "scenarios": [
+      "general-training",
+      "trail-running",
+      "race-preparation",
+      "race-day"
+    ]
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "entityId": "knowledge:knee-pain-in-runners",
+  "slug": "knee-pain-in-runners",
+  "kind": "knowledge",
+  "status": "published",
+  "riskLevel": "guidance",
+  "sourceRefs": [
+    "knowledge-nhs-knee-pain",
+    "knowledge-nhs-running-injuries",
+    "knowledge-jhu-itbs",
+    "knowledge-aaos-pfps"
+  ],
+  "relatedRefs": [
+    "knowledge:it-band-syndrome",
+    "knowledge:return-to-running",
+    "knowledge:pain-and-load",
+    "tool:injury-risk-check"
+  ],
+  "license": "CC-BY-4.0",
+  "createdAt": "2026-11-25",
+  "updatedAt": "2026-11-26",
+  "reviewedAt": "2026-11-26",
+  "reviewDueAt": "2027-11-25",
+  "translations": [],
+  "details": {
+    "primaryTopic": "health",
+    "secondaryTopics": [
+      "training"
+    ],
+    "contentType": "guide",
+    "audiences": [
+      "beginner",
+      "intermediate"
+    ],
+    "scenarios": [
+      "general-training",
+      "injury"
+    ]
+  }
+}

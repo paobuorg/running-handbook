@@ -103,3 +103,10 @@ translationStatus: reviewed
 ## 来源与适用范围
 
 跑步伤病比例与训练参数证据冲突参考 Journal of Athletic Training 的系统综述；减量比例、时长与表现改善参考 PLOS ONE 的系统综述与元分析；表现的多因素框架与测量不可互换参考 PubMed 的生理学综述。本文是阅读框架，不构成对具体研究的方法学审计。核验日期为 2026-11-06。
+
+<!-- related-ring -->
+## 相关条目
+
+- [纪录与赛道：为什么手表上的好成绩不是纪录](/knowledge/records-and-course-validity/)
+- [跑步文化：赛事规则、纪录认证与读研究的边界](/knowledge/running-culture/)
+- [5K/10K 专项训练计划：周期、强度与减量结构](/knowledge/5k-10k-training-plan/)

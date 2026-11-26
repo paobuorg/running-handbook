@@ -142,3 +142,10 @@ Stop and seek medical help during a race if you develop chest pain, marked breat
 - Treviño et al., Cureus (2025, DOI 10.7759/cureus.99210): US population figures, 3%–5% annual bone loss, HRT timing hypothesis and formulation risks, weight-bearing and resistance evidence.
 
 Reviewed for accuracy on 7 November 2026.
+
+<!-- related-ring -->
+## Related entries
+
+- [Training and Racing Through the Menstrual Cycle: Evidence, Symptom Management and When to Seek Care](/en/knowledge/menstrual-cycle-and-training/)
+- [Older runners: trade speed for strength, balance and gradual load](/en/knowledge/older-runners/)
+- [Running pain, load and when to seek help](/en/knowledge/pain-and-load/)

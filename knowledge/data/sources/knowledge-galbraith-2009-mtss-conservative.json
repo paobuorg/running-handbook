@@ -1,0 +1,55 @@
+{
+  "sourceId": "knowledge-galbraith-2009-mtss-conservative",
+  "title": "Medial tibial stress syndrome: conservative treatment options",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2848339/",
+  "publisher": "Current Reviews in Musculoskeletal Medicine",
+  "publishedAt": "2009-10-07",
+  "claims": [
+    "In the subacute phase, decreasing weekly running distance, frequency and intensity by about 50% can improve symptoms without complete cessation of activity.",
+    "Low-impact cross-training alternatives listed for rehabilitation include pool running, swimming, an elliptical machine and a stationary bicycle.",
+    "Return to activity should be step-wise: over weeks, athletes slowly increase training intensity and duration and add sport-specific activities, jumping exercises and hill running only while remaining pain-free.",
+    "Athletes should scale back any exercise that exacerbates their symptoms or causes pain.",
+    "Most medial tibial stress syndrome treatment recommendations rest on expert opinion and clinical experience, with a general paucity of randomized controlled trials."
+  ],
+  "accessedAt": "2026-11-25",
+  "license": "Publisher terms; citation and summary only",
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-25",
+    "checkedVia": "web_fetch PMC2848339 全文（Abstract、Subacute phase、Table 2 与 Discussion）",
+    "note": "读到 Abstract、Conservative treatment options 各小节与 Table 2 治疗目标；五条 claim 与原文对应。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "原文：“Decreasing weekly running distance, frequency, and intensity by 50% will likely improve symptoms without complete cessation of activity”。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "原文：“athletes can benefit from cross training with other low-impact exercises, such as pool running, swimming, using an elliptical machine, or riding a stationary bicycle”。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "原文：“Over a period of weeks, athletes may slowly increase training intensity and duration and add sport-specific activities, jumping exercises, and hill running to their rehabilitation program as long as they remain pain-free”。"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "原文：“Athletes should scale back any exercises that exacerbate their symptoms or cause pain.”"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "原文 Abstract：“Current treatment options are mostly based on expert opinion and clinical experience”；Methods：“there was a general paucity of randomized controlled trials”。"
+    }
+  ]
+}

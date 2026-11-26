@@ -1,0 +1,62 @@
+{
+  "sourceId": "knowledge-nws-backcountry-lightning",
+  "title": "Frontcountry and Backcountry Lightning Risk Management (NWS/NOLS brochure)",
+  "url": "https://www.weather.gov/media/owlie/backcountry_lightning.pdf",
+  "publisher": "U.S. National Weather Service",
+  "publishedAt": null,
+  "accessedAt": "2026-11-25",
+  "claims": [
+    "Backcountry settings are at least a 30-minute walk from the nearest vehicles or modern buildings; four ranked actions reduce risk, each roughly twice as important as the next: time visits with local weather; find safer terrain when hearing thunder; avoid trees and long conductors once lightning gets close; take the lightning position if striking nearby and unable to move.",
+    "Ground current contributes to about half of lightning fatalities; keep feet close together and avoid lying flat. Side flash jumps from tall objects, so do not shelter near tall trees or tall vertical surfaces; contact injury comes from touching long conductors such as railings, cables and fences; direct strikes cause about 3-5% of fatalities.",
+    "Begin turnaround when you hear thunder, which means lightning is less than 10 miles away; avoid peaks, ridges and significantly higher ground; if possible, descend on the side without cloud cover, and move to safer terrain as soon as you hear thunder.",
+    "Spread the group at 20-foot (7 m) intervals to reduce multiple injuries; the lightning position keeps feet together and reduces the ground footprint, while lying flat increases ground-current exposure.",
+    "Avoid cave entrances and small overhangs because arcs can cross the gap; stay out of water and away from metal conductors such as ladders, cables and railings.",
+    "In first aid, triage reverses the usual order: attend first to those in cardiac or respiratory arrest without obvious lethal injury; lightning victims do not carry a residual charge."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-25",
+    "checkedVia": "WebFetch NWS 官方 PDF 正文（How Lightning Kills / Reducing Lightning Risk in the Backcountry / First Aid 各节）",
+    "note": "PDF 正文可读；四级风险行动排序、致死机制占比、<10 英里折返、分队间距、蹲姿与洞穴/水面禁忌、急救分诊逐条核对。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "原文：backcountry ≥30-minute walk；four actions listed in order, \"each is roughly twice as important as the next\"：time visits / find safer terrain / avoid trees and conductors / lightning position."
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "原文：\"Ground current contributes to half of lightning fatalities\"；side flash from tall objects；contact from long conductors；\"Direct strikes cause about 3-5 percent of lightning fatalities.\""
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "原文：\"Begin your turnaround if you hear thunder (which means lightning is less than 10 miles away)\"；avoid peaks/ridges/higher ground；descend on the side without clouds；\"Move to safer terrain as soon as you hear thunder.\""
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "原文：\"spread out your group at 20 foot (7m) intervals to reduce the risk of multiple injuries\"；feet together, reduce footprint；\"Lying flat… increases the risk of injury by ground current.\""
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "原文 Cavers 节：avoid cave entrances during thunderstorms；small overhangs allow arcs to cross the gap；don't stand in water, avoid metal conductors like ladders, cables, railings."
+    },
+    {
+      "index": 5,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "原文 First Aid：\"triage: Unlike normal triage protocols, attend first to those who are in cardiac or respiratory arrest without obvious lethal injury.\"；受害者不带残余电荷（与 NWS overview 一致）。"
+    }
+  ]
+}

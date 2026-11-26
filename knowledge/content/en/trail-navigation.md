@@ -96,3 +96,10 @@ This page gives a general routine, not access, live conditions or rescue cover. 
 ## Sources and scope
 
 Sources: NPS Hike Smart for plans, contacts, beacons, battery, weather and Plan B; NPS Ten Essentials for the kit; NPS Hiking Safety Tips for water and alternative navigation; the GPX standard for GPX 1.1. Verified 2026-11-06.
+
+<!-- related-ring -->
+## Related entries
+
+- [Goals and review: turn “run faster” into something you can do](/en/knowledge/goal-setting-and-review/)
+- [Habit stacking and adherence: let the run start itself](/en/knowledge/habit-stacking-and-adherence/)
+- [Race anxiety and training burnout: name the pressure](/en/knowledge/race-anxiety-and-burnout/)

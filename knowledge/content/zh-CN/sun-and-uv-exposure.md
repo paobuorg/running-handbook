@@ -130,3 +130,10 @@ WHO 同时指出：**少量 UV 对健康有益，是维生素 D 合成所必需*
 - American Academy of Dermatology，How to apply sunscreen：SPF 30 以上广谱防水、出门前 15 分钟、成人 1 盎司、脸部 1 茶匙、每 2 小时及出汗后补涂。
 
 本文核验日期为 2026-11-07。
+
+<!-- related-ring -->
+## 相关条目
+
+- [山径导航：GPX 是底图，不是保障](/knowledge/trail-navigation/)
+- [目标与复盘：把“想跑快”变成可执行的事](/knowledge/goal-setting-and-review/)
+- [习惯叠加与坚持度：让跑步自动发生](/knowledge/habit-stacking-and-adherence/)

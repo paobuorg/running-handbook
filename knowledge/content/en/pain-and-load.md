@@ -53,6 +53,10 @@ During pain, run less often and keep pain-free activity. Assume a two-week windo
 
 Assume a runner did four runs and 32 kilometres weekly, then developed front-knee pain but could walk. Weeks one and two: two 30-minute run-walk sessions, about 12 kilometres weekly, no speed or downhill. After three sessions without worsening, add about 10% weekly, roughly 1.2 kilometres; by week eight, return to about 20 kilometres. If pain lasts into the next day, step back one week. These numbers are assumptions; real plans depend on assessment.
 
+## Pain and weekly load: a coupled criterion (a practical frame, not a universal threshold)
+
+Pain and weekly volume are read together, not one at a time. Assume the runner cuts weekly volume from 32 to 24 kilometres (about −25%) in weeks one and two, the score falls from 4/10 to 2/10, and walking is unaffected; only after three sessions at the same load without worsening does volume rise to 24 × 1.10 ≈ 26.4 kilometres (about +10%). The criterion holds when three things move together: the pain score drops, the 24-hour and next-day first-step response do not worsen, and volume changes by one small step in one direction. If any reverses, hold the prior week's volume and do not add distance, pace and gradient together. This site has not verified a universal "stop running above this pain score" or "injury above this volume percentage" threshold; the 0–10 score is a rough reference, and a changed gait matters more than the number.
+
 ## Common misconceptions
 
 Across 36 studies and 23,047 runners, 26.2% reported a running-related injury, but evidence linking weekly distance, duration, frequency, intensity or recent changes to injury was conflicting; the authors caution against one optimal progression.
@@ -79,10 +83,17 @@ This page does not diagnose, recommend medication, replace imaging or examinatio
 
 ## Related reading
 
-- [Running technique: cadence, stride, breathing and hills](https://learn.paobu.org/en/articles/running-form/)
-- [Injury risk check](https://tools.paobu.org/en/tools/injury-risk-check/)
-- [Training load ratio](https://tools.paobu.org/en/tools/training-load/)
+- [Running technique: cadence, stride, breathing and hills](/en/knowledge/running-form/)
+- [Injury risk check](/en/tools/injury-risk-check/)
+- [Training load ratio](/en/tools/training-load/)
 
 ## Sources and scope
 
 Pain warnings follow the NHS running-injury page; conflicting training-parameter evidence follows a Journal of Athletic Training systematic review; persistent fatigue and overtraining follow a practical guide to overtraining syndrome. All are general information, not individual medical advice. Verified 2026-11-06.
+
+<!-- related-ring -->
+## Related entries
+
+- [Talking about pain: describe it before you name it](/en/knowledge/pain-communication/)
+- [Plantar Heel Pain — What the First Step in the Morning Means](/en/knowledge/plantar-fasciitis/)
+- [Pre-Participation Heart Screening: Differing Guidelines, Warning Signs and the Limits of Screening](/en/knowledge/pre-participation-heart-screening/)

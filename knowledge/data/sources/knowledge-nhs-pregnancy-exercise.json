@@ -1,0 +1,48 @@
+{
+  "sourceId": "knowledge-nhs-pregnancy-exercise",
+  "title": "Exercise in pregnancy",
+  "url": "https://www.nhs.uk/pregnancy/keeping-well/exercise/",
+  "publisher": "National Health Service (NHS UK)",
+  "publishedAt": null,
+  "accessedAt": "2026-11-25",
+  "claims": [
+    "NHS recommends aiming for 150 minutes of moderate-intensity activity per week in pregnancy, including muscle strengthening exercises; moderate activity means you should be able to talk but not sing.",
+    "It is not recommended to start a new vigorous activity in pregnancy, such as running.",
+    "Sports or activities with a risk of falling or being hit in the abdomen should be avoided; in later pregnancy, avoid lying flat on the back for more than a few minutes.",
+    "Drink water to stay hydrated, keep cool, tell the instructor you are pregnant, and stop if you feel uncomfortable, too hot or unwell."
+  ],
+  "license": "Crown copyright; citation and summary only",
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-25",
+    "checkedVia": "WebFetch https://www.nhs.uk/pregnancy/keeping-well/exercise/ 正文各节",
+    "note": "读取 Benefits、How much exercise、Getting started、Exercise in later pregnancy、How to exercise safely 的 Do/Don't 列表。页面最后审阅 2026-09-23。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "原文：“It's recommended you aim for 150 minutes (2 and a half hours) of moderate intensity activity a week, including muscle strengthening exercises.”；“When you're doing moderate activity, you should be able to talk but not sing.”"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "原文：“It's not recommended to start a new vigorous activity in pregnancy, such as running.”"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "Don't 列表：“do not do sports or activities where there's a risk of falling or bumping your tummy”；Exercise in later pregnancy：“try to avoid any activity that involves lying flat on your back for more than a few minutes”。"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "Do 列表：tell the trainer you're pregnant、drink water to keep hydrated、try to keep cool；“stop if you feel uncomfortable, too hot or unwell”。"
+    }
+  ]
+}

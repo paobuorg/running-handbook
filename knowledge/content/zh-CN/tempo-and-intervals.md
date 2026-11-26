@@ -104,9 +104,16 @@ translationStatus: reviewed
 
 - [easy-run](https://learn.paobu.org/articles/easy-run/)
 
-- [80/20 极化训练——研究观察到的分布，不是必须执行的处方](https://learn.paobu.org/articles/polarized-training-80-20/)
+- [80/20 极化训练——研究观察到的分布，不是必须执行的处方](/knowledge/polarized-training-80-20/)
 - [呼吸节奏：用它判断强度，不要硬套节拍](https://learn.paobu.org/articles/breathing-and-rhythm/)
 
 ## 来源与适用范围
 
 强度判断参考 CDC 的身体活动强度与谈话测试说明；伤病比例与证据冲突参考 Journal of Athletic Training 的系统综述；表现多因素与生理指标测量差异参考 2026 年生理学综述。本文是训练安排的一般框架，不替代教练、医疗或个体化评估。核验日期为 2026-11-06
+
+<!-- related-ring -->
+## 相关条目
+
+- [越野超马训练计划：爬升、time-on-foot、夜间、负重与背靠背长课](/knowledge/trail-ultra-training-plan/)
+- [训练日志：记录能改变决策的变量](/knowledge/training-log/)
+- [配速区间：官方口径、教练体系与能核验的部分](/knowledge/training-pace-zones/)

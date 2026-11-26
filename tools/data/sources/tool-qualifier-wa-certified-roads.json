@@ -1,0 +1,41 @@
+{
+  "sourceId": "tool-qualifier-wa-certified-roads",
+  "title": "Certified Road Events — World Athletics",
+  "url": "https://worldathletics.org/records/certified-roadevents",
+  "publisher": "World Athletics",
+  "publishedAt": null,
+  "accessedAt": "2026-11-25",
+  "claims": [
+    "Certified road events hold a valid International Course Measurement Certificate issued by an approved measurer; the certificate is valid for five years.",
+    "Certification checks the start–finish separation and the allowed elevation drop over the course, alongside the measuring procedure itself.",
+    "Race results used for entry or qualification must come from a course whose certification is in force; an expired or missing certificate invalidates the result for that purpose."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-25",
+    "checkedVia": "web_fetch 读取 World Athletics Certified Road Events 页正文",
+    "note": "2026-11-25 直接读取页面认证条件与证书有效期说明。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "页面说明赛事须持有经认证丈量员签发的国际赛道丈量证书，证书五年有效。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "页面认证条件包含起终点间距与赛道允许海拔落差核查。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "页面：证书失效或缺失的赛道，其成绩不能作为认证成绩使用。"
+    }
+  ]
+}

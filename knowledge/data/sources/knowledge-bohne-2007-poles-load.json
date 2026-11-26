@@ -1,0 +1,48 @@
+{
+  "sourceId": "knowledge-bohne-2007-poles-load",
+  "title": "Effects of hiking downhill using trekking poles while carrying external loads",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/17218900/",
+  "publisher": "Medicine & Science in Sports & Exercise",
+  "publishedAt": "2007-01-01",
+  "accessedAt": "2026-11-25",
+  "claims": [
+    "Fifteen experienced male hikers were tested with and without poles across three pack conditions: no pack, day pack at 15% body weight, and large expedition pack at 30% body weight.",
+    "Pole use significantly reduced the sagittal-plane moment at each lower extremity joint and reduced peak power absorption at the ankle and knee.",
+    "These reductions held across pack conditions; the pack only produced larger power generation at the hip.",
+    "The authors conclude reduced forces, moments and power around the joints help lower loading on the lower extremity; the study was downhill hiking in experienced males, not trail running."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-25",
+    "checkedVia": "PubMed 摘要全文读取（PMID 17218900, Med Sci Sports Exerc 2007;39(1):177-83）",
+    "note": "摘要可读，逐条核对样本、负重条件、关节力矩与功率吸收结果及结论边界。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "Abstract Methods: 15 experienced male hikers; no pack, day pack 15% BW, large expedition pack 30% BW; poles vs no poles."
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "Abstract Results: significant reduction in sagittal plane moment at each lower extremity joint; reductions in peak power absorption for ankle and knee."
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "Abstract Results: results held true across pack conditions; packs only resulted in larger power generation at the hip."
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "Abstract Conclusion: reduced forces, moments, power help reduce lower-extremity loading；方法为下坡徒步、经验男性；跑步外推边界为本页编辑归纳。"
+    }
+  ]
+}

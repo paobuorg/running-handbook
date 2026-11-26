@@ -144,3 +144,10 @@ This page is health education and source summarisation. It does not provide clin
 - Williams et al., Performance of the AHA 14-Point Evaluation Versus Electrocardiography…, J Am Heart Assoc 2019: high false-positive rate, poor sensitivity and very low positive predictive value for the 14-point evaluation; ECG performed better when read by experienced clinicians.
 
 Verified on 2026-11-07.
+
+<!-- related-ring -->
+## Related entries
+
+- [Running during pregnancy and after birth: boundaries, red flags and the return-to-run window](/en/knowledge/pregnancy-and-postpartum-running/)
+- [Return to running after injury: staged gates, reinjury criteria and progression boundaries](/en/knowledge/return-to-running/)
+- [Running across life: women, older runners and chronic conditions](/en/knowledge/running-across-life/)

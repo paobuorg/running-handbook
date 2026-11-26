@@ -1,0 +1,41 @@
+{
+  "sourceId": "tool-timeline-warmup-2021",
+  "title": "The Effect of Static and Dynamic Stretching during Warm-Up on Running Economy and Perception of Effort in Recreational Endurance Runners",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8391672/",
+  "publisher": "International Journal of Environmental Research and Public Health (MDPI)",
+  "publishedAt": "2021-08-08",
+  "accessedAt": "2026-11-25",
+  "claims": [
+    "The studied warm-up combined 10 minutes of running with 5 minutes of static or dynamic stretching; the no-stretching session consisted of 15 minutes of running.",
+    "Both static and dynamic stretching within the warm-up improved running economy and lowered perceived exertion compared with running only, in recreational endurance runners.",
+    "Stretching duration matters: medium stretch durations (at most about 90 s) were associated with improved running economy, while long durations (at least 120 s) showed no beneficial effect."
+  ],
+  "license": "CC-BY-4.0",
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-25",
+    "checkedVia": "web_fetch 读取 PMC 摘要、方法与讨论段",
+    "note": "2026-11-25 直接读取正文；热身结构、跑步经济与 RPE 结果、拉伸时长口径均见原文。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "方法段：SS/DS 热身 = 10 分钟跑步 + 5 分钟拉伸；NS = 15 分钟跑步。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "结果段：SS 与 DS 均改善跑步经济（p<0.05 / p<0.01），RPE 显著低于 NS。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "讨论段引用文献：≤90 s 中等拉伸时长改善跑步经济，≥120 s 长拉伸无收益。"
+    }
+  ]
+}

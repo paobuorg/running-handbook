@@ -138,3 +138,10 @@ NHS 给出的就医条件：
 - NHS，Plantar fasciitis（2025-02-14 复审）：症状时间点、自我处理、风险因素、2 周就医门槛。
 - AAOS，Plantar Fasciitis and Bone Spurs：每年约 200 万患者、90% 在 10 个月内改善、骨刺与疼痛的关系、10 秒 × 20 次拉伸、冰瓶 20 分钟、夜间夹板、12 个月手术门槛。
 - NHS，Knee pain and other running injuries：跑者足跟痛的处理与停跑条件。
+
+<!-- related-ring -->
+## 相关条目
+
+- [体检与心脏筛查：机构口径、警示信号与「筛查不等于排除」](/knowledge/pre-participation-heart-screening/)
+- [孕期与产后跑步：边界、红旗信号与回归时间窗](/knowledge/pregnancy-and-postpartum-running/)
+- [伤后复跑：分阶段闸门、再伤判据与训练增量边界](/knowledge/return-to-running/)

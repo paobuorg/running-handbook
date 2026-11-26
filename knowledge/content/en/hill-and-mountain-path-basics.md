@@ -97,3 +97,10 @@ This page is introductory and does not cover race tactics, technical descents or
 ## Sources and scope
 
 Trip planning, weather preparation and the Plan B follow US National Park Service "Hike Smart" advice; the ten essentials follow its "Ten Essentials"; the half-water rule and lighting follow its hiking safety page; hill biomechanics follow biomechanics research. Verified 2026-11-06.
+
+<!-- related-ring -->
+## Related entries
+
+- [Lightning and thunderstorm safety: recognition, descent, crouch and race stop](/en/knowledge/lightning-and-storm-safety/)
+- [Night running and traffic: be seen before you are fast](/en/knowledge/night-running-and-traffic/)
+- [Route safety: write the plan, weather and escape route first](/en/knowledge/route-safety/)

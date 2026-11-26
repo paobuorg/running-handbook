@@ -1,0 +1,41 @@
+{
+  "sourceId": "knowledge-kahtoola-microspikes",
+  "title": "Kahtoola MICROspikes Footwear Traction — product specifications",
+  "url": "https://kahtoola.com/traction/renewed-microspikes-footwear-traction/",
+  "publisher": "Kahtoola",
+  "publishedAt": null,
+  "accessedAt": "2026-11-25",
+  "claims": [
+    "MICROspikes carry twelve stainless steel spikes per foot with a 3/8 in spike length; pair weight is S 11 oz / 312 g, M 11.9 oz / 338 g, L 13.1 oz / 372 g, XL 13.5 oz / 382 g; packed size is 13 x 8 x 5 cm.",
+    "The TPE harness retains its elasticity down to -22 F (-30 C); an integrated toe bail keeps the toe from pushing through the harness, and a raised heel tab aids donning with cold or gloved hands.",
+    "The product is best suited to hiking, backpacking and trekking on steep mountainous terrain; care is lukewarm water wash and air-dry, inspect before each use, and remove the device from footwear between uses."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-25",
+    "checkedVia": "web_fetch 读取 Kahtoola 官方产品页 Feature Details 与 Product Specifications",
+    "note": "2026-11-25 直取官方 renewed MICROspikes 页，读取 FEATURE DETAILS 三条、PRODUCT SPECIFICATIONS 与 Care 段。该页列出 S–XL 重量；XS/XXL 重量未在本页正文出现，故不引用。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "Feature Details：Twelve Stainless Steel Spikes Per Foot，3/8\" spikes；Specifications：Weight (pair) S 11 oz/312 g、M 11.9 oz/338 g、L 13.1 oz/372 g、XL 13.5 oz/382 g；Packed Size 5 x 3 x 2 in / 13 x 8 x 5 cm。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "Feature Details：TPE harness retains elasticity down to -22 F (-30 C)；Integrated Toe Bail；Raised Heel Tab for cold or gloved hands。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "页首 Best for: hiking, backpacking and trekking on steep, mountainous terrain；Care：lukewarm water and air-dry, inspect before each use, remove between uses。"
+    }
+  ]
+}

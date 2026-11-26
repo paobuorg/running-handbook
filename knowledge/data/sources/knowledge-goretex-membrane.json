@@ -1,0 +1,41 @@
+{
+  "sourceId": "knowledge-goretex-membrane",
+  "title": "GORE-TEX Membrane — waterproof, breathable and windproof performance",
+  "url": "https://www.gore-tex.com/technology/membrane",
+  "publisher": "GORE-TEX Brand (W. L. Gore & Associates)",
+  "publishedAt": null,
+  "accessedAt": "2026-11-25",
+  "claims": [
+    "GORE-TEX laminates consistently meet a waterproofing standard of over 28,000 mm water column; the membrane is a bi-component expanded polyethylene (ePE) or expanded PTFE layer combined with polyurethane (PU).",
+    "Breathability and windproofness are tested in the laboratory using ISO standards, comfort simulations and intensive wear trials; wind cannot get in while perspiration can get out.",
+    "Waterproof seam tape complements the laminate to seal stitching and prevent water penetration; the membrane is bonded to outer face textiles and, in many instances, backer textiles to form the laminate."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-25",
+    "checkedVia": "web_fetch 读取 GORE-TEX 官方技术页正文",
+    "note": "2026-11-25 直取官方 membrane 页，读取 Durably Waterproof、Reliably Breathable、Totally Windproof 与 High-Performance Laminates 段。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "原文：\"GORE-TEX Laminates consistently meet our high waterproofing standard of over 28,000 millimeters (mm) water column\"；bi-component ePE or ePTFE combined with PU。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "原文：breathability tested \"in laboratory environments using ISO standards, comfort simulations, and intensive wear trials\"；wind section：\"wind can't get in, but perspiration can get out\"。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "原文：\"the laminate is complemented by waterproof seam tape, which seals the seams and prevents water from penetrating through the stitching\"；membrane bonded to face textiles and backer textiles。"
+    }
+  ]
+}

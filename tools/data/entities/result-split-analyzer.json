@@ -1,0 +1,158 @@
+{
+  "entityId": "tool:result-split-analyzer",
+  "slug": "result-split-analyzer",
+  "kind": "tool",
+  "status": "published",
+  "riskLevel": "general",
+  "sourceRefs": [
+    "tool-split-abbiss-2008",
+    "tool-split-marathon-slowing-2015",
+    "tool-split-boston-patterns-2026"
+  ],
+  "relatedRefs": [
+    "knowledge:race-day-pacing",
+    "knowledge:training-log",
+    "knowledge:running-dynamics-metrics",
+    "tool:splits",
+    "tool:race-predict"
+  ],
+  "license": "CC-BY-4.0",
+  "createdAt": "2026-11-25",
+  "updatedAt": "2026-11-26",
+  "reviewedAt": "2026-11-26",
+  "reviewDueAt": "2027-11-25",
+  "translations": [],
+  "details": {
+    "toolId": "tool:result-split-analyzer",
+    "specVersion": "1.0.0",
+    "inputs": [
+      {
+        "name": "splits",
+        "type": "array",
+        "unit": "rows",
+        "required": true,
+        "labels": {
+          "zh-CN": "累计分段（公里,累计分钟）",
+          "en": "Cumulative splits (km, elapsed minutes)"
+        }
+      },
+      {
+        "name": "targetFinishMinutes",
+        "type": "number",
+        "unit": "min",
+        "required": true,
+        "minimum": 1,
+        "maximum": 600,
+        "labels": {
+          "zh-CN": "目标完赛用时（分钟）",
+          "en": "Target finish time (minutes)"
+        }
+      },
+      {
+        "name": "splitKm",
+        "type": "enum",
+        "unit": "km",
+        "required": true,
+        "enumValues": [
+          "1",
+          "5",
+          "10"
+        ],
+        "labels": {
+          "zh-CN": "分段距离",
+          "en": "Split distance"
+        }
+      }
+    ],
+    "outputs": [
+      {
+        "name": "firstHalfSeconds",
+        "type": "number",
+        "unit": "s",
+        "required": true,
+        "labels": {
+          "zh-CN": "前半程用时",
+          "en": "First-half time"
+        }
+      },
+      {
+        "name": "secondHalfSeconds",
+        "type": "number",
+        "unit": "s",
+        "required": true,
+        "labels": {
+          "zh-CN": "后半程用时",
+          "en": "Second-half time"
+        }
+      },
+      {
+        "name": "fadePercent",
+        "type": "number",
+        "unit": "%",
+        "required": true,
+        "labels": {
+          "zh-CN": "后半程掉速幅度",
+          "en": "Second-half fade"
+        }
+      },
+      {
+        "name": "fadePointKm",
+        "type": "number",
+        "unit": "km",
+        "required": false,
+        "labels": {
+          "zh-CN": "首次明显掉速点",
+          "en": "First marked fade point"
+        }
+      },
+      {
+        "name": "variabilityPercent",
+        "type": "number",
+        "unit": "%",
+        "required": true,
+        "labels": {
+          "zh-CN": "配速波动系数",
+          "en": "Pace variability"
+        }
+      },
+      {
+        "name": "verdict",
+        "type": "enum",
+        "unit": null,
+        "required": true,
+        "enumValues": [
+          "even",
+          "positive-split",
+          "fade"
+        ],
+        "labels": {
+          "zh-CN": "分段判定",
+          "en": "Split verdict"
+        }
+      },
+      {
+        "name": "gapToTargetMinutes",
+        "type": "number",
+        "unit": "min",
+        "required": true,
+        "labels": {
+          "zh-CN": "与目标完赛差距",
+          "en": "Gap to target finish"
+        }
+      }
+    ],
+    "formulaDescription": "Require 2–40 checkpoints with strictly increasing positive km and non-decreasing positive elapsedMinutes; a decreasing elapsed time is an order error. Adjacent cumulative differences give each segment's time and distance. Total time is the last elapsed checkpoint. Interpolate the elapsed time at half the total distance; firstHalfSeconds and secondHalfSeconds split the race there. first-half and second-half paces use their respective half distances; fadePercent = (second-half pace / first-half pace − 1) × 100, one decimal. fadePointKm is the first checkpoint whose segment pace exceeds the overall average pace by 15%; null if none. variabilityPercent = population stdev of segment paces / mean segment pace × 100, one decimal. verdict: fadePercent ≥ 8% is fade; ≥ 2% is positive-split; otherwise even. gapToTargetMinutes = total elapsed minutes − targetFinishMinutes, one decimal.",
+    "assumptions": [
+      "Checkpoint times are official cumulative splits; GPS pause, toilet stops and crowd congestion are not separated out.",
+      "Pace comparisons assume level running; climbs, descents and wind change segment pace independent of fitness, so a slow segment is not automatically a fitness problem.",
+      "The 15% fade-point cue and 2%/8% verdict bands are heuristics drawn from endurance pacing studies, not universal medical or performance limits.",
+      "Half-split classification uses distance-based halves; races with irregular checkpoint spacing have wider interpolation uncertainty."
+    ],
+    "rounding": "Half times round to whole seconds; fade and variability percents keep one decimal; the gap to target keeps one decimal minute.",
+    "caseRefs": [
+      "case-result-split-analyzer-typical",
+      "case-result-split-analyzer-boundary",
+      "case-result-split-analyzer-invalid"
+    ]
+  }
+}

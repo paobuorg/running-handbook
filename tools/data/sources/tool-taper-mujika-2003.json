@@ -1,0 +1,48 @@
+{
+  "sourceId": "tool-taper-mujika-2003",
+  "title": "Scientific bases for precompetition tapering strategies (Mujika & Padilla, 2003)",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/12840640/",
+  "publisher": "PubMed / Medicine & Science in Sports & Exercise",
+  "publishedAt": null,
+  "accessedAt": "2026-11-25",
+  "claims": [
+    "A taper is a progressive, non-linear reduction of training load intended to reduce accumulated fatigue without compromising adaptations.",
+    "The taper should maintain training intensity, reduce training volume by up to 60-90%, and slightly reduce training frequency by no more than 20%.",
+    "Optimal taper duration ranges from 4 to more than 28 days, and progressive non-linear tapers outperform step tapers.",
+    "Performance usually improves by about 3%, with a typical range of 0.5-6.0%, across cardiorespiratory, metabolic, hematological, hormonal, neuromuscular and psychological status."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-25",
+    "checkedVia": "web_fetch 读取 PubMed 摘要正文",
+    "note": "2026-11-25 直接读取 12840640 摘要全文。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "摘要：progressive nonlinear reduction of the training load；minimize accumulated fatigue without compromising adaptations。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "摘要：maintaining training intensity, reducing volume (up to 60-90%), frequency no more than 20%。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "摘要：optimal duration 4 to more than 28 d；progressive nonlinear tapers more beneficial。"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "摘要：about 3% improvement, usual range 0.5-6.0%，涵盖心肺、代谢、血液、激素、神经肌肉与心理状态。"
+    }
+  ]
+}

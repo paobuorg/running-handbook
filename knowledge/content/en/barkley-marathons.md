@@ -206,3 +206,10 @@ Every factual sentence in this page is attributed in the text. Verified on 8 Nov
 - Tennessee State Parks, "Frozen Head State Park". Used for: more than 24,000 acres, the Cumberland Mountains, the 3,324-foot peak, the Wartburg address, and the renovation closures and Chimney Top Trail status (claims 0–5). A venue-manager page, not a race publication. https://tnstateparks.com/parks/frozen-head
 
 This page is a cultural explainer, not entry advice. The Barkley has no public entry process and no official course, so any "entry guide", "course GPX" or "cut-off table" lacks a verifiable official source.
+
+<!-- related-ring -->
+## Related entries
+
+- [Classic races and their history: versions, tradition and conditions](/en/knowledge/classic-races-and-history/)
+- [Core running terms: pace, RPE, cadence and training language](/en/knowledge/core-terms/)
+- [Why the marathon is 42.195 kilometres](/en/knowledge/marathon-distance/)

@@ -2,7 +2,7 @@
 entityId: knowledge:cardiac-emergency-in-running
 locale: en
 title: "Cardiac emergencies in running: recognise, call, activate the chain"
-summary: "A cardiac emergency in running means chest pain, fainting, loss of consciousness or unusual palpitations during or just after a run. This page covers recognition, calling, describing your location and finding medical points — not CPR parameters, and it does not replace training."
+summary: "A cardiac emergency in running means chest pain, fainting, loss of consciousness or unusual palpitations during or just after a run. This page follows AHA/ERC adult BLS guidelines on recognition, calling for help, chest-compression parameters and AED order; it does not replace training or provide a diagnosis."
 aliases: ["cardiac arrest while running", "chest pain while running", "fainting during a race", "race medical emergency", "cardiac emergency while running"]
 authors:
   - runmap-editorial
@@ -11,91 +11,114 @@ reviewers:
 translationStatus: reviewed
 ---
 
-## Disclaimer and scope
+## What this page covers, and when it applies
 
-**This page does not replace first-aid training.** If someone collapses, is unresponsive or is not breathing normally, call emergency services immediately and follow the dispatcher's instructions. A cardiac emergency in running means a potentially life-threatening circulatory or breathing event during or just after a run — chest pain, fainting, loss of consciousness or unusual palpitations. It applies when you are willing to stop and ask for help. It covers recognition and activating the emergency chain only. It gives **no compression depth, no ventilation ratio, no AED pad or shock steps, no drugs, no diagnosis and no judgment about an individual case**.
+This page covers how to recognise cardiac arrest at a running scene, call for help, start bystander cardiopulmonary resuscitation (CPR) and use an automated external defibrillator (AED) in the basic order. Content follows the American Heart Association (AHA) 2020 adult life-support guidelines and the European Resuscitation Council (ERC) 2021 basic life-support guidelines. It is general public first-aid education: it cannot replace hands-on training in a certified first-aid course, and it does not diagnose individuals or assess prior medical history.
 
-## Signals: when you must stop
+Chest pain, fainting, loss of consciousness or unusual palpitations during or just after a run are emergency scenes needing immediate on-site action. An untrained bystander can recognise, call for help, compress the chest, and fetch and operate the AED; diagnosis, medication and advanced life support are completed by professionals.
 
-| Signal | What to do | What not to do |
-| --- | --- | --- |
-| Chest pressure or crushing pain, or pain spreading to arm, jaw or back | Stop, sit or lie semi-reclined, call emergency services | "Two more kilometres to see how it goes" |
-| Fainting, greying vision or loss of consciousness during or just after running | Treat as an emergency; call immediately | Stand the person up to walk or run on |
-| Palpitations with dizziness, breathlessness, cold sweat or a sense of doom | Stop, sit down, call emergency services | Drive yourself home |
-| Breathlessness that does not settle when you slow down | Stop and call emergency services | Try to breathe through it |
-| Mild chest tightness that eases with rest | Stop for the day and get medical review soon | Run the next hard session as planned |
+## First recognise: unresponsive with no normal breathing
 
-The American Heart Association 2020 guidelines use "unresponsive with absent or abnormal breathing" as the recognition trigger for bystander action in adults (AHA 2020). That trigger answers only one question: call now or not. It is not instruction to treat someone yourself.
+The guideline field definition of adult cardiac arrest is an unresponsive person with absent or abnormal breathing. The recognition steps are:
 
-## After stopping: the four-step chain
+- Gently shake both shoulders and shout to check for a response.
+- Open the airway; look, listen and feel for breathing for no more than 10 seconds.
+- No breathing, or only slow, laboured, occasional gasping (agonal breathing), counts as cardiac arrest.
+- A brief seizure may occur at the start; after it stops, if the person remains unresponsive with abnormal breathing, treat it as arrest.
+- Lay rescuers are not required to check a pulse; if pulse cannot be confirmed, start CPR rather than delaying compressions while searching for a pulse.
 
-1. Stop the run. Sit or lie the person down, loosen tight clothing, and do not let them leave alone or drive home.
-2. Call: in mainland China the national pre-hospital emergency number is **120** (Article 13, Pre-hospital Emergency Care Regulation). At a race, also send the nearest marshal or volunteer to the medical point.
-3. Get the device: send someone for the nearest AED. China's 2021 public-access AED configuration guidance asks public venues to install AEDs with clear signage and quick access.
-4. Follow the dispatcher: dispatch centres can guide callers through recognition and immediate response (ILCOR 2020, ERC 2021). If the person is not breathing normally, start chest compressions at 100–120 per minute for an adult and rotate the rescuer every 2 minutes; use the AED as soon as it arrives and follow its voice prompts, with the first shock window usually measured in 3–5 minutes. Do not self-transport, and do not let the person "finish the race first".
+Agonal gasping is easily mistaken for "still breathing". It appears in about half of arrest victims and counts as abnormal breathing, not normal breathing.
 
-## Describing your location to the dispatcher
+## The chain of survival: what a bystander completes
 
-- In a race: name the event, the nearest kilometre marker or aid station number, the direction of travel and which side of the course.
-- In training: street name and number, a clear landmark, the nearest entrance; share your phone location.
-- Add: how many people, approximate age, whether awake, whether breathing normally, whether someone is already helping.
+The AHA adult out-of-hospital cardiac arrest chain is: recognition and activation of the emergency response, bystander CPR, early defibrillation, and post-arrest supportive care. The ERC chain is early recognition, CPR, defibrillation, advanced life support and post-resuscitation care. A bystander can complete the first two links directly and fetch an AED nearby.
 
-Specific locations get help there faster. Write the medical points and assembly areas on the back of your bib before the start.
+For shockable rhythms such as ventricular fibrillation or pulseless VT, high-quality bystander CPR and early defibrillation are the critical links to survival. Delay at any link lowers the chance of survival. Note: this page has not verified a single guideline figure for how much survival drops per minute of delay to CPR or defibrillation; that is evidence-insufficient here, so no specific percentage is written.
 
-## Finding medical points and AEDs
+## On-site sequence
 
-- Check the race handbook or website for medical points, AEDs, sweep vehicles and assembly areas, and note them down.
-- Medical points are usually near the start, finish and major aid stations, but exact placement differs by event and this site has no full dataset (**unknown**).
-- World Athletics' Competition Medical Guidelines (October 2020, second edition) recommend that organisers plan medical services, medical points and emergency transfer routes, coordinated with local emergency services; the document uses "should" rather than "must".
+1. Make sure you, the victim and bystanders are safe before approaching.
+2. Check response and breathing; once unresponsive with no normal breathing, call for help immediately.
+3. Send someone to call the local emergency number (120 in mainland China) and fetch the nearest AED; a lone rescuer can use a phone on speaker and start CPR while talking to the dispatcher.
+4. Lay the victim on their back on a firm surface and start chest compressions.
+5. When the AED arrives, follow its prompts and continue CPR alongside it.
+6. Continue until professionals take over, the victim wakes and breathes normally and moves, or the rescuer is exhausted.
 
-## Why you cannot just carry on
+If alone without a phone, the ERC guideline advises activating EMS first and then starting CPR; with a phone, calling and CPR should proceed as simultaneously as possible.
 
-After fainting, chest pain or unusual palpitations, "I feel fine now" is not a criterion for continuing. On-site medical staff decide whether an athlete continues or is transferred (World Athletics 2020); this page does not judge an individual case or give a return-to-racing timeline. Even with full symptom resolution, arrange medical review soon after the race.
+## On-site quick reference
 
-## Screening cannot rule out risk
+| On-site observation | Preliminary judgement | First action |
+|---|---|---|
+| Unresponsive, no breathing or only agonal gasping | Treat as cardiac arrest | Call emergency services, start CPR, send someone for the AED |
+| Responsive, breathing normally | Arrest not confirmed | Stay with and observe; call for help if symptoms worsen or consciousness changes |
+| Chest pain or fainting with brief recovery | Still needs medical assessment | Stop running, seek medical care promptly |
+| Unresponsive with abnormal breathing after a seizure stops | Treat as cardiac arrest | Call for help and start CPR; do not wait for another seizure |
 
-Pre-participation questionnaires, ECG and similar screening can find some risk but cannot exclude an event during a race (see [pre-participation heart screening](https://learn.paobu.org/en/articles/pre-participation-heart-screening/)). That is why the event's emergency chain and individual recognition both matter: screening lowers probability, the chain changes the outcome.
+## Common bystander questions
+
+Action is possible without training: guidelines allow untrained or unwilling rescuers to give continuous compressions only, and the device guides later steps by voice. Fear of "wrong hand position" or "causing injury" should not delay starting; hesitating compressions for a presumed arrest carries more risk than compressing someone later found not to be in arrest. Confirm scene safety before acting, so you do not step into traffic, water or other danger yourself.
+
+## High-quality compression parameters (adult)
+
+The following parameters come from the AHA 2020 and ERC 2021 adult BLS guidelines:
+
+- Hand position: centre of the chest, lower half of the sternum.
+- Depth: at least 5 cm but not more than 6 cm (AHA: at least 2 inches / 5 cm, avoid greater than 2.4 inches / 6 cm).
+- Rate: 100-120 compressions per minute.
+- Allow complete chest-wall recoil after each compression; do not lean on the chest between compressions.
+- Compression-to-ventilation ratio 30:2 (before an advanced airway); rescuers untrained, unwilling or unable to give breaths may give continuous compressions only.
+- With two or more rescuers, rotate compressors about every 2 minutes so compression depth and rate do not drop with fatigue.
+
+Position, depth, rate and recoil together define CPR quality; meeting only one of them does not count as high-quality CPR.
+
+## AED order
+
+Once the AED arrives:
+
+1. Switch it on immediately and follow the spoken and/or visual prompts.
+2. Attach the electrode pads to the bare chest (usually antero-lateral); if a second rescuer is present, continue CPR while pads are attached.
+3. While the device analyses the rhythm, ensure nobody touches the victim.
+4. If a shock is advised, confirm nobody is touching the victim and press the shock button; if no shock is advised, do not press it.
+5. After the shock, or if no shock was advised, resume CPR immediately and continue per AED prompts; the device usually prompts the next rhythm analysis after about 2 minutes of CPR.
+6. Once the defibrillator is ready, do not delay defibrillation to complete a few more CPR cycles.
+
+AEDs are designed for lay use: they judge the rhythm and advise whether to shock, so a bystander does not need to diagnose the arrhythmia first. Excessive chest hair can be removed quickly, but this must not significantly delay defibrillation.
+
+## Worked example: 30:2 cycles and the 2-minute rotation (estimated from guideline parameters)
+
+Compression rate is 100-120 per minute. Thirty compressions take about 30 ÷ 100 × 60 = 18 seconds at 100/min and about 30 ÷ 120 × 60 = 15 seconds at 120/min; two rescue breaths take about 1 second each, so one 30:2 cycle runs about 17-20 seconds. About 5 cycles approach 2 minutes, when the compressor should rotate. This is a time estimate from guideline parameters; actual rhythm follows AED prompts, victim response and the scene.
 
 ## Common misconceptions
 
-- "Young and fit means it cannot happen": training volume and age do not exclude risk.
-- "Stopping is more dangerous": with the signals above, continuing adds risk.
-- "Someone is doing CPR, so it must be fine": you cannot judge the outcome from that.
-- "Driving is faster than waiting": do not self-transport; follow the dispatcher.
-- "The race has medical cover, so I do not need to know where": if you cannot find it under stress, it is not there for you.
+- Waiting for the ambulance before acting. Bystander CPR and early defibrillation are the survival-critical links; compressions do not stop while waiting for professionals.
+- Treating agonal gasping as normal breathing. Slow, laboured sigh-like gasping is an arrest signal, not "still breathing".
+- Pressing harder is always better. The depth ceiling is 6 cm; excessive depth can cause injury, and full chest recoil matters just as much.
+- Touching the victim during AED analysis or shock. Everyone must be clear during rhythm analysis and when the shock button is pressed.
+- Giving up after one round of CPR. Continue until professionals take over or the victim recovers; CPR alone rarely restores the rhythm directly, but that is no reason to stop early.
 
-## When medical care is mandatory
+## Red flags: call emergency help immediately
 
-Chest pain, fainting, loss of consciousness, persistent palpitations or breathlessness that does not settle are emergencies: call immediately. Seek medical review soon even if symptoms resolve, and do not resume training on your own plan. If on-site staff recommend transfer, cooperate.
+Chest pain, fainting, loss of consciousness, unusual palpitations, severe breathlessness, wheezing, blue lips, or unresponsiveness with abnormal breathing after a seizure: call emergency services and follow the sequence above. These cannot be assessed online on this page and should not be watched on the spot.
 
-## Checklist
+## This page's limits: no diagnosis, no replacement for training
 
-- You know the local emergency number (120 in mainland China).
-- Medical points, AEDs and assembly areas are noted before the race.
-- You can describe a location: event, kilometre marker, direction, landmark.
-- You stay within your training and follow the dispatcher.
-- Someone knows your emergency contact.
-
-## Review rhythm
-
-Treat emergency information as a periodic item: review medical points and assembly areas before every race; review your own and your running partner's first-aid training once a season; and if any signal in the table above appears once, pause training and get medical review, with the return plan set by the clinician rather than by the training plan.
-
-## Limits
-
-This page does not provide compression depth or rate, ventilation ratio, AED pad or shock steps, drugs, diagnosis, sudden-death probabilities or legal conclusions, and it does not judge whether a person may continue. A national Chinese-language competition medical standard and city-level AED placement data are **unknown**.
+This page does not diagnose heart disease, assess prior history or drug interactions, judge whether an incident creates liability or insurance conclusions, or prescribe medication. Guideline parameters come from the public text of the AHA 2020 adult BLS and ERC 2021 BLS; before actually rescuing, complete a certified first-aid course and refresh it regularly, including rescue breaths, AED operation and team coordination. Pre-exercise cardiac risk assessment is in [Pre-participation heart screening](/en/knowledge/pre-participation-heart-screening/); heat emergencies are in [Heat and humidity](/en/knowledge/heat-and-humidity/).
 
 ## Related reading
 
-- [Pre-Participation Heart Screening: Differing Guidelines, Warning Signs and the Limits of Screening](https://learn.paobu.org/en/articles/pre-participation-heart-screening/)
+- [Pre-participation heart screening: who needs assessment and which metrics](/en/knowledge/pre-participation-heart-screening/)
+- [Race-day pacing: why leading is not the same as safe](/en/knowledge/race-day-pacing/)
+- [Heat and humidity: exhaustion, heat stroke and downgrade signals](/en/knowledge/heat-and-humidity/)
+- [Route safety: solo running, weather and visibility](/en/knowledge/route-safety/)
 
-## Sources
+## Sources and scope
 
-- American Heart Association, 2020 Guidelines for CPR and ECC (2020): https://cpr.heart.org/en/resuscitation-science/cpr-and-ecc-guidelines
-- ILCOR, 2020 International Consensus on CPR and ECC Science With Treatment Recommendations (2020): https://www.ilcor.org/
-- European Resuscitation Council, ERC Guidelines 2021 (2021): https://www.erc.edu/
-- Pre-hospital Emergency Care Regulation (National Health and Family Planning Commission Order No. 3), Article 13: https://www.gov.cn/zhengce/2013-11/29/content_5713800.htm
-- Configuration Guidance for Automated External Defibrillators in Public Places (Trial), 2021: https://www.gov.cn/zhengce/zhengceku/2021-12/31/content_5665718.htm
-- Civil Code of the People's Republic of China, Article 184: http://gongbao.court.gov.cn/Details/51eb6750b8361f79be8f90d09bc202.html
-- World Athletics, Competition Medical Guidelines, October 2020, Second Edition: https://worldathletics.org/about-iaaf/documents/health-science
+Arrest recognition, compression depth and rate, compressor rotation, the 30:2 ratio and chain-of-survival links follow the AHA 2020 Guidelines for CPR and ECC Part 3 Adult Basic and Advanced Life Support; recognition criteria, compression parameters and AED sequence follow the ERC Guidelines 2021 Basic Life Support; bystander CPR and wearable-related evidence status follow the ILCOR 2020 CoSTR; domestic calling practice and AED placement follow pre-hospital emergency regulations and the AED configuration guide; race medical arrangements follow the World Athletics medical guidelines. On-site action follows the emergency dispatcher and professional rescuers. Verified 2026-11-26.
 
-General safety information, not medical advice; it does not replace local first-aid training. Verified 2026-11-07.
+<!-- related-ring -->
+## Related entries
+
+- [DNF decision-making: red flags that mean stop, how to withdraw, records, and the persistence-versus-risk line](/en/knowledge/dnf-decision-making/)
+- [Female runners and RED-S: low energy is not “not training hard enough”](/en/knowledge/female-runners-and-red-s/)
+- [Iron and bone health — reading ferritin, energy availability and bone stress injury](/en/knowledge/iron-and-bone-health/)

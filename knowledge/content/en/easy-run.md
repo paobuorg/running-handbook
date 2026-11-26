@@ -97,3 +97,10 @@ This page gives general principles; it does not provide individual pace tables, 
 ## Sources and scope
 
 The talk test and the moderate and vigorous markers follow the U.S. CDC intensity guidance. The weekly recommendation of 150 to 300 minutes moderate, 75 to 150 minutes vigorous and two days of strength work follows the second edition of the Physical Activity Guidelines for Americans. Three runs a week, nine weeks or longer and progression to 30 continuous minutes follow the NHS Couch to 5K page. The heart-rate time constant follows Hunt et al. (2015; 24 healthy men, τ≈57.6 s on a treadmill); the accuracy of wrist optical heart rate during steady running, orienteering and fast arm-movement sports such as badminton and soccer follows Ceugniez et al. (2025; 26 participants, steady running MAPE 1.2%, orienteering 9.5%). Verified 2026-11-07.
+
+<!-- related-ring -->
+## Related entries
+
+- [Half-Marathon Training: Periodisation, the Long Run and Taper Structure](/en/knowledge/half-marathon-training-plan/)
+- [Heart rate drift — why heart rate climbs at the same pace](/en/knowledge/heart-rate-drift/)
+- [How to Set Heart Rate Zones — reserve, formula error and self-checking](/en/knowledge/heart-rate-zones/)

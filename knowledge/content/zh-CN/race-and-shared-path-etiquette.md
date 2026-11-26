@@ -99,3 +99,10 @@ translationStatus: reviewed
 ## 来源与适用范围
 
 号码布不可转让、禁止未报名者陪跑、耳机使用条件和遵守赛事行为准则，参考 BAA 的 2026 波士顿马拉松规则文件；行程计划、通信覆盖、天气与备用方案参考美国国家公园管理局的“Hike Smart”；饮水折返、替代导航、头灯和急救装备参考美国国家公园管理局的徒步安全提示。具体赛事与场地规则需查当届手册和当地管理部门。核验日期为 2026-11-06。
+
+<!-- related-ring -->
+## 相关条目
+
+- [怎样读跑步研究：先看问题，再看结论](/knowledge/reading-running-research/)
+- [纪录与赛道：为什么手表上的好成绩不是纪录](/knowledge/records-and-course-validity/)
+- [跑步文化：赛事规则、纪录认证与读研究的边界](/knowledge/running-culture/)

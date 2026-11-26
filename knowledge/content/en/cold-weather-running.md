@@ -101,3 +101,10 @@ This page does not give field treatment for frostbite or hypothermia or judge wh
 ## Sources and scope
 
 Wind chill, frostbite and hypothermia follow the U.S. National Weather Service cold-weather page and wind-chill chart (defined at 10°C or below with wind above 3 mph; 30/10/5-minute frostbite bands). Air resistance and energy cost follow Pugh 1970 (about 8% at 21.5 km/h; 16% for a 10-second 100 m), a 2025 Journal of Applied Physiology study (metabolic rate linear with the square of relative air speed) and a 2025 numerical simulation (30 km/h headwind +37%, tailwind −9%). Winter route, traction, navigation and plan-sharing follow NPS winter hiking advice; the minimum kit follows NPS Ten Essentials. This is general guidance, not a substitute for local forecasts or medical care. Verified 2026-11-07.
+
+<!-- related-ring -->
+## Related entries
+
+- [Crew and pacer planning: crew cards, handoff points, segmented drop bags and liaison protocol](/en/knowledge/crew-and-pacer-planning/)
+- [Heat and humidity: heat stress, WBGT and downgrade rules](/en/knowledge/heat-and-humidity/)
+- [Hills and mountain paths: a first outing](/en/knowledge/hill-and-mountain-path-basics/)

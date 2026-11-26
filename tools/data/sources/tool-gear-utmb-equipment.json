@@ -1,0 +1,48 @@
+{
+  "sourceId": "tool-gear-utmb-equipment",
+  "title": "2027 UTMB Mont-Blanc Regulations — Equipment",
+  "url": "https://montblanc.utmb.world/races-runners/other-information/regulation",
+  "publisher": "UTMB World Series",
+  "publishedAt": null,
+  "accessedAt": "2026-11-25",
+  "claims": [
+    "Organizers publish a mandatory basic equipment list applicable to all runners, plus additional items that can be activated individually depending on the forecast; runners must start with all basic and activated additional items.",
+    "All mandatory equipment must be carried in a pack or belt, accessible and checkable at any time during the race; marshals can verify packs, and refusal to comply can lead to disqualification.",
+    "Absence of mandatory safety equipment (water reserve, hooded waterproof jacket, headlamp, survival blanket, smartphone) is disqualifying; other missing mandatory equipment carries a time penalty.",
+    "Runners are advised not to choose the lightest possible clothing, but to carry clothing that gives adequate protection against cold, wind, heavy precipitation and snow in mountain terrain."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-25",
+    "checkedVia": "web_fetch 读取 UTMB 2027 规程 EQUIPMENT 与 PENALTIES 段",
+    "note": "2026-11-25 直接读取规程正文；强制装备、抽查与罚则分级均见原文。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "EQUIPMENT 段：basic equipment 全员强制；additional equipment 按天气 24 小时前激活，出发时须全部携带。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "规程：装备须放在背包或腰包内，随时可出示；裁判可在途中抽查，拒绝检查可被取消资格。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "PENALTIES 表：缺少安全强制装备（饮水、带帽防水外套、头灯、保温毯、手机）直接取消资格；其他强制装备缺失处时间罚。"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "EQUIPMENT 段原文：不要一味选最轻服装，应选择能防风、防雨、抗雪与低温的保护层。"
+    }
+  ]
+}

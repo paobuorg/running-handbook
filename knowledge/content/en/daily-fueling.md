@@ -92,3 +92,10 @@ This page does not prescribe calorie, weight-loss or supplement plans, or diagno
 ## Sources and scope
 
 Protein ranges follow the ISSN protein position stand; caffeine follows the ISSN caffeine stand; supplement regulation follows the FDA page; weight factors follow CDC; timing follows the ISSN nutrient-timing stand; fluid needs follow NHS guidance. This is general education, not clinical assessment. Verified 2026-11-06.
+
+<!-- related-ring -->
+## Related entries
+
+- [Sodium and electrolytes: sweat-sodium variation, cramps and the hyponatremia boundary](/en/knowledge/electrolytes-and-sodium/)
+- [Gut training for races: a 4–8 week protocol from 30 to 60–90 g of carbohydrate per hour](/en/knowledge/gut-training-for-races/)
+- [Hydration: daily fluids, sweat losses and exercise fluid boundaries](/en/knowledge/hydration/)

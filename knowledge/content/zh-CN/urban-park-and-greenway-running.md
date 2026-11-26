@@ -60,6 +60,8 @@ translationStatus: reviewed
 
 如果当天温度偏高或前一晚睡眠不足，就在第 3 公里的折返点结束，本次完成 3 公里、约 18 分钟。这样做的意义不是“少跑”，而是让当天的负荷与状态匹配；第二天状态恢复，再回到完整环线。若两处饮水点实际相距超过一圈，应把水随身携带，而不是假设下一圈一定有补给。
 
+绕行与可用时间也可以换算。假设当天只能留出 45 分钟，按假设配速 6:00/公里估算，可完成距离约为 45 ÷ 6 = 7.5 公里；一条主环 6 公里加一条 2 公里支线，支线往返就是 6 + 2 × 2 = 10 公里，超出可用时间，应放弃支线或把主环缩短。若支线是单向前出后原路返回，折返点必须设在体力可回程的位置；以上分钟数和配速都是假设，真实关门或返程判断以现场时间与体力为准。
+
 ## 常见误区
 
 - 认为草地和土路更软，所以一定更安全。软路面减少冲击的同时也增加不稳定，湿滑和坑洞是另一种风险。
@@ -91,9 +93,16 @@ translationStatus: reviewed
 
 ## 相关阅读
 
-- [比赛与共享路面礼仪：规则、空间和安全感](https://learn.paobu.org/articles/race-and-shared-path-etiquette/)
-- [路面选择：没有绝对最好，只有适应过程](https://learn.paobu.org/articles/running-surface/)
+- [比赛与共享路面礼仪：规则、空间和安全感](/knowledge/race-and-shared-path-etiquette/)
+- [路面选择：没有绝对最好，只有适应过程](/knowledge/running-surface/)
 
 ## 来源与适用范围
 
 路面力学与换路面原则参考一项 30 人小样本路面力学研究；跑量与伤病关系的冲突性证据参考跑步伤病综述；每周活动量与力量训练建议参考 CDC 成人活动指南；带水折返和备用导航建议参考 NPS 徒步安全资料。核验日期为 2026-11-06。
+
+<!-- related-ring -->
+## 相关条目
+
+- [滨水与海堤跑步：风、反光与潮汐](/knowledge/waterfront-and-promenade-running/)
+- [压缩衣、按摩与泡沫轴——证据到底支持哪一种恢复](/knowledge/compression-massage-and-foam-rolling/)
+- [训练负荷与过度训练：信号、边界与证据冲突](/knowledge/load-and-overtraining/)

@@ -1,0 +1,50 @@
+{
+  "entityId": "knowledge:trail-ultra-training-plan",
+  "slug": "trail-ultra-training-plan",
+  "kind": "knowledge",
+  "status": "published",
+  "riskLevel": "guidance",
+  "sourceRefs": [
+    "knowledge-minetti-2002-slope-cost",
+    "knowledge-minetti-2002",
+    "knowledge-uphill-downhill-running",
+    "knowledge-nps-ten-essentials",
+    "knowledge-nps-hike-smart",
+    "knowledge-nps-hiking-safety",
+    "knowledge-fhwa-night-visibility",
+    "knowledge-issn-carbohydrate-timing",
+    "knowledge-plos-taper",
+    "knowledge-overtraining-guide",
+    "knowledge-haugen-2022-distance-runners"
+  ],
+  "relatedRefs": [
+    "knowledge:ultra-running-basics",
+    "knowledge:trail-gear",
+    "knowledge:uphill-and-downhill",
+    "knowledge:long-run-fueling",
+    "knowledge:trail-navigation",
+    "route:utmb"
+  ],
+  "license": "CC-BY-4.0",
+  "createdAt": "2026-11-25",
+  "updatedAt": "2026-11-26",
+  "reviewedAt": "2026-11-26",
+  "reviewDueAt": "2027-11-25",
+  "translations": [],
+  "details": {
+    "primaryTopic": "training",
+    "secondaryTopics": [
+      "technique",
+      "safety"
+    ],
+    "contentType": "guide",
+    "audiences": [
+      "intermediate",
+      "advanced"
+    ],
+    "scenarios": [
+      "trail-running",
+      "race-preparation"
+    ]
+  }
+}

@@ -6,7 +6,8 @@
   "riskLevel": "general",
   "sourceRefs": [
     "tool-gpx-standard",
-    "tool-geojson-rfc"
+    "tool-geojson-rfc",
+    "tool-geographiclib-geodesic"
   ],
   "relatedRefs": [
     "tool:track-convert",
@@ -14,9 +15,9 @@
   ],
   "license": "CC-BY-4.0",
   "createdAt": "2026-10-26",
-  "updatedAt": "2026-11-07",
-  "reviewedAt": "2026-11-06",
-  "reviewDueAt": "2027-10-28",
+  "updatedAt": "2026-11-26",
+  "reviewedAt": "2026-11-26",
+  "reviewDueAt": "2027-11-25",
   "translations": [],
   "details": {
     "toolId": "tool:track-view",
@@ -106,7 +107,8 @@
     "rounding": "Distance and elevation gain to the nearest whole metre.",
     "caseRefs": [
       "case-track-view-equator",
-      "case-track-view-elevation"
+      "case-track-view-elevation",
+      "case-track-view-multisegment"
     ]
   }
 }

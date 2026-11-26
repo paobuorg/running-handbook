@@ -1,0 +1,18 @@
+{
+  "caseId": "case-race-qualifier-checker-typical",
+  "toolId": "tool:race-qualifier-checker",
+  "input": {
+    "event": "boston",
+    "sex": "M",
+    "ageOnRaceDay": 32,
+    "qualifyingTimeMinutes": 172,
+    "qualifierCourseCertified": true
+  },
+  "expected": {
+    "requirementMinutes": 175,
+    "bufferMinutes": 3,
+    "eligible": true,
+    "missing": null
+  },
+  "basis": "A 32-year-old man falls in the 18–34 BAA group; the men's standard is 2:55:00 = 175 minutes. Buffer = 175 − 172 = 3 minutes. The course is certified and the time fits, so eligible is true and missing is null. Meeting the standard only opens a Boston application; the capped field can still cut qualifiers."
+}

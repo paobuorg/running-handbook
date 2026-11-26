@@ -1,0 +1,48 @@
+{
+  "sourceId": "knowledge-schwameder-1999-poles-knee",
+  "title": "Knee joint forces during downhill walking with hiking poles",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/10622357/",
+  "publisher": "Journal of Sports Sciences",
+  "publishedAt": "1999-12-01",
+  "accessedAt": "2026-11-25",
+  "claims": [
+    "Eight males walked downhill on a 25-degree ramp with and without hiking poles while kinematic, kinetic and electromyographic data were collected.",
+    "With poles, peak and average ground reaction force, knee joint moment, and tibiofemoral compressive and shear forces were significantly reduced by 12-25%.",
+    "The reductions came primarily from forces applied to the poles and a more forward-leaning upper body that reduced the knee moment arm; patellofemoral compression, quadriceps tendon force and vastus lateralis activity showed similar but non-significant reductions due to high variability.",
+    "This was a downhill walking study in eight males; its load-reduction figures do not transfer directly to trail running."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-25",
+    "checkedVia": "PubMed 摘要全文读取（PMID 10622357, J Sports Sci 1999;17(12):969-78）",
+    "note": "摘要可读，逐条核对受试者、坡度、力矩削减幅度与机制结论。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "Abstract: data collected from eight males during downhill walking on a ramp declined at 25 degrees."
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "Abstract: significant differences for peak/average GRF, knee moment, tibiofemoral compression and shear forces (12-25%)."
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "Abstract: reductions caused by pole forces and more forward-leaning posture reducing the knee moment arm; patellofemoral/quad tendon/vastus lateralis reductions not significant due to high variability."
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "MeSH 与方法为下坡步行、成年男性；摘要未提供跑步外推依据；边界为本页编辑归纳。"
+    }
+  ]
+}

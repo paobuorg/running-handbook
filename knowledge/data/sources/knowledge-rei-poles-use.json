@@ -1,0 +1,55 @@
+{
+  "sourceId": "knowledge-rei-poles-use",
+  "title": "How to Use Trekking Poles and Hiking Staffs",
+  "url": "https://www.rei.com/learn/expert-advice/how-to-use-trekking-poles.html",
+  "publisher": "REI Co-op Expert Advice",
+  "publishedAt": null,
+  "accessedAt": "2026-11-25",
+  "claims": [
+    "A properly adjusted pole rests the elbow at a 90-degree angle when the runner or hiker grips the pole with the tip on the ground near the feet.",
+    "On long uphill sections, shorten each pole by about 5 to 10 cm (2 to 4 inches); the steeper the slope, the shorter the poles, and the shoulders should never feel lifted or pushed into the pack straps.",
+    "On long downhill sections, lengthen each pole by about 5 to 10 cm (2 to 4 inches) from the default setting to stay more upright, improve balance, and place some initial impact on the poles, hands and upper body.",
+    "On a long traverse, shorten the pole on the uphill side and lengthen the pole on the downhill side to stay even on the hillside.",
+    "Trekking poles are not mobility aids and are not designed to support someone's full weight like braces, a walker or a medical cane."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-25",
+    "checkedVia": "WebFetch REI Expert Advice 正文（What's the right length / Adjusting Pole Length 各节）",
+    "note": "页面无发布日期；90 度基准、上下坡与横切长度调整、杖非助行器定位逐条按原文核对。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "原文：\"A properly adjusted pole will allow you rest your elbows at a 90° angle when you grip the poles and tip rests on the ground near your feet.\""
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "原文：\"For long uphill sections: Shorten each pole by about 5 to 10 cm (2 to 4 inches)… The steeper the slope, the shorter your poles should be… shoulders should never feel as if they are in an unnatural, lifted position…\""
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "原文：\"For long downhill sections: Lengthen each pole by about 5 to 10 cm… keeps you more upright, and improves your balance… place some of the initial impact… on your poles, hands and upper body.\""
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "原文：\"If you're on a long traversing section: You can shorten the pole on the uphill side and lengthen the pole on the downhill side… keep you 'even' on the hillside.\""
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "原文：\"trekking poles are excellent tools, they aren't mobility aids and aren't designed to support someone's full weight like braces, a walker or a medical cane would.\""
+    }
+  ]
+}

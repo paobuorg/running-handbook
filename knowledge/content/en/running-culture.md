@@ -98,3 +98,10 @@ This page does not rule on record validity, interpret every event rule or recomm
 ## Sources and scope
 
 Race etiquette follows the Boston Athletic Association's 2026 Boston Marathon Rules and Policies; record categories follow the World Athletics records page; marathon distance follows World Athletics event information; injury proportion follows a Journal of Athletic Training systematic review. This is a reading framework, not a substitute for official rules. Verified 2026-11-06
+
+<!-- related-ring -->
+## Related entries
+
+- [5K/10K race training: period, intensity and taper structure](/en/knowledge/5k-10k-training-plan/)
+- [Cross-training for runners: when to substitute running, how to match effort, and what loses running specificity](/en/knowledge/cross-training-for-runners/)
+- [Cut-off management: reading the timeline, converting checkpoints to pace, and planning your buffer](/en/knowledge/cutoff-management/)

@@ -46,6 +46,19 @@ The sheet describes time structure, not intensity. It does not infer distance fr
 2. Enter whole-second run and walk durations; run must be above zero, walk may be zero, then supply cycles or total duration.
 3. Check the run total, walk total and truncation flag, then copy the segments to a watch or follow the first cycle.
 
+## How to read the inputs: common cycle-count and duration cases
+
+| Case | Run | Walk | Cycles / total | Scheduled result |
+| --- | --- | --- | --- | --- |
+| Fixed rounds | 120 s | 60 s | 3 cycles | 540 s, 6 segments, final complete |
+| Fixed duration | 120 s | 60 s | 400 s | Two full cycles + a 40 s partial run |
+| Running only | 90 s | 0 s | 2 cycles | 180 s, two run segments, no walk rows |
+| Returning after injury | Short run | Longer walk | Per the week's plan | Time structure only, no intensity set |
+
+First decide whether you know the number of rounds or the total time: use cycles mode for a fixed number of run-walk pairs, and duration mode to arrange running and walking inside a total session. Neither mode infers distance, so the same one-minute-on/one-minute-off pair covers very different ground at a jog and at a faster pace; this sheet cannot estimate mileage.
+
+The run segment must be above zero and the walk segment may be zero. Non-integer seconds, cycle counts or total durations outside the limits return an error rather than a silent truncation. Keep warm-up, cool-down and waiting time out of the total, because every scheduled second belongs to a run or walk segment.
+
 ## Limits and when not to use it
 
 Run duration must be a positive whole number of seconds and walk duration may be zero. Cycles range from 1 to 1,000; total duration is at most seven days; the plan is limited to 3,000 segments. These limits make the arithmetic executable, not the plan appropriate for your fitness or injury status. The tool does not judge whether a ratio is sensible. It is not suitable for distance- or pace-based sessions and is not a medical clearance. Seek qualified medical or sports advice if you are unwell, injured or at cardiovascular risk.
@@ -58,9 +71,10 @@ Do not use it as an intensity prescription, a return-to-running clearance or a r
 
 ## Related reading
 
-- [The long run: distance, pace and execution](https://learn.paobu.org/en/articles/long-run/)
-- [Return to running: stages and gates](https://learn.paobu.org/en/articles/return-to-running/)
-- [What easy running really means](https://learn.paobu.org/en/articles/easy-run/)
+- [The long run: distance, pace and execution](/en/knowledge/long-run/)
+- [Return to running: stages and gates](/en/knowledge/return-to-running/)
+- [What easy running really means](/en/knowledge/easy-run/)
+- [Pace calculator: distance, time, pace and speed](/en/tools/pace/)
 
 ## Privacy and data
 
@@ -69,3 +83,10 @@ All calculations happen locally; no account is required. Inputs are written into
 ## Sources and scope
 
 The run-walk structure follows the NHS Couch to 5K beginner plan, which starts with one-minute runs and 1.5-minute walks. The source illustrates a public format; it is not copied as a prescription and no ratio is claimed to suit everyone. Effort can be judged with the CDC talk test. Verified 2026-11-06.
+
+<!-- related-ring -->
+## Related entries
+
+- [Split table: break a target time into segments](/en/tools/splits/)
+- [Carb-load planner — a usable band from 10–12 g/kg/day over 36–48 hours](/en/tools/carb-load-planner/)
+- [Race fuelling plan: estimate carbohydrate by the hour](/en/tools/fueling-planner/)

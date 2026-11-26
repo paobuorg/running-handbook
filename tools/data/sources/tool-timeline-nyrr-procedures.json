@@ -1,0 +1,41 @@
+{
+  "sourceId": "tool-timeline-nyrr-procedures",
+  "title": "NYRR Race Procedures — Arrival, Bag Check and Corral Entry",
+  "url": "https://www.nyrr.org/guidelines-and-procedures-race-procedures",
+  "publisher": "New York Road Runners",
+  "publishedAt": null,
+  "accessedAt": "2026-11-25",
+  "claims": [
+    "Runners who picked up their number in advance should arrive at least 60 minutes before the race start to leave time for bag check, toilets and getting into the start corral.",
+    "Runners should be in their start corral at least 10 minutes before the start; bib pickup closes 10 minutes after the start time.",
+    "Picking up the race number in advance is recommended to save time on race morning."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-25",
+    "checkedVia": "web_fetch 读取 NYRR Race Procedures 正文",
+    "note": "2026-11-25 直接读取页面；60 分钟到场、10 分钟进区与领号截止均见正文。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "页面：advance pickup 后仍建议至少提前 60 分钟到场，用于存包、如厕并进入起跑区。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "页面：至少起跑前 10 分钟进入起跑区；号码布领取在起跑后 10 分钟关闭。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "页面：强烈建议赛前提前领取号码布，节省比赛当天时间。"
+    }
+  ]
+}

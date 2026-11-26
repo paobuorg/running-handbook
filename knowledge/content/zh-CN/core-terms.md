@@ -109,3 +109,10 @@ VO2max、乳酸阈和跑步经济性是被广泛研究的距离跑表现决定�
 ## 来源与适用范围
 
 活动强度与谈话测试参考 CDC 的强度测量说明；步频与步幅关系参考 Sports Health 的系统综述；上坡与下坡的步频、腾空和发力差异参考 Sports Medicine 的综述；VO2max、乳酸阈、跑步经济性与马拉松多因素框架参考 PubMed 综述；马拉松距离参考世界田联项目页面；GPX 定义参考 TopoGrafix 的 GPX 1.1 规范；GeoJSON 定义参考 IETF 的 RFC 7946。具体研究结论以来源为准。核验日期为 2026-11-06。
+
+<!-- related-ring -->
+## 相关条目
+
+- [马拉松为什么是 42.195 公里](/knowledge/marathon-distance/)
+- [比赛与共享路面礼仪：规则、空间和安全感](/knowledge/race-and-shared-path-etiquette/)
+- [怎样读跑步研究：先看问题，再看结论](/knowledge/reading-running-research/)

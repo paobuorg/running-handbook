@@ -1,0 +1,41 @@
+{
+  "sourceId": "knowledge-camelbak-crux-reservoir",
+  "title": "CamelBak Crux 2L Reservoir — product specifications",
+  "url": "https://www.camelbak.com/shop/hydration-reservoirs/crux-2l-reservoir/CB-1229.html",
+  "publisher": "CamelBak",
+  "publishedAt": null,
+  "accessedAt": "2026-11-25",
+  "claims": [
+    "The Crux 2L reservoir has a capacity of 2 L / 70 oz, a weight of 7 oz / 210 g, dimensions 38 x 19 x 6 cm, and a polyurethane material.",
+    "An on/off lever seals the drinking tube one-handed, and the big bite valve self-seals after each drink to reduce drips; the reservoir is Quick Link compatible.",
+    "Crux delivers 20% more water per sip than the prior design and has an ergonomic handle for refilling; the brand's lifetime guarantee covers reservoirs against manufacturing defects."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-25",
+    "checkedVia": "web_fetch 读取 CamelBak 官方产品页 Features 与 Specifications 段",
+    "note": "2026-11-25 直取官方产品页，读取 Features 四条与 Specifications 表（Capacity、Dimensions、Material、Weight、Quick Link）。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "Specifications：Capacity 2L / 70oz；Dimensions 14.96 x 7.48 x 2.36 in / 38 x 19 x 6 cm；Material Polyurethane；Weight 7 oz. / 210 gm。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "Features：On/off lever one-hand seal；Big bite valve self-seals；Specifications：Quick Link Yes。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "Description：\"Crux delivers 20% more water per sip, with an ergonomic handle for easier refilling\"；Lifetime Warranty 段覆盖 reservoirs 制造缺陷。"
+    }
+  ]
+}

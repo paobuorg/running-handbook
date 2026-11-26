@@ -1,9 +1,9 @@
 ---
 entityId: knowledge:trail-gear
 locale: en
-title: "Trail gear: ten essentials, water turn-around and winter layers"
-summary: "Trail gear is not a brand list but a minimum set of functions for the route, weather and escape plan. The ten essentials cover navigation, light, first aid and shelter; turn around before half the water is gone, and leave extra margin for snow and cold."
-aliases: ["Trail gear: ten essentials, water turn-around and winter layers", "trail running gear"]
+title: "Trail gear: mandatory list, system kit and rule differences"
+summary: "Trail gear is the minimum functional set organized around route, weather and escape plan: lighting, water, insulation, waterproofing, grip, emergency kit and navigation redundancy. This page compares a short race-day kit against a long self-supported kit, lays out race-rule definitions for waterproof ratings, taped seams and headlamp redundancy, and includes a decision table, turnaround worked example, failure modes and medical boundaries."
+aliases: ["Trail gear: mandatory list, system kit and rule differences", "trail running gear", "trail mandatory kit", "trail running equipment"]
 authors:
   - runmap-editorial
 reviewers:
@@ -11,130 +11,169 @@ reviewers:
 translationStatus: reviewed
 ---
 
-## Definition and who this page applies to
+## Bottom line
 
-Trail gear here means functional items for a route — navigation, light, first aid, insulation, water and shelter — not a brand list. It applies to runners entering mountain paths or snow. It holds when you write route, weather, escape points and return time first.
+Trail gear is not a brand list; it is a **minimum functional set serving the route, weather and escape plan**. The organization order is: list mandatory functions first, combine systems second, and make the weight-versus-reliability trade-off last. Three judgments come first. First, no single item replaces route judgment, fitness and the escape plan. Second, race-mandatory kit follows that day's official rules, which can change with weather. Third, lighting, insulation, waterproofing, emergency kit and navigation redundancy are configured so that a single failure still leaves you self-sufficient, not configured for average weather.
 
-## The ten essentials are a minimum frame
+The evidence boundary: outdoor guidance comes from public safety agencies such as the NPS; race requirements come from official race rule texts; lug depth, drop and plate features for trail shoes are manufacturer and retail product logic. This site found no controlled trial proving a given configuration reduces injury (evidence insufficient). The site does not diagnose medical conditions; sprains, dehydration, hypothermia or chest pain follow on-site first aid and medical evacuation.
 
-The U.S. National Park Service ten essentials are navigation, sun protection, insulation, illumination, first aid, fire, repair, nutrition, hydration and emergency shelter. It is not a complete kit; it keeps key functions available if lost or forced to stay out.
+## Definition and prerequisites
 
-Adjust by route and season; a snow line needs more insulation.
+Trail gear here means personal kit carried off paved surfaces on mountain, dirt, gravel, mud or near-snow routes, covering navigation, lighting, water, insulation, waterproofing, grip, emergency kit and communication. This page is for runners on everyday trail sessions or multi-hour trail races. It assumes you know your own route experience, weather judgment and fitness boundary, and prepare for the worst segment rather than the best.
 
-## Navigation: map, compass and backup power
+If you are new to unfamiliar mountain terrain, practice the full kit on short, readily escapable routes before a long race; route judgment and weather recognition are in [Navigation and route decisions: map, compass, GPS and getting lost](/en/knowledge/trail-navigation/) and [Route safety and risk judgment: signals, escape and partners](/en/knowledge/route-safety/).
 
-NPS hiking safety calls for a map, compass or GPS and spare batteries, and warns that phones and GPS are not reliable as the only navigation. Paper and compass do not depend on signal or charge.
+## Mandatory list: ten essentials by function
 
-Save an offline map, mark junctions and escape points, and tell a contact your return time.
+NPS outdoor safety guidance groups the carried essentials into ten functional categories: navigation, insulation, illumination, first aid, emergency shelter, extra food, extra water, emergency supplies, communication, and a modern means of position rescue. For trail running, these merge into the groups below, each answering the question “what happens if this fails?”
 
-## Light and signals
+| Function group | Essentials covered | Failure consequence | Backup approach on this site |
+| --- | --- | --- | --- |
+| Navigation and position | Map/compass, offline route file, position device | Getting lost, misjudging distance and exit points | Paper or offline map plus electronic device; at least two position redundancies |
+| Lighting | Headlamp, spare batteries or spare light | Unable to move after dark or in low visibility | Main light plus redundancy per race rules; see lighting section |
+| Water | Hydration pack/soft flask, water treatment means | Dehydration, reduced thermoregulation | Carry by route duration and turnaround rule |
+| Insulation | Warm layer, extra clothing | Hypothermia risk after getting wet | Layered carry; see insulation and waterproofing |
+| Waterproofing and shelter | Waterproof jacket, emergency blanket | Rapid heat loss in wind and rain | Jacket by race rating; blanket by minimum size |
+| Emergency and first aid | First aid kit, whistle, bandage | Unable to call for help or immobilize an injury | Configure to the race mandatory list |
+| Food and fuel | Extra energy food | Low blood sugar after a long gap | A margin beyond expected duration |
+| Communication | Phone, rescue beacon or satellite link | Cannot contact rescue after injury | Confirm coverage and battery before departure |
 
-A headlamp and spare batteries belong to illumination. Even on a day trip, assume delay until dark: keep the lamp reachable without unpacking, with batteries separate. A whistle and survival blanket belong in a pocket.
+NPS also warns that GPS and electronic navigation can fail; map, compass and route-judgment skill remain the basis. Tell someone off-route your plan, and turn back before conditions worsen.
 
-Test the lamp indoors for 10 minutes and carry a spare set; cold drains batteries.
+## Lighting: headlamp and redundancy
 
-## Water and the turn-around rule
+Trail lighting is not about the highest lumen count; it is about still being able to move after dark, and having a backup if the light fails. Two real race rules serve as configuration references.
 
-NPS hiking safety gives a simple rule: turn back before half the water is gone. It leaves margin for getting lost or heat; longer routes need more.
+- **Lavaredo Ultra Trail** (official mandatory list): a headlamp with spare batteries, or two headlamps; the 50K list likewise names a headlamp (group-specific details follow that year's race text).
+- **UTA** (2027 mandatory list): a headlamp plus one small backup light; the race announces supplemental requirements before the start according to weather, and failing the gear check means no start.
 
-Plan purification. The ten essentials list hydration and purification separately, so do not carry only “enough to the next source”.
+Everyday training logic: if the finish may fall after dark, carry both main light and backup source; carry spare batteries on daytime routes that could stretch into evening. Battery capacity is estimated by expected duration plus margin, not by “the light still works”. This site found no universal minimum-lumen threshold for all routes (no official value given); brightness should let you read technical footing without dazzling others.
 
-## Insulation, layers and winter
+## Water: capacity, turnaround strategy and duration estimate
 
-Winter gear centres on layers: a moisture-wicking base, an insulating mid-layer, a wind- and rain-proof outer, plus hat and gloves. NPS winter guidance adds sunglasses, sunscreen, water, snacks and traction devices.
+Trail water is decided by route duration, temperature, humidity and available aid stations, not by “flask size”. The NPS safety guidance turnaround principle is: **keep half your drinking water for the way back**. If remaining water at a checkpoint is no longer enough for the return, turn back while you still can, instead of betting on water later on the route.
 
-Check weather and trail conditions, tell a contact, and be willing to turn around; snow hides markers.
+Capacity differs by race; two official rules as references: Lavaredo requires at least 1 L of water and a drinking cup of at least 15 cl capacity; UTA's main race requires at least 2 L, and the UTA11 category at least 1 L. For unsupported long sessions, capacity is duration plus margin; for races with aid stations, carry by station spacing and your sweat rate, which can be assessed with [Hydration strategy and sweat rate](/en/knowledge/hydration/).
 
-## Pack, food and access
+## Insulation and waterproofing: layering and race-rule definitions
 
-A pack first serves access: map, headlamp, whistle, first aid and blanket should be reachable without taking it off, and water easy to drink. Split food into “on the move” and “emergency reserve”; carry one extra portion for delays.
+Mountain weather can turn from sun to wind and rain within a short time; warmth comes from layers, waterproofing from the outer shell. NPS winter guidance notes that snow hides trail markers; wind chill, wind and humidity together determine hypothermia risk, and extra warm clothing is essential rather than optional.
 
-## How to run a pre-departure check in three steps
+How races define waterproofing is the most valuable judgment point on a gear page; a retail “waterproof” label is not enough.
 
-The 10 km and 300 m figures are hypothetical.
+- **Fabric water-column rating:** Lavaredo rules require the jacket membrane to resist at least 10,000 Schmerber (roughly equivalent to a 10,000 mm water-column standard), with an adjustable integrated hood.
+- **Taped seams and hood:** UTA rules require fully taped seams (not critically taped only) plus a hood; fabric alone without taped seams can still leak in wind and rain.
+- **Warm layer:** races usually list a separate warm layer (for example a warm top); material and whether compressed garments count follow the official list. This site found no cross-race unified weight or fabric threshold (no official value given).
 
-1. Write a route card: distance, elevation, water and return time, and leave it with a contact.
-2. Lay out the ten essentials and fill every gap.
-3. Test the headlamp and keep first aid, whistle and blanket accessible.
+For ordinary short daytime sessions, carry the waterproof shell by forecast; on ridge-exposed sections or in forecast rain and wind, put the shell and warm layer in the pack.
 
-## Route and gear at a glance
+## Grip and shoes: trail-shoe logic
 
-| Route | Example | Key gear | Turn-around | Gap |
-|---|---|---|---|---|
-| Greenway | 10 km | Water, phone, sun | Exit anytime | Weather |
-| Half-day trail | 20 km, 300 m | Map, headlamp, first aid | Set a time | Phone navigation |
-| Winter snow | 15 km | Layers, traction, shelter | Weather turns | Cold |
-| Trail race | Race distance | Mandatory list plus kit | Cut-offs | List as all |
+Grip comes together from outsole rubber, lug structure and shoe-to-terrain match; shoes cannot replace slowing down, footwork and route choice. The product-guide logic: firm dirt and gravel suit shallow lugs; mud and soft ground suit deep lugs; wet rock favors sticky rubber and suitable lug spacing; ankle protection and weight trade off with technical terrain. Lug depth, drop and plates are product logic; this site found no controlled trial proving a given configuration reduces trail injury (evidence insufficient). The road-versus-trail trade-off is in [Choosing running shoes](/en/knowledge/running-shoes/).
 
-## Worked example: turn-around from half the water
+## Emergency: blanket, whistle, first aid and navigation redundancy
 
-Assume a 12 km out-and-back planned for 3 hours, carrying 1.2 litres and using 0.4 litres per hour. Half is 0.6 litres, used at 1.5 hours, about 6 km; turn no later than 1 hour 30 minutes or 6 km. These figures are hypothetical.
+Emergency kit solves the “after stopping” problem. Lavaredo's list requires an emergency blanket of at least 2.00 × 1.40 m and a whistle; UTA's list requires a compression bandage of at least 7.5 cm × 2.3 m. These are race-mandatory floors; everyday long sessions should carry equivalents.
 
-## What the ten essentials mean in practice
+- **Emergency blanket:** reduces heat loss when wet or stationary; it is not a raincoat. Check it is intact and can be wrapped within minutes.
+- **Whistle:** passes a signal in poor visibility or when shouting is not possible; sound signals cost less than sustained shouting.
+- **First aid kit:** configured for personal history and route risk; keep bandages, disinfection and personal medication separate.
+- **Navigation redundancy:** keep an offline or paper map beyond the electronic device; confirm phone battery and beacon coverage before departure. NPS recommends telling someone off-site your trip plan.
 
-The ten essentials are a checklist of capabilities, not a shopping list. Navigation means a map, compass and GPS, with a physical map backing up the electronics; illumination means a headlamp with spare batteries; first aid means supplies you know how to use; repair means something that can fix a pack, a shoe or a pole. Food, water and water treatment belong together because the amount you carry determines how far you can go before the next reliable source.
+## Two system kits: short race vs long self-supported
 
-In winter the list changes shape. Traction devices become part of the walking kit on ice and snow, warm layers replace light ones, and sunglasses and sunscreen matter as much as in summer because snow reflects light. Snow also hides trail markers, and other people's tracks are not reliable evidence of the route; that is why the map and compass stay in the pack even when a GPS watch is on your wrist.
+The two kits are not better or worse; they trade off by route duration, exposure and support distance. The table compares functions; choose models by personal fit and habit.
 
-## Trail shoe decision table: lugs, drop, protection and waterproofing
+| Function | Short race (hours, daytime, quick escape) | Long self-supported (hours to overnight, complex terrain, long aid gaps) | Trade-off note |
+| --- | --- | --- | --- |
+| Lighting | Headlamp; backup source only if finishing after dark | Main headlamp + spare batteries or small spare light | Redundancy is not optional overnight or if weather stretches |
+| Water | Soft flask by route duration; use aid stations | Large pack/multiple flasks, by station spacing and sweat rate | Turn back on half-water rule if capacity falls short |
+| Warm layer | Light insulation carried as backup | Warm top + spare layer | Greater exposure and bigger night-time drop |
+| Waterproof jacket | Carry by forecast; on ridge routes keep it on you | Race-rated shell (fully taped, hood) | Wind/rain and hypothermia outrank weight |
+| Grip shoes | Lug depth by terrain | Same, plus traction accessories by snow conditions | Lug depth and weight conflict |
+| Emergency | Blanket, whistle, basic first aid | Blanket, whistle, bandage, personal medication | Longer wait for rescue after a long trip |
+| Navigation | Offline route + phone position | Offline/paper map + electronic device + rescue means | Can still judge the exit when electronics fail |
+| Food | Small energy supplies | Margin beyond expected duration | Low sugar impairs judgment after a gap |
+| Communication | Phone fully charged | Phone + satellite/beacon means | Confirm signal along the route |
 
-Trail shoes are not “the stiffer the better”. Use the conditions below; the lug and drop ranges come from manufacturer and retailer guidance, which is product logic, and **no controlled trial shows that a given lug depth lowers injury rates (unknown)**.
+## Race-rule definition differences: the judgment points
 
-| Terrain and conditions | Outsole lugs | Drop | Protection | Waterproof | Trade-off |
-|---|---|---|---|---|---|
-| Hardpack, gravel, fire road | 2–4 mm | Start at 4–8 mm | Toe cap is enough | Not needed | Shallow lugs give more contact and stability on firm ground (On; Runners Need 3–4 mm) |
-| Mixed terrain | 4–5 mm, multi-directional | 4–8 mm | Rock plate optional | Weather-dependent | The most versatile compromise (Runners Need) |
-| Mud, wet grass, soft ground | 5 mm or more | Personal | Abrasion-resistant upper | Optional | Deep lugs grip but feel unstable and wear fast on firm ground (On; Runners Need 5 mm+) |
-| Rocky, rooty technical trails | 4–6 mm, sticky rubber | Personal | Rock plate preferred | Not needed | A plate spreads point pressure; unnecessary on smooth trails (On) |
-| Cold, wet snow, long wet exposure | 5 mm or more | Personal | Rock plate plus reinforced upper | Yes | Warmer but less breathable and slower to dry (On) |
-| Warm, dry forest paths | 2–4 mm | 4–8 mm | Not needed | No | Mesh breathes and dries faster (On) |
+For the same item, what “acceptable” means can differ completely between races. Read that year's official rules word by word instead of applying a common impression.
 
-Three things that are easy to reverse:
+| Item | Rule-example standard (official text prevails) | Common misconception |
+| --- | --- | --- |
+| Waterproof fabric | Lavaredo: membrane ≥10,000 Schmerber, adjustable integrated hood | Assuming “waterproof fabric” meets the race requirement |
+| Seams | UTA: fully taped seams, not critically taped only | Assuming fabric waterproofing is enough, ignoring seam leaks |
+| Light redundancy | Lavaredo: headlamp + spare batteries, or two headlamps; UTA: headlamp + small backup light | Assuming one light is enough to finish |
+| Emergency blanket | Lavaredo: area ≥2.00 × 1.40 m | Assuming any thin blanket works |
+| Bandage | UTA: compression bandage ≥7.5 cm × 2.3 m | Assuming small adhesive dressings replace it |
+| Water capacity | Lavaredo: ≥1 L and cup ≥15 cl; UTA: ≥2 L (UTA11: ≥1 L) | Assuming the race provides all drinking water |
+| Enforcement | UTMB rules: semi-autonomy, mandatory kit carried throughout, marshals may check any time; non-compliance may disqualify; weather supplements announced before the start | Assuming the check happens once at the start line |
 
-1. **Lug depth is a terrain choice, not a quality score.** Deep lugs win in mud and lose contact and durability on firm ground; shallow lugs are stable on gravel and slide in deep mud.
-2. **Drop redistributes load; “more natural” is not automatically better.** Above 8 mm favours heel striking and reduces Achilles and calf load but may raise knee load; 0–4 mm demands more from the calf and Achilles, and a sudden switch often produces symptoms in the first weeks; 4–8 mm is where most runners start (On, manufacturer guidance).
-3. **Waterproofing is a trade-off, not an upgrade.** A membrane is comfortable in cold wet snow but breathes poorly and dries slowly; mesh is often more practical in warm weather (On, manufacturer guidance).
+Rules can be modified before the race (Lavaredo states changes remain possible up to 12 hours before the start); UTA likewise announces weather-related requirements before the start. For registration, follow the latest official text of that year's race.
 
-## Common misconceptions
+## Decision-branch table: if → then
 
-- “A charged phone replaces a map.” Phones and GPS are unreliable; paper and compass remain the baseline.
-- “Light means less water.” Turn back before half is gone, and include purification.
-- “Following footprints is safe.” Snow hides markers, and tracks may lead wrong.
-- “The race kit list is everything.” Personal first aid and escape planning still need adding.
+| Condition (if) | Action (then) | Boundary |
+| --- | --- | --- |
+| The route may finish after dark | Carry main light plus spare batteries or backup source | Lavaredo/UTA redundancy standards |
+| Forecast rain/wind or a ridge-exposed section | Keep the waterproof shell on you, plus a warm layer | Layering and hypothermia; NPS winter guidance |
+| Remaining water matches return need only | Turn back on the half-water rule; do not bet on later water | NPS turnaround principle |
+| The race lists mandatory kit | Check item by item against that year's list, including water rating, taped seams, blanket and bandage dimensions | Official rule text prevails |
+| Phone signal is unavailable | Keep offline/paper map and independent rescue means | NPS navigation redundancy; electronics can fail |
+| Long distance with long aid gaps | Add food margin and emergency bandage; prepare for self-support | Longer wait for rescue |
+| Wet or snowy footing | Choose grip shoes and accessories by terrain; slow the footwork | Shoes cannot replace route judgment |
 
-## Risk and stopping
+## Worked example: half-water turnaround and mandatory item sizes (teaching assumption)
 
-Stop and execute the escape plan when weather deteriorates, visibility drops, gear fails, you get lost or injured, or a group member slows markedly. Persistent shivering, slowed reactions or worsening judgement in cold call for warmth, energy and help rather than going deeper. Turning around is part of the plan.
+**Example 1: half-water turnaround.** Planned route 12 km, carrying 1.2 L, estimated consumption 0.4 L/hour. After 1.5 hours, roughly 6 km in:
 
-## Frequency and cycle: check, replace, rehearse
+- Remaining water: 1.2 L − 0.4 L/hour × 1.5 hours = 1.2 − 0.6 = 0.6 L.
+- Return leg about 6 km, at the same pace about 1.5 hours, needing 0.4 × 1.5 = 0.6 L.
+- Remaining water now matches the return need; on the half-water rule, turn back at or before this point. If sweating more than estimated, the turn point moves earlier.
 
-Within 24 hours of a long route, check headlamp charge, first-aid use, water remaining and wet clothing. Do a full check every 4 weeks, and replace batteries, traction devices and waterproof layers every 12 weeks or as worn. Rehearse the night routine before each season.
+**Example 2: mandatory item size conversion.** Minimum blanket 2.00 m × 1.40 m: area = 2.00 × 1.40 = 2.80 m². Bandage 7.5 cm × 2.3 m: first convert 7.5 cm = 0.075 m; area = 0.075 × 2.3 = 0.1725 m². Both figures come from race rule texts, used to check whether self-provided items meet the floor; this does not recommend a specific brand.
 
-## Checklist
+## Failure modes and early signals
 
-- [ ] Write route, weather and return time.
-- [ ] Check all ten essentials and fill gaps.
-- [ ] Map and compass work; devices have offline backup.
-- [ ] Headlamp is bright with spare batteries.
-- [ ] Plan water with the half-tank turn-around.
-- [ ] In winter, carry layers, traction and snacks.
-- [ ] First aid, whistle and blanket are reachable.
+- **Packing for good weather:** early signal is leaving out the waterproof shell and spare warm layer, looking only at sunshine at departure. Rule: pack for the worst segment; carry the outer layer if rain or wind is forecast.
+- **One light, no battery plan:** early signal is not estimating the duration margin before departure, then looking for an exit after dark as the battery drops. Rule: for overnight or potentially stretched routes, a redundant light and batteries are mandatory.
+- **Electronic navigation as the only basis:** early signal is losing the map and bearing reference once the phone is low on battery or signal. Rule: keep an offline/paper redundancy and tell someone your plan.
+- **Emergency items never unfolded:** early signal is the blanket folded at the pack bottom, expired first aid, or no whistle to find. Rule: before the race check expiry, unfolded condition and access position.
+- **Kit too heavy, form breaks down:** early signal is shoulder-strap pressure, altered running posture and worse downhill control. Rule: after mandatory functions are complete, cut non-essentials first, not safety redundancy.
+
+## Weight and reliability trade-off
+
+Trail gear pulls weight against reliability: lighter fabrics usually wear and age less well; stiffer protection is heavier. Recommended order: make the mandatory list complete first, then slim personal items; safety redundancy (lighting, navigation, emergency, insulation, waterproofing) outranks lightness, and non-essential electronics and duplicate clothing go first. Check wear after every session: seam opening on the shell, damaged blanket, aged batteries, worn laces and buckles should be replaced in time.
 
 ## Scope and limits
 
-This page does not recommend brands, models or shops, or replace a race mandatory list, guide judgement or medical advice. Route difficulty, weather and experience change gear needs; with health conditions or unfamiliar terrain, consult a professional.
+This page does not recommend brands, models or purchase channels, and does not replace route scouting, weather forecasts or race-rule study. Outdoor guidance gives general safety principles; specific race mandatory kit, capacity and ratings follow that year's official rules. This site found no cross-race unified minimum lumen, fabric weight or lug-depth threshold (no official value given / evidence insufficient). Sprains, hypothermia, dehydration, chest pain or altered consciousness follow on-site first aid and professional medical rescue; the site does not diagnose medical conditions.
+
+## What would change this advice
+
+- **Route and duration:** short daytime, overnight long-distance and winter snow routes use different kits; reassess once distance, exposure and support distance change.
+- **Weather and season:** rain, wind, wet slippery ground, snow and cooling change waterproofing, insulation and grip needs; re-check the forecast before departure.
+- **Race rules:** races differ on shell rating, taped seams, light redundancy, water capacity and emergency items; rules can be adjusted before the event.
+- **Personal experience:** familiar routes allow faster exit judgment; newer runners should keep fuller redundancy.
+- **Evidence updates:** the page is revised when outdoor safety guidance or race rules are updated; product logic does not replace clinical evidence.
 
 ## Related reading
 
-- [Race checklist](https://tools.paobu.org/en/tools/race-checklist/)
-
-- [What watch heart rate and GPS can and cannot tell you](https://learn.paobu.org/en/articles/watch-gps/)
-- [Choosing running shoes: fit, comfort and limits](https://learn.paobu.org/en/articles/running-shoes/)
-- [Black toenails and nail problems — causes, prevention, and why not to drain them yourself](https://learn.paobu.org/en/articles/black-toenails/)
-- [Carbon plates and advanced shoes: evidence, use cases and limits](https://learn.paobu.org/en/articles/shoe-technology/)
-- [Trail navigation: a GPX is a base map, not a safety net](https://learn.paobu.org/en/articles/trail-navigation/)
-- [Cold-weather running: manage exposure before pace](https://learn.paobu.org/en/articles/cold-weather-running/)
+- [Choosing running shoes: a decision system, not a product review](/en/knowledge/running-shoes/)
+- [Navigation and route decisions: map, compass, GPS and getting lost](/en/knowledge/trail-navigation/)
+- [Cold-weather running: layering, wind chill and wind-break limits](/en/knowledge/cold-weather-running/)
+- [Route safety and risk judgment: signals, escape and partners](/en/knowledge/route-safety/)
+- [Watch and GPS: position, pace, logging and battery limits](/en/knowledge/watch-gps/)
+- [Race checklist and morning preparation: kit, fuel and day-of checks](/en/tools/race-checklist/)
 
 ## Sources and scope
 
-The ten essentials follow U.S. National Park Service guidance; navigation, water turn-around and telling a contact follow NPS hiking safety; winter layers, traction and turning around follow NPS winter safety. Trail-shoe lugs, drop, rock plates and waterproofing follow On and Runners Need buying guides; these are manufacturer and retailer product logic, and no controlled trial shows they reduce injury. This is a planning frame, not official warnings. Verified 2026-11-07
+Ten essentials and safety principles: NPS “Hiking Safety”, “Ten Essentials”, “Winter Hiking Safety”; trip planning, position beacon and weather contingency: NPS “Hike Smart”. Trail lug depth, drop and grip product logic: On trail-shoe guide and Runners Need grip guide, manufacturer/retail notes with no controlled injury-reduction trial. Race mandatory kit: Lavaredo Ultra Trail official mandatory equipment list (membrane ≥10,000 Schmerber, integrated hood, headlamp with spare batteries or two headlamps, blanket ≥2.00 × 1.40 m, whistle, ≥1 L water, ≥15 cl cup, phone; rules adjustable up to 12 hours before start); UTA 2027 mandatory gear list (fully taped seams and hood, headlamp plus small backup light, ≥2 L water / UTA11 ≥1 L, compression bandage ≥7.5 cm × 2.3 m; weather supplements announced before start; no start without kit, random checks and time penalties); UTMB race regulations (semi-autonomy, mandatory kit carried throughout, marshals check any time, non-compliance disqualification; runners must handle night, wind, cold, fog, rain and snow on their own). Verified 2026-11-26, next review 2027-03-15. Worked examples are teaching assumptions; the site does not diagnose medical conditions or replace race-rule enforcement.
+
+<!-- related-ring -->
+## Related entries
+
+- [What watch heart rate and GPS can and cannot tell you](/en/knowledge/watch-gps/)
+- [Achilles Pain — Two Types, Rehab Doses, and the Stop Signals](/en/knowledge/achilles-tendon-pain/)
+- [Returning After an Ankle Sprain: Step Criteria, Step-Back Conditions, and Imaging Red Flags](/en/knowledge/ankle-sprain-and-return/)

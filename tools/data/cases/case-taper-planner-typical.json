@@ -1,0 +1,23 @@
+{
+  "caseId": "case-taper-planner-typical",
+  "toolId": "tool:taper-planner",
+  "input": {
+    "raceDistance": "marathon",
+    "peakWeeklyKm": 70,
+    "peakLongRunKm": 30,
+    "qualitySessionsPerWeek": 2,
+    "taperWeeks": 3,
+    "daysToRace": 21
+  },
+  "expected": {
+    "weeks": [
+      { "index": 1, "volumeKm": 56, "longRunKm": 26, "qualitySessions": 2, "intensityNote": "Keep target pace unchanged; shorten session duration and the number of reps." },
+      { "index": 2, "volumeKm": 42, "longRunKm": 20, "qualitySessions": 2, "intensityNote": "Keep target pace unchanged; shorten session duration and the number of reps." },
+      { "index": 3, "volumeKm": 28, "longRunKm": 14, "qualitySessions": 1, "intensityNote": "Keep target pace unchanged; shorten session duration and the number of reps." }
+    ],
+    "taperRatio": 40.0,
+    "intensityRetention": "maintained",
+    "warning": null
+  },
+  "basis": "Three-week volume ratios 0.80 / 0.60 / 0.40; long-run ratios 0.85 / 0.65 / 0.45; quality plan for 2 sessions is 2 / 2 / 1. W1 volume = 70 * 0.80 = 56; long run = 30 * 0.85 = 25.5 -> 26. W2 volume = 70 * 0.60 = 42; long run = 30 * 0.65 = 19.5 -> 20. W3 volume = 70 * 0.40 = 28; long run = 30 * 0.45 = 13.5 -> 14. Taper ratio = 28 / 70 * 100 = 40.0% on the raw last-week volume. Days to race 21 equals 3 * 7, so the window is sufficient; peak weekly 70 km is above the marathon low-volume threshold, so no warning."
+}

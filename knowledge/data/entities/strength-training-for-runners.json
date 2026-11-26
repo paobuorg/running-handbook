@@ -1,0 +1,44 @@
+{
+  "entityId": "knowledge:strength-training-for-runners",
+  "slug": "strength-training-for-runners",
+  "kind": "knowledge",
+  "status": "published",
+  "riskLevel": "general",
+  "sourceRefs": [
+    "knowledge-blagrove-2018-strength",
+    "knowledge-lauersen-2014-injury-prevention",
+    "knowledge-ros-strength-exercise",
+    "knowledge-cdc-adult-activity",
+    "knowledge-odphp-pag",
+    "knowledge-ros-impact-exercise"
+  ],
+  "relatedRefs": [
+    "knowledge:running-injury-prevention",
+    "knowledge:strength-and-taper",
+    "knowledge:weight-and-running",
+    "knowledge:training-week",
+    "tool:injury-risk-check"
+  ],
+  "license": "CC-BY-4.0",
+  "createdAt": "2026-11-25",
+  "updatedAt": "2026-11-26",
+  "reviewedAt": "2026-11-26",
+  "reviewDueAt": "2027-11-25",
+  "translations": [],
+  "details": {
+    "primaryTopic": "training",
+    "secondaryTopics": [
+      "health"
+    ],
+    "contentType": "guide",
+    "audiences": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "scenarios": [
+      "general-training",
+      "race-preparation"
+    ]
+  }
+}

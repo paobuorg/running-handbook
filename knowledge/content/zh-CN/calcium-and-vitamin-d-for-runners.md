@@ -192,3 +192,10 @@ NIH ODS 的维生素 D 事实表写明：血 25(OH)D 可以反映维生素 D 状
 - NIH Office of Dietary Supplements，Vitamin D — Fact Sheet for Health Professionals：RDA、UL、25(OH)D 分层（<30 / 30–50 / ≥50 / >125 nmol/L）、食物含量、日照与皮肤限制、缺乏与过量、约四分之一人群不足。
 - IOC，Relative Energy Deficiency in Sport (REDs) consensus 2023：有问题的低能量可用性与肌肉骨骼健康下降、受伤风险升高相关。
 - AAOS，Shin Splints：小腿内侧痛需要鉴别应力性骨折、肌腱炎与慢性筋膜室综合征。
+
+<!-- related-ring -->
+## 相关条目
+
+- [碳水加载——36–48 小时、10–12 g/kg 与「吃不下」的上限](/knowledge/carb-loading/)
+- [日常饮食与补给：先保证总量，再谈补剂](/knowledge/daily-fueling/)
+- [钠与电解质：汗钠差异、抽筋与低钠血症的边界](/knowledge/electrolytes-and-sodium/)

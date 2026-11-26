@@ -23,6 +23,19 @@ Outcome goals point to a finish, placing or time. Performance goals point to you
 
 A weekly goal gives fast feedback; a 12-week goal sets direction. Use three layers: a season goal (a race in 12 weeks), a block goal (one focus every 3 to 4 weeks) and a weekly goal (runs, length, strength day). Weekly goals must add up to the block goal.
 
+## Reachability: extrapolating from recent results
+
+A target time cannot be set by wish alone. Take the most recent race over the same or a close distance, then compare it with the target pace. Hypothetical example: a runner's latest 10 km took 50:00, or 5:00 per km; the half-marathon target of 21.1 km in 2:10:00 (130 minutes) needs an average pace of 130÷21.1 ≈ 6.16 minutes per km, about 6:10 per km. That target pace is about 1 minute 10 seconds per km slower than the recent 10 km pace, which looks like margin, but the half is longer and late-race fatigue lowers pace. Reachability also depends on recent long runs near the target distance, stable weekly volume and completion over the last two weeks.
+
+The reviewed goal-setting review does not supply a cross-distance prediction formula; the arithmetic above is pace comparison only. Extrapolation across distances (10 km to half, half to full) widens its error with distance, and recent same-distance results plus the training log are the safer basis.
+
+| Reachability check | What to verify | When evidence is insufficient |
+| --- | --- | --- |
+| Recent same-distance result | Latest 5K/10K/half time and course conditions | No same-distance result: do not set a hard time goal yet |
+| Long-run completion | Recent runs near the target distance | Distance not reached: build long runs before chasing pace |
+| Volume and completion | Attendance, post-run response and pain over 2–4 weeks | Low completion: stabilise frequency before adding goals |
+| Recovery state | Sleep, fatigue, mood and injury record | Recovery poor: lower the target distance or date |
+
 ## How to do it: three steps
 
 1. Write one outcome goal with a date and distance, such as “finish a half marathon (21.1 km) in 12 weeks”, plus two limits: no running through pain, sleep on most nights.
@@ -38,6 +51,7 @@ Record date, distance, duration, intensity, feel, pain and sleep. The same field
 | Outcome | A target time in 12 weeks | Low | Every 4 weeks |
 | Performance | Easy pace within a band | Medium | Every 2 weeks |
 | Process | 4 runs; 2 strength sessions | High | Weekly |
+| Limit | No running through pain | High | After every session |
 
 ## Worked example: a 12-week half marathon
 
@@ -48,12 +62,15 @@ The numbers are hypothetical. Assume a half marathon (21.1 km) in 12 weeks, 3 ru
 - Is completion higher or lower than last month?
 - Are fatigue, sleep or pain trending worse?
 - Is the block goal still realistic, or must date, distance or course change?
+- Is the desired outcome still the same?
 
 ## Common misconceptions
 
 - A hidden outcome goal. “Run at a certain pace” says nothing about frequency or duration.
 - Adding training after two missed weeks. Find the cause first: load, sleep, work or motivation.
 - Treating review as a report card. Review the plan, not willpower.
+- Tracking too many goals. Five or six tracked goals usually means none is held.
+- Doubling volume produces progress. Adaptation comes from recoverable gradual stimulus; a volume jump brings fatigue and injury risk first, not automatic improvement.
 
 ## When to stop or seek care
 
@@ -76,9 +93,19 @@ This page does not provide an individual plan or guarantee a result, and does no
 
 ## Related reading
 
-- [Making running a habit: start with three easy runs](https://learn.paobu.org/en/articles/running-habits/)
-- [Race anxiety and training burnout: name the pressure](https://learn.paobu.org/en/articles/race-anxiety-and-burnout/)
+- [Making running a habit: start with three easy runs](/en/knowledge/running-habits/)
+- [Race anxiety and training burnout: name the pressure](/en/knowledge/race-anxiety-and-burnout/)
+- [Training logs: record the variables that change decisions](/en/knowledge/training-log/)
+- [Marathon training plan: from current weekly volume to cycle structure](/en/knowledge/marathon-training-plan/)
+- [Race predictor: estimate a target distance from recent results](/en/tools/race-predict/)
 
 ## Sources and scope
 
-The performance effect sizes by goal type, and the non-significant specific vs non-specific comparison, follow a systematic review and meta-analysis; the goal-choice and tracking approach follows the ODPHP activity planner; 150 weekly minutes and 2 strength days follow CDC adult guidance. Verified 2026-11-06.
+The performance effect sizes by goal type, and the non-significant specific vs non-specific comparison, follow a systematic review and meta-analysis; the goal-choice and tracking approach follows the ODPHP activity planner; 150 weekly minutes and 2 strength days follow CDC adult guidance. No cross-distance prediction formula is within the reviewed sources; the example is pace arithmetic only. Research findings cannot guarantee a personal result. Verified 2026-11-06.
+
+<!-- related-ring -->
+## Related entries
+
+- [Habit stacking and adherence: let the run start itself](/en/knowledge/habit-stacking-and-adherence/)
+- [Race anxiety and training burnout: name the pressure](/en/knowledge/race-anxiety-and-burnout/)
+- [Making running a habit: start with three easy runs](/en/knowledge/running-habits/)

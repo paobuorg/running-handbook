@@ -111,3 +111,10 @@ This page does not provide individual gait retraining, injury treatment or a pre
 ## Sources and scope
 
 Cadence and load follow a Sports Health systematic review; hill differences follow a Sports Medicine review; surface differences follow a PLOS ONE study of 30 male rear-foot strikers; breathing and intensity follow the CDC talk test. Verified 2026-11-06
+
+<!-- related-ring -->
+## Related entries
+
+- [Running surfaces: no absolute best, only adaptation](/en/knowledge/running-surface/)
+- [Technical trail skills: footing choices on scree, roots, mud, steps and wet rock](/en/knowledge/technical-trail-skills/)
+- [Treadmill running: incline, pace and safety](/en/knowledge/treadmill-running/)

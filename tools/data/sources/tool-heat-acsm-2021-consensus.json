@@ -1,0 +1,41 @@
+{
+  "sourceId": "tool-heat-acsm-2021-consensus",
+  "title": "Acute Effects of Exercise in the Heat: Expert Consensus Statement on Recognition, Management, and Prevention of Exertional Heat Illness (ACSM, 2021)",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/34524191/",
+  "publisher": "PubMed / Medicine & Science in Sports & Exercise",
+  "publishedAt": null,
+  "accessedAt": "2026-11-25",
+  "claims": [
+    "The consensus statement sets out recognition, management and prevention guidance for exertional heat illness during physical activity in the heat.",
+    "Heat illness risk rises when exercise intensity, environmental heat load and individual susceptibility combine; acclimatization, hydration and cooling are prevention measures.",
+    "Suspected exertional heat stroke requires immediate action: stop exercise, cool aggressively and call for emergency medical support."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-25",
+    "checkedVia": "web_fetch 读取 PubMed 摘要与共识要点",
+    "note": "2026-11-25 直接读取 34524191 摘要；标题含 Recognition, Management, and Prevention。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "标题与摘要：Expert Consensus Statement on Recognition, Management, and Prevention of Exertional Heat Illness。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "摘要与共识要点：风险来自强度、环境热负荷与个体易感性叠加；热习服、补水与降温为预防手段。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "共识处置要点：疑似热射病立即停止运动、积极降温并呼叫急救。"
+    }
+  ]
+}

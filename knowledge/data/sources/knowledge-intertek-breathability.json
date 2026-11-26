@@ -1,0 +1,41 @@
+{
+  "sourceId": "knowledge-intertek-breathability",
+  "title": "Intertek — Breathability: MVTR and Ret testing standards",
+  "url": "https://www.intertek.com/products-retail/hp-mark/textiles-and-apparel/breathability/",
+  "publisher": "Intertek",
+  "publishedAt": null,
+  "accessedAt": "2026-11-25",
+  "claims": [
+    "Fabric breathability is quantified through Moisture Vapor Transmission Rate (MVTR) or Evaporative Resistance (Ret); the key international standards listed are ASTM E96, ISO 11092 and JIS L 1099.",
+    "MVTR tests report the weight of moisture passing through one square metre of fabric over 24 hours (g/m2/24h); a higher MVTR or a lower Ret value indicates a more breathable material capable of supporting intense aerobic activity.",
+    "If vapor cannot escape, sweat trapped against the skin leads to overheating in warm conditions or post-exercise chill in cold climates."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-25",
+    "checkedVia": "web_fetch 读取 Intertek 官方 breathability 页面正文",
+    "note": "2026-11-25 直取 Intertek 页面，读取 Science of Moisture Vapor Management 与 Precision Testing and Global Standards 段。ISO 11092 全文受 Cloudflare 拦截未读取，Ret 单位与阈值不在本页展开。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "原文：\"tested for their Moisture Vapor Transmission Rate (MVTR) or Evaporative Resistance (Ret). Key international standards include ASTM E96, ISO 11092, and JIS L 1099.\""
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "原文：\"measure the weight of moisture that passes through a square meter of fabric over 24 hours (g/m2/24h)\"；\"A higher MVTR or a lower Ret value indicates a more breathable material\"。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "原文：\"sweat becomes trapped against the skin, leading to overheating in warm conditions or 'post-exercise chill' in cold climates.\""
+    }
+  ]
+}

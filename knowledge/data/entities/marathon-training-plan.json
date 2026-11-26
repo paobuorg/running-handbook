@@ -1,0 +1,51 @@
+{
+  "entityId": "knowledge:marathon-training-plan",
+  "slug": "marathon-training-plan",
+  "kind": "knowledge",
+  "status": "published",
+  "riskLevel": "guidance",
+  "sourceRefs": [
+    "knowledge-buist-2008-10-percent-rule",
+    "knowledge-nielsen-2014-progression",
+    "knowledge-fokkema-2020-half-marathon-volume",
+    "knowledge-haugen-2022-distance-runners",
+    "knowledge-bosquet-2007-taper",
+    "knowledge-plos-taper",
+    "knowledge-seiler-2010-tid",
+    "knowledge-casado-2022-runners-tid",
+    "knowledge-world-athletics-marathon",
+    "knowledge-acsm-getp8-hrr",
+    "knowledge-overtraining-guide"
+  ],
+  "relatedRefs": [
+    "knowledge:half-marathon-training-plan",
+    "knowledge:training-volume-and-progression",
+    "knowledge:periodization",
+    "knowledge:long-run",
+    "knowledge:tempo-and-intervals",
+    "tool:training-load"
+  ],
+  "license": "CC-BY-4.0",
+  "createdAt": "2026-11-25",
+  "updatedAt": "2026-11-26",
+  "reviewedAt": "2026-11-26",
+  "reviewDueAt": "2027-11-25",
+  "translations": [],
+  "details": {
+    "primaryTopic": "training",
+    "secondaryTopics": [
+      "recovery",
+      "health"
+    ],
+    "contentType": "guide",
+    "audiences": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "scenarios": [
+      "general-training",
+      "race-preparation"
+    ]
+  }
+}

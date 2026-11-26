@@ -1,0 +1,49 @@
+{
+  "entityId": "knowledge:cutoff-management",
+  "slug": "cutoff-management",
+  "kind": "knowledge",
+  "status": "published",
+  "riskLevel": "guidance",
+  "sourceRefs": [
+    "knowledge-world-athletics-marathon",
+    "route-shanghai-2026-rules",
+    "route-comrades-entry-terms",
+    "route-western-states-aid-2026",
+    "route-bigs-official-rules",
+    "route-new-york-cutoff-2026",
+    "route-utmb-2026-rules",
+    "knowledge-plos-pacing-2026",
+    "knowledge-fernandes-2023-negative-splitting"
+  ],
+  "relatedRefs": [
+    "knowledge:race-day-pacing",
+    "knowledge:race-day-fueling",
+    "knowledge:heart-rate-drift",
+    "knowledge:ultra-running-basics",
+    "knowledge:heat-and-humidity",
+    "tool:cutoff-planner"
+  ],
+  "license": "CC-BY-4.0",
+  "createdAt": "2026-11-25",
+  "updatedAt": "2026-11-26",
+  "reviewedAt": "2026-11-26",
+  "reviewDueAt": "2027-11-25",
+  "translations": [],
+  "details": {
+    "primaryTopic": "training",
+    "secondaryTopics": [
+      "safety",
+      "nutrition"
+    ],
+    "contentType": "guide",
+    "audiences": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "scenarios": [
+      "race-preparation",
+      "race-day"
+    ]
+  }
+}

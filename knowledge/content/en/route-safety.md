@@ -102,3 +102,10 @@ This page does not provide live closure, rescue, access authorisation or medical
 ## Sources and scope
 
 Trip plans, locator beacons, weather, the half-water rule, navigation and kit follow the U.S. NPS Hike Smart and Hiking Safety Tips pages; heat exhaustion, heat stroke, cold and hypothermia follow the U.S. National Weather Service. The solo-running and harassment section follows the RRCA Runner Safety Tips, public police safety guidance on reporting, UK Athletics' 2023 adult safeguarding policy and regulations for organisational process, the IOC 2016 consensus statement on harassment and abuse for definitions and organisational duties, Article 23 of China's Law on the Protection of Women's Rights and Interests, and the All-China Women's Federation 12338 hotline. This does not replace rescue training, legal advice or medical care. Verified 2026-11-07.
+
+<!-- related-ring -->
+## Related entries
+
+- [UV radiation and running — reading the UV Index, reapplying through sweat, and why snow is harsher](/en/knowledge/sun-and-uv-exposure/)
+- [Trail navigation: a GPX is a base map, not a safety net](/en/knowledge/trail-navigation/)
+- [Goals and review: turn “run faster” into something you can do](/en/knowledge/goal-setting-and-review/)

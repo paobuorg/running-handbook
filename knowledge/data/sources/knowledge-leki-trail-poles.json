@@ -1,0 +1,41 @@
+{
+  "sourceId": "knowledge-leki-trail-poles",
+  "title": "Trail Running Poles: benefits, length and design",
+  "url": "https://www.leki.com/int/en/Poles/All-season/Trail-Running-poles",
+  "publisher": "LEKI",
+  "publishedAt": null,
+  "accessedAt": "2026-11-25",
+  "claims": [
+    "For beginners, the ideal trail-running pole length can be calculated by multiplying height by 0.7; length also depends on personal preference and individual technique, and most professional athletes use longer poles.",
+    "Using poles relieves the legs and shifts part of the load to the upper body, while ground reaction and joint forces are reduced.",
+    "Most scientific results show a significant increase in oxygen demand, heart rate and energy expenditure when using poles; some studies indicate lower perceived intensity on steeper ascents and descents, with less muscle soreness and faster recovery observed."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-25",
+    "checkedVia": "WebFetch LEKI 官网 Trail Running Poles 正文（HOW LONG / WHY IMPORTANT / BIOMECHANICS / METABOLISM 各节）",
+    "note": "页面无发布日期；身高系数、负荷转移与代谢代价结论逐条按原文核对；厂商页面为产品指南，结论强度低于独立研究。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "原文：\"For beginners, the ideal pole length can be easily calculated by multiplying your height by 0.7… depends heavily on personal preference and individual technique. Most professional athletes use longer poles…\""
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "原文 Biomechanics: \"using poles relieves the legs and shifts part of the load to the upper body. At the same time, ground reaction and joint forces are reduced.\""
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "原文 Metabolism: \"most scientific results show a significant increase in oxygen demand, heart rate, and energy expenditure when using poles. Some studies indicate a significantly lower perceived intensity during steeper ascents and downhills. Additionally, lower muscle soreness and faster recovery have been observed…\""
+    }
+  ]
+}

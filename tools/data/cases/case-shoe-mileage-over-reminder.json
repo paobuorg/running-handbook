@@ -1,0 +1,34 @@
+{
+  "caseId": "case-shoe-mileage-over-reminder",
+  "toolId": "tool:shoe-mileage",
+  "input": {
+    "shoe": {
+      "id": "shoe-3",
+      "name": "Race-day trainer",
+      "initialKm": 580,
+      "reminderKm": 600
+    },
+    "runs": [
+      {
+        "id": "run-6",
+        "shoeId": "shoe-3",
+        "date": "2026-11-24",
+        "distanceKm": 15
+      },
+      {
+        "id": "run-7",
+        "shoeId": "shoe-3",
+        "date": "2026-11-25",
+        "distanceKm": 15
+      }
+    ]
+  },
+  "expected": {
+    "totalKm": 610,
+    "runCount": 2,
+    "remainingKm": 0,
+    "percentOfReminder": 101.7,
+    "lastRunDate": "2026-11-25"
+  },
+  "basis": "Independent arithmetic: 580 + 15 + 15 = 610 km. max(0, 600 − 610) = 0 km. 610/600 × 100 = 101.666…, rounded to 101.7%. Two records, latest date 2026-11-25.\n\nSteps: [\"Add the two logged distances to the starting mileage: 580 + 15 + 15 = 610 km.\", \"Remaining distance is max(0, 600 − 610) = 0 km; the tool does not report a negative remaining value.\", \"Reminder progress is 610 ÷ 600 × 100 = 101.666…%, rounded to 101.7%.\", \"The run count is the number of logged records for this shoe: 2.\"]\nNotes: Common mistake: reporting a negative remaining mileage or a progress capped at 100%. The remaining value floors at zero; the percentage can exceed 100%. Crossing the reminder is an inspection signal, not an automatic replacement verdict."
+}

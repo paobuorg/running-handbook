@@ -1,0 +1,55 @@
+{
+  "sourceId": "knowledge-metoffice-thunderstorms",
+  "title": "Stay safe in thunder and lightning — Met Office",
+  "url": "https://weather.metoffice.gov.uk/warnings-and-advice/seasonal-advice/health-wellbeing/stay-safe-in-thunder-and-lightning/",
+  "publisher": "UK Met Office",
+  "publishedAt": null,
+  "accessedAt": "2026-11-25",
+  "claims": [
+    "When you hear thunder you are already within range where the next ground flash may occur; lightning can strike as far as 10 miles from the centre of a storm.",
+    "If outside, avoid water and find a low-lying open place a safe distance from trees, poles or metal objects; avoid golf, rod fishing and boating, and be aware of conducting objects including umbrellas, motorbikes, bicycles, wire fencing and rails; in a tent stay away from the metal poles.",
+    "In an exposed location, squat close to the ground with hands on knees and the head tucked in; touch as little of the ground with the body as possible, and do not lie down.",
+    "If you feel your hair stand on end, drop to that position immediately.",
+    "If caught in a storm in a car, wind up the windows and stay inside; a metal roof and frame acts as a conductive Faraday cage, while soft-top convertibles are the most at risk."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-25",
+    "checkedVia": "WebFetch Met Office 官方建议页正文（Before / During thunderstorm、Driving 各节）",
+    "note": "页面可读；10 英里范围、户外禁避物、蹲姿、头发竖起信号与车辆法拉第笼口径逐条核对。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "原文：\"When you hear thunder you are already within range of where the next ground flash may occur, lightning can strike as far as 10 miles away from the centre of a storm.\""
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "原文 During：avoid water, low-lying open place safe distance from trees/poles/metal objects；golf/rod fishing/boating；metal objects incl. umbrellas, motorbikes, bicycles, wire fencing, rails；tent metal poles。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "原文：\"squat close to the ground, with hands on knees and with head tucked between them. Try to touch as little of the ground with your body as possible, do not lie down on the ground.\""
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "原文：\"If you feel your hair stand on end, drop to the above position immediately.\""
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "原文 Driving：wind up windows and stay inside；metal roof/frame as conductive Faraday cage；\"Soft-top convertibles… are the most at risk.\""
+    }
+  ]
+}

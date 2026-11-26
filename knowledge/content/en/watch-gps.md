@@ -13,75 +13,88 @@ translationStatus: reviewed
 
 ## What this page covers, and when it applies
 
-A watch or phone records estimated distance, pace, heart rate and a track, not a surveyed course, and not a medical diagnosis. This page is for runners who use a watch to plan training and log races. It assumes you have a repeatable route and at least three weeks of records; without a baseline, a single reading has little comparative value.
+This page covers the reliability limits of GPS distance, pace and heart rate data on running watches. It assumes the watch is used as a training aid, not a medical monitor; with cardiovascular symptoms, watch readings cannot replace a clinician's assessment. Technical notes on offline tracks and file structure are in [Track view](/en/tools/track-view/); when GPS signals are unreliable, backup navigation and trip planning follow U.S. National Park Service hiking safety guidance.
 
-## GPS is an estimate, not a certified measurement
+## GPS records a sampled track
 
-GPS fixes position from satellite signals and can drift or lose points under trees, near tall buildings, in valleys, tunnels and on sharp turns. It records the device's estimate, not a race survey. The National Park Service warns that GPS can be unreliable and recommends carrying a paper map and compass as backup. A GPX file is only an exchange format for such tracks: it stores latitude, longitude and optional elevation, and carries no statement that the track was certified.
+The watch records latitude and longitude at intervals, connects adjacent points into a track, and estimates distance, elevation gain and pace from that geometry. Urban canyons, dense trees, ridgeline obstruction, tall buildings and reflective valleys can shift the recorded points; a GPX file stores track points, route points and elevation in an XML structure and does not automatically correct these errors. NPS hiking safety also notes that GPS signals can be unreliable, so a backup navigation method should be kept and the watch should not be relied on alone.
 
-A practical rule: two runs on the same route commonly differ by 1-2%. A difference above 5% should first prompt a check of settings such as auto-pause, tunnel dropouts and an unlocked position fix. On a 5 km easy run, a 100 m error is about 2%, not a reason to rewrite your training.
+A common practical range is that open-country GPS drift sits around 1%-2%; when the same track shows error above 5%, signal or recording problems should be suspected before reading the result as running faster or slower. Shorter recording intervals keep denser points and more route detail, but can also record small drift segments; longer intervals make sharp turns look "straightened". These ranges are field experience references, not certified device specifications.
 
-## Optical heart rate lags
+## Heart rate is an estimate too
 
-Wrist optical heart rate estimates from skin blood flow and is affected by strap tightness, cold, skin tone, tattoos, arm swing and sweat. During intervals, rapid changes or strength work it may lag by tens of seconds. In a session of four 3-minute reps, a heart rate that has not dropped after 60 seconds of recovery may be real fatigue, or the sensor may simply be behind; breathing and perceived effort are more reliable at that moment.
+Optical wrist sensors estimate heart rate from blood-flow changes and can lag or drop beats when the wrist moves randomly, arm swing is unstable or the band fits loosely. A small 2025 study compared a Fitbit Charge 4 against a Polar H10 chest strap: in stable running the optical sensor had a mean bias of 0.1 bpm and a mean absolute percentage error of 1.2% (SD 4.6%), with limits of agreement from −10.7 to 10.9 bpm; in orienteering, where wrist movement varied, error rose to 9.5% with a bias of −8.6 bpm. The authors do not recommend the device for settings needing high reliability and accuracy.
 
-A chest strap is often steadier but can also be disturbed. One odd reading cannot diagnose a health problem; look at multi-day trends. A resting heart rate that stays 5 bpm above your usual level for a week is a signal worth investigating.
+At review level, consumer wearables are not subject to the same regulatory accuracy requirements as medical devices; most included studies used Garmin watches, some with a chest-belt reference. Seven studies found devices valid or acceptable for VO2max estimation and three for lactate-threshold estimation, while the authors note usefulness in elite endurance sport as questionable. Watch-derived "training load", "recovery" or "lactate threshold" scores are algorithm estimates, not clinical measurements.
 
-## Pace and distance are smoothed
+## Three cross-check rules
 
-Most watches smooth instant pace, so short sprints, intervals or GPS drift make it swing. Average pace is also changed by auto-pause, auto-laps and lost points in tunnels. Use splits rather than instantaneous values for quality sessions, and the whole-run average for long runs. Changing your movement, shortening your stride or ignoring pain to chase a number is the most common misuse of data.
+1. Compare weekly trends on the same route and in similar conditions; do not compare single sessions across different courses.
+2. Match readings against perceived effort, breathing and leg feel; when they diverge clearly, suspect the device first.
+3. Review the track file for unusually long straight segments, repeated backtracking and odd elevation gain before accepting the data.
 
-## How to use the watch: three steps
+The watch's main value is long-term recording and trends, not precise measurement of a single session. Logging methods are in [Training log](/en/knowledge/training-log/); when data look abnormal, start the check with route, weather and how you felt.
 
-1. Fix the variables: same route, same shoes, similar time of day, and run three times to build a personal baseline.
-2. Look at trends, not single points: once a week, summarise average pace, average heart rate, cadence and perceived effort on a 1-10 scale, and read all four together.
-3. Let data support decisions: change training only when a trend has moved in the same direction for two weeks; for a single odd reading, check settings and how you felt first.
+After a device upgrade or algorithm change, do not splice old and new readings onto one trend line: sensor position, sampling strategy and algorithm can all change, so segmented comparison is safer. The same watch also varies across seasons and paces; repeat an abnormal reading once or twice before deciding whether it is a device issue or a change in bodily state.
 
-## Quick reference: how much to trust each reading
+## Quick reference: when signals are more trustworthy
 
-| Reading | Trust level | Common source of error | How to use it |
+| Condition | GPS distance | Optical heart rate | Advice |
 |---|---|---|---|
-| Distance on the same route | Medium | Trees, tunnels, turns | Compare trends, not absolute values |
-| Instant pace | Low | Smoothing, drift | Use splits only |
-| Average heart rate | Medium | Fit, temperature, lag | Read with perceived effort |
-| Track file | Medium | Recording interval (often 1-5 s) | Review the route, not as a survey |
-| Resting heart rate | Fairly high | Sleep, alcohol, illness | Use the 7-day average |
+| Open road, started still | More reliable | Reliable with stable arm swing | Usable for trend comparison |
+| Urban canyons, dense trees, ridgeline | More drift | Error grows with wrist movement | Read the rough range only |
+| Hills, many turns, technical terrain | Distance easily straightened or inflated | Lag obvious with variable movement | Trust perceived effort |
+| Loose band, slipping after sweat | Odd points | Jumping readings | Refit before recording |
 
-## Worked example: a 5 km easy run
+## Worked example: how GPS drift changes average pace (hypothetical)
 
-Suppose the watch shows 5.12 km, average pace 6:10/km and average heart rate 148 bpm, and you can speak in full sentences. All three signals point to easy effort, and the conclusion holds even if GPS added 120 m, about 2.4%. Conversely, if it shows 5:50 pace and 172 bpm while you can only speak in short phrases, slow down by breathing rather than trusting the pace.
+Assume the true distance is 5.00 km and time 31:00 (31.00 minutes), giving a true average pace of 31.00 ÷ 5.00 = 6.20 min/km, i.e. 6:12/km. If drift records 5.12 km at the same time, displayed pace is 31.00 ÷ 5.12 ≈ 6.05 min/km, about 6:03/km. Recording 0.12 km extra (2.4%) speeds the displayed pace by roughly 9 seconds per kilometre. Distance error converts directly into pace error, so judge pace from familiarity with the route and track shape, not the watch average alone.
+
+## Worked example: recording interval and point spacing (hypothetical)
+
+Assume pace is 12 km/h, or 12 ÷ 3.6 ≈ 3.33 m/s. At a 1-second interval adjacent recorded points are about 3.3 m apart; at 5 seconds they are about 16.7 m apart. On sharp turns the watch connects points with straight lines, cutting corners and underestimating distance; the more backtracking and weaving, the larger this straightening effect. The recording interval is a device setting and does not change the real route length.
 
 ## Common misconceptions
 
-- Treating "the watch says 5 km" as the standard distance. Courses are measured along the shortest feasible path, while a watch accumulates your actual path, which tends to run long.
-- Treating wrist heart rate as medical monitoring. It does not diagnose arrhythmia and cannot replace an ECG.
-- Explaining every odd reading by the body. Check fit, battery, position fix and auto-pause first.
+- Assuming watch pace is real pace. Pace comes from estimated distance divided by time, so distance drift flows straight into pace; course results are set by certified measurement.
+- Treating a single heart-rate peak as a cardiac risk marker. Optical error rises in variable movement, and a jumping peak cannot support a diagnosis.
+- Comparing pace across routes. Gradient, wind, surface and altitude change the physiological load at the same pace.
+- Reading watch recovery or load scores as medical conclusions. These are algorithm estimates, and consumer devices are not held to medical-device accuracy rules.
 
 ## When to stop
 
-Stop and seek medical help for chest pain, fainting, unusual palpitations, severe breathlessness or persistent symptoms rather than checking the data again. If you have diabetes, an arrhythmia or take medication, follow medical advice on exercise intensity.
+An abnormal watch reading is not a reason to stop; chest pain, fainting, unusual palpitations, wheezing or breathlessness that does not settle at rest are. If these occur during exercise, stop and seek medical help rather than waiting for a watch alert. A resting heart rate 5 bpm or more above usual for a week points first to sleep, a cold, caffeine and training load; seek medical review if it persists.
 
 ## Frequency and progression
 
-Review data once a week for about 10 minutes, and every 4 weeks compare distance, intensity distribution and recovery against the plan. After changing watch, app or recording settings, rebuild the baseline with at least three runs on the same route before comparing.
+Every 4 weeks, compare the same route: whether pace, heart rate and perceived effort improve together. After a device upgrade or algorithm change, do not splice old and new data onto one trend line. Recording route, weather and shoe model explains changes better than a single pace number.
 
-## Pre-run checklist
+## Checklist
 
-- Battery covers the planned duration, with 30% extra for long runs.
-- Wait for a position fix before starting, so the first kilometre is not polluted by drift.
-- Carry backup navigation: a paper map or downloaded offline map.
-- Choose auto-pause by context: acceptable in the city, better off for intervals and trails.
-- Keep recording consistent: same device, same recording interval.
+- Confirm enough satellites have locked before starting the record.
+- Wear the band above the wrist bone and check it has not slipped after sweating.
+- Review the raw file for unusually long straights or repeated backtracking.
+- Compare week against week on the same route and time of day.
+- Check watch data against breathing and leg feel; do not adjust training on readings alone.
 
 ## Scope and limits
 
-This page does not rank brands or models, treat watch data as a diagnosis or guarantee GPS accuracy. Measure device accuracy on the routes you actually use.
+This page does not diagnose, interpret an ECG or arrhythmia, or decide whether an episode was cardiac. The watch is not a certified medical monitor; people with chest pain, fainting, palpitations or cardiopulmonary disease should use clinically validated equipment and consult a clinician. Device specifications and error ranges follow the manufacturer's official documentation; the studies cited here have limited samples and do not generalize to every model.
 
 ## Related reading
 
-- [Running technique: cadence, stride, breathing and hills](https://learn.paobu.org/en/articles/running-form/)
-- [Route safety: write the plan, weather and escape route first](https://learn.paobu.org/en/articles/route-safety/)
+- [Running form and force: efficiency, injury and individual rhythm](/en/knowledge/running-form/)
+- [Route safety: solo running, weather and visibility](/en/knowledge/route-safety/)
+- [Recovery and wearable data: metrics, trends and what they cannot answer](/en/knowledge/wearables-and-recovery-data/)
+- [Training log: what to record and how to review it](/en/knowledge/training-log/)
 
 ## Sources and scope
 
-GPS reliability and alternative navigation follow the U.S. National Park Service Hike Smart, Ten Essentials and hiking safety pages; GPX field definitions follow the TopoGrafix GPX 1.1 specification. Drift ranges and recording intervals are general technical notes, not model-specific test results. Verified 2026-11-06.
+The possibility of unreliable GPS and backup navigation follow the U.S. National Park Service hiking safety page; GPX file structure follows the TopoGrafix GPX 1.1 standard; the optical heart-rate contrast between stable running and variable movement follows a 2025 Fitbit-versus-chest-strap study; the regulatory position and validity status of consumer wearables follow a 2025 review. Study samples and models are limited and do not extend to every watch. Verified 2026-11-26.
+
+<!-- related-ring -->
+## Related entries
+
+- [Achilles Pain — Two Types, Rehab Doses, and the Stop Signals](/en/knowledge/achilles-tendon-pain/)
+- [Returning After an Ankle Sprain: Step Criteria, Step-Back Conditions, and Imaging Red Flags](/en/knowledge/ankle-sprain-and-return/)
+- [Black toenails and nail problems — causes, prevention, and why not to drain them yourself](/en/knowledge/black-toenails/)

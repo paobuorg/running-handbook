@@ -130,3 +130,10 @@ Example (hypothetical): underband 76 cm and bust 90 cm gives a 14 cm difference,
 - NHS, Breast pain (22 June 2020): cyclical pattern, other causes, relation to cancer, fitted-bra advice, limited evidence for vitamin E and evening primrose oil, referral and urgent red flags.
 
 Reviewed for accuracy on 7 November 2026. All cited studies are small laboratory studies and cannot replace individual fitting or clinical assessment.
+
+<!-- related-ring -->
+## Related entries
+
+- [Traction and snow gear compared: trail shoe lugs, microspikes and gaiters](/en/knowledge/traction-and-snow-gear/)
+- [Trail gear: mandatory list, system kit and rule differences](/en/knowledge/trail-gear/)
+- [What watch heart rate and GPS can and cannot tell you](/en/knowledge/watch-gps/)

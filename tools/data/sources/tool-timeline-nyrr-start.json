@@ -1,0 +1,41 @@
+{
+  "sourceId": "tool-timeline-nyrr-start",
+  "title": "TCS New York City Marathon — The Start",
+  "url": "https://www.nyrr.org/tcsnycmarathon/race-day/the-start",
+  "publisher": "New York Road Runners",
+  "publishedAt": null,
+  "accessedAt": "2026-11-25",
+  "claims": [
+    "Wave and corral assignments appear on the official race bib; runners may move to a later or slower wave or corral but not to an earlier or faster one.",
+    "Corrals open and close on a published schedule before each wave start; the finish time is the net time from when the runner crosses the start line.",
+    "The start village has more than 1,600 toilets; only the clear official start-village bag is allowed into Fort Wadsworth, and bags are inspected."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-25",
+    "checkedVia": "web_fetch 读取 NYRR The Start 页正文与时刻表",
+    "note": "2026-11-25 直接读取页面；分区规则、开闭区时刻、净计时与 village 设施均见原文。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "页面：wave/corral 印在号码布上；只能向后区移动，不能向前区移动。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "页面时刻表列出各 wave 的 Corrals Open / Close / Wave Start；完赛时间为越过起点线后的净计时。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "Staging/Start Villages 段：起点村设有 1600 余个厕所；仅官方透明存包可带入 Fort Wadsworth，行李受检。"
+    }
+  ]
+}

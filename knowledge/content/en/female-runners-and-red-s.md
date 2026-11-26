@@ -25,6 +25,8 @@ Female runners may notice menstrual changes, recurrent stress fractures, persist
 2. Seek care: take it to sports medicine, endocrinology or gynaecology; add dietitian and psychological support if eating behaviour is a concern.
 3. Adjust: under guidance, reduce volume or intensity, secure energy rather than cut it, protect recovery and judge progress in weeks.
 
+RED-S is a clinical concept: a clinician reviews history, menstrual status, bone health, relevant blood results and eating behaviour together, usually through sports medicine, endocrinology or gynaecology. A watch reading, a single weight number or one missed period on its own can neither confirm nor exclude it. The record you bring — training volume, weight trend, menstrual dates, sleep and fracture history — makes that review faster and more useful. The framework is not limited to women: male athletes with low energy availability can also show reduced sex hormones, libido and bone density, together with persistent fatigue.
+
 ## Table: signal, meaning, next step
 
 | Signal | Possible meaning | Next step |
@@ -37,7 +39,7 @@ Female runners may notice menstrual changes, recurrent stress fractures, persist
 
 ## Worked example: a gap that "looks small" (hypothetical)
 
-All figures are hypothetical. Assume 2200 kcal intake, 1800 kcal baseline needs and 500 kcal burned in training, leaving about −100 kcal that day; over 12 weeks with five sessions a week the gap reaches thousands of kilocalories. With weight down 3 kg and the cycle 6 weeks late, those signals warrant review, not another 60-minute run.
+All figures are hypothetical. Assume 2200 kcal intake, 1800 kcal baseline needs and 500 kcal burned in training, leaving about −100 kcal that day; over 12 weeks with five sessions a week the gap reaches thousands of kilocalories. With weight down 3 kg and the cycle 6 weeks late, those signals warrant review, not another 60-minute run. In research, energy availability is usually divided by fat-free mass in kilograms; fat-free mass was not measured here, so the example only illustrates a daily balance in magnitude, not a real personal energy-availability value.
 
 ## Pregnancy and postpartum
 
@@ -51,7 +53,7 @@ The CDC states that physical activity is healthy and safe for most pregnant wome
 
 ## When to stop and seek care
 
-Stop adding training and seek assessment for recurrent stress fractures, persistent amenorrhoea, rapid unplanned weight loss, fatigue affecting daily life, loss of control around food, or worsening depression. Chest pain, fainting, severe palpitations, unrelenting bone pain, or pregnancy bleeding or reduced fetal movement are emergencies.
+Stop adding training and seek assessment for recurrent stress fractures, persistent amenorrhoea, rapid unplanned weight loss, fatigue affecting daily life, loss of control around food, or worsening depression. A resting heart rate persistently off your personal baseline, an irregular rhythm or ongoing palpitations should prompt a cardiac review first, rather than being put down to under-training. Chest pain, fainting, severe palpitations, unrelenting bone pain, or pregnancy bleeding or reduced fetal movement are emergencies.
 
 ## Frequency and review rhythm
 
@@ -69,13 +71,20 @@ This page does not diagnose RED-S, menstrual disorders, eating disorders or oste
 
 ## Related reading
 
-- [Running across life: women, older runners and chronic conditions](https://learn.paobu.org/en/articles/running-across-life/)
-- [Talking about pain: describe it before you name it](https://learn.paobu.org/en/articles/pain-communication/)
-- [Training and Racing Through the Menstrual Cycle: Evidence, Symptom Management and When to Seek Care](https://learn.paobu.org/en/articles/menstrual-cycle-and-training/)
-- [Calcium and Vitamin D for Runners — recommended intakes, food amounts and testing boundaries](https://learn.paobu.org/en/articles/calcium-and-vitamin-d-for-runners/)
-- [Weight and running: lighter is not automatically faster](https://learn.paobu.org/en/articles/weight-and-running/)
-- [Iron and bone health — reading ferritin, energy availability and bone stress injury](https://learn.paobu.org/en/articles/iron-and-bone-health/)
+- [Running across life: women, older runners and chronic conditions](/en/knowledge/running-across-life/)
+- [Talking about pain: describe it before you name it](/en/knowledge/pain-communication/)
+- [Training and Racing Through the Menstrual Cycle: Evidence, Symptom Management and When to Seek Care](/en/knowledge/menstrual-cycle-and-training/)
+- [Calcium and Vitamin D for Runners — recommended intakes, food amounts and testing boundaries](/en/knowledge/calcium-and-vitamin-d-for-runners/)
+- [Weight and running: lighter is not automatically faster](/en/knowledge/weight-and-running/)
+- [Iron and bone health — reading ferritin, energy availability and bone stress injury](/en/knowledge/iron-and-bone-health/)
 
 ## Sources and scope
 
 The definition of RED-S, the 2023 IOC consensus and its applicability to male and female athletes, and the multi-system effects follow the International Olympic Committee RED-S consensus page; RED-S was introduced in 2014 and updated in 2018. Pregnancy activity safety and the goal of at least 150 minutes of moderate activity per week follow CDC pregnancy activity information; adult weekly activity and two days of strength work follow the CDC adult activity overview. Verified 2026-11-06.
+
+<!-- related-ring -->
+## Related entries
+
+- [Iron and bone health — reading ferritin, energy availability and bone stress injury](/en/knowledge/iron-and-bone-health/)
+- [Outside Knee Pain and Iliotibial Band Syndrome — Recognition, Load Reduction, and Return-to-Running Limits](/en/knowledge/it-band-syndrome/)
+- [Jet Lag and Racing Abroad — direction, light and arrival timing](/en/knowledge/jet-lag-and-race-travel/)

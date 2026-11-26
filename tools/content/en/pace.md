@@ -52,6 +52,18 @@ Read the per-kilometre pace first, then the per-mile pace and speed; they descri
 2. Choose kilometres or miles, enter two finite values greater than zero, and write pace as `hh:mm:ss` or `mm:ss`.
 3. Read the three outputs together and sanity-check them in the other unit.
 
+## How to read the inputs: three common cases
+
+| Mode | What you know | The two values you enter | Solved result |
+| --- | --- | --- | --- |
+| Distance + time | How far and how long | Distance, total seconds | Pace per km/mi, speed |
+| Distance + pace | How far and the planned pace | Distance, pace seconds per unit | Total time, speed |
+| Time + pace | Only a duration and a target pace | Total seconds, pace seconds per unit | Distance covered |
+
+One common use is post-run review: enter the watch's moving time with the distance in distance-plus-time mode, read the average pace, and compare it with the planned pace. Another is pre-race target conversion: use distance-plus-pace to compute the total time, then check whether the half-way node stays reasonable. A third is treadmill translation: when the treadmill reports km/h, reverse it to an outdoor pace in time-plus-pace or distance-plus-time mode, and confirm the treadmill distance is a reading rather than a preset target.
+
+Check units before entering: do not mix kilometres and miles, and write pace in whole seconds or minutes-seconds for the selected unit. If the units disagree — for example miles entered as distance and a per-kilometre pace — the tool interprets the pace in the selected distance unit and the whole result shifts. Only two of the three values are solved for; one value or all three cannot be resolved.
+
 ## Limits and when not to use it
 
 Exactly two positive, finite values are required, and the tool does not judge whether the input is realistic. The course is treated as the full entered distance. A marathon is 42.195 km and a half marathon is 21.0975 km; entering 42.2 km returns the result for 42.2 km. The tool is not suitable for trail or ultramarathon execution plans, segment strategy, medical exercise prescription, or any claim that a pace equals an intensity.
@@ -64,8 +76,11 @@ Do not use it to judge intensity, to correct for gradient, wind or altitude, or 
 
 ## Related reading
 
-- [Easy running: how to set the intensity](https://learn.paobu.org/en/articles/easy-run/)
-- [Training pace zones: how to set and use them](https://learn.paobu.org/en/articles/training-pace-zones/)
+- [Easy running: how to set the intensity](/en/knowledge/easy-run/)
+- [Training pace zones: how to set and use them](/en/knowledge/training-pace-zones/)
+- [The marathon distance](/en/knowledge/marathon-distance/)
+- [Split table: break a target time into segments](/en/tools/splits/)
+- [Race-time estimate: the Riegel formula](/en/tools/race-predict/)
 
 ## Privacy and data
 
@@ -74,3 +89,10 @@ All calculations happen locally; no account is required. Inputs are written into
 ## Sources and scope
 
 The standard marathon distance and road-event context follow World Athletics; mile conversion uses the exact international mile; the distinction between pace and intensity follows the CDC talk-test description. The tool only performs arithmetic and does not certify a course or prescribe training. Verified 2026-11-06.
+
+<!-- related-ring -->
+## Related entries
+
+- [Race-time estimate: the Riegel formula with a 1.06 exponent](/en/tools/race-predict/)
+- [Result split analyzer: first/second-half fade, fade point and target gap](/en/tools/result-split-analyzer/)
+- [Run-walk planner: schedule by cycles or total duration](/en/tools/run-walk/)

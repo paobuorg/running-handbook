@@ -8,20 +8,26 @@
     "knowledge-nps-ten-essentials",
     "knowledge-nps-hiking-safety",
     "knowledge-nps-winter",
+    "knowledge-nps-hike-smart",
     "knowledge-on-trail-shoe-guide",
-    "knowledge-runners-need-trail-lug-guide"
+    "knowledge-runners-need-trail-lug-guide",
+    "route-lavaredo-mandatory-equipment",
+    "route-uta-mandatory-gear-2027",
+    "route-utmb-regulation"
   ],
   "relatedRefs": [
     "knowledge:running-shoes",
+    "knowledge:trail-navigation",
+    "knowledge:cold-weather-running",
     "knowledge:route-safety",
     "knowledge:watch-gps",
-    "knowledge:cold-weather-running"
+    "tool:race-checklist"
   ],
   "license": "CC-BY-4.0",
   "createdAt": "2026-10-27",
-  "updatedAt": "2026-11-07",
-  "reviewedAt": "2026-11-07",
-  "reviewDueAt": "2027-05-07",
+  "updatedAt": "2026-11-26",
+  "reviewedAt": "2026-11-26",
+  "reviewDueAt": "2027-03-15",
   "translations": [],
   "details": {
     "primaryTopic": "gear",

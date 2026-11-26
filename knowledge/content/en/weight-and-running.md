@@ -19,6 +19,12 @@ Weight and running means understanding how body weight, energy intake and perfor
 
 Running lifts and decelerates body mass, so weight affects energy cost per kilometre, though performance also depends on training, pacing and economy. The CDC notes that weight is influenced by sleep, age, genes and medications, and that active people can still gain weight when intake exceeds expenditure. Its adult guidance recommends 150 minutes of moderate activity weekly plus two days of strength work.
 
+## Scale estimate: body weight, cost per kilometre and joint load (a model estimate, not a prescription)
+
+The metabolic cost of running a distance scales approximately with body mass. The model below reuses a verified treadmill study's level-ground fitted constant: about 3.6 joules per kilogram per metre, with a measured level value of 3.40 ± 0.24 J/kg/m that changes little with speed. Assume a 60 kg runner covers 1 km (1,000 m); model energy is about 60 × 3.6 × 1,000 = 216,000 J, or 216 kJ, roughly 51.6 kcal (1 kcal ≈ 4.184 kJ). At 65 kg the same kilometre costs about 65 × 3.6 × 1,000 = 234 kJ, roughly 55.9 kcal, about 8.3% more per kilometre (65 ÷ 60 ≈ 1.083).
+
+This ratio is a model magnitude, not a measured personal energy expenditure or a reason to diet: the study used elite mountain runners, and individual economy, shoes, gradient and surface all change the real number. Metabolic cost is not joint load; this site has not verified a weight-classified force coefficient for the knee or ankle, so the kilocalorie figures cannot be read as "lighter means a safer knee". This page also does not set a kilocalorie target per kilometre.
+
 ## Risks of low energy availability
 
 Chronic low energy availability is linked to RED-S. The 2023 International Olympic Committee consensus applies to male and female athletes and describes endocrine, bone, metabolic and psychological effects of low energy availability; it requires clinical assessment. RED-S was introduced in 2014 and updated in 2018. Rapid weight loss, menstrual changes, recurrent stress fractures, persistent fatigue or loss of control around food are signals; long-term under-fuelling can reduce recovery, bone density and immunity.
@@ -72,9 +78,16 @@ This page does not provide a weight-loss plan, calorie target or body-fat standa
 
 ## Related reading
 
-- [Judging supplements: evidence before the label](https://learn.paobu.org/en/articles/supplements-and-evidence/)
-- [Female runners and RED-S: low energy is not “not training hard enough”](https://learn.paobu.org/en/articles/female-runners-and-red-s/)
+- [Judging supplements: evidence before the label](/en/knowledge/supplements-and-evidence/)
+- [Female runners and RED-S: low energy is not “not training hard enough”](/en/knowledge/female-runners-and-red-s/)
 
 ## Sources and scope
 
-Healthy weight and activity guidance follow the CDC; the multi-system risks of low energy availability and RED-S follow the 2023 International Olympic Committee consensus. Weight and performance are multi-factor; this page does not provide an individual plan. Verified 2026-11-06
+Healthy weight and activity guidance follow the CDC; the multi-system risks of low energy availability and RED-S follow the 2023 International Olympic Committee consensus; the level-running energy constant (3.6 J/kg/m, measured 3.40 ± 0.24) follows Minetti 2002. Weight and performance are multi-factor; this page does not provide an individual plan. Verified 2026-11-06
+
+<!-- related-ring -->
+## Related entries
+
+- [Headlamps and lighting strategy: lumens, burn time, redundancy and how to read race rules](/en/knowledge/headlamps-and-lighting/)
+- [Hydration systems compared: soft flasks, hard bottles, reservoir packs and handheld bottles](/en/knowledge/hydration-systems/)
+- [Rain and wind shells compared: waterproof-breathable ratings, 2.5L vs 3L, gear rules and timing](/en/knowledge/rain-and-wind-shells/)

@@ -7,16 +7,21 @@
   "claims": [
     "The 2020 guidelines are aligned with the International Liaison Committee on Resuscitation and emphasise early recognition and activation of the chain of survival.",
     "Unresponsiveness with absent or abnormal breathing is the recognition trigger for bystander action in adults.",
-    "The guidelines recommend immediate emergency calling and rapid access to an automated external defibrillator by trained or untrained bystanders."
+    "The guidelines recommend immediate emergency calling and rapid access to an automated external defibrillator by trained or untrained bystanders.",
+    "During manual CPR for an average adult, compress to a depth of at least 2 inches (5 cm) while avoiding excessive depths greater than 2.4 inches (6 cm).",
+    "In adult victims of cardiac arrest, compressions are performed at a rate of 100 to 120 per minute.",
+    "When two or more rescuers are available, switch chest compressors approximately every 2 minutes (or after about 5 cycles of 30:2) to prevent decreases in compression quality.",
+    "Before an advanced airway is placed, CPR is performed at 30 compressions to 2 breaths; compression-only CPR is appropriate when lay rescuers are untrained or unwilling to give respirations.",
+    "The adult cardiac arrest chain proceeds through recognition and activation of the emergency response system, CPR, defibrillation and post-ROSC supportive care; early defibrillation with concurrent high-quality CPR is critical for VF or pulseless VT."
   ],
   "license": null,
   "accessedAt": "2026-11-07",
   "verification": {
     "access": "direct",
     "bodyRead": true,
-    "checkedAt": "2026-11-07",
+    "checkedAt": "2026-11-26",
     "checkedVia": "AHA 2020 Part 3 Adult Basic and Advanced Life Support page + Adult BLS Algorithm accessible-text PDF",
-    "note": "URL 改为仍承载 2020 内容的 Part 3 页面；正文与 BLS 算法文本 PDF 已读，3 条逐条核对。"
+    "note": "URL 改为仍承载 2020 内容的 Part 3 页面；2026-11-26 重新读取 Part 3 页面正文，逐条核对按压深度、频率、2 分钟轮换、30:2 与存活链；3 条旧 claim 维持原核对结论。"
   },
   "claimVerification": [
     {
@@ -33,6 +38,36 @@
       "index": 2,
       "status": "supported",
       "checkedAt": "2026-11-07"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-26",
+      "note": "Part 3 Recommendations for Compression Depth and Rate：at least 2 inches (5 cm), avoid greater than 2.4 inches (6 cm)。"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-26",
+      "note": "Part 3：reasonable to perform compressions at a rate of 100 to 120/min。"
+    },
+    {
+      "index": 5,
+      "status": "supported",
+      "checkedAt": "2026-11-26",
+      "note": "Part 3：switch compressors approximately every 2 min (or about 5 cycles of 30:2)。"
+    },
+    {
+      "index": 6,
+      "status": "supported",
+      "checkedAt": "2026-11-26",
+      "note": "Part 3：30:2 before advanced airway；compression-only appropriate if lay rescuers untrained or unwilling."
+    },
+    {
+      "index": 7,
+      "status": "supported",
+      "checkedAt": "2026-11-26",
+      "note": "Part 3 概述：rapid recognition, prompt CPR, defibrillation of malignant shockable rhythms, post-ROSC care；early defibrillation critical for VF/pulseless VT。"
     }
   ]
 }

@@ -142,3 +142,10 @@ This is health education, not a diagnosis or rehab prescription. Achilles pain c
 - AAOS, Achilles Tendinitis: the two types, rupture warning, limits of eccentric heel drops, advice against steroid injection, the 3-month and 6-month timelines, and the 1-month NSAID caution.
 - Guy's and St Thomas' NHS, Achilles tendinopathy (reviewed October 2024): symptoms, relative rest, early/later heel-raise doses, 6–9 month expectation, shock-wave therapy.
 - NHS, Knee pain and other running injuries: the 2–3 week review threshold and the sudden-tear warning.
+
+<!-- related-ring -->
+## Related entries
+
+- [Returning After an Ankle Sprain: Step Criteria, Step-Back Conditions, and Imaging Red Flags](/en/knowledge/ankle-sprain-and-return/)
+- [Black toenails and nail problems — causes, prevention, and why not to drain them yourself](/en/knowledge/black-toenails/)
+- [Blood in urine after running: exercise-induced haematuria, haemoglobinuria and myoglobinuria](/en/knowledge/blood-in-urine-after-running/)

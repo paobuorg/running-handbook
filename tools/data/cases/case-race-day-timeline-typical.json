@@ -1,0 +1,34 @@
+{
+  "caseId": "case-race-day-timeline-typical",
+  "toolId": "tool:race-day-timeline",
+  "input": {
+    "startClock": "07:30",
+    "waveOffsetMinutes": 10,
+    "travelMinutes": 30,
+    "checkinMinutes": 15,
+    "bagDropMinutes": 10,
+    "warmupMinutes": 10,
+    "finishTargetHours": 3.5
+  },
+  "expected": {
+    "effectiveStartClock": "07:40",
+    "wakeClock": "04:55",
+    "leaveClock": "06:25",
+    "arriveClock": "06:55",
+    "checkinClock": "07:05",
+    "bagDropClock": "07:20",
+    "warmupClock": "07:30",
+    "finishClock": "11:10",
+    "milestones": [
+      { "key": "wake", "clock": "04:55", "previousDay": false },
+      { "key": "leave", "clock": "06:25", "previousDay": false },
+      { "key": "arrive", "clock": "06:55", "previousDay": false },
+      { "key": "checkin", "clock": "07:05", "previousDay": false },
+      { "key": "bagDrop", "clock": "07:20", "previousDay": false },
+      { "key": "warmup", "clock": "07:30", "previousDay": false },
+      { "key": "effectiveStart", "clock": "07:40", "previousDay": false },
+      { "key": "finish", "clock": "11:10", "previousDay": false }
+    ]
+  },
+  "basis": "Start 07:30 = 450 minutes; wave offset 10 gives effectiveStart 460 = 07:40. Warm-up ends at effectiveStart: warmup = 460 − 10 = 450 = 07:30. Bag drop = 450 − 10 = 440 = 07:20. Check-in = 440 − 15 = 425 = 07:05. Arrival = checkin − 10 = 415 = 06:55. Leave = arrival − travel 30 = 385 = 06:25. Wake = leave − 90 = 295 = 04:55. Finish = effectiveStart + 3.5 × 60 = 460 + 210 = 670 = 11:10. Every block stays on race morning, so no milestone is marked previous day."
+}

@@ -1,0 +1,194 @@
+{
+  "entityId": "tool:gear-weight-planner",
+  "slug": "gear-weight-planner",
+  "kind": "tool",
+  "status": "published",
+  "riskLevel": "general",
+  "sourceRefs": [
+    "tool-gear-utmb-equipment",
+    "tool-gear-wser-participant-guide",
+    "tool-gear-issn-ultra-nutrition-2019"
+  ],
+  "relatedRefs": [
+    "knowledge:trail-gear",
+    "knowledge:hydration-systems",
+    "knowledge:race-fuel-comparison",
+    "tool:race-checklist",
+    "route:utmb"
+  ],
+  "license": "CC-BY-4.0",
+  "createdAt": "2026-11-25",
+  "updatedAt": "2026-11-26",
+  "reviewedAt": "2026-11-26",
+  "reviewDueAt": "2027-11-25",
+  "translations": [],
+  "details": {
+    "toolId": "tool:gear-weight-planner",
+    "specVersion": "1.0.0",
+    "inputs": [
+      {
+        "name": "bodyWeightKg",
+        "type": "number",
+        "unit": "kg",
+        "required": true,
+        "minimum": 30,
+        "maximum": 150,
+        "labels": {
+          "zh-CN": "体重（公斤）",
+          "en": "Body weight (kg)"
+        }
+      },
+      {
+        "name": "packWeightGrams",
+        "type": "number",
+        "unit": "g",
+        "required": true,
+        "minimum": 0,
+        "maximum": 5000,
+        "labels": {
+          "zh-CN": "背包自重（克）",
+          "en": "Pack empty weight (g)"
+        }
+      },
+      {
+        "name": "waterLiters",
+        "type": "number",
+        "unit": "L",
+        "required": true,
+        "minimum": 0,
+        "maximum": 5,
+        "labels": {
+          "zh-CN": "携带水量（升）",
+          "en": "Water carried (litres)"
+        }
+      },
+      {
+        "name": "fuelGrams",
+        "type": "number",
+        "unit": "g",
+        "required": true,
+        "minimum": 0,
+        "maximum": 2000,
+        "labels": {
+          "zh-CN": "能量食物重量（克）",
+          "en": "Fuel weight (g)"
+        }
+      },
+      {
+        "name": "mandatoryItems",
+        "type": "array",
+        "unit": "rows",
+        "required": true,
+        "labels": {
+          "zh-CN": "强制装备（名称,克重）",
+          "en": "Mandatory items (name, grams)"
+        }
+      },
+      {
+        "name": "optionalItems",
+        "type": "array",
+        "unit": "rows",
+        "required": true,
+        "labels": {
+          "zh-CN": "自选装备（名称,克重）",
+          "en": "Optional items (name, grams)"
+        }
+      }
+    ],
+    "outputs": [
+      {
+        "name": "mandatoryGrams",
+        "type": "number",
+        "unit": "g",
+        "required": true,
+        "labels": {
+          "zh-CN": "强制装备重量",
+          "en": "Mandatory gear weight"
+        }
+      },
+      {
+        "name": "optionalGrams",
+        "type": "number",
+        "unit": "g",
+        "required": true,
+        "labels": {
+          "zh-CN": "自选装备重量",
+          "en": "Optional gear weight"
+        }
+      },
+      {
+        "name": "baseGrams",
+        "type": "number",
+        "unit": "g",
+        "required": true,
+        "labels": {
+          "zh-CN": "基础重量（含背包）",
+          "en": "Base weight (pack included)"
+        }
+      },
+      {
+        "name": "carriedGrams",
+        "type": "number",
+        "unit": "g",
+        "required": true,
+        "labels": {
+          "zh-CN": "背负重量（含水与能量）",
+          "en": "Carried load (water and fuel included)"
+        }
+      },
+      {
+        "name": "totalGrams",
+        "type": "number",
+        "unit": "g",
+        "required": true,
+        "labels": {
+          "zh-CN": "总负重",
+          "en": "Total load"
+        }
+      },
+      {
+        "name": "percentOfBodyWeight",
+        "type": "number",
+        "unit": "%",
+        "required": true,
+        "labels": {
+          "zh-CN": "占体重比例",
+          "en": "Share of body weight"
+        }
+      },
+      {
+        "name": "heaviestItem",
+        "type": "string",
+        "unit": null,
+        "required": true,
+        "labels": {
+          "zh-CN": "最重单件装备",
+          "en": "Heaviest single item"
+        }
+      },
+      {
+        "name": "suggestions",
+        "type": "array",
+        "unit": null,
+        "required": true,
+        "labels": {
+          "zh-CN": "取舍建议",
+          "en": "Packing suggestions"
+        }
+      }
+    ],
+    "formulaDescription": "Validate bodyWeightKg 30–150, packWeightGrams 0–5000, waterLiters 0–5, fuelGrams 0–2000; each item has a non-empty name of at most 40 characters and grams between 0 and 5000. mandatoryGrams sums mandatoryItems; optionalGrams sums optionalItems. baseGrams = mandatoryGrams + packWeightGrams. carriedGrams = baseGrams + optionalGrams + waterLiters × 1000 + fuelGrams. totalGrams equals carriedGrams. percentOfBodyWeight = totalGrams / (bodyWeightKg × 1000) × 100, rounded to one decimal. heaviestItem is the single item with the most grams; on a tie, a mandatory item takes priority. Suggestions: a load above 15% of body weight recommends reviewing optional items; carrying more than 2 litres prompts checking aid-point spacing.",
+    "assumptions": [
+      "Item weights are measured dry and packed as carried; water absorption, layers worn on the body and drop-bag weight are not counted unless listed.",
+      "Mandatory flags reflect the entrant's own race rules; the tool does not re-check the current race regulation list on race morning.",
+      "The 15% load threshold and 2-litre water cue are planning heuristics, not official safety limits; terrain, pace and weather change how heavy a given load feels.",
+      "Suggestions list candidate items to review; they do not recommend any brand, product or replacement purchase."
+    ],
+    "rounding": "Gram totals are integers; water converts at 1000 g per litre; the body-weight share rounds to one decimal percent.",
+    "caseRefs": [
+      "case-gear-weight-planner-typical",
+      "case-gear-weight-planner-boundary",
+      "case-gear-weight-planner-invalid"
+    ]
+  }
+}

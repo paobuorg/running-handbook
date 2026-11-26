@@ -17,7 +17,7 @@ Post-race recovery is defined as the transition from finish to regular training,
 
 ## The first 24 hours
 
-Take fluid and carbohydrate, adding protein if appetite allows; a carbohydrate-electrolyte drink works if solid food is hard. Shower, change clothes, then sleep.
+Take fluid and carbohydrate, adding protein if appetite allows; a carbohydrate-electrolyte drink works if solid food is hard. Shower, change clothes, then sleep. Alcohol affects sleep and recovery, so avoid heavy drinking on the first night.
 
 ## The first week: walking, sleep, food
 
@@ -25,7 +25,7 @@ The first week needs little running. Walk, move lightly and sleep, watching sore
 
 ## The protein and carbohydrate frame
 
-The ISSN protein position stand states that 1.4 to 2.0 g per kilogram per day is sufficient for most exercising individuals; per serving about 0.25 g/kg, or 20 to 40 g, every 3 to 4 hours. Whole foods can meet the need; supplements are an option. For endurance athletes carbohydrate remains the priority for performance, while protein may offset muscle damage and support recovery. The ISSN nutrient-timing paper adds that carbohydrate timing and amount affect performance and recovery, adapted to the individual, the duration and the demand.
+The ISSN protein position stand states that 1.4 to 2.0 g per kilogram per day is sufficient for most exercising individuals; per serving about 0.25 g/kg, or 20 to 40 g, distributed every 3 to 4 hours. Whole foods can meet the need; supplements are an option. For endurance athletes carbohydrate remains the priority for performance, while protein may offset muscle damage and support recovery. The ISSN nutrient-timing paper adds that carbohydrate timing and amount affect performance and recovery, adapted to the individual, the duration and the demand.
 
 ## How to do it: three steps for three weeks
 
@@ -35,13 +35,20 @@ The ISSN protein position stand states that 1.4 to 2.0 g per kilogram per day is
 
 ## Worked example: a 70 kg runner
 
-The numbers are hypothetical. Assume 70 kg and no acute injury. Protein at 1.4 to 2.0 g/kg is 98 to 140 g a day; 0.25 g/kg is about 17.5 g per serving, so 20 to 40 g at each of 3 to 4 meals fits.
+The numbers are hypothetical. Assume 70 kg and no acute injury. Protein at 1.4 to 2.0 g/kg is 70×1.4 = 98 g to 70×2.0 = 140 g a day; 0.25 g/kg is about 70×0.25 = 17.5 g per serving, so 20 to 40 g at each of 3 to 4 meals fits.
 
 | Week | Running | Intensity | Criterion |
 | --- | --- | --- | --- |
 | Week 1 | None; walk 20 to 30 minutes | Very low | Walking pain-free |
 | Week 2 | Easy run every other day, 20 to 30 minutes | Low | No next-day worsening |
 | Week 3 | Easy run 40 to 50 minutes | Low | Stable for 2 weeks |
+| Week 4 | One short quality session possible | Medium | No anomaly 48 hours after |
+
+## The recovery window: stage criteria, not fixed days
+
+The order is: first restore walking and daily life, then short easy running, and only later quality work and the long run. These windows are a common arrangement, not a universal prescription. The number of weeks needed after the same marathon varies with base, age, weather and post-race symptoms. Moving a stage depends on whether walking is normal, pain has settled, sleep and energy are back, and an easy run feels easy — not on how many days have passed.
+
+If normal walking is still impossible in the first week, or soreness changes from muscular stiffness to a local sharp pain or swelling, do not move into week-two easy running; seek assessment first. General small-dose rules after a break are in [returning to running](/en/knowledge/return-to-running/), the rest-versus-movement choice in [recovery day](/en/knowledge/recovery-day/), and sleep as the base variable in [sleep and recovery](/en/knowledge/sleep-recovery/).
 
 ## Criteria for returning to running
 
@@ -58,10 +65,13 @@ Between weeks one and two, the useful question is not "can I run?" but "is my no
 - A “flush-out” run speeds recovery. It does not clear soreness and may add muscle damage.
 - The calendar is the standard. Returning 2 weeks after a marathon suits some and is far too soon for others.
 - Protein alone is enough. When carbohydrate is short, protein is used for energy.
+- Heavy drinking on the celebration night. Alcohol affects sleep and recovery.
+- Adding volume the moment pain disappears. The next-day response and normal gait still need checking.
+- Returning to intensity within a week. Quality work and the long run wait until walking, sleep and easy running are all back to baseline.
 
 ## When to stop and seek care
 
-Seek care for sharp pain, marked swelling, inability to bear weight, a locked joint, numbness or weakness, fever, chest pain, fainting or unusual palpitations. After a head impact, worsening headache, vomiting, confusion or drowsiness is an emergency. The NHS advises not running while in pain and seeking advice when pain is severe, persistent or accompanied by swelling.
+Seek care for sharp pain, marked swelling, inability to bear weight, a locked joint, numbness or weakness, fever, chest pain, fainting or unusual palpitations. After a head impact, worsening headache, vomiting, confusion or drowsiness is an emergency. The NHS advises not running while in pain and seeking advice when pain is severe, persistent or accompanied by swelling. Persistent insomnia, low mood or fatigue lasting weeks also warrants professional assessment.
 
 ## Frequency, review and progression
 
@@ -80,11 +90,19 @@ No individual rehabilitation plan, diagnosis or medication advice. Medical condi
 
 ## Related reading
 
-- [Sleep and recovery: the variable beneath the gadgets](https://learn.paobu.org/en/articles/sleep-recovery/)
-- [Returning to running after a break: start with repeatable small doses](https://learn.paobu.org/en/articles/return-to-running/)
-- [Compression garments, massage and foam rolling — what the evidence actually supports](https://learn.paobu.org/en/articles/compression-massage-and-foam-rolling/)
-- [Should a recovery day be rest or easy movement?](https://learn.paobu.org/en/articles/recovery-day/)
+- [Sleep and recovery: the variable beneath the gadgets](/en/knowledge/sleep-recovery/)
+- [Returning to running after a break: start with repeatable small doses](/en/knowledge/return-to-running/)
+- [Compression garments, massage and foam rolling — what the evidence actually supports](/en/knowledge/compression-massage-and-foam-rolling/)
+- [Should a recovery day be rest or easy movement?](/en/knowledge/recovery-day/)
+- [Load and overtraining: fatigue is not a character test](/en/knowledge/load-and-overtraining/)
 
 ## Sources and scope
 
 Fluid, carbohydrate and protein timing follow the ISSN nutrient-timing and protein position stands; pain, swelling, inability to bear weight and care-seeking advice follow the NHS running-injury page. Verified 2026-11-06.
+
+<!-- related-ring -->
+## Related entries
+
+- [Should a recovery day be rest or easy movement?](/en/knowledge/recovery-day/)
+- [Sleep and recovery: the variable beneath the gadgets](/en/knowledge/sleep-recovery/)
+- [Watch data and recovery: read trends, not one score](/en/knowledge/wearables-and-recovery-data/)

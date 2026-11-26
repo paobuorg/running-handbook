@@ -150,3 +150,10 @@ This page **does not** give: a weekly volume for everyone, a long-run percentage
 This page does not diagnose injury, prescribe individual paces, or replace a coach or clinician. If you have an acute injury, are returning from injury, are pregnant, have cardiovascular, metabolic or respiratory disease, or take medication, consult a qualified professional first. Chest pain, fainting or severe breathlessness are emergencies; seek immediate care. A generic plan cannot replace individual coaching.
 
 Verified: 2026-11-07.
+
+<!-- related-ring -->
+## Related entries
+
+- [Cross-training for runners: when to substitute running, how to match effort, and what loses running specificity](/en/knowledge/cross-training-for-runners/)
+- [Cut-off management: reading the timeline, converting checkpoints to pace, and planning your buffer](/en/knowledge/cutoff-management/)
+- [What easy running really means](/en/knowledge/easy-run/)

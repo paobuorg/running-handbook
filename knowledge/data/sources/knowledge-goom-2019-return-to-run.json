@@ -1,0 +1,55 @@
+{
+  "sourceId": "knowledge-goom-2019-return-to-run",
+  "title": "Returning to running postnatal – guidelines for medical, health and fitness professionals managing this population",
+  "url": "https://static1.squarespace.com/static/5ecb35c23da5726ae0c78d01/t/5ee973361cd273133d5413dc/1592357688415/Return+to+Run.pdf",
+  "publisher": "Goom T, Donnelly G, Brockwell E (professional consensus guideline)",
+  "publishedAt": "2019-03-01",
+  "accessedAt": "2026-11-25",
+  "claims": [
+    "Return to running is not advisable prior to 3 months postnatal, or beyond that time if any symptoms of pelvic floor dysfunction are identified before or after attempting a return to running.",
+    "Every postpartum mother, regardless of delivery mode, should be offered the opportunity to receive a pelvic health assessment with a specialist physiotherapist from 6 weeks postnatal.",
+    "Key signs or symptoms of pelvic floor or abdominal wall dysfunction include urinary or faecal incontinence, urgency difficult to defer, pelvic heaviness, pressure, bulge or dragging, pelvic or lumbopelvic pain, and a pendular abdomen or separated abdominal muscles.",
+    "If the readiness criteria are met after 3 months, a graded return can start small, around 1 to 2 minutes of easy running; build running volume before intensity, with weekly running distance or time increased by no more than around 10%.",
+    "The guideline is based on the best available evidence alongside experienced clinical opinion; it is designed to assist clinical reasoning rather than replace it, and it does not provide a prescriptive approach."
+  ],
+  "license": "Professional guideline; citation and summary only",
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-25",
+    "checkedVia": "WebFetch 读取 Return+to+Run.pdf 全文（Evidence-Based Recommendations 2、Table 1、Appendix 2/3）",
+    "note": "读取引言、证据等级说明、盆底/腹壁障碍症状表、产后 0–3 个月低冲击时间线、回归跑步标准与递进建议。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "Evidence-Based Recommendation 2：“Return to running is not advisable prior to 3 months postnatal or beyond this if any symptoms of pelvic floor dysfunction are identified prior to, or after attempting, return to running.”"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "原文：“every postnatal mother, regardless of delivery mode, should be offered the opportunity to receive a pelvic health assessment (from 6-weeks postnatal) with a specialist physiotherapist”。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "Table 1 与患者版清单：urinary/faecal incontinence、urgency difficult to defer、heaviness/pressure/bulge/dragging、pain with intercourse、obstructive defecation、pendular abdomen/DRA、lumbopelvic pain。"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "原文：“It is sensible to start small, often with around 1 to 2 minutes of running at an easy pace.”；“building training volume … prior to increasing training intensity”；“a total weekly running distance/time should not be increased by more than around 10% per week.”"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "引言：“This document is based on the best available evidence alongside experienced clinical opinion. It is designed to assist clinical reasoning rather than replace it. It does not provide a prescriptive approach.”"
+    }
+  ]
+}

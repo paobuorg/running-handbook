@@ -51,6 +51,19 @@ The numbers are targets, not forecasts. The cumulative column tells you what the
 2. Choose even or negative splits; for negative, set delta from 0 to 0.10, defaulting to 0.02.
 3. Copy the cumulative times onto a pace band and rehearse the same structure in training before race day.
 
+## How to read the inputs: common distance, time and split combinations
+
+| Combination | Total distance | Target time | Split distance | Typical use |
+| --- | --- | --- | --- | --- |
+| 10 km / 1 km | 10 km | 3000 s | 1 km | Per-kilometre race pace band |
+| 5 km / 2 km | 5 km | 1500 s | 2 km | Fewer splits for training review |
+| 5 mi / 1 mi | 5 mi | 2400 s | 1 mi | Mile nodes in imperial races |
+| Short final split | Any | Any | Larger than the last remainder | Final split ends at the total |
+
+Before filling in, confirm the target time is a whole number of seconds; a split distance larger than the total produces one segment equal to the total time. A common error is to enter a total time that includes aid-station stops, which makes the whole table run slow; another is to treat an average training pace as a race goal without leaving margin for second-half slowing.
+
+Choose even or negative splits according to your race experience: most road runners near their target time start even, and a negative split is only appropriate when you know you can hold the first half back. Delta is the time-allocation gap between halves: 0.02 means the first half uses 2% more of the total time. It is not a pace percentage, and it does not account for hills, wind or aid stops.
+
 ## Limits and when not to use it
 
 Total distance, total time and split distance must be greater than zero. Delta applies only to negative splits and a zero delta reproduces the even table. A split distance larger than the total produces one segment equal to the total time. The tool does not adjust for hills, aid stations or weather and gives no finish probability or training plan. It suits neither trail pacing that depends on terrain and aid points nor exploratory runs without a target time.
@@ -63,9 +76,11 @@ Do not use it for trail or ultra split planning, for finish probabilities, or in
 
 ## Related reading
 
-- [Race-day execution: pacing, corrals and fuelling](https://learn.paobu.org/en/articles/race-day-pacing/)
-- [Training pace zones: how to set and use them](https://learn.paobu.org/en/articles/training-pace-zones/)
-- [Pace calculator: distance, time, pace and speed](https://tools.paobu.org/en/tools/pace/)
+- [Race-day execution: pacing, corrals and fuelling](/en/knowledge/race-day-pacing/)
+- [Training pace zones: how to set and use them](/en/knowledge/training-pace-zones/)
+- [Pace calculator: distance, time, pace and speed](/en/tools/pace/)
+- [The marathon distance](/en/knowledge/marathon-distance/)
+- [Race-time estimate: the Riegel formula](/en/tools/race-predict/)
 
 ## Privacy and data
 
@@ -74,3 +89,10 @@ All calculations happen locally; no account is required. Inputs are written into
 ## Sources and scope
 
 Distance units and the standard marathon value follow World Athletics; the distinction between a pace distribution and training intensity follows the CDC talk-test description. The table is arithmetic only and is not a finish-time promise. Verified 2026-11-06.
+
+<!-- related-ring -->
+## Related entries
+
+- [Carb-load planner — a usable band from 10–12 g/kg/day over 36–48 hours](/en/tools/carb-load-planner/)
+- [Race fuelling plan: estimate carbohydrate by the hour](/en/tools/fueling-planner/)
+- [Gear weight planner: weigh every item, total the carried load and flag trade-offs](/en/tools/gear-weight-planner/)

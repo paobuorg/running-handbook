@@ -1,0 +1,15 @@
+{
+  "caseId": "case-heat-acclimation-planner-invalid",
+  "toolId": "tool:heat-acclimation-planner",
+  "input": {
+    "raceWbgtC": 26,
+    "arrivalDaysBefore": 7,
+    "currentDailyHeatMinutes": 250,
+    "planDays": 14,
+    "sessionMinutes": 45
+  },
+  "expected": {
+    "error": "currentMinutes"
+  },
+  "basis": "Current daily heat minutes must be between 0 and 240; 250 exceeds the upper bound, so the planner throws a range error on currentMinutes before exposure totals or a band are computed."
+}

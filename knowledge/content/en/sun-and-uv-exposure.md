@@ -130,3 +130,10 @@ Practical rhythm: check the day's UV Index before going out and choose sunscreen
 - American Academy of Dermatology, How to apply sunscreen: SPF 30+ broad-spectrum water-resistant, 15 minutes before going out, 1 ounce for adults, 1 teaspoon for the face, reapply every 2 hours and after sweating.
 
 This page was verified on 2026-11-07.
+
+<!-- related-ring -->
+## Related entries
+
+- [Trail navigation: a GPX is a base map, not a safety net](/en/knowledge/trail-navigation/)
+- [Goals and review: turn “run faster” into something you can do](/en/knowledge/goal-setting-and-review/)
+- [Habit stacking and adherence: let the run start itself](/en/knowledge/habit-stacking-and-adherence/)

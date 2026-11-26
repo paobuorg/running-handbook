@@ -131,3 +131,10 @@ DOMS 的汇总结果是：约 **13% 改善**，SMD **1.13**（95% CI 0.44 至 1.
 - NHS，DVT (deep vein thrombosis)：单侧腿部疼痛、肿胀、皮肤颜色改变与静脉肿胀；气短或胸痛时按肺栓塞风险立即就医。
 
 本文核验日期为 2026-11-07。
+
+<!-- related-ring -->
+## 相关条目
+
+- [训练负荷与过度训练：信号、边界与证据冲突](/knowledge/load-and-overtraining/)
+- [赛后恢复：先把身体从比赛里带回来](/knowledge/post-race-recovery/)
+- [恢复日该休息还是动一动](/knowledge/recovery-day/)

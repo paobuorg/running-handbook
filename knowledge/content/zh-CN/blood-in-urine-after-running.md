@@ -144,3 +144,10 @@ AUA/SUFU 的镜下血尿指南把患者按年龄、性别、吸烟史、血尿�
 - StatPearls，Myoglobinuria：试纸潜血阳性而镜下无红细胞、尿色偏棕、CK 明显升高。
 - BMJ，The haematuria of the long-distance runner，1979：膀胱后壁挫伤机制、「10000 米血尿」、24–48 小时缓解、反复发作需排除基础病。
 - AUA/SUFU，Microhematuria Guideline：按风险分层决定膀胱镜与上尿路影像。
+
+<!-- related-ring -->
+## 相关条目
+
+- [跑步中的心脏急症：识别信号、呼救与启动应急链](/knowledge/cardiac-emergency-in-running/)
+- [退赛决策：必须退的红旗信号、怎么退、沟通记录与坚持判据](/knowledge/dnf-decision-making/)
+- [女性跑者与 RED-S：能量不足不是“练得不够狠”](/knowledge/female-runners-and-red-s/)

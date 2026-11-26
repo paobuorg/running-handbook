@@ -131,3 +131,10 @@ Example (hypothetical): to test whether compression socks help your post-race so
 - NHS, DVT (deep vein thrombosis): one-leg pain, swelling, skin colour change and swollen veins; emergency help with shortness of breath or chest pain.
 
 This page was verified on 2026-11-07.
+
+<!-- related-ring -->
+## Related entries
+
+- [Training load and overtraining: signals, boundaries and evidence conflict](/en/knowledge/load-and-overtraining/)
+- [Post-race recovery: bring the body back from the race](/en/knowledge/post-race-recovery/)
+- [Should a recovery day be rest or easy movement?](/en/knowledge/recovery-day/)

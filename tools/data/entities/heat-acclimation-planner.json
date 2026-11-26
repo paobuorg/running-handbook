@@ -1,0 +1,172 @@
+{
+  "entityId": "tool:heat-acclimation-planner",
+  "slug": "heat-acclimation-planner",
+  "kind": "tool",
+  "status": "published",
+  "riskLevel": "general",
+  "sourceRefs": [
+    "tool-heat-acsm-2021-consensus",
+    "tool-heat-osha-wbgt",
+    "tool-heat-nws-wbgt"
+  ],
+  "relatedRefs": [
+    "knowledge:heat-and-humidity",
+    "knowledge:hydration",
+    "tool:heat-adjust",
+    "tool:sweat-rate",
+    "knowledge:sun-and-uv-exposure"
+  ],
+  "license": "CC-BY-4.0",
+  "createdAt": "2026-11-25",
+  "updatedAt": "2026-11-26",
+  "reviewedAt": "2026-11-26",
+  "reviewDueAt": "2027-11-25",
+  "translations": [],
+  "details": {
+    "toolId": "tool:heat-acclimation-planner",
+    "specVersion": "1.0.0",
+    "inputs": [
+      {
+        "name": "raceWbgtC",
+        "type": "number",
+        "unit": "°C WBGT",
+        "required": true,
+        "minimum": 10,
+        "maximum": 40,
+        "labels": {
+          "zh-CN": "比赛时 WBGT 估算（摄氏度）",
+          "en": "Estimated race WBGT (°C)"
+        }
+      },
+      {
+        "name": "arrivalDaysBefore",
+        "type": "number",
+        "unit": "days",
+        "required": true,
+        "minimum": 0,
+        "maximum": 21,
+        "labels": {
+          "zh-CN": "提前到达天数",
+          "en": "Days arrived before race"
+        }
+      },
+      {
+        "name": "currentDailyHeatMinutes",
+        "type": "number",
+        "unit": "min",
+        "required": true,
+        "minimum": 0,
+        "maximum": 240,
+        "labels": {
+          "zh-CN": "目前每日热暴露分钟数",
+          "en": "Current daily heat exposure (min)"
+        }
+      },
+      {
+        "name": "planDays",
+        "type": "number",
+        "unit": "days",
+        "required": true,
+        "minimum": 10,
+        "maximum": 14,
+        "labels": {
+          "zh-CN": "计划习服天数",
+          "en": "Acclimation plan days"
+        }
+      },
+      {
+        "name": "sessionMinutes",
+        "type": "number",
+        "unit": "min",
+        "required": true,
+        "minimum": 20,
+        "maximum": 120,
+        "labels": {
+          "zh-CN": "每日训练时长",
+          "en": "Daily session length"
+        }
+      }
+    ],
+    "outputs": [
+      {
+        "name": "targetDays",
+        "type": "number",
+        "unit": "days",
+        "required": true,
+        "labels": {
+          "zh-CN": "计划习服天数",
+          "en": "Target acclimation days"
+        }
+      },
+      {
+        "name": "dailyMinutesTarget",
+        "type": "number",
+        "unit": "min",
+        "required": true,
+        "labels": {
+          "zh-CN": "每日目标训练时长",
+          "en": "Daily target minutes"
+        }
+      },
+      {
+        "name": "totalExposureMinutes",
+        "type": "number",
+        "unit": "min",
+        "required": true,
+        "labels": {
+          "zh-CN": "已累计热暴露",
+          "en": "Accumulated exposure"
+        }
+      },
+      {
+        "name": "shortfallMinutes",
+        "type": "number",
+        "unit": "min",
+        "required": true,
+        "labels": {
+          "zh-CN": "暴露缺口",
+          "en": "Exposure shortfall"
+        }
+      },
+      {
+        "name": "riskBand",
+        "type": "enum",
+        "unit": null,
+        "required": true,
+        "enumValues": [
+          "low",
+          "moderate",
+          "high"
+        ],
+        "labels": {
+          "zh-CN": "风险等级",
+          "en": "Risk band"
+        }
+      },
+      {
+        "name": "schedule",
+        "type": "array",
+        "unit": null,
+        "required": true,
+        "labels": {
+          "zh-CN": "逐日习服安排",
+          "en": "Daily schedule"
+        }
+      }
+    ],
+    "formulaDescription": "Validate ranges: raceWbgtC 10-40, arrivalDaysBefore 0-21, currentDailyHeatMinutes 0-240, planDays 10-14, sessionMinutes 20-120. totalExposureMinutes = arrivalDaysBefore * currentDailyHeatMinutes. Planned exposure = planDays * sessionMinutes; shortfallMinutes = max(0, planned - totalExposureMinutes). Risk band: high when raceWbgtC >= 28 or shortfallMinutes > 300; otherwise moderate when raceWbgtC >= 25 or shortfallMinutes > 120; otherwise low. Schedule lists one entry per day 1..planDays with sessionMinutes, except the last two days at round(sessionMinutes * 0.6).",
+    "assumptions": [
+      "WBGT is an estimated race-day value; actual WBGT combines temperature, humidity, wind and solar radiation and may differ from a temperature-only heat index.",
+      "Accumulated exposure is approximated as arrival days times current daily heat minutes, without modelling intensity, rest breaks or recovery between sessions.",
+      "The 10-14 day plan reflects common workplace acclimatization guidance that full acclimatization builds over one to two weeks of repeated heat exposure; individual adaptation varies.",
+      "The tool does not prescribe session intensity, fluid replacement, cooling equipment or medical monitoring.",
+      "Risk bands are planning thresholds, not clinical classifications of heat illness."
+    ],
+    "rounding": "Schedule minutes round to the nearest whole minute; exposure totals and shortfall are whole minutes; risk thresholds compare unrounded shortfall.",
+    "caseRefs": [
+      "case-heat-acclimation-planner-typical",
+      "case-heat-acclimation-planner-boundary",
+      "case-heat-acclimation-planner-invalid"
+    ]
+  }
+}

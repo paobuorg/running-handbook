@@ -1,0 +1,45 @@
+{
+  "entityId": "knowledge:race-fuel-comparison",
+  "slug": "race-fuel-comparison",
+  "kind": "knowledge",
+  "status": "published",
+  "riskLevel": "guidance",
+  "sourceRefs": [
+    "knowledge-issn-carbohydrate-timing",
+    "knowledge-acsm-2016-carbohydrate",
+    "knowledge-ioc-2010-nutrition-guide",
+    "knowledge-costa-2017-gut-training",
+    "knowledge-acsm-2007-fluid",
+    "knowledge-issn-caffeine"
+  ],
+  "relatedRefs": [
+    "knowledge:race-day-fueling",
+    "knowledge:long-run-fueling",
+    "knowledge:hydration",
+    "knowledge:caffeine-and-running",
+    "tool:fueling-planner"
+  ],
+  "license": "CC-BY-4.0",
+  "createdAt": "2026-11-25",
+  "updatedAt": "2026-11-26",
+  "reviewedAt": "2026-11-26",
+  "reviewDueAt": "2027-11-25",
+  "translations": [],
+  "details": {
+    "primaryTopic": "nutrition",
+    "secondaryTopics": [
+      "gear",
+      "training"
+    ],
+    "contentType": "guide",
+    "audiences": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "scenarios": [
+      "race-preparation",
+      "race-day"
+    ]
+  }
+}

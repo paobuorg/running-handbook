@@ -6,7 +6,8 @@
   "riskLevel": "general",
   "sourceRefs": [
     "tool-world-athletics-marathon",
-    "knowledge-cdc-intensity"
+    "knowledge-cdc-intensity",
+    "knowledge-nist-length-units"
   ],
   "relatedRefs": [
     "knowledge:marathon-distance",
@@ -14,9 +15,9 @@
   ],
   "license": "CC-BY-4.0",
   "createdAt": "2026-10-26",
-  "updatedAt": "2026-11-07",
-  "reviewedAt": "2026-11-06",
-  "reviewDueAt": "2027-10-28",
+  "updatedAt": "2026-11-26",
+  "reviewedAt": "2026-11-26",
+  "reviewDueAt": "2027-11-25",
   "translations": [],
   "details": {
     "toolId": "tool:pace",

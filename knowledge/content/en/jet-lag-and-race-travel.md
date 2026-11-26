@@ -143,3 +143,10 @@ Reviewed 2026-11-07.
 - NHS, Jet lag (page reviewed 2023-05-31): definition, symptoms, pre-flight/in-flight/post-arrival measures, short trips, position on medication and melatonin.
 - CDC Yellow Book 2026, Jet Lag Disorder (Riedy & Williams, posted 2025-04-23): symptoms, 68% of business travellers, 1 hour/day eastward and 1.5 hours/day westward, AASM standard treatment, 1 hour per day shift in the 2–3 days before travel, in-flight alcohol and caffeine, 20–30 minute naps after arrival, morning light advancing and evening light delaying, direction of melatonin effect.
 - Eastman & Burgess, How to Travel the World Without Jet Lag (collected by CDC Stacks): eastward travel requires a phase advance and westward travel a phase delay, real-traveller estimates of 92/57 minutes per day, 2.4/1.6 hours per day in a 12-hour shift experiment, travel-plan assumptions of 2/1.5 hours per day.
+
+<!-- related-ring -->
+## Related entries
+
+- [Knee Pain in Runners: Triage Boundaries, Three Bands of Action, and Red Flags](/en/knowledge/knee-pain-in-runners/)
+- [Menopause and Running — symptoms, bone loss and how to adjust training](/en/knowledge/menopause-and-running/)
+- [Training and Racing Through the Menstrual Cycle: Evidence, Symptom Management and When to Seek Care](/en/knowledge/menstrual-cycle-and-training/)

@@ -111,3 +111,10 @@ CDC 的成人活动建议是每周至少 150 分钟中等强度活动，并每�
 ## 来源与适用范围
 
 成人活动量与力量练习参考 CDC 和 ODPHP 的指南；减量效果与训练量范围参考 PLOS ONE 的系统综述和 meta 分析；跑步负荷与伤病关系的证据边界参考系统综述。力量剂量与跑步经济性范围参考 Blagrove 2018 系统综述（20 项研究报告 2%–8% 提高；每周 2–3 次为常见范围，但无统一课表）。研究结论有样本和项目差异，本页只给出安排原则。核验日期为 2026-11-07
+
+<!-- related-ring -->
+## 相关条目
+
+- [跑者力量训练：动作清单、组次频率与怎么排进周计划](/knowledge/strength-training-for-runners/)
+- [节奏跑与间歇跑：强度、结构与进阶](/knowledge/tempo-and-intervals/)
+- [越野超马训练计划：爬升、time-on-foot、夜间、负重与背靠背长课](/knowledge/trail-ultra-training-plan/)

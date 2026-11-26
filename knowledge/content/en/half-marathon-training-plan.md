@@ -141,7 +141,7 @@ This is training education, not an individual prescription. A generic plan canno
 
 - [The long run: purpose, conditions and recovery limits](https://learn.paobu.org/en/articles/long-run/)
 - [5K/10K race training: period, intensity and taper structure](https://learn.paobu.org/en/articles/5k-10k-training-plan/)
-- [Periodization: linear, block and reverse linear — and how far the evidence goes](https://learn.paobu.org/en/articles/periodization/)
+- [Periodization: linear, block and reverse linear — and how far the evidence goes](/en/knowledge/periodization/)
 
 ## Sources and verification date
 
@@ -155,3 +155,10 @@ This is training education, not an individual prescription. A generic plan canno
 - ACSM GetP8 heart rate reserve intensity categories: easy intensity around 40%–59% HRR.
 
 Verified on 2026-11-07.
+
+<!-- related-ring -->
+## Related entries
+
+- [Heart rate drift — why heart rate climbs at the same pace](/en/knowledge/heart-rate-drift/)
+- [How to Set Heart Rate Zones — reserve, formula error and self-checking](/en/knowledge/heart-rate-zones/)
+- [Lactate Threshold and VO₂max Testing: Definitions, Error and Practical Use](/en/knowledge/lactate-threshold-and-vo2max-testing/)

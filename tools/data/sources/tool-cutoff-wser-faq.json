@@ -1,0 +1,41 @@
+{
+  "sourceId": "tool-cutoff-wser-faq",
+  "title": "Frequently Asked Questions — Western States 100 (finish cut-offs)",
+  "url": "https://www.wser.org/frequently-asked-questions/",
+  "publisher": "Western States Endurance Run Foundation",
+  "publishedAt": null,
+  "accessedAt": "2026-11-25",
+  "claims": [
+    "At the finish, 24-hour runners must arrive by 5:00 a.m. Sunday and 30-hour runners by 11:00 a.m.",
+    "Many checkpoints are restricted to race officials because of limited parking and the need to keep narrow access roads clear for fire and rescue equipment.",
+    "Spectators are asked to stay within 1/4 mile of the checkpoints and not to provide food, beverages or other assistance outside the main checkpoint areas."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-25",
+    "checkedVia": "web_fetch 读取官方 FAQ 正文",
+    "note": "2026-11-25 复核 FAQ 的 Finish 与 Spectators 段落。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "Placer HS Stadium Finish 条：24-hour runners by 5:00 a.m. Sunday，30-hour by 11:00 a.m.。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "Volunteers and Spectators → Where can I go：limited parking 与 fire and rescue equipment。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "As a spectator, can I walk out on the trail：1/4 mile 限制与不得在主补给区外提供协助。"
+    }
+  ]
+}

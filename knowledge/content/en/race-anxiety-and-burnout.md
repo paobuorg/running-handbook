@@ -17,7 +17,7 @@ This page covers two states often mixed together: race anxiety (nerves, worry an
 
 ## Pre-race nerves are not automatically an anxiety disorder
 
-The NHS notes that anxiety is a common response to stress and that occasional worry does not mean generalised anxiety disorder (GAD). GAD is more likely when anxiety is present most of the time, difficult to control and affecting daily life. Symptoms include sleep difficulty, restlessness, irritability, fatigue, muscle tension, stomach problems and palpitations.
+The NHS notes that anxiety is a common response to stress and that occasional worry does not mean generalised anxiety disorder (GAD). GAD is more likely when anxiety is present most of the time, difficult to control and affecting daily life. Symptoms include sleep difficulty, restlessness, irritability, fatigue, tension, stomach problems and palpitations.
 
 Fast heartbeat, repeated kit checks and poor sleep before a race are familiar. If worry lasts weeks, affects work or sleep, or makes training difficult, consider a clinician or mental-health professional; adults can also refer themselves to talking therapies.
 
@@ -33,6 +33,14 @@ WHO lists "burn-out" as an occupational phenomenon, not a medical condition, and
 
 If exhaustion, lost interest, a clear performance drop, worsening sleep or low mood lasts more than a week or two, reduce volume and intensity, review sleep, food and stress, and consider medical or psychological assessment. Do not use "push through" to mask worsening signals. Burnout is not the same as depression; if low mood and lost interest affect daily life, let a professional judge.
 
+## Arousal and performance: a personal-log example
+
+A fast heartbeat, shaky hands or slower sleep before a race are physical arousal. Psychology often describes arousal and performance as an inverted-U: too little arousal can leave you flat, while very high arousal can make movement fall apart. The NHS, WHO and insomnia sources reviewed for this page do not supply an optimal arousal score, so this site does not claim "lower anxiety is better" and offers no formula for a target number. Evidence on this relationship varies across populations, events and race formats; anything beyond the reviewed sources is marked insufficient.
+
+Hypothetical example: a runner logs three easy runs in the two weeks before a race. First: arousal 4/10, pace 5:30 per km, movement relaxed. Second: arousal 6/10, pace 5:35 per km. Third: arousal 7/10, pace 5:50 per km, footfall heavy. The pace difference between first and third is 5:50 − 5:30 = 20 seconds per km. This is a personal-log comparison, not a rule that arousal 7 means a slow race; sleep, fatigue, weather and course also affect pace.
+
+Practical rule: if rising arousal comes with several poor nights, stiff movement or declining performance, lower training load and address sleep and stress; a fast heartbeat with sharper focus alone is usually ordinary pre-race arousal. Log arousal score beside pace and sleep each session, and review the trend after two weeks rather than judging by the night before.
+
 ## Small actions that help
 
 Rather than telling yourself to "just stop worrying", put attention on actions: prepare kit and route in advance, use a familiar warm-up, and choose a few specific cues ("relax the first 5 km", "shorten the stride uphill").
@@ -42,6 +50,8 @@ Avoid new caffeine, supplements or rituals on race day; they can amplify palpita
 ## Life load and goals
 
 Work, family, caregiving and financial stress all affect training. Goals can change: treating a race as an experience, shortening the distance, deferring it, or maintaining health are all legitimate choices. Rest is not failure.
+
+If training has become persistent self-blame, hiding or compulsive behaviour, take it seriously; discussing it with someone trusted, a doctor or a mental-health professional is safer than pushing through alone.
 
 ## How to name the pressure in three steps
 
@@ -60,8 +70,10 @@ Review sleep and training feel weekly, start an anxiety self-rating 3 weeks befo
 ## Common misconceptions
 
 - "Nerves mean I am unprepared": moderate arousal is part of racing.
+- "Lower anxiety is always better": too little arousal can also mean flat readiness; this page sets no optimal anxiety score — the question is whether arousal comes with insomnia, stiff movement or performance loss.
 - "Burnout is laziness": exhaustion and lost interest usually point to load or recovery.
 - "Rest lets others pass me": a short reduction protects long-term training better than pushing through.
+- "Counselling is a last resort": seeking help before problems affect daily life costs less.
 
 ## When to stop and when to seek help
 
@@ -83,9 +95,19 @@ This page does not diagnose anxiety, depression, eating disorders or overtrainin
 
 ## Related reading
 
-- [Training logs: record the variables that change decisions](https://learn.paobu.org/en/articles/training-log/)
-- [Making running a habit: start with three easy runs](https://learn.paobu.org/en/articles/running-habits/)
+- [Training logs: record the variables that change decisions](/en/knowledge/training-log/)
+- [Making running a habit: start with three easy runs](/en/knowledge/running-habits/)
+- [Sleep and recovery: the variable beneath the gadgets](/en/knowledge/sleep-recovery/)
+- [Should a recovery day be rest or easy movement?](/en/knowledge/recovery-day/)
+- [Load and overtraining: fatigue is not a character test](/en/knowledge/load-and-overtraining/)
 
 ## Sources and scope
 
-Anxiety symptoms, GAD criteria and help pathways follow the NHS generalised anxiety disorder page; burnout definitions follow WHO's ICD-11 note; sleep guidance follows the NHS insomnia page. Verified 2026-11-06.
+Anxiety symptoms, GAD criteria and help pathways follow the NHS generalised anxiety disorder page; burnout definitions follow WHO's ICD-11 note; sleep guidance follows the NHS insomnia page. No reviewed source sets an optimal arousal score, and the worked example is a hypothetical personal log. This page offers general recognition and action framing, not professional assessment. Verified 2026-11-06.
+
+<!-- related-ring -->
+## Related entries
+
+- [Making running a habit: start with three easy runs](/en/knowledge/running-habits/)
+- [The Barkley Marathons: A Race With No Official Course](/en/knowledge/barkley-marathons/)
+- [Classic races and their history: versions, tradition and conditions](/en/knowledge/classic-races-and-history/)

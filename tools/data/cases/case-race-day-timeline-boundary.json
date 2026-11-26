@@ -1,0 +1,34 @@
+{
+  "caseId": "case-race-day-timeline-boundary",
+  "toolId": "tool:race-day-timeline",
+  "input": {
+    "startClock": "08:00",
+    "waveOffsetMinutes": 0,
+    "travelMinutes": 0,
+    "checkinMinutes": 0,
+    "bagDropMinutes": 0,
+    "warmupMinutes": 0,
+    "finishTargetHours": 0
+  },
+  "expected": {
+    "effectiveStartClock": "08:00",
+    "wakeClock": "06:20",
+    "leaveClock": "07:50",
+    "arriveClock": "07:50",
+    "checkinClock": "08:00",
+    "bagDropClock": "08:00",
+    "warmupClock": "08:00",
+    "finishClock": "08:00",
+    "milestones": [
+      { "key": "wake", "clock": "06:20", "previousDay": false },
+      { "key": "leave", "clock": "07:50", "previousDay": false },
+      { "key": "arrive", "clock": "07:50", "previousDay": false },
+      { "key": "checkin", "clock": "08:00", "previousDay": false },
+      { "key": "bagDrop", "clock": "08:00", "previousDay": false },
+      { "key": "warmup", "clock": "08:00", "previousDay": false },
+      { "key": "effectiveStart", "clock": "08:00", "previousDay": false },
+      { "key": "finish", "clock": "08:00", "previousDay": false }
+    ]
+  },
+  "basis": "All travel, check-in, bag drop and warm-up blocks are zero, but the fixed 10-minute on-site buffer and the 90-minute wake-to-leave prep remain. Start 08:00 = 480 minutes; checkin/bagDrop/warmup stay 480, arrival = 470 = 07:50, leave = 470 = 07:50, wake = 380 = 06:20, finish = 480 = 08:00. Zero blocks are inside range, so the planner returns a timeline rather than throwing."
+}

@@ -1,0 +1,41 @@
+{
+  "sourceId": "tool-split-abbiss-2008",
+  "title": "Describing and Understanding Pacing Strategies during Athletic Competition",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/18278984/",
+  "publisher": "Sports Medicine (Adis)",
+  "publishedAt": null,
+  "accessedAt": "2026-11-25",
+  "claims": [
+    "Pacing profiles in competition are commonly described as negative, all-out, positive, even, parabolic or variable according to how speed or pace unfolds across the event.",
+    "For prolonged events lasting more than about two minutes, performance generally benefits from an even distribution of effort rather than an early surge, and fatigue regulation is central to maintaining pace.",
+    "Well-trained ultra-endurance runners often adopt a positive pacing profile that peaks early and slows gradually through the latter part of the event."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-25",
+    "checkedVia": "web_fetch 读取 PubMed 摘要与条目",
+    "note": "2026-11-25 直接读取摘要；配速分类、长时间项目均匀分配与超马正向配速倾向均见原文。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "摘要列出 negative/all-out/positive/even/parabolic/variable 等配速轮廓分类。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "摘要：超过约 2 分钟的长时间项目，均匀分配努力通常优于前段冲刺；疲劳调控是维持配速的关键。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "摘要：训练有素的超耐力选手常采用前段峰值、后段逐步掉速的正向配速轮廓。"
+    }
+  ]
+}

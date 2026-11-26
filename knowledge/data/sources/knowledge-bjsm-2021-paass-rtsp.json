@@ -1,0 +1,69 @@
+{
+  "sourceId": "knowledge-bjsm-2021-paass-rtsp",
+  "title": "Return to sport decisions after an acute lateral ankle sprain injury: introducing the PAASS framework—an international multidisciplinary consensus",
+  "url": "https://bjsm.bmj.com/content/55/22/1270",
+  "publisher": "British Journal of Sports Medicine",
+  "publishedAt": "2021-11-18",
+  "accessedAt": "2026-11-25",
+  "claims": [
+    "A three-round Delphi survey of 155 globally diverse health professionals reached consensus (>70% agreement) on 16 assessment items to support the return-to-sport decision after an acute lateral ankle sprain.",
+    "The 16 items map to five PAASS domains: Pain, Ankle impairments, Athlete perception, Sensorimotor control, and Sport/functional performance, with 98% panellist agreement on the mapping.",
+    "Sport/functional performance items include hopping (87% agreement), jumping (84%), agility (87%), sport-specific activities (98%), and ability to complete a full training session (87%).",
+    "Pain items retained are severity during sport participation (93%) and over the last 24 hours (81%); pain over the last week and pain on palpation were excluded.",
+    "Athlete perception items are perceived reassurance/confidence (81%), perceived stability (74%), and psychological readiness (74%).",
+    "Structural integrity of the ligaments on imaging was excluded from the RTS decision (89% agreement), as was ligamentous laxity (81%).",
+    "Return to sport was defined as being sanctioned for unrestricted training and cleared or available for match play or competition selection."
+  ],
+  "license": "Publisher terms; consensus items summarized with attribution",
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-25",
+    "checkedVia": "WebFetch BJSM 全文 PDF（Abstract、Tables 2–4、Discussion、survey 项目清单）",
+    "note": "读到 Delphi 轮次、155 名专家、16 项纳入与 17 项排除的同意比例；PAASS 五域与 RTS 定义逐项核对。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "原文 Abstract：“three-round Delphi survey … 155 globally diverse health professionals”；“Sixteen assessment items reached consensus (>70% agreement)”。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "原文：five domains PAASS: Pain, Ankle impairments, Athlete perception, Sensorimotor control, Sport/functional performance；99% agreed domains, 98% agreed mapping。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "原文 Table 2：Sport-specific activities 98%；Pain during sport 93%；Hopping 87%；Agility 87%；Completion of a full training session 87%；Jumping 84%。"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "原文 Table 2：Pain severity during sport participation 93%；Pain severity over the last 24 hours 81%；Table 3：Pain over the last week 88% 排除；Pain on palpation 88% 排除。"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "原文 Table 2：Perceived ankle reassurance/confidence 81%；Perceived ankle stability 74%；Psychological readiness 74%。"
+    },
+    {
+      "index": 5,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "原文 Table 3：Structural integrity of the ligaments on imaging 89% 不纳入；Ligamentous laxity 81% 不纳入。"
+    },
+    {
+      "index": 6,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "原文方法定义：“RTS is defined as 'sanctioned for unrestricted training and cleared/available for match play/competition selection'.”"
+    }
+  ]
+}

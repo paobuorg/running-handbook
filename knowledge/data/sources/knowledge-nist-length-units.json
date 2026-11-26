@@ -1,0 +1,34 @@
+{
+  "sourceId": "knowledge-nist-length-units",
+  "title": "NIST Guide to the SI, Appendix B.8: Factors for Units Listed Alphabetically",
+  "url": "https://www.nist.gov/pml/special-publication-811/nist-guide-si-appendix-b-conversion-factors/nist-guide-si-appendix-b8",
+  "publisher": "National Institute of Standards and Technology (NIST)",
+  "publishedAt": null,
+  "accessedAt": "2026-11-26",
+  "claims": [
+    "One international mile (mi) equals 1609.344 metres exactly.",
+    "One yard (yd) equals 0.9144 metres exactly."
+  ],
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-26",
+      "note": "Appendix B.8 表：mile (mi) → meter (m) 因子 1.609 344 E+03，粗体为精确值。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-26",
+      "note": "Appendix B.8 表：yard (yd) → meter (m) 因子 9.144 E-01，粗体为精确值。"
+    }
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-26",
+    "checkedVia": "web_fetch 读取 NIST Guide to the SI Appendix B.8 网页正文",
+    "note": "HTTP 200；mile 与 yard 到米的换算因子均在表内列出，精确值加粗。"
+  }
+}

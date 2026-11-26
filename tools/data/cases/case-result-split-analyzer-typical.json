@@ -1,0 +1,24 @@
+{
+  "caseId": "case-result-split-analyzer-typical",
+  "toolId": "tool:result-split-analyzer",
+  "input": {
+    "splits": [
+      { "km": 10, "elapsedMinutes": 30.0 },
+      { "km": 20, "elapsedMinutes": 60.0 },
+      { "km": 30, "elapsedMinutes": 92.0 },
+      { "km": 40, "elapsedMinutes": 124.0 }
+    ],
+    "targetFinishMinutes": 120,
+    "splitKm": 10
+  },
+  "expected": {
+    "firstHalfSeconds": 3600,
+    "secondHalfSeconds": 3840,
+    "fadePercent": 6.7,
+    "fadePointKm": null,
+    "variabilityPercent": 3.2,
+    "verdict": "positive-split",
+    "gapToTargetMinutes": 4.0
+  },
+  "basis": "Checkpoints are cumulative: segment times are 30.0, 30.0, 32.0 and 32.0 minutes over four 10 km segments; total 124.0 min = 7440 s over 40 km. Half distance 20 km falls at checkpoint 2: first half 3600 s, second half 3840 s. First-half pace 180 s/km, second-half pace 192 s/km; fade = (192/180 − 1) × 100 = 6.7%. Overall average pace 186 s/km; the 115% fade threshold is 213.9 s/km, and no segment crosses it, so fadePointKm is null. Segment paces 180, 180, 192, 192 average 186 with population stdev 6; variability = 6/186 × 100 = 3.2%. Fade 6.7% sits in the 2–8% positive-split band. Gap to target = 124.0 − 120 = 4.0 minutes over target."
+}

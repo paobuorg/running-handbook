@@ -1,0 +1,41 @@
+{
+  "sourceId": "knowledge-nols-backcountry-lightning",
+  "title": "Lightning Safety in the Backcountry — NOLS",
+  "url": "https://www.nols.edu/blog/lightning-safety-in-the-backcountry/",
+  "publisher": "National Outdoor Leadership School (NOLS)",
+  "publishedAt": "2012-08-27",
+  "accessedAt": "2026-11-25",
+  "claims": [
+    "In the backcountry, defined as 30 minutes or more from modern vehicles or buildings, there are no safe places from lightning; the 0-10 safety scale rates a modern building or vehicle 10 and nothing in the backcountry above 3.",
+    "The lightning position means standing or squatting with feet close together to protect from ground current; more than half of lightning fatalities are caused by ground current as body parts touch the ground far enough apart.",
+    "The four major ways to reduce lightning risk are timing visits with local weather patterns, finding safer terrain when hearing thunder, avoiding trees and long conductors once lightning gets close, and taking the lightning position if lightning is striking nearby and safer terrain cannot be reached."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-25",
+    "checkedVia": "WebFetch NOLS 博客正文（与 NWS 合编手册口径）",
+    "note": "页面可读；野外无安全点、0-10 分级、双脚并拢与地面电流、四级风险措施逐条核对。页面更新于 2018-08-15。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "原文：\"when in the backcountry (30 minutes or more from modern vehicles or buildings) there are no 'safe places' from lightning\"；\"0-10 safety scale, 10 being in a modern building or vehicle and nothing in the backcountry being safer than a three.\""
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "原文：\"standing or squatting with your feet close together to protect from ground current. More than half of all lightning fatalities are caused by ground current… parts of the body touching the ground far enough apart.\""
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "原文 The four major ways：1 timing with weather；2 find safer terrain if you hear thunder；3 avoid trees and long conductors once close；4 get in the lightning position if striking nearby and can't get to safer terrain."
+    }
+  ]
+}

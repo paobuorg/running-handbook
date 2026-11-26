@@ -7,20 +7,28 @@
   "sourceRefs": [
     "knowledge-overtraining-guide",
     "knowledge-running-injury-review",
-    "knowledge-nhs-insomnia"
+    "knowledge-nhs-insomnia",
+    "knowledge-buist-2008-10-percent-rule",
+    "knowledge-nielsen-2014-progression",
+    "knowledge-zeleznik-mezan-2025-wearables-review",
+    "knowledge-ioc-2023-reds-consensus",
+    "knowledge-gabbett-2016-paradox",
+    "knowledge-ding-2026-acwr-meta"
   ],
   "relatedRefs": [
     "knowledge:training-log",
     "knowledge:sleep-recovery",
     "knowledge:recovery-day",
     "knowledge:pain-and-load",
-    "knowledge:return-to-running"
+    "knowledge:return-to-running",
+    "knowledge:training-volume-and-progression",
+    "tool:training-load"
   ],
   "license": "CC-BY-4.0",
   "createdAt": "2026-10-28",
-  "updatedAt": "2026-11-07",
-  "reviewedAt": "2026-11-06",
-  "reviewDueAt": "2027-04-28",
+  "updatedAt": "2026-11-26",
+  "reviewedAt": "2026-11-26",
+  "reviewDueAt": "2027-03-15",
   "translations": [],
   "details": {
     "primaryTopic": "recovery",

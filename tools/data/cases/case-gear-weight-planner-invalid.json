@@ -1,0 +1,16 @@
+{
+  "caseId": "case-gear-weight-planner-invalid",
+  "toolId": "tool:gear-weight-planner",
+  "input": {
+    "bodyWeightKg": 20,
+    "packWeightGrams": 0,
+    "waterLiters": 0,
+    "fuelGrams": 0,
+    "mandatoryItems": [],
+    "optionalItems": []
+  },
+  "expected": {
+    "error": "bodyWeightKg"
+  },
+  "basis": "A 20 kg body weight is outside the accepted 30–150 kg range, so the planner throws a bodyWeightKg range error before any weight is summed. The item lists are empty and are not validated after the body weight check fails."
+}
