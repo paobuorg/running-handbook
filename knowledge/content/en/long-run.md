@@ -86,6 +86,68 @@ Do not force a long run with fever, significant pain, unusual palpitations or ch
 
 This page does not prescribe an individual distance or promise that a distance improves performance or prevents injury. A plan should account for health, injury history, goal and recovery; consult a qualified clinician with a medical condition. The long run does not replace speed work, strength work or sleep.
 
+## Three kinds of long run: base, specific, back-to-back
+
+“Long run” is not one distance. It is three different jobs. A base long run builds time tolerance and aerobic foundations; a specific long run rehearses race terrain, fuelling and pace; a back-to-back pair practises running again on tired legs. They carry different recovery costs and should not all be maximal every week.
+
+| Type | Purpose | Typical session | Recovery cost | When |
+| --- | --- | --- | --- | --- |
+| Base | Time tolerance, fat oxidation, form | Easy pace, 25–35% of weekly volume | Moderate | Base phase, every 1–2 weeks |
+| Specific | Rehearse course, fuel, kit, pace | Includes target terrain/pace block | High | 8–12 weeks out, every 2–3 weeks |
+| Back-to-back | Run again tired, night and load | Two consecutive days, shorter second | Very high | 100K/100 mi, sparingly |
+
+A base long run is not “too easy to matter”. It should leave you able to do an easy run the next day. If one long run needs two or three days to recover, it has become a specific or excessive session.
+
+## Distance ceilings by race
+
+| Target race | Longest single | Longest back-to-back | Key limit |
+| --- | --- | --- | --- |
+| 5K/10K | 10–14 km | Not needed | Quality first |
+| Half | 16–18 km | Not needed | Taper last two weeks |
+| Marathon | 28–32 km or 2.5–3 h | Usually not needed | Recovery and fuelling |
+| 50K | 30–35 km | Optional two days | Climb and time |
+| 100K | 35–45 km | Two days, 15–25 km second | Night, load, feet |
+| 100 mi | 40–50 km | Two days, 20–30 km second | Sleep, kit, crew |
+
+These are training ceilings, not substitutes for race distance. Beyond three hours the recovery cost rises sharply; if you are slow, cap by time rather than kilometres.
+
+## Rehearse fuel, kit and navigation together
+
+The long run is the only session that tests eating, wearing, navigating and carrying at once. Change one variable at a time: a new gel this week, a headlamp next, load after that. Do not change shoes, pack and fuel in the same run.
+
+| Rehearsal point | What to verify | Failure signal |
+| --- | --- | --- |
+| Hour 1 | Breakfast and first carbohydrate | Reflux, side stitch |
+| Hours 2–3 | 30–60 g/h tolerance | Nausea, bloating |
+| Hour 4+ | Solid/liquid, sodium, caffeine | Dizziness, vomiting, gait change |
+| Night | Primary/backup light, warm layer | Cannot see, hands stiff |
+| Final hour | Last fuel and finishing | No appetite, cold |
+
+## Two worked examples
+
+**First marathoner, 50 km weekly, 4:30 goal.** Start the long run at 24 km, add 2–4 km every two weeks, peak at 32 km; peak weekly volume is about 55–60 km, with the long run around 55%. Taper to 24 km and 16 km in the last two weeks. Run 30–60 s/km slower than goal marathon pace; every third week include 8–10 km at goal pace.
+
+**100K runner, 1,500 m weekly climb.** Peak weekend: 35 km plus 20 km the next day. Day one includes 1,200 m climb and two hours at night; day two is walk-run, testing “eat while tired”. Do only two or three back-to-backs, then at least ten days without another. Every night kit item must be used in training, not opened on race day.
+
+## Failure modes and stop rules
+
+- **Adding distance every week:** long runs are not a weekly volume contest; keep a down week every 2–3 weeks.
+- **Using the long run to replace missed easy runs:** piling volume into one day raises recovery cost.
+- **Longest run three weeks out:** peak 3–4 weeks before the race, then taper.
+- **Race pace for the whole long run:** specific blocks are a portion, not the entire session.
+- **Persistent pain, dizziness, vomiting, cold:** stop and manage it; “the long run must be completed” is not a rule.
+
+## The 48 hours after
+
+After the long run, replace fluid, carbohydrate and protein, then sleep. The next day is walking, an easy run or rest. Use morning heart rate, perceived fatigue and pain rather than pace to judge recovery. If you are still heavy-legged, sleeping poorly or more painful 48 hours later, cut next week by 20–30% instead of forcing another long run.
+
+## Related reading and tools
+
+- [Long-run fuelling](/en/knowledge/long-run-fueling/)
+- [Weekly structure](/en/knowledge/training-week/)
+- [Load and overtraining](/en/knowledge/load-and-overtraining/)
+- [Pace calculator](/en/tools/pace/)
+
 ## Related reading
 
 - [Run-walk planner](/en/tools/run-walk/)

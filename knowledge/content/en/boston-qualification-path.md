@@ -103,6 +103,45 @@ For a runner based in China, the binding constraint is often travel time and vis
 
 If the race is in the US or Europe, plan arrival two to three days before packet pickup, not the night before. A delayed flight is a qualification problem only if you let it become one.
 
+## Full age-group qualifying table (2027/2028)
+
+The table lists men's and women's BQ standards from 18 to 80+, so you can look up the group for race-day age. Non-binary categories follow the BAA table for the relevant year; this page does not infer them.
+
+| Age group | Men | Women |
+| --- | --- | --- |
+| 18–34 | 2:55:00 | 3:25:00 |
+| 35–39 | 3:00:00 | 3:30:00 |
+| 40–44 | 3:05:00 | 3:35:00 |
+| 45–49 | 3:20:00 | 3:50:00 |
+| 50–54 | 3:25:00 | 3:55:00 |
+| 55–59 | 3:35:00 | 4:05:00 |
+| 60–64 | 3:50:00 | 4:20:00 |
+| 65–69 | 4:05:00 | 4:35:00 |
+| 70–74 | 4:20:00 | 4:50:00 |
+| 75–79 | 4:35:00 | 5:05:00 |
+| 80+ | 4:50:00 | 5:20:00 |
+
+Age is calculated on race day, not the entry date; one day across a group boundary changes the standard. Use the group the BAA system assigns, not an estimate based on “my birthday has not happened yet”.
+
+## Result certificate checklist
+
+| Item | What to verify | Common failure |
+| --- | --- | --- |
+| Course | A certified course on the BAA list | Training run, virtual run, uncertified route |
+| Distance | 42.195 km with timing and splits | GPS trace assembled to distance |
+| Date | Within the valid period before the window | Result older than BAA allows |
+| Name | Matches passport and entry | Certificate in English, passport in Chinese |
+| Group | Race-day age and category correct | Using entry-day age |
+| Submission | Uploaded in window, fee paid | Saved as a draft |
+
+A result certificate is not a screenshot. BAA may require the official race results page or timing-company proof; store links, PDFs and race contacts in advance.
+
+## Admission is not a pass mark on BQ
+
+Meeting BQ only enters the pool. BAA admits by age-group places and fastest results; the actual cut-off changes with applicant numbers, and this page gives no 2027 forecast. What you control is a buffer above the standard and a clean submission, not guessing the cut-off.
+
+If your result is exactly on the line, choose another fast, weather-stable, affordable qualifier rather than treating “just BQ” as guaranteed admission.
+
 ## Sources and verification boundary
 
 This page records the published standards and dates. It does not predict the 2027 cut-off, which depends on the applicant field and places.

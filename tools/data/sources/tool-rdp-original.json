@@ -14,7 +14,7 @@
     "bodyRead": false,
     "checkedAt": "2026-11-20",
     "checkedVia": "WebFetch（摘要页）+ curl.exe（PDF 下载）",
-    "note": "仅摘要可读；端点保留与递归细化属于实现描述，不在摘要，已移除。"
+    "note": "仅摘要可读；端点保留与递归细化属于实现描述，不在摘要，已移除。 2026-11-26 来源清理：摘要可读，正文未读；claim 仅保留摘要支持的范围。"
   },
   "claimVerification": [
     {

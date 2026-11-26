@@ -82,6 +82,45 @@ Run the full routine on every long trail session; review GPX, closures and escap
 
 This page gives a general routine, not access, live conditions or rescue cover. Private land, protected areas and races have their own rules; check the land manager, organiser and weather service.
 
+## When devices fail: the order
+
+Navigation failure is not only “the phone died”. Protect the person, then the direction, then the track. The wrong order sends you off-route while hunting signal, drains the battery or walks into dangerous terrain.
+
+| Order | Action | Purpose |
+| --- | --- | --- |
+| 1 | Stop; check people, water, insulation, headlamp | Rule out hypothermia and dehydration |
+| 2 | Confirm position with offline/paper map | Do not depend on one device |
+| 3 | Return to the last certain point | Rebuild direction from known terrain |
+| 4 | If still unsure, take the retreat route | Do not cut a new line |
+| 5 | Send a help message and stay put | Save energy and battery |
+
+When the phone is at 1%, do not spend it on photos; send location and plan, then use airplane mode. The backup headlamp and batteries should last until daylight, not “until the next aid station”.
+
+## Retreat points and being lost
+
+Mark 3–5 retreat points before every trail race: road access, signal, a lift or a return to the start. When lost, ask which retreat point is closest, not which finish is closest. Darkness, dropping temperature, injury or a deteriorating teammate makes retreat the highest-completion choice, not a failure.
+
+| Situation | Decision |
+| --- | --- |
+| Off-route <200 m, terrain visible | Return to the last certain point |
+| Off-route >200 m, fog/night/steep | Stop cutting; contour back to known terrain |
+| Injury or hypothermia | Retreat/help nearby; abandon the plan |
+| Storm, lightning, flood | Leave ridges and valleys; take the low-risk line |
+| Dark and no direction | Shelter, send help, wait for daylight |
+
+## Ten-minute pre-race navigation check
+
+Load the track on two devices, plus paper map and spare batteries; confirm start, finish, aid stations, retreat points and cut-offs; send the route to family or crew. One GPX on one phone is not “navigation”.
+
+
+- [Vertical pacing calculator](/en/tools/trail-vertical-pacing/)
+## Related reading and tools
+
+- [GPX standard](/en/knowledge/gpx-course-recon/)
+- [Remote trail self-rescue](/en/knowledge/remote-trail-self-rescue/)
+- [Course recon checklist](/en/tools/course-recon-checklist/)
+- [Trail vertical pacing](/en/knowledge/trail-vertical-pacing/)
+
 ## Related reading
 
 - [Track viewer](https://tools.paobu.org/en/tools/track-view/)

@@ -103,6 +103,36 @@ For a runner based in China, the binding constraint is often travel time and vis
 
 If the race is in the US or Europe, plan arrival two to three days before packet pickup, not the night before. A delayed flight is a qualification problem only if you let it become one.
 
+## Four hard conditions for the lottery
+
+Hardrock is not “finish any 100-mile race and you are in”. Four things must line up: an accepted qualifier, proof of finish, a lottery entry and the current-year rule changes. Miss one and the form never reaches the pool.
+
+| Condition | What to check | Common failure |
+| --- | --- | --- |
+| Qualifier | A 100M on the official list | Substituting a 100K or a self-supported run |
+| Finish | Within cut-off, official result | GPS trace only |
+| Lottery entry | In window, details match ID | Missing the window |
+| Rule changes | Current manual's eligibility terms | Using last year's manual |
+
+Hardrock's rules and manual change each year; this page does not repeat unverified lottery odds or move old dates into 2027.
+
+## Align the qualifier with training
+
+Hardrock's technical descent, altitude and weather are not simulated by an ordinary 100-mile race. The qualifier earns lottery eligibility; training earns the finish. Prefer qualifiers with altitude experience, technical terrain, night and cold conditions; if the qualifier is flat, add climbing and descent in training.
+
+| Training gap | Method | Frequency |
+| --- | --- | --- |
+| Technical descent | Stair descents, rocky repeats | Once weekly |
+| Altitude | Staged arrival; record response | See altitude article |
+| Night | Headlamp long run with fuel and navigation | Every 2–3 weeks |
+| Cold/rain | Layering rehearsal, adjust effort | Every long run |
+
+## Alternatives after a miss
+
+A miss does not mean “Hardrock is over”. Keep eligibility, add another 100-mile finish and enter the next draw; at the same time choose a terrain-similar 100-miler as the season's goal so the year does not hang on one lottery. Do not buy a transfer or believe in an “internal place”.
+
+If you miss several years, reassess whether the gap is eligibility, materials or luck; do not build a training plan on “this year I will definitely get in”.
+
 ## Sources and verification boundary
 
 This page records the published 2027 lottery and course direction. It does not predict pool odds, 2028 dates or a qualifier list that has not been updated.

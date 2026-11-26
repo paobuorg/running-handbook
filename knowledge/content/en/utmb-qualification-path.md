@@ -103,6 +103,32 @@ For a runner based in China, the binding constraint is often travel time and vis
 
 If the race is in the US or Europe, plan arrival two to three days before packet pickup, not the night before. A delayed flight is a qualification problem only if you let it become one.
 
+## The Index category is the first filter
+
+UTMB's entry system first checks whether you hold the UTMB Index category required for the target race, then Stones and the lottery. The wrong category cannot be rescued by more Stones. The 2026 categories below are 2026 facts only; re-read the official page for 2027.
+
+| Target | 2026 accepted Index category | What it means for scheduling |
+| --- | --- | --- |
+| UTMB | 100M category | At least one 100M-category race |
+| CCC | 50K / 100K / 100M | 50K or longer, subject to the year's table |
+| OCC | Any UTMB Index category | Short races count, but Stones still needed |
+| TDS | Follow the year's rules | Do not copy the CCC table |
+| MCC | Follow the year's rules | Do not copy the OCC table |
+
+Ask three questions of every candidate race: does it produce an Index category, how many Stones does it award, and is its distance category accepted by the target? Only three yeses earn a place in the calendar.
+
+## Stones and race selection: few and accurate
+
+Stones are lottery fuel, not a ranking. More races do not bypass the Index threshold; one correctly categorised Major can be more useful than three short races in the wrong category. Write the year as “one Index validation + one or two Stones top-ups”, not “enter everything”.
+
+| Goal | Race combination | Risk |
+| --- | --- | --- |
+| First OCC | One any-category race + one short Stones race | Stacking short races that do not match the category |
+| First CCC | One 50K/100K category + one Stones race | Using road marathons instead of trail |
+| First UTMB | One 100M category + one Major/100M | Entering Finals without a 100M finish |
+
+Each race has its own entry window; one date does not fit all. The Finals lottery window is not the race-entry window. Keep two calendars so “I entered a race” is not mistaken for “I entered Finals”.
+
 ## Sources and verification boundary
 
 This page records official mechanics, not a prediction of 2027 rules, places or odds. Check the current UTMB regulation before entering.

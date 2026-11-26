@@ -7,7 +7,12 @@
   "sourceRefs": [
     "knowledge-nhs-running-injuries",
     "knowledge-running-injury-review",
-    "knowledge-overtraining-guide"
+    "knowledge-overtraining-guide",
+    "knowledge-bjsm-peace-love",
+    "knowledge-gabbett-2016-paradox",
+    "knowledge-nielsen-2014-progression",
+    "knowledge-vincent-2022-trail-injuries",
+    "knowledge-crunkhorn-2025-bsi"
   ],
   "relatedRefs": [
     "knowledge:easy-run",
@@ -18,7 +23,7 @@
   "createdAt": "2026-10-27",
   "updatedAt": "2026-11-26",
   "reviewedAt": "2026-11-26",
-  "reviewDueAt": "2027-11-25",
+  "reviewDueAt": "2027-05-31",
   "translations": [],
   "details": {
     "primaryTopic": "health",

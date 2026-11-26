@@ -81,6 +81,61 @@ The NHS advises not running in pain and seeking advice when pain is severe, pers
 
 This page does not diagnose, recommend medication, replace imaging or examination, or promise that form, shoes or stretching will cure pain. Causes may involve previous injury, bone stress, tendons, muscles or other medical issues; do not delay assessment. Judging persistent fatigue and performance decline needs clinical context.
 
+## Green, amber, red: grade by function, not by a pain score
+
+Pain intensity alone does not decide whether you can run. Function matters more: can you walk normally, is your gait changing, is the pain worse the next day, does it affect sleep and daily life? Record these three bands in your training log; they are more useful than memorising a 0–10 score.
+
+| Band | Presentation | Training response | Review |
+| --- | --- | --- | --- |
+| Green | Mild discomfort, settles within 24 h, normal gait | Keep load, reduce speed and climbing | 3–5 days |
+| Amber | Pain rises during running, persists beyond 24 h, gait slightly changed | Cut volume 30–50%, stop quality, cross-train | 48–72 h |
+| Red | Rest/night pain, limping, swelling, numbness, sudden weakness | Stop running and jumping; seek assessment | Same day |
+
+Amber is a loading window, not permission to push through. If it escalates to red, or does not improve in two weeks, get professional assessment.
+
+## Return-to-run gates: walk before run
+
+| Stage | Content | Pass criterion |
+| --- | --- | --- |
+| 1 | Walk 20–30 min normally | No increase next day |
+| 2 | Walk 5 min / jog 1 min × 4–6 | Pain ≤2/10 at 24 h |
+| 3 | Continuous easy jog 10–20 min | Normal gait, no next-day flare |
+| 4 | Easy running every other day | Stable for a week before quality |
+
+Repeat each stage 2–3 times; do not progress daily. If pain rises during the run and does not settle afterwards, go back one stage.
+
+## Red flags differ by site
+
+“Knee pain” can involve the patellofemoral joint, IT band, meniscus or a stress injury, and these do not behave the same. This article cannot diagnose, but it can flag signals that should not wait.
+
+| Site | Common load-related pattern | Seek prompt assessment |
+| --- | --- | --- |
+| Front of knee | Pain on stairs or squatting | Locking, marked swelling, cannot weight-bear |
+| Outside knee | Outer pain after volume increase | Night pain, rapid worsening |
+| Inner shin | Focal tibial tenderness | Pinpoint severe pain, night pain, throbbing |
+| Achilles | Morning stiffness, pain with loading | Sudden “kick” sensation, cannot single-leg raise |
+| Sole/foot | First-step pain | Persistent swelling, limping, numbness |
+| Hip/glute | Pain after sitting, outer hip when running | Fever, night pain, progressive weakness |
+
+## Two worked examples
+
+**Amber knee pain:** a runner doing 60 km/week develops front-of-knee pain that rises from 3/10 to 5/10 and is still present at 36 hours, with near-normal gait. Response: cut the week to 35–40 km, remove intervals and downhill, keep easy running; glute medius and quadriceps strength twice; review on day 5. If pain settles below 2/10 within 24 hours, add back about 10% per week.
+
+**Red shin pain:** focal severe pain on the inner shin, pain at night and a limp. Stop running and jumping; do not “test” it. Seek prompt assessment for a stress injury. None of the return gates apply until a diagnosis and imaging opinion are available.
+
+## Four load variables to review
+
+Pain changes rarely come from one session. Write down the last seven days: total volume, climbing and descent, number of quality sessions, sleep and life stress. If pain appeared after more climbing, cut descent and speed first. If it appeared in a poor-sleep week, repair recovery first. Change one variable and observe 5–7 days so you can identify the driver.
+
+- [Hip and glute pain](/en/knowledge/hip-and-glute-pain/)
+
+## Related reading and tools
+
+- [Running injuries](/en/knowledge/running-injury-prevention/)
+- [Load and overtraining](/en/knowledge/load-and-overtraining/)
+- [Recovery basics](/en/knowledge/recovery-day/)
+- [Injury risk check](/en/tools/injury-risk-check/)
+
 ## Related reading
 
 - [Running technique: cadence, stride, breathing and hills](/en/knowledge/running-form/)

@@ -1,0 +1,34 @@
+{
+  "caseId": "case-altitude-acclimation-3500",
+  "toolId": "tool:altitude-acclimation-planner",
+  "input": {
+    "raceAltitudeMeters": 3500,
+    "raceDate": "2027-07-10",
+    "arrivalDaysBefore": 2,
+    "currentAltitudeMeters": 0
+  },
+  "expected": {
+    "recommendedArrivalDays": 7,
+    "stagingAltitudeMeters": 2300,
+    "riskBand": "high",
+    "plan": [
+      {
+        "date": "2027-07-08",
+        "altitudeMeters": 2300,
+        "phase": "stage"
+      },
+      {
+        "date": "2027-07-09",
+        "altitudeMeters": 3500,
+        "phase": "move-up"
+      },
+      {
+        "date": "2027-07-10",
+        "altitudeMeters": 3500,
+        "phase": "race"
+      }
+    ],
+    "warning": "Arrival is 5 days shorter than the planning reference; treat the first race hours as acclimatisation, not a personal best attempt. Above 3,500 m, descent is the primary treatment for altitude illness; do not use this plan as a substitute for medical advice."
+  },
+  "basis": "3,500 m gives a 7-day recommendation and 2,300 m staging. Arrival 2 days is below 50% of 7 -> high risk. Rows: 2027-07-08 at staging, 2027-07-09/10 at 3,500 m. Warnings mention 5 days short and >3,500 m."
+}

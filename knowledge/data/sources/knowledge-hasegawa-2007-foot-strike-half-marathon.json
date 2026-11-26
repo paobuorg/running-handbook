@@ -16,12 +16,26 @@
     "bodyRead": false,
     "checkedAt": "2026-11-20",
     "checkedVia": "curl.exe via local 7890 proxy + PubMed efetch abstract (PMID 17685722)",
-    "note": "2026-11-20 经 7890 代理读取 PubMed 结构化摘要；LWW 全文仍为订阅内容，正文未读，因此 bodyRead 保持 false。摘要中的样本量、摄像方法与三分类比例足以支持前三条 claim；原第四条“本文是三分类定义的来源”只是后见归纳，摘要没有该主张，已删除。"
+    "note": "2026-11-20 经 7890 代理读取 PubMed 结构化摘要；LWW 全文仍为订阅内容，正文未读，因此 bodyRead 保持 false。摘要中的样本量、摄像方法与三分类比例足以支持前三条 claim；原第四条“本文是三分类定义的来源”只是后见归纳，摘要没有该主张，已删除。 2026-11-26 来源清理：按摘要级证据保留，正文未读，不把摘要升级为全文。"
   },
   "claimVerification": [
-    { "index": 0, "status": "supported", "checkedAt": "2026-11-20", "note": "摘要：Four hundred fifteen runners were filmed by 2 120-Hz video cameras at the 15.0-km point; sagittal images obtained for 283 runners." },
-    { "index": 1, "status": "supported", "checkedAt": "2026-11-20", "note": "摘要：RFS 74.9%, MFS 23.7%, FFS 1.4% of all analysed runners." },
-    { "index": 2, "status": "supported", "checkedAt": "2026-11-20", "note": "摘要明确写的是 actual road race / elite-level half marathon，15.0 km 处摄像，不是实验室跑台。" }
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-20",
+      "note": "摘要：Four hundred fifteen runners were filmed by 2 120-Hz video cameras at the 15.0-km point; sagittal images obtained for 283 runners."
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-20",
+      "note": "摘要：RFS 74.9%, MFS 23.7%, FFS 1.4% of all analysed runners."
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-20",
+      "note": "摘要明确写的是 actual road race / elite-level half marathon，15.0 km 处摄像，不是实验室跑台。"
+    }
   ]
 }
-

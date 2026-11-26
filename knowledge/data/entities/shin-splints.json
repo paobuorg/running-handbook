@@ -7,7 +7,10 @@
   "sourceRefs": [
     "knowledge-nhs-shin-splints",
     "knowledge-aaos-shin-splints",
-    "knowledge-nhs-running-injuries"
+    "knowledge-nhs-running-injuries",
+    "knowledge-running-injury-review",
+    "knowledge-nielsen-2014-progression",
+    "knowledge-bjsm-peace-love"
   ],
   "relatedRefs": [
     "knowledge:return-to-running",
@@ -19,7 +22,7 @@
   "createdAt": "2026-11-07",
   "updatedAt": "2026-11-26",
   "reviewedAt": "2026-11-26",
-  "reviewDueAt": "2027-11-25",
+  "reviewDueAt": "2027-05-31",
   "translations": [],
   "details": {
     "primaryTopic": "health",

@@ -1,0 +1,44 @@
+{
+  "entityId": "knowledge:blister-and-foot-care",
+  "slug": "blister-and-foot-care",
+  "kind": "knowledge",
+  "status": "published",
+  "riskLevel": "guidance",
+  "sourceRefs": [
+    "knowledge-nhs-blisters",
+    "knowledge-rdash-black-toenails",
+    "knowledge-nhs-england-diabetes-feet",
+    "knowledge-gstt-athletic-footwear",
+    "knowledge-vincent-2022-trail-injuries",
+    "knowledge-nhs-running-injuries"
+  ],
+  "relatedRefs": [
+    "knowledge:shin-splints",
+    "knowledge:trail-navigation",
+    "knowledge:stage-race-strategy",
+    "tool:race-checklist"
+  ],
+  "license": "CC-BY-4.0",
+  "createdAt": "2026-11-26",
+  "updatedAt": "2026-11-26",
+  "reviewedAt": "2026-11-26",
+  "reviewDueAt": "2027-05-31",
+  "translations": [],
+  "details": {
+    "primaryTopic": "health",
+    "secondaryTopics": [
+      "gear"
+    ],
+    "contentType": "guide",
+    "audiences": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "scenarios": [
+      "ultra",
+      "marathon",
+      "trail"
+    ]
+  }
+}

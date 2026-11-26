@@ -7,7 +7,9 @@
   "sourceRefs": [
     "route-western-states-qualifying-2027",
     "route-western-states-entry-process-2027",
-    "route-western-states-lottery-2027"
+    "route-western-states-lottery-2027",
+    "route-western-states-faq",
+    "route-western-states-guide-2027"
   ],
   "relatedRefs": [
     "route:western-states",
@@ -18,7 +20,7 @@
   "createdAt": "2026-11-26",
   "updatedAt": "2026-11-26",
   "reviewedAt": "2026-11-26",
-  "reviewDueAt": "2027-06-30",
+  "reviewDueAt": "2027-11-25",
   "translations": [],
   "details": {
     "primaryTopic": "training",

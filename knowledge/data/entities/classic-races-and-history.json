@@ -14,7 +14,17 @@
     "knowledge:running-culture",
     "knowledge:records-and-course-validity",
     "route:boston",
-    "route:utmb"
+    "route:utmb",
+    "route:hangzhou-marathon",
+    "route:wuxi-marathon",
+    "route:chongqing-marathon",
+    "route:wuhan-marathon",
+    "route:chengdu-marathon",
+    "route:guangzhou-marathon",
+    "route:shenzhen-marathon",
+    "route:chaigutangsi-kuocang",
+    "route:chongli-168",
+    "route:moganshan-trail"
   ],
   "license": "CC-BY-4.0",
   "createdAt": "2026-10-28",

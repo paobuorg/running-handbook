@@ -103,6 +103,39 @@ For a runner based in China, the binding constraint is often travel time and vis
 
 If the race is in the US or Europe, plan arrival two to three days before packet pickup, not the night before. A delayed flight is a qualification problem only if you let it become one.
 
+## Three filters for choosing a qualifier
+
+Western States qualification is not “finish any 100K”. Filter by distance and category, then by the official qualifying-race list, then by lottery and travel. Fail one layer and the finish does not become a lottery entry.
+
+| Filter | Confirm | Consequence of failure |
+| --- | --- | --- |
+| Distance/category | An accepted 100K or 100M finish | Result not recognised |
+| Official list | The current Qualifying Races list | A “similar distance” race that does not count |
+| Proof | Official result, timing, within cut-off | Materials rejected |
+| Lottery entry | Submitted in window, details consistent | Missed lottery |
+
+The hardest qualifier is not automatically the best. Choose a race you can finish comfortably within the cut-off, travel to sensibly and recover from; a famous race that leaves you injured is a worse investment.
+
+## 2027 unknowns: what to verify
+
+As of 2026-11-26, the 2027 qualifying list, lottery dates, places and fees must come from the official page for that year. The table lists where to check, not dates that have not been published.
+
+| Item | 2027 status | Action |
+| --- | --- | --- |
+| Qualifying list | Official site | Check the race is listed before entering |
+| Lottery window | Not published / official site | Set a site reminder |
+| Places | Official site | Do not infer from last year |
+| Fee | Official site | Keep 10–20% budget margin |
+| Validity | Official site | Confirm the finish date is valid |
+
+Keep the official link, qualifying-list PDF and lottery confirmation in one folder; do not leave them only in a mobile browser.
+
+## Twelve months after a miss
+
+Separate a miss into ineligible, incomplete materials, or lottery luck. Ineligible: choose a listed race. Incomplete: obtain official results and proof. Lottery only: retain eligibility and keep training. Do not buy a transfer or believe in an “internal draw”.
+
+For the next cycle, finish the qualifier 12–18 months before the lottery, leaving room for recovery and a backup race; do not run the first 100K two months before the draw.
+
 ## Sources and verification boundary
 
 This page records the published 2027 window and official qualifying rules. It does not predict 2028 dates or imply that a finish guarantees selection.

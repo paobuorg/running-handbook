@@ -17,13 +17,32 @@
     "bodyRead": false,
     "checkedAt": "2026-11-20",
     "checkedVia": "curl.exe via local 7890 proxy + PubMed efetch abstract (PMID 23766439)",
-    "note": "2026-11-20 经 7890 代理读取 PubMed 结构化摘要；BJSM 全文与 PDF 仍为订阅内容，bodyRead 保持 false。原 claim 2 把 incidence-rate difference 写成“BMI 校正后”，摘要只对 cumulative risk difference 说明 BMI 校正，已删去该修饰。"
+    "note": "2026-11-20 经 7890 代理读取 PubMed 结构化摘要；BJSM 全文与 PDF 仍为订阅内容，bodyRead 保持 false。原 claim 2 把 incidence-rate difference 写成“BMI 校正后”，摘要只对 cumulative risk difference 说明 BMI 校正，已删去该修饰。 2026-11-26 来源清理：按摘要级证据保留，正文未读，不把摘要升级为全文。"
   },
   "claimVerification": [
-    { "index": 0, "status": "supported", "checkedAt": "2026-11-20", "note": "摘要：927 novice runners / 1854 feet；326,803 km；252 participants sustained a running-related injury。" },
-    { "index": 1, "status": "supported", "checkedAt": "2026-11-20", "note": "摘要：pronated feet RD −8.1% (−17.6% to 1.3%), p=0.09，且明确为 body mass index-adjusted cumulative risk differences after 250 km。" },
-    { "index": 2, "status": "supported", "checkedAt": "2026-11-20", "note": "摘要：pronators had a significantly lower number of injuries/1000 km of −0.37 (−0.03 to −0.70), p=0.03 than neutrals。该句未提 BMI 校正，claim 已去掉该修饰。" },
-    { "index": 3, "status": "supported", "checkedAt": "2026-11-20", "note": "摘要结论：moderate foot pronation 与新手穿中性鞋受伤风险增加无关；highly pronated feet 是否更高仍需研究。" }
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-20",
+      "note": "摘要：927 novice runners / 1854 feet；326,803 km；252 participants sustained a running-related injury。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-20",
+      "note": "摘要：pronated feet RD −8.1% (−17.6% to 1.3%), p=0.09，且明确为 body mass index-adjusted cumulative risk differences after 250 km。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-20",
+      "note": "摘要：pronators had a significantly lower number of injuries/1000 km of −0.37 (−0.03 to −0.70), p=0.03 than neutrals。该句未提 BMI 校正，claim 已去掉该修饰。"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-20",
+      "note": "摘要结论：moderate foot pronation 与新手穿中性鞋受伤风险增加无关；highly pronated feet 是否更高仍需研究。"
+    }
   ]
 }
-

@@ -7,7 +7,11 @@
   "sourceRefs": [
     "knowledge-nhs-running-injuries",
     "knowledge-issn-nutrient-timing",
-    "knowledge-issn-protein"
+    "knowledge-issn-protein",
+    "knowledge-sleep-uutrecht-2025-runners",
+    "knowledge-davis-2020-massage",
+    "knowledge-bjsm-peace-love",
+    "knowledge-gabbett-2016-paradox"
   ],
   "relatedRefs": [
     "knowledge:recovery-day",
@@ -19,7 +23,7 @@
   "createdAt": "2026-10-28",
   "updatedAt": "2026-11-26",
   "reviewedAt": "2026-11-26",
-  "reviewDueAt": "2027-11-25",
+  "reviewDueAt": "2027-05-31",
   "translations": [],
   "details": {
     "primaryTopic": "recovery",

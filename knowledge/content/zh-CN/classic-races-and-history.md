@@ -87,6 +87,14 @@ translationStatus: reviewed
 
 本页不提供报名、资格、路线开放或成绩认证结论，也不评价某场赛事是否适合你。赛事规则与路线会变化，应以赛事方、世界田联和当地管理部门的最新信息为准；历史与传统只作背景说明。
 
+## 中国赛事样本：十条路线
+
+这十条路线可作为观察中国路跑与越野的样本：城市路跑看交通、气候与名额；越野看技术地形、爬升与夜段。它们也是把赛事历史、规则与旅行放进同一张表的入口。
+
+[杭州马拉松](/routes/hangzhou-marathon/)、[无锡马拉松](/routes/wuxi-marathon/)、[重庆马拉松](/routes/chongqing-marathon/)、[武汉马拉松](/routes/wuhan-marathon/)、[成都马拉松](/routes/chengdu-marathon/)、[广州马拉松](/routes/guangzhou-marathon/)、[深圳马拉松](/routes/shenzhen-marathon/)、[柴古唐斯括苍](/routes/chaigutangsi-kuocang/)、[崇礼 168](/routes/chongli-168/)、[莫干山越野](/routes/moganshan-trail/)。
+
+选择时先看当年的官方规程与报名窗口，不把“经典”当成“每年都一样”。
+
 ## 相关阅读
 
 - [跑步文化：赛事规则、纪录认证与读研究的边界](/knowledge/running-culture/)

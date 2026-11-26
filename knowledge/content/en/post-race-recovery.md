@@ -88,6 +88,66 @@ Assess weekly for 3 weeks: check pain, sleep, walking and how easy runs feel, de
 
 No individual rehabilitation plan, diagnosis or medication advice. Medical conditions, pregnancy, previous injury or persistent symptoms warrant a doctor or physiotherapist.
 
+## Recovery by distance: 5K to 100 miles
+
+Recovery is not “take a few days”. Distance, climb, descent, weather and age all change the timeline. The table is a conservative starting point, not a medical prescription.
+
+| Race | Full running volume | Quality sessions | Next race | Key risk |
+| --- | --- | --- | --- | --- |
+| 5K/10K | 3–7 days | 5–7 days | 2–3 weeks | Going hard because you “feel fine” |
+| Half | 7–10 days | 10–14 days | 3–4 weeks | Iron and sleep debt |
+| Marathon | 14–21 days | 14–21 days | 4–6 weeks | Muscle damage, immunity |
+| 50K | 21–28 days | 21–28 days | 5–8 weeks | Quads from descent, feet |
+| 100K | 28–42 days | 28–42 days | 8–12 weeks | Sleep, appetite, anaemia |
+| 100 mi | 42–56 days | 6–8 weeks | 10–16 weeks | Persistent fatigue, infection, mood |
+
+Add 1–2 weeks if you are over 50, under-trained, raced in extreme weather or finished injured. If you trained well and finished comfortably, use the lower end but still pass the gates below.
+
+## 0–72 hours: handle the basics
+
+| Time | Focus | Avoid |
+| --- | --- | --- |
+| 0–2 h | Fluid, carbohydrate, some protein; dry clothes | Deep massage, hot bath |
+| 2–24 h | Normal meals, sleep; walking for circulation | Alcohol, sun exposure, long standing |
+| 24–72 h | Easy walking, sleep, watch urine and swelling | “Flush” runs, quality, long stretching |
+
+Deep massage or a hot bath immediately after a race can worsen inflammation and hypotension; hydrate, warm up and eat first. Chest pain, breathing difficulty, altered consciousness, inability to urinate, severe swelling or fever is an emergency.
+
+## Week 1 and weeks 2–4
+
+**Week 1:** walking and very easy jogging only, no more than 30–40% of pre-race weekly time; no quality, climbing or long run. Record morning heart rate, sleep, pain and appetite.
+
+**Weeks 2–4:** add 10–20% weekly, frequency first, then duration, then speed. Quality waits until three things are true: easy running does not flare within 24 hours, sleep is stable, and morning heart rate is back to baseline. Heavy legs in week 3 after a marathon are not a character flaw; they are insufficient recovery.
+
+## Nutrition, sleep and strength
+
+- **Carbohydrate:** prioritise glycogen replacement in the first 24 hours; small frequent meals beat one huge meal.
+- **Protein:** 20–30 g per meal across 3–4 meals; powder is not required.
+- **Iron and blood markers:** persistent fatigue, palpitations or cold intolerance after an ultra merits a blood count and iron studies, not self-prescribed high-dose iron.
+- **Sleep:** add 30–60 minutes for 1–2 weeks; sleep loss hides recovery signals.
+- **Strength:** start light isometrics and single-leg stability in week 2; no heavy squats until pain has settled.
+
+## Two worked examples
+
+**3:30 marathon, age 35, well trained.** Days 0–3 walking and sleep; days 4–7 easy 20–30 minutes; week 2 40–50 km; week 3 55–60 km; week 4 one 4×1 km threshold if 24-hour response is clean; week 5 half marathon; week 6 a 10K race.
+
+**100K, age 48, 14-hour finish.** Week 1 walking and sleep; week 2 walk-run 30–40 minutes; weeks 3–4 easy 30–50 km; week 5 one 60-minute easy run; week 6 only consider short threshold. If appetite or blood markers are still abnormal in week 3, seek care before training.
+
+## Three gates before quality
+
+1. Easy 45–60 minutes with pain ≤1/10 at 24 hours.
+2. Seven consecutive days of stable sleep and morning heart rate.
+3. Single-leg calf raise, bridge and bodyweight squat symmetrical on both sides.
+
+All three: add the first threshold. Only two: keep easy running.
+
+## Related reading and tools
+
+- [Recovery basics](/en/knowledge/recovery-day/)
+- [Sleep and performance](/en/knowledge/sleep-recovery/)
+- [Protein](/en/knowledge/protein-for-runners/)
+- [Recovery planner](/en/tools/recovery-planner/)
+
 ## Related reading
 
 - [Sleep and recovery: the variable beneath the gadgets](/en/knowledge/sleep-recovery/)

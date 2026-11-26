@@ -101,6 +101,47 @@ The last row is practical advice, not a research conclusion. A safer approach is
 
 This page does not provide an individual training plan, drug doses or a diagnosis. Pregnant runners, children, people with chronic heart or lung disease, recent respiratory infection or a history of severe altitude illness should consult a doctor before travel. If altitude illness worsens, descend and seek care rather than gambling on one more day of acclimatisation.
 
+## Arrival schedules: three options
+
+Altitude racing is not “breathe oxygen on race day”; it is the rhythm of arrival and adaptation. Choose among three options by race altitude and time budget; none suits everyone.
+
+| Option | Arrival | Suitable | Risk |
+| --- | --- | --- | --- |
+| Late | 24–48 h before | Short race, 2,000–2,500 m | Poor sleep, acute mountain sickness |
+| Staged | 3–7 days at intermediate altitude, then race site | 2,500–3,500 m, ultra | Complex travel and lodging |
+| Early | 10–14 days before | Above 3,500 m, key race | Long leave, disrupted training |
+
+“Late” does not mean “as late as possible”. Racing straight off a flight, with overnight travel and dehydration, magnifies risk; keep at least one day for easy walking, fluid and sleep.
+
+## How much pace drops per 1,000 m
+
+There is no universal formula. Use perceived effort and breathing as primary signals: at 2,000 m easy pace may be 20–40 s/km slower than sea level; at 3,000 m, 40–80 s/km; above 4,000 m, more. Individual variation is large; the table is for budgeting, not rigid prescription.
+
+| Altitude | Easy-run adjustment | Race effort | Monitor |
+| --- | --- | --- | --- |
+| 1,500–2,000 m | 10–30 s/km slower | One notch below sea-level feel | Breathing, sleep |
+| 2,000–2,500 m | 20–40 s/km slower | Do not chase sea-level pace | Morning HR, urine |
+| 2,500–3,500 m | 40–80 s/km slower | Finish and safety first | Headache, nausea, gait |
+| Above 3,500 m | Time and feel, not pace | Stable finish only | Consciousness, cough, breathing |
+
+## Two examples: 2,300 m half and 3,000 m trail
+
+**2,300 m half, sea-level 1:45.** Arrive 48 hours early; day one is 20 minutes walking, fluid and early sleep. Target 1:55–2:00, do not chase pace in the first 5 km, sip water every 15 minutes. Persistent headache, nausea or weaving means stop; do not mask it with painkillers.
+
+**3,000 m 50K, sea-level 7-hour finish.** Arrive 10 days early, stay four days at about 2,000 m, then go to 3,000 m; cut training 30–40% and only walk-run easy. Target 8–9 hours, carry insulation and a backup light; assess breathing, cough and consciousness every two hours.
+
+## Medication and boundaries
+
+Acetazolamide and other drugs can prevent or treat altitude illness, but that is a medical decision; dose and contraindications must come from a clinician. This page gives no dose. Masking headache with painkillers can delay recognition of HAPE/HACE. Resting breathlessness, cough, pink frothy sputum, altered consciousness or inability to walk means descend and seek help immediately.
+
+
+## Related reading and tools
+
+- [Altitude acclimation planner](/en/tools/altitude-acclimation-planner/)
+- [Trail navigation](/en/knowledge/trail-navigation/)
+- [Remote trail self-rescue](/en/knowledge/remote-trail-self-rescue/)
+- [Grade-adjusted pace](/en/knowledge/grade-adjusted-pace-method/)
+
 ## Related reading
 
 - [Heat and humidity: reduce heat risk before chasing pace](https://learn.paobu.org/en/articles/heat-and-humidity/)

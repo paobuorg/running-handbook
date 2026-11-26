@@ -65,7 +65,27 @@ Example: Hong Kong 100 in January as B if selected; Boston in April as A if acce
 
 The table is not about the names; it is about four recovery weeks after every A, no time chase at B, and no long run at C. If you have one overseas budget, put the A on the race you most want and localise everything else.
 
+## Chinese race cluster: ten routes that can fit a calendar
+
+The ten routes below cover Jiangnan road races, hill-city and river-city road races, the south coast and north/ Jiangnan trail. They are not a “must enter” list; they are optional nodes for putting travel, recovery and qualifying races into one calendar.
+
+| Route | Type | Why it can fit |
+| --- | --- | --- |
+| [Hangzhou Marathon](/en/routes/hangzhou-marathon/) | Road | Autumn, manageable city travel and recovery |
+| [Wuxi Marathon](/en/routes/wuxi-marathon/) | Road | Spring, a first-half target |
+| [Chongqing Marathon](/en/routes/chongqing-marathon/) | Road | Hill-city undulation, gradient adaptation |
+| [Wuhan Marathon](/en/routes/wuhan-marathon/) | Road | Spring, river-city weather and course |
+| [Chengdu Marathon](/en/routes/chengdu-marathon/) | Road | Southwest travel and race combination |
+| [Guangzhou Marathon](/en/routes/guangzhou-marathon/) | Road | South China winter, warmer climate |
+| [Shenzhen Marathon](/en/routes/shenzhen-marathon/) | Road | Coastal, winter fitness check |
+| [Chaigutangsi Kuocang](/en/routes/chaigutangsi-kuocang/) | Trail | Technical terrain and climb, trail-specific |
+| [Chongli 168](/en/routes/chongli-168/) | Trail | Altitude and night, 100K preparation |
+| [Moganshan Trail](/en/routes/moganshan-trail/) | Trail | Jiangnan technical route, shorter trail |
+
+Pick two, not all ten in one year. Check each route's current entry window, cut-offs and transport; this page gives a semantic entry point, not the official page.
+
 ## Checklist
+
 
 Fourteen days before the deadline: confirm qualification/proof, passport validity, visa appointment, ballot/direct rules, refund and transfer terms, refundable travel and the recovery week. Forty-eight hours before: log in again and confirm payment and email.
 

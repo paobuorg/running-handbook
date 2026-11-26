@@ -131,6 +131,42 @@ This example shows the order — frequency first, then duration, then intensity 
 
 This is health education, not a substitute for examination or imaging, and it provides no diagnosis, medication or rehabilitation prescription. Causes of shin pain can overlap, and stress fracture and chronic exertional compartment syndrome need professional assessment. AAOS and NHS differ on rest duration ("several weeks" versus "7–14 days"); this page uses the more conservative gate of at least two pain-free weeks before return. Children, adolescents, pregnant runners, post-operative runners, and people taking medication that affects bone metabolism should be assessed clinically first.
 
+## Stress-injury exclusion table
+
+Medial shin pain is not always “shin splints”. Early recognition of a stress injury decides whether you miss weeks or months. This is not a diagnosis; it flags when soft-tissue management is no longer enough.
+
+| Signal | Soft tissue (shin splints) | Exclude stress injury |
+| --- | --- | --- |
+| Pain area | Diffuse along the inner bone | Focal, fingertip-localised |
+| Night pain | Rare | Common, may wake you |
+| Single-leg hop | Possible discomfort, can complete | Severe pain on landing |
+| Swelling | Mild, after activity | Local hardness, persistent swelling |
+| Walking | Possible, worse after running | Limp, painful in daily life |
+| Tender point | Several, superficial | One point, deep severe pain |
+
+Any “exclude” signal on the right: stop running and jumping and seek imaging assessment; do not “run two more days to see”.
+
+## Four-stage return table
+
+| Stage | Content | Pass criterion |
+| --- | --- | --- |
+| 1 | Walk 20–30 min | No pain next day |
+| 2 | Walk 5 min / jog 1 min × 5 | Pain ≤2/10 at 24 h |
+| 3 | Continuous easy jog 10–15 min | Normal gait, no next-day flare |
+| 4 | Easy 20–30 min every other day | Stable for a week before adding volume |
+
+Repeat each stage 2–3 times; if pain rises during the run or lasts beyond 24 hours, go back one stage. Keep calf raises and ankle stability, no box jumps or sprints.
+
+## Shoes and surface
+
+Shoes are not a cure, but they change load. Sudden switches from thick to thin, road to trail, or a new shoe for a long run can overload the shin within days. Return in a broken-in shoe; do not change shoe, volume and climbing in the same week.
+
+## Related reading and tools
+
+- [Running injuries](/en/knowledge/running-injury-prevention/)
+- [Load and overtraining](/en/knowledge/load-and-overtraining/)
+- [Injury risk check](/en/tools/injury-risk-check/)
+
 ## Related reading
 
 - [Running technique: cadence, stride, breathing and hills](/en/knowledge/running-form/)

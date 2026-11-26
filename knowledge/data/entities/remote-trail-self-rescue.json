@@ -1,0 +1,43 @@
+{
+  "entityId": "knowledge:remote-trail-self-rescue",
+  "slug": "remote-trail-self-rescue",
+  "kind": "knowledge",
+  "status": "published",
+  "riskLevel": "guidance",
+  "sourceRefs": [
+    "knowledge-nps-ten-essentials",
+    "knowledge-nps-hiking-safety",
+    "knowledge-nps-hike-smart",
+    "knowledge-wms-2024-altitude-illness",
+    "knowledge-nws-heat-illness",
+    "knowledge-nhs-blisters"
+  ],
+  "relatedRefs": [
+    "knowledge:trail-navigation",
+    "knowledge:altitude-and-running",
+    "knowledge:blister-and-foot-care",
+    "tool:race-checklist"
+  ],
+  "license": "CC-BY-4.0",
+  "createdAt": "2026-11-26",
+  "updatedAt": "2026-11-26",
+  "reviewedAt": "2026-11-26",
+  "reviewDueAt": "2027-05-31",
+  "translations": [],
+  "details": {
+    "primaryTopic": "safety",
+    "secondaryTopics": [
+      "health"
+    ],
+    "contentType": "guide",
+    "audiences": [
+      "intermediate",
+      "advanced"
+    ],
+    "scenarios": [
+      "trail",
+      "ultra",
+      "remote"
+    ]
+  }
+}

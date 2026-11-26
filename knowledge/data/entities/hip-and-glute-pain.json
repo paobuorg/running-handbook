@@ -1,0 +1,43 @@
+{
+  "entityId": "knowledge:hip-and-glute-pain",
+  "slug": "hip-and-glute-pain",
+  "kind": "knowledge",
+  "status": "published",
+  "riskLevel": "guidance",
+  "sourceRefs": [
+    "knowledge-nhs-running-injuries",
+    "knowledge-running-injury-review",
+    "knowledge-vincent-2022-trail-injuries",
+    "knowledge-crunkhorn-2025-bsi",
+    "knowledge-bjsm-peace-love",
+    "knowledge-nielsen-2014-progression"
+  ],
+  "relatedRefs": [
+    "knowledge:pain-and-load",
+    "knowledge:running-injury-prevention",
+    "knowledge:strength-training-for-runners",
+    "tool:injury-risk-check"
+  ],
+  "license": "CC-BY-4.0",
+  "createdAt": "2026-11-26",
+  "updatedAt": "2026-11-26",
+  "reviewedAt": "2026-11-26",
+  "reviewDueAt": "2027-05-31",
+  "translations": [],
+  "details": {
+    "primaryTopic": "health",
+    "secondaryTopics": [
+      "training"
+    ],
+    "contentType": "guide",
+    "audiences": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "scenarios": [
+      "trail",
+      "marathon"
+    ]
+  }
+}

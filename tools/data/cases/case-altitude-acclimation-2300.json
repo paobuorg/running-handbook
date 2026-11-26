@@ -1,0 +1,39 @@
+{
+  "caseId": "case-altitude-acclimation-2300",
+  "toolId": "tool:altitude-acclimation-planner",
+  "input": {
+    "raceAltitudeMeters": 2300,
+    "raceDate": "2027-05-15",
+    "arrivalDaysBefore": 3,
+    "currentAltitudeMeters": 0
+  },
+  "expected": {
+    "recommendedArrivalDays": 2,
+    "stagingAltitudeMeters": 1500,
+    "riskBand": "low",
+    "plan": [
+      {
+        "date": "2027-05-12",
+        "altitudeMeters": 1500,
+        "phase": "stage"
+      },
+      {
+        "date": "2027-05-13",
+        "altitudeMeters": 2300,
+        "phase": "move-up"
+      },
+      {
+        "date": "2027-05-14",
+        "altitudeMeters": 2300,
+        "phase": "move-up"
+      },
+      {
+        "date": "2027-05-15",
+        "altitudeMeters": 2300,
+        "phase": "race"
+      }
+    ],
+    "warning": null
+  },
+  "basis": "2,300 m gives a 2-day recommendation and 1,500 m staging. Arrival 3 days is above recommendation -> low risk. Schedule rows: 2027-05-12 (arrival, 1,500 m), 2027-05-13, 14 (2,300 m), race day 2027-05-15."
+}

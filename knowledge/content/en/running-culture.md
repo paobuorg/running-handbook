@@ -87,6 +87,14 @@ A practical rhythm is a 10-minute note each week on one rule or research point, 
 
 This page does not rule on record validity, interpret every event rule or recommend gear. Event rules belong to the organiser and the official Boston Marathon text, records to World Athletics, and research questions to the original papers.
 
+## Chinese race samples: ten routes
+
+These ten routes are samples for reading Chinese road and trail racing: road races for transport, climate and places; trail races for technical terrain, climb and night. They are also entry points for putting history, rules and travel into one table.
+
+[Hangzhou Marathon](/en/routes/hangzhou-marathon/) · [Wuxi Marathon](/en/routes/wuxi-marathon/) · [Chongqing Marathon](/en/routes/chongqing-marathon/) · [Wuhan Marathon](/en/routes/wuhan-marathon/) · [Chengdu Marathon](/en/routes/chengdu-marathon/) · [Guangzhou Marathon](/en/routes/guangzhou-marathon/) · [Shenzhen Marathon](/en/routes/shenzhen-marathon/) · [Chaigutangsi Kuocang](/en/routes/chaigutangsi-kuocang/) · [Chongli 168](/en/routes/chongli-168/) · [Moganshan Trail](/en/routes/moganshan-trail/).
+
+Check the current official rules and entry window; “classic” does not mean “the same every year”.
+
 ## Related reading
 
 - [Why the marathon is 42.195 kilometres](https://learn.paobu.org/en/articles/marathon-distance/)

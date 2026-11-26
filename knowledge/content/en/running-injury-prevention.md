@@ -129,6 +129,8 @@ NHS running-injury guidance advises against running through pain; severe knee pa
 
 This page is general running health education, not a diagnosis, treatment prescription or medication advice. The RR, OR and progression figures come from specific study populations and cannot be converted into a personal injury probability; cross-sectional studies do not prove causation. Children, pregnant runners, post-operative runners and people with underlying medical conditions should be assessed clinically first. This site does not interpret imaging and does not replace a sports medicine doctor, physiotherapist or pharmacist.
 
+- [Hip and glute pain](/en/knowledge/hip-and-glute-pain/)
+
 ## Related reading
 
 - [Pain and load: treating pain as a dose you can adjust](/en/knowledge/pain-and-load/)

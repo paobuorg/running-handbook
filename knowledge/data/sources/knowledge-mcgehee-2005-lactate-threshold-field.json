@@ -16,7 +16,7 @@
     "bodyRead": false,
     "checkedAt": "2026-11-08",
     "checkedVia": "WebFetch https://pubmed.ncbi.nlm.nih.gov/16095403/（PubMed 摘要；JSCR 正文付费）",
-    "note": "PubMed 摘要级证据（正文未读）；2026-11-20 已把 claim 逐条收窄到摘要原句与变量名，措辞更准确，但因 bodyRead=false 仍全部记 partial，不按摘要升级 supported。"
+    "note": "PubMed 摘要级证据（正文未读）；2026-11-20 已把 claim 逐条收窄到摘要原句与变量名，措辞更准确，但因 bodyRead=false 仍全部记 partial，不按摘要升级 supported。 2026-11-26 来源清理：按摘要级证据保留，正文未读，不把摘要升级为全文。"
   },
   "claimVerification": [
     {

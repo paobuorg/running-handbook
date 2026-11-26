@@ -17,7 +17,7 @@
     "bodyRead": false,
     "checkedAt": "2026-11-08",
     "checkedVia": "Springer 文章页（桌面 UA 直连 HTTP 200，仅 Summary 可读）+ Europe PMC 记录（PMID 8446822）",
-    "note": "2026-11-08 重试：Springer 文章页可读，正文仍需订阅，只读到 Summary（摘要）与参考文献。claim 0、1 有摘要原句，改为 supported；claim 3 的“trained subjects”限定不在摘要原句中，维持 partial；claim 2 是对摘要的概括，维持 partial。"
+    "note": "2026-11-08 重试：Springer 文章页可读，正文仍需订阅，只读到 Summary（摘要）与参考文献。claim 0、1 有摘要原句，改为 supported；claim 3 的“trained subjects”限定不在摘要原句中，维持 partial；claim 2 是对摘要的概括，维持 partial。 2026-11-26 来源清理：按摘要级证据保留，正文未读，不把摘要升级为全文。"
   },
   "claimVerification": [
     {

@@ -8,7 +8,9 @@
     "route-hardrock-lottery",
     "route-hardrock-entry",
     "route-hardrock-about",
-    "route-hardrock-pacers"
+    "route-hardrock-pacers",
+    "route-hardrock-manual-2026",
+    "route-hardrock-rules"
   ],
   "relatedRefs": [
     "route:hardrock",
@@ -19,7 +21,7 @@
   "createdAt": "2026-11-26",
   "updatedAt": "2026-11-26",
   "reviewedAt": "2026-11-26",
-  "reviewDueAt": "2027-06-30",
+  "reviewDueAt": "2027-11-25",
   "translations": [],
   "details": {
     "primaryTopic": "training",

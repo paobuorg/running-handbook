@@ -1,0 +1,45 @@
+{
+  "entityId": "knowledge:stage-race-strategy",
+  "slug": "stage-race-strategy",
+  "kind": "knowledge",
+  "status": "published",
+  "riskLevel": "guidance",
+  "sourceRefs": [
+    "knowledge-issn-ultra-nutrition-2019",
+    "knowledge-acsm-2016-carbohydrate",
+    "knowledge-acsm-2007-fluid",
+    "knowledge-costa-2017-gut-training",
+    "knowledge-sleep-uutrecht-2025-runners",
+    "knowledge-nhs-blisters",
+    "knowledge-vincent-2022-trail-injuries",
+    "knowledge-bontemps-2020-downhill-review"
+  ],
+  "relatedRefs": [
+    "knowledge:race-day-fueling",
+    "knowledge:remote-trail-self-rescue",
+    "knowledge:blister-and-foot-care",
+    "tool:crew-pacer-plan"
+  ],
+  "license": "CC-BY-4.0",
+  "createdAt": "2026-11-26",
+  "updatedAt": "2026-11-26",
+  "reviewedAt": "2026-11-26",
+  "reviewDueAt": "2027-11-25",
+  "translations": [],
+  "details": {
+    "primaryTopic": "training",
+    "secondaryTopics": [
+      "nutrition",
+      "recovery"
+    ],
+    "contentType": "guide",
+    "audiences": [
+      "intermediate",
+      "advanced"
+    ],
+    "scenarios": [
+      "ultra",
+      "stage-race"
+    ]
+  }
+}

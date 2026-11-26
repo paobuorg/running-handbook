@@ -1,0 +1,21 @@
+{
+  "caseId": "case-trail-vertical-half",
+  "toolId": "tool:trail-vertical-pacing",
+  "input": {
+    "distanceKm": 21.1,
+    "climbMeters": 1200,
+    "descentMeters": 1200,
+    "targetHours": 3,
+    "technicality": "low"
+  },
+  "expected": {
+    "equivalentDistanceKm": 36.7,
+    "targetPaceSecondsPerKm": 294,
+    "flatPaceSecondsPerKm": 512,
+    "requiredClimbRateMPerHour": 400,
+    "descentPenaltySeconds": 1059,
+    "verdict": "feasible",
+    "warning": null
+  },
+  "basis": "Equivalent distance = 21.1 + 12 + 3.6 = 36.7 km; target pace = 10,800 / 36.7 = 294 s/km; flat pace = 512 s/km; climb rate = 400 m/h; descent added time = (3.6/36.7)×10,800 = 1,059 s; verdict feasible."
+}

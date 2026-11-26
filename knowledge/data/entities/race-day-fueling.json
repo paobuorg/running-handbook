@@ -7,7 +7,12 @@
   "sourceRefs": [
     "knowledge-issn-carbohydrate-timing",
     "knowledge-issn-nutrient-timing",
-    "knowledge-issn-caffeine"
+    "knowledge-issn-caffeine",
+    "knowledge-acsm-2016-carbohydrate",
+    "knowledge-issn-ultra-nutrition-2019",
+    "knowledge-acsm-2007-fluid",
+    "knowledge-costa-2017-gut-training",
+    "knowledge-baker-2022-sweat-sodium"
   ],
   "relatedRefs": [
     "knowledge:long-run-fueling",

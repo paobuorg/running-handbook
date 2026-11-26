@@ -1,0 +1,21 @@
+{
+  "caseId": "case-trail-vertical-50k",
+  "toolId": "tool:trail-vertical-pacing",
+  "input": {
+    "distanceKm": 50,
+    "climbMeters": 2000,
+    "descentMeters": 2000,
+    "targetHours": 8,
+    "technicality": "medium"
+  },
+  "expected": {
+    "equivalentDistanceKm": 80,
+    "targetPaceSecondsPerKm": 360,
+    "flatPaceSecondsPerKm": 576,
+    "requiredClimbRateMPerHour": 250,
+    "descentPenaltySeconds": 3600,
+    "verdict": "feasible",
+    "warning": null
+  },
+  "basis": "Equivalent distance = 50 + 20 + 10 = 80 km; target pace = 28,800 / 80 = 360 s/km; flat pace = 28,800 / 50 = 576 s/km; climb rate = 2000 / 8 = 250 m/h; descent added time = (10/80)×28,800 = 3,600 s; verdict feasible."
+}

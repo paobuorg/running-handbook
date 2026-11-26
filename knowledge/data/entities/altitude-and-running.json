@@ -8,7 +8,8 @@
     "knowledge-wms-2024-altitude-illness",
     "knowledge-uiaa-altitude-sickness-factsheet",
     "knowledge-ioc-2012-altitude-consensus",
-    "knowledge-foss-2017-arrival-altitude"
+    "knowledge-foss-2017-arrival-altitude",
+    "knowledge-acsm-2007-fluid"
   ],
   "relatedRefs": [
     "knowledge:heat-and-humidity",
@@ -20,7 +21,7 @@
   "createdAt": "2026-11-07",
   "updatedAt": "2026-11-26",
   "reviewedAt": "2026-11-26",
-  "reviewDueAt": "2027-11-25",
+  "reviewDueAt": "2027-05-31",
   "translations": [],
   "details": {
     "primaryTopic": "safety",

@@ -1,0 +1,21 @@
+{
+  "caseId": "case-trail-vertical-100k",
+  "toolId": "tool:trail-vertical-pacing",
+  "input": {
+    "distanceKm": 100,
+    "climbMeters": 5000,
+    "descentMeters": 5000,
+    "targetHours": 16,
+    "technicality": "high"
+  },
+  "expected": {
+    "equivalentDistanceKm": 190,
+    "targetPaceSecondsPerKm": 303,
+    "flatPaceSecondsPerKm": 576,
+    "requiredClimbRateMPerHour": 313,
+    "descentPenaltySeconds": 12126,
+    "verdict": "feasible",
+    "warning": "High technicality adds descent time and attention load; use the slower end of your own descent calibration."
+  },
+  "basis": "Equivalent distance = 100 + 50 + 40 = 190 km; target pace = 57,600 / 190 = 303 s/km; flat pace = 576 s/km; climb rate = 5,000 / 16 = 313 m/h; descent added time = (40/190)×57,600 = 12,126 s; high technicality triggers the warning."
+}

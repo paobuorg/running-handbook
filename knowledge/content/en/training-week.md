@@ -89,6 +89,85 @@ Review weekly session count, average pace and subjective fatigue every 4 weeks; 
 
 This page does not build an individual season plan, diagnose injury or overtraining syndrome, or replace a coach's arrangement for an individual level. Weekly structure adjusts with training history, injury background and target race; persistent discomfort or abnormal symptoms warrant medical review.
 
+## Three weekly templates you can copy
+
+A training week is not “run every day”; it is a schedule that places stress and recovery in the same table. The three templates below cover a beginner, a half/marathon base week and a marathon-specific week. The kilometre numbers are starting points; scale them to your own peak volume.
+
+**Template A: three runs, about 20–25 km**
+
+| Day | Content | Purpose |
+| --- | --- | --- |
+| Mon | Rest or 20 min walk | Recovery |
+| Tue | Easy 5 km | Frequency |
+| Wed | 20 min strength (squat, bridge, calf raise) | Injury resilience |
+| Thu | Walk-run 20–25 min | Low impact |
+| Fri | Rest | Recovery |
+| Sat | Easy 6–8 km | Weekend long run |
+| Sun | 30 min walk | Circulation |
+
+**Template B: five runs, about 40–50 km base week**
+
+| Day | Content | Purpose |
+| --- | --- | --- |
+| Mon | Rest | Absorb |
+| Tue | Easy 8 km | Aerobic |
+| Wed | 6×1 min uphill, jog down | Strength endurance |
+| Thu | Easy 8 km | Aerobic |
+| Fri | Rest or strength | Recovery |
+| Sat | Easy 10 km | Volume |
+| Sun | Long 16–18 km | Time tolerance |
+
+**Template C: six runs, about 60–70 km marathon-specific week**
+
+| Day | Content | Purpose |
+| --- | --- | --- |
+| Mon | Rest | Absorb |
+| Tue | Easy 10 km + 4×100 m strides | Form |
+| Wed | Threshold 3×2 km at half pace | Threshold |
+| Thu | Easy 10 km | Aerobic |
+| Fri | Rest or 20 min strength | Recovery |
+| Sat | Easy 8 km | Pre-fatigue |
+| Sun | Long 26–30 km with 8–10 km at marathon pace | Specific |
+
+All three follow the same order: at least 48 hours between quality sessions; an easy day on each side of the long run; at least one full rest or walking day each week.
+
+## Place quality first, then fill easy runs
+
+Only one or two truly hard sessions belong in a week. A marathon-specific week usually has one threshold plus a marathon-pace block inside the long run; a 5K/10K week can have one interval session plus a short threshold. Do not put quality back-to-back, and do not do heavy squats the day before a long run.
+
+| Goal | Key session 1 | Key session 2 | The rest |
+| --- | --- | --- | --- |
+| 5K/10K | 6×800 m intervals | 20 min threshold | Easy |
+| Half | Threshold 3×2 km | Long 16–18 km | Easy |
+| Marathon | Threshold 4×2 km | Long with 8–10 km at race pace | Easy |
+| 50K | Uphill repetitions | Long with climb | Easy/walk |
+| 100K | Night long run | Back-to-back (sparingly) | Easy/walk |
+
+## Missed runs, overtime, travel: if/then
+
+- **Only two runs this week:** keep one quality and one long run, drop the easy runs; do not add the missed volume next week.
+- **Three days of travel:** use 30–40 min walk-run or elliptical to keep frequency; return at 80% of previous volume.
+- **Three consecutive nights under six hours:** cancel quality and run easy; reschedule after sleep recovers.
+- **Pain moves to amber:** cut volume 30–50% as described in the pain article; do not pile the missed kilometres into next week.
+- **Ten days before a race:** no more long-run catch-up; spend the time on sleep, fuelling rehearsal and course study.
+
+## Two failure modes
+
+**Weekend warrior:** nothing Monday to Friday, then 25 km Saturday and 15 km Sunday. Total volume may be adequate, but tendons and feet have not adapted gradually, and sitting all week leaves hips and calves stiff. Split the two runs into three and put one on Wednesday.
+
+**Everything moderately hard:** every run is “a bit breathless”, with no true easy day and no true quality day. You get neither recovery nor a clear stimulus. Put 80% of volume at a pace where you can speak in full sentences, and use the remaining 20% for quality.
+
+## Week-to-week progression
+
+After three increasing weeks, cut 20–30% in week four; or increase for two weeks and cut the third. Hold peak volume for only 1–2 weeks, then taper. A taper is not zero running: keep frequency, shorten duration and retain a little quality.
+
+## Related reading and tools
+
+- [Long run](/en/knowledge/long-run/)
+- [Load and overtraining](/en/knowledge/load-and-overtraining/)
+- [Recovery basics](/en/knowledge/recovery-day/)
+- [Training load calculator](/en/tools/training-load/)
+
 ## Related reading
 
 - [The long run: distance, pace and fuelling rhythm](/en/knowledge/long-run/)

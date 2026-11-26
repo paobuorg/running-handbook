@@ -7,7 +7,12 @@
   "sourceRefs": [
     "knowledge-issn-nutrient-timing",
     "knowledge-nhs-hydration",
-    "knowledge-running-injury-review"
+    "knowledge-running-injury-review",
+    "knowledge-acsm-2016-carbohydrate",
+    "knowledge-fokkema-2020-half-marathon-volume",
+    "knowledge-nielsen-2014-progression",
+    "knowledge-gabbett-2016-paradox",
+    "knowledge-issn-ultra-nutrition-2019"
   ],
   "relatedRefs": [
     "knowledge:long-run-fueling",

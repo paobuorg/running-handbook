@@ -1,0 +1,184 @@
+{
+  "entityId": "tool:trail-vertical-pacing",
+  "slug": "trail-vertical-pacing",
+  "kind": "tool",
+  "status": "published",
+  "riskLevel": "general",
+  "sourceRefs": [
+    "knowledge-minetti-2002-slope-cost",
+    "knowledge-bontemps-2020-downhill-review",
+    "knowledge-lu-2025-graded-running-review",
+    "knowledge-uphill-downhill-running"
+  ],
+  "relatedRefs": [
+    "knowledge:trail-vertical-pacing",
+    "knowledge:grade-adjusted-pace-method",
+    "tool:grade-adjusted-pace"
+  ],
+  "license": "CC-BY-4.0",
+  "createdAt": "2026-11-26",
+  "updatedAt": "2026-11-26",
+  "reviewedAt": "2026-11-26",
+  "reviewDueAt": "2027-06-30",
+  "translations": [],
+  "details": {
+    "toolId": "tool:trail-vertical-pacing",
+    "specVersion": "1.0.0",
+    "inputs": [
+      {
+        "name": "distanceKm",
+        "type": "number",
+        "unit": "km",
+        "required": true,
+        "minimum": 0.1,
+        "maximum": 500,
+        "labels": {
+          "zh-CN": "距离（公里）",
+          "en": "Distance (km)"
+        }
+      },
+      {
+        "name": "climbMeters",
+        "type": "number",
+        "unit": "m",
+        "required": true,
+        "minimum": 0,
+        "maximum": 30000,
+        "labels": {
+          "zh-CN": "累计爬升（米）",
+          "en": "Climb (m)"
+        }
+      },
+      {
+        "name": "descentMeters",
+        "type": "number",
+        "unit": "m",
+        "required": true,
+        "minimum": 0,
+        "maximum": 30000,
+        "labels": {
+          "zh-CN": "累计下坡（米）",
+          "en": "Descent (m)"
+        }
+      },
+      {
+        "name": "targetHours",
+        "type": "number",
+        "unit": "h",
+        "required": true,
+        "minimum": 0.25,
+        "maximum": 60,
+        "labels": {
+          "zh-CN": "目标时间（小时）",
+          "en": "Target time (hours)"
+        }
+      },
+      {
+        "name": "technicality",
+        "type": "enum",
+        "unit": null,
+        "required": true,
+        "enumValues": [
+          "low",
+          "medium",
+          "high"
+        ],
+        "labels": {
+          "zh-CN": "技术要求",
+          "en": "Technicality"
+        }
+      }
+    ],
+    "outputs": [
+      {
+        "name": "equivalentDistanceKm",
+        "type": "number",
+        "unit": "km",
+        "required": true,
+        "labels": {
+          "zh-CN": "等效距离（公里）",
+          "en": "Equivalent distance (km)"
+        }
+      },
+      {
+        "name": "targetPaceSecondsPerKm",
+        "type": "number",
+        "unit": "s/km",
+        "required": true,
+        "labels": {
+          "zh-CN": "目标配速（秒/公里）",
+          "en": "Target pace (s/km)"
+        }
+      },
+      {
+        "name": "flatPaceSecondsPerKm",
+        "type": "number",
+        "unit": "s/km",
+        "required": true,
+        "labels": {
+          "zh-CN": "平路等效配速（秒/公里）",
+          "en": "Flat-equivalent pace (s/km)"
+        }
+      },
+      {
+        "name": "requiredClimbRateMPerHour",
+        "type": "number",
+        "unit": "m/h",
+        "required": true,
+        "labels": {
+          "zh-CN": "所需爬升率（米/小时）",
+          "en": "Required climb rate (m/h)"
+        }
+      },
+      {
+        "name": "descentPenaltySeconds",
+        "type": "number",
+        "unit": "s",
+        "required": true,
+        "labels": {
+          "zh-CN": "下坡额外时间（秒）",
+          "en": "Descent added time (s)"
+        }
+      },
+      {
+        "name": "verdict",
+        "type": "enum",
+        "unit": null,
+        "required": true,
+        "enumValues": [
+          "feasible",
+          "at-risk",
+          "infeasible"
+        ],
+        "labels": {
+          "zh-CN": "可行性",
+          "en": "Feasibility"
+        }
+      },
+      {
+        "name": "warning",
+        "type": "string",
+        "unit": null,
+        "required": false,
+        "labels": {
+          "zh-CN": "提示",
+          "en": "Warning"
+        }
+      }
+    ],
+    "formulaDescription": "equivalentDistanceKm = distanceKm + climbMeters / 100 + descentMeters * factor / 100, factor = 0.3 low, 0.5 medium, 0.8 high. targetPaceSecondsPerKm = targetHours * 3600 / equivalentDistanceKm. flatPaceSecondsPerKm = targetHours * 3600 / distanceKm. requiredClimbRateMPerHour = climbMeters / targetHours. verdict = infeasible if climb rate >1200 or pace >600; at-risk if >800 or >480; otherwise feasible.",
+    "assumptions": [
+      "Equivalent distance is a planning approximation, not a physiological model.",
+      "Target time should include aid-station stops and technical slowdowns.",
+      "Technicality factors are conservative planning values, not measured course data.",
+      "The tool does not model altitude, heat, load, surface or individual fatigue.",
+      "Course rehearsal and split data override the planner."
+    ],
+    "rounding": "Equivalent distance is rounded to one decimal; paces and climb rate are integers; time is in seconds.",
+    "caseRefs": [
+      "case-trail-vertical-50k",
+      "case-trail-vertical-half",
+      "case-trail-vertical-100k"
+    ]
+  }
+}

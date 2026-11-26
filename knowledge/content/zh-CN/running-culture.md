@@ -93,6 +93,14 @@ World Athletics 按项目和类别公布世界纪录，并会标注仍在等待�
 
 本页不裁定纪录是否有效，不解释某场赛事的全部规则，也不推荐装备。具体规则以赛事组委会和波士顿马拉松官方规则原文为准，纪录以 World Athletics 公布为准；研究方法问题应回到原始论文与统计方法。若你所在组别有特殊规定（如专业、轮椅或残障组），以该组别规则为准。本页的示例数字只用于说明比较逻辑，不代表任何真实赛事结果。
 
+## 中国赛事样本：十条路线
+
+这十条路线可作为观察中国路跑与越野的样本：城市路跑看交通、气候与名额；越野看技术地形、爬升与夜段。它们也是把赛事历史、规则与旅行放进同一张表的入口。
+
+[杭州马拉松](/routes/hangzhou-marathon/)、[无锡马拉松](/routes/wuxi-marathon/)、[重庆马拉松](/routes/chongqing-marathon/)、[武汉马拉松](/routes/wuhan-marathon/)、[成都马拉松](/routes/chengdu-marathon/)、[广州马拉松](/routes/guangzhou-marathon/)、[深圳马拉松](/routes/shenzhen-marathon/)、[柴古唐斯括苍](/routes/chaigutangsi-kuocang/)、[崇礼 168](/routes/chongli-168/)、[莫干山越野](/routes/moganshan-trail/)。
+
+选择时先看当年的官方规程与报名窗口，不把“经典”当成“每年都一样”。
+
 ## 相关阅读
 
 - [马拉松为什么是 42.195 公里](https://learn.paobu.org/articles/marathon-distance/)

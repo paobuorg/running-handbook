@@ -116,6 +116,39 @@ Matching actions: verify the access list into the schedule before the race; run 
 
 This page does not represent any edition's actual access arrangements; station openness, pacer eligibility, bag dimensions, parking limits and penalty details may change year to year. The following are marked unknown on this site: next-edition station access lists; crew-reachable locations where rules do not list them; pacer eligibility approvals; private transport routes between stations. Until that edition's guide is obtained, do not treat last year's support plan as this year's rules. This page does not diagnose, prescribe training plans or recommend medication.
 
+## Drop-bag packing: by station, not by category
+
+The common drop-bag mistake is one bag for everything, searched through at the station. Pack by station and time window; each bag holds only what that segment needs, with station, kilometre, name and bib on the outside.
+
+| Station type | Must include | Optional | Do not include |
+| --- | --- | --- | --- |
+| Daytime middle | Carbs, salt, spare gels, sunscreen | Spare socks, buff | Night insulation |
+| Evening | Headlamp, batteries, warm mid-layer, long sleeves | Hot food, ginger tea | Extra water |
+| Night | Primary + backup light, gloves, hat, insulation | Caffeine, hot drink | Daytime sunglasses |
+| Finish | Dry clothes, shoes, phone charger, food | Wash kit | Race kit |
+
+Tape a list to each bag: what to take, what to leave. Crew executes the list and does not add “what he might need”; improvisation adds weight and confusion.
+
+## Three handoff failures
+
+**Scenario 1: runner arrives 40 minutes early.** Crew is still parking or queuing, the runner cannot find them, and mood and pace unravel. Fix: arrive 60 minutes early and agree a written “if I am not here, go to the next point” plan; the runner waits no more than 10 minutes.
+
+**Scenario 2: runner wants a shoe or bag change.** Crew did not bring a spare or cannot find it. Fix: put a broken-in spare shoe and dry socks in the drop bag; keep the change under 10 minutes so the runner does not chill.
+
+**Scenario 3: pacer takes over at the wrong point.** Rules allow pacing only at specific stations and the crew misreads the kilometre. Fix: print the official pacer rules for the car and mark allowed takeover points; the pacer arrives 30 minutes early instead of “meeting on the trail”.
+
+## Parking, road closures and communication
+
+Mountain races have closures, one-way control and signal dead zones. Read the official transport page, mark parking, walking time to the station and a backup road for every access point; “navigation says 10 minutes” is not “10 minutes on race day”. Crew use shared location and a text template (“at station / left / runner status”) so phone lines stay free.
+
+- [Crew/pacer handoff detail](/en/knowledge/ultra-crew-pacer-handoff/)
+
+## Related reading and tools
+
+- [Crew/pacer planner](/en/tools/crew-pacer-plan/)
+- [Race-day timeline](/en/tools/race-day-timeline/)
+- [Trail navigation](/en/knowledge/trail-navigation/)
+
 ## Related reading
 
 - [Ultra-running basics: distance, segments and long-distance rhythm](/en/knowledge/ultra-running-basics/)

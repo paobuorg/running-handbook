@@ -1,0 +1,44 @@
+{
+  "caseId": "case-altitude-acclimation-4200",
+  "toolId": "tool:altitude-acclimation-planner",
+  "input": {
+    "raceAltitudeMeters": 4200,
+    "raceDate": "2027-08-01",
+    "arrivalDaysBefore": 12,
+    "currentAltitudeMeters": 0
+  },
+  "expected": {
+    "recommendedArrivalDays": 10,
+    "stagingAltitudeMeters": 2700,
+    "riskBand": "low",
+    "plan": [
+      {
+        "date": "2027-07-20",
+        "altitudeMeters": 2700,
+        "phase": "stage"
+      },
+      {
+        "date": "2027-07-26",
+        "altitudeMeters": 2700,
+        "phase": "stage"
+      },
+      {
+        "date": "2027-07-29",
+        "altitudeMeters": 2700,
+        "phase": "stage"
+      },
+      {
+        "date": "2027-07-31",
+        "altitudeMeters": 4200,
+        "phase": "move-up"
+      },
+      {
+        "date": "2027-08-01",
+        "altitudeMeters": 4200,
+        "phase": "race"
+      }
+    ],
+    "warning": "Above 3,500 m, descent is the primary treatment for altitude illness; do not use this plan as a substitute for medical advice."
+  },
+  "basis": "4,200 m gives a 10-day recommendation and 2,700 m staging. Arrival 12 days is above recommendation -> low risk. Rows at offsets -12, -6, -3, -1 and 0; the -3 row moves to 4,200 m."
+}

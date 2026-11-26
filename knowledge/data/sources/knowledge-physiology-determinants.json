@@ -15,7 +15,7 @@
     "bodyRead": false,
     "checkedAt": "2026-11-20",
     "checkedVia": "NCBI efetch（仅摘要）",
-    "note": "仅取得 PubMed 摘要；第 3 条测试协议差异不在摘要，已移除；第 1 条按摘要点名项收窄。"
+    "note": "仅取得 PubMed 摘要；第 3 条测试协议差异不在摘要，已移除；第 1 条按摘要点名项收窄。 2026-11-26 来源清理：按摘要级证据保留，正文未读，不把摘要升级为全文。"
   },
   "claimVerification": [
     {

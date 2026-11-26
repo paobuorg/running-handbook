@@ -134,6 +134,58 @@ This page is general training education, not a personal strength prescription, d
 - **Health status:** osteoporosis, joint replacement, tendon disease or cardiovascular problems require professional assessment first.
 - **Sport:** trail and ultra demands more glute-leg and downhill stability; see the [Trail and ultra training plan](/en/knowledge/trail-ultra-training-plan/) for terrain-specific additions.
 
+## An 8-week progression: from isometrics to load
+
+Strength training is not “go to the gym and lift”. Running needs single-leg stability, hip extension, calf and foot stiffness, and trunk anti-rotation. This is an eight-week, twice-weekly template for runners who can already perform basic movements without pain.
+
+| Week | Focus | Movements | Dose | Progression |
+| --- | --- | --- | --- | --- |
+| 1–2 | Isometrics and technique | Wall sit, bridge, single-leg calf raise, dead bug | 2–3 sets, 30–45 s | Pain-free, symmetrical |
+| 3–4 | Single-leg strength | Split squat, single-leg deadlift, side-hip, calf raise | 3 sets, 6–8 reps | Control knee and pelvis |
+| 5–6 | Load and power | Goblet squat, Romanian deadlift, step-up, box jump | 3 sets, 4–6 reps | Technique holds |
+| 7–8 | Max strength/maintenance | Squat, deadlift, weighted calf raise | 3–4 sets, 3–5 reps | Halve in race week |
+
+Rest 60–120 s between sets. Put maximal strength after a quality session or at least six hours away; never the day before a long run.
+
+## Dose: reps, load, when to add
+
+- **Isometric:** 30–45 s × 2–3 sets, pain ≤2/10.
+- **Hypertrophy/base:** 6–10 reps × 3 sets, last two challenging but clean.
+- **Max strength:** 3–5 reps × 3–4 sets, heavy but not slow.
+- **Power/plyometric:** 3–5 reps × 3 sets, quiet landing, knee not collapsing.
+- **Progress:** two consecutive sessions stable at the same load, then add 2.5–5%; not every session.
+
+## Three conflicts with running volume
+
+**8–12 weeks before a race:** maintain twice weekly; reduce to one light session ten days out; only isometrics and mobility three days out. Do not test a new max load near a goal race.
+
+**Peak volume week:** strength drops to once weekly, keep hips and calves, remove heavy squats. The goal of peak week is running, not a parallel strength personal best.
+
+**Amber pain:** stop movements that increase pain, keep pain-free isometrics; cut running first as described in the pain article, then rebuild strength. Strength does not replace diagnosis.
+
+## Two worked examples
+
+**Base-phase runner, 45 km/week, no strength history.** Weeks 1–2: isometrics and bridges only, twice weekly, 20 minutes. Weeks 3–4: add split squats and single-leg deadlifts. Weeks 5–6: add goblet squats. Weeks 7–8: add light weighted calf raises. After eight weeks, maintain once or twice weekly without chasing big load increases.
+
+**Three weeks before a marathon, 55 km/week.** Keep one 30-minute session: bridge, single-leg calf raise, side-hip, dead bug; remove heavy squat and deadlift. Ten days out, isometrics and mobility only; no lower-body strength three days out.
+
+## Common errors
+
+- Training upper body and core but not calves and outer hips.
+- Putting strength the day before a long run and degrading the long run.
+- Taking every set to failure and spoiling the next easy run.
+- Using strength to replace running volume; race-specific work is still missing.
+- Continuing heavy loads while painful, turning a load problem into a structural one.
+
+- [Hip and glute pain](/en/knowledge/hip-and-glute-pain/)
+
+## Related reading and tools
+
+- [Strength training for runners](/en/knowledge/strength-and-taper/)
+- [Running injuries](/en/knowledge/running-injury-prevention/)
+- [Weekly structure](/en/knowledge/training-week/)
+- [Injury risk check](/en/tools/injury-risk-check/)
+
 ## Related reading
 
 - [Running injury prevention: the priority order for load, strength, sleep and early signals](/en/knowledge/running-injury-prevention/)

@@ -87,6 +87,14 @@ In a trail race, stop with hypothermia, dehydration, confusion or inability to w
 
 This page does not decide entry, eligibility, route access or ratification, and does not judge whether a race suits you. Rules and routes change; the organiser, World Athletics and the local land manager govern.
 
+## Chinese race samples: ten routes
+
+These ten routes are samples for reading Chinese road and trail racing: road races for transport, climate and places; trail races for technical terrain, climb and night. They are also entry points for putting history, rules and travel into one table.
+
+[Hangzhou Marathon](/en/routes/hangzhou-marathon/) · [Wuxi Marathon](/en/routes/wuxi-marathon/) · [Chongqing Marathon](/en/routes/chongqing-marathon/) · [Wuhan Marathon](/en/routes/wuhan-marathon/) · [Chengdu Marathon](/en/routes/chengdu-marathon/) · [Guangzhou Marathon](/en/routes/guangzhou-marathon/) · [Shenzhen Marathon](/en/routes/shenzhen-marathon/) · [Chaigutangsi Kuocang](/en/routes/chaigutangsi-kuocang/) · [Chongli 168](/en/routes/chongli-168/) · [Moganshan Trail](/en/routes/moganshan-trail/).
+
+Check the current official rules and entry window; “classic” does not mean “the same every year”.
+
 ## Related reading
 
 - [Running culture: race rules, record ratification and reading research](/en/knowledge/running-culture/)

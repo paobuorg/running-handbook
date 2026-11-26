@@ -1,0 +1,147 @@
+{
+  "entityId": "tool:altitude-acclimation-planner",
+  "slug": "altitude-acclimation-planner",
+  "kind": "tool",
+  "status": "published",
+  "riskLevel": "general",
+  "sourceRefs": [
+    "knowledge-wms-2024-altitude-illness",
+    "knowledge-uiaa-altitude-sickness-factsheet",
+    "knowledge-ioc-2012-altitude-consensus",
+    "knowledge-foss-2017-arrival-altitude"
+  ],
+  "relatedRefs": [
+    "knowledge:altitude-and-running",
+    "knowledge:remote-trail-self-rescue",
+    "tool:race-travel-planner"
+  ],
+  "license": "CC-BY-4.0",
+  "createdAt": "2026-11-26",
+  "updatedAt": "2026-11-26",
+  "reviewedAt": "2026-11-26",
+  "reviewDueAt": "2027-06-30",
+  "translations": [],
+  "details": {
+    "toolId": "tool:altitude-acclimation-planner",
+    "specVersion": "1.0.0",
+    "inputs": [
+      {
+        "name": "raceAltitudeMeters",
+        "type": "number",
+        "unit": "m",
+        "required": true,
+        "minimum": 0,
+        "maximum": 5000,
+        "labels": {
+          "zh-CN": "比赛海拔（米）",
+          "en": "Race altitude (m)"
+        }
+      },
+      {
+        "name": "raceDate",
+        "type": "string",
+        "unit": null,
+        "required": true,
+        "labels": {
+          "zh-CN": "比赛日期（YYYY-MM-DD）",
+          "en": "Race date (YYYY-MM-DD)"
+        }
+      },
+      {
+        "name": "arrivalDaysBefore",
+        "type": "number",
+        "unit": "days",
+        "required": true,
+        "minimum": 0,
+        "maximum": 30,
+        "labels": {
+          "zh-CN": "提前到达（天）",
+          "en": "Arrival days before"
+        }
+      },
+      {
+        "name": "currentAltitudeMeters",
+        "type": "number",
+        "unit": "m",
+        "required": false,
+        "minimum": 0,
+        "maximum": 5000,
+        "labels": {
+          "zh-CN": "当前海拔（米）",
+          "en": "Current altitude (m)"
+        }
+      }
+    ],
+    "outputs": [
+      {
+        "name": "recommendedArrivalDays",
+        "type": "number",
+        "unit": "days",
+        "required": true,
+        "labels": {
+          "zh-CN": "建议提前到达（天）",
+          "en": "Recommended arrival (days)"
+        }
+      },
+      {
+        "name": "stagingAltitudeMeters",
+        "type": "number",
+        "unit": "m",
+        "required": true,
+        "labels": {
+          "zh-CN": "过渡海拔（米）",
+          "en": "Staging altitude (m)"
+        }
+      },
+      {
+        "name": "riskBand",
+        "type": "enum",
+        "unit": null,
+        "required": true,
+        "enumValues": [
+          "low",
+          "moderate",
+          "high"
+        ],
+        "labels": {
+          "zh-CN": "风险档",
+          "en": "Risk band"
+        }
+      },
+      {
+        "name": "plan",
+        "type": "array",
+        "unit": null,
+        "required": true,
+        "labels": {
+          "zh-CN": "日程",
+          "en": "Schedule"
+        }
+      },
+      {
+        "name": "warning",
+        "type": "string",
+        "unit": null,
+        "required": false,
+        "labels": {
+          "zh-CN": "提示",
+          "en": "Warning"
+        }
+      }
+    ],
+    "formulaDescription": "recommendedArrivalDays = 1 if altitude <= 1500, 2 if <=2500, 7 if <=3500, else 10. stagingAltitudeMeters = 0 if altitude <=1500, else min(3000, round(altitude * 0.65 / 100) * 100). riskBand = low if arrivalDaysBefore >= recommended, moderate if >= 50% of recommended, else high. Plan rows list key dates at offsets -arrival, -ceil(arrival/2), -3, -1 and 0.",
+    "assumptions": [
+      "The arrival windows are planning heuristics from altitude guidance, not a clinical protocol.",
+      "The plan does not account for individual altitude history, sleep, illness, pregnancy or cardiopulmonary disease.",
+      "The schedule lists arrival and altitude nodes, not training volume or intensity.",
+      "HAPE/HACE symptoms require descent and medical care, not adherence to the schedule.",
+      "Race altitude above 5,000 m is outside the tool scope."
+    ],
+    "rounding": "Days are integers. Staging altitude rounds to the nearest 100 m and caps at 3,000 m. Dates use ISO calendar days with no time-zone adjustment.",
+    "caseRefs": [
+      "case-altitude-acclimation-2300",
+      "case-altitude-acclimation-3500",
+      "case-altitude-acclimation-4200"
+    ]
+  }
+}

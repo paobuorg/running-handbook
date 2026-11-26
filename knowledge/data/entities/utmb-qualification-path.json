@@ -8,7 +8,9 @@
     "route-utmb-series-2026",
     "route-utmb-2026-registration",
     "route-utmb-world-series-2027",
-    "route-utmb-2026-rules"
+    "route-utmb-2026-rules",
+    "route-utmb-2026",
+    "route-utmb-mont-blanc-regulation"
   ],
   "relatedRefs": [
     "route:utmb",
@@ -19,7 +21,7 @@
   "createdAt": "2026-11-26",
   "updatedAt": "2026-11-26",
   "reviewedAt": "2026-11-26",
-  "reviewDueAt": "2027-06-30",
+  "reviewDueAt": "2027-11-25",
   "translations": [],
   "details": {
     "primaryTopic": "training",
