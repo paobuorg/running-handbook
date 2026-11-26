@@ -198,3 +198,5 @@ translationStatus: reviewed
 
 - [陪跑与支援安排：crew 分工、交接点、分袋补给与联络协议](/knowledge/crew-and-pacer-planning/)
 - [trail-ultra-training-plan](/knowledge/trail-ultra-training-plan/)
+
+本次变更：新增多日赛每日恢复、负重、睡眠、脚部护理与 drop bag 决策表；为什么：目录有 MDS 路线，却没有连续多天的执行知识。仍未解决：MDS 2027 营地、负重上限与规则未公布处仍标未公布。

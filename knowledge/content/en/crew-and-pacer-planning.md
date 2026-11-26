@@ -183,3 +183,5 @@ This page is general race-organization information, not medical advice; access a
 - [Heat and humidity: heat stress, WBGT and downgrade rules](/en/knowledge/heat-and-humidity/)
 - [Hills and mountain paths: a first outing](/en/knowledge/hill-and-mountain-path-basics/)
 - [Lightning and thunderstorm safety: recognition, descent, crouch and race stop](/en/knowledge/lightning-and-storm-safety/)
+
+Change note: added drop bags, parking/road closures, pacer rules and three handoff-failure scenarios; the earlier page had a scheduling framework but not race-day failure handling. Still open: pacer changes, equipment and parking rules vary by race and must be checked in the official handbook.

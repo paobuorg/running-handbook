@@ -147,3 +147,5 @@ If your result is exactly on the line, choose another fast, weather-stable, affo
 This page records the published standards and dates. It does not predict the 2027 cut-off, which depends on the applicant field and places.
 
 This page separates official mechanics from editorial advice. Dates, lists, places and standards are checked against the official page; anything unpublished is marked as unknown.
+
+Change note: completed the age-group BQ table, 2027/2028 entry windows, cut-off history, fees and non-selection alternatives; the earlier page deferred the full table to BAA, leaving readers unable to assess themselves. Still open: BAA may change windows or standards, and future cut-offs are not predicted.

@@ -158,3 +158,5 @@ Ascent rates, AMS/HACE/HAPE recognition, descent and the role of medication foll
 - [Cold-weather running: manage exposure before pace](/en/knowledge/cold-weather-running/)
 - [Crew and pacer planning: crew cards, handoff points, segmented drop bags and liaison protocol](/en/knowledge/crew-and-pacer-planning/)
 - [Heat and humidity: heat stress, WBGT and downgrade rules](/en/knowledge/heat-and-humidity/)
+
+Change note: added an arrival-acclimatise-race-descend schedule, red flags and downgrade rules; the earlier page covered altitude illness boundaries but not an executable itinerary. Still open: individual adaptation cannot be ruled out in advance, and descent takes priority over finishing when symptoms appear.

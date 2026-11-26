@@ -152,3 +152,5 @@ Pain warnings follow the NHS running-injury page; conflicting training-parameter
 - [Talking about pain: describe it before you name it](/en/knowledge/pain-communication/)
 - [Plantar Heel Pain — What the First Step in the Morning Means](/en/knowledge/plantar-fasciitis/)
 - [Pre-Participation Heart Screening: Differing Guidelines, Warning Signs and the Limits of Screening](/en/knowledge/pre-participation-heart-screening/)
+
+Change note: added body-site/function if/then branches, a red-flag matrix, run-walk return gates and back-off conditions, turning a principles page into a protocol. Still open: night pain, swelling or neurological symptoms need clinical assessment; this page does not diagnose or prescribe.

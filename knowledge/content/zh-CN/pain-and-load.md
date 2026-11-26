@@ -165,3 +165,5 @@ NHS 建议不要带痛跑步；疼痛严重、持续或伴随肿胀时，应寻�
 - [疼痛沟通：把“哪里痛”说清楚](/knowledge/pain-communication/)
 - [足底筋膜相关足跟痛：晨起第一步痛意味着什么](/knowledge/plantar-fasciitis/)
 - [体检与心脏筛查：机构口径、警示信号与「筛查不等于排除」](/knowledge/pre-participation-heart-screening/)
+
+本次变更：补按部位/功能的 if/then、红旗矩阵、跑走复跑闸门和退回条件，把它从原则页改成 protocol；为什么：读者需要知道哪一步必须停、哪一步可以退。仍未解决：持续夜间痛、肿胀或神经症状需要临床评估，本页不诊断、不给药。

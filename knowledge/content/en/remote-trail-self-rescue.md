@@ -164,3 +164,5 @@ With only two people, the remaining person stays with the patient and the messen
 - [Altitude and running](/en/knowledge/altitude-and-running/)
 - [Blister and foot care](/en/knowledge/blister-and-foot-care/)
 - [Race checklist](/en/tools/race-checklist/)
+
+Change note: added lost, injured, hypothermic and no-signal response order, shelter and descent windows; the knowledge was split across navigation, cold-weather and DNF pages with no single flow. Still open: actual coverage and rescue response times must be checked against the race and terrain.

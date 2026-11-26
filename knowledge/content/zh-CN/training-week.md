@@ -221,3 +221,5 @@ translationStatus: reviewed
 - [超马入门：100 公里真正要求什么](/knowledge/ultra-running-basics/)
 - [呼吸节奏：用它判断强度，不要硬套节拍](/knowledge/breathing-and-rhythm/)
 - [步频与步幅：别把 180 当成统一答案](/knowledge/cadence-and-stride/)
+
+本次变更：补新手、40 公里、70 公里三张周表，以及漏课、加班、旅行三组 if/then；为什么：原页重复解释 80/20，缺可直接照排的周结构。仍未解决：周表必须按比赛日倒排并随恢复状态调整，不能跨训练阶段直接照搬。

@@ -198,3 +198,5 @@ Training should not be uphill only. Include one short technical descent each wee
 - [Long run](/en/knowledge/long-run/)
 - [Vertical pacing planner](/en/tools/trail-vertical-pacing/)
 - [Course recon checklist](/en/tools/course-recon-checklist/)
+
+Change note: added segment pacing for climbs, descents and technical ground, GAP boundaries and checkpoint time comparisons; GAP explained conversion and downhill technique explained movement, but neither split climbing into a segment plan. Still open: official cutoffs, course reconnaissance and weather remain irreplaceable.

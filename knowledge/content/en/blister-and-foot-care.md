@@ -140,3 +140,5 @@ In multi-day races, change socks whenever feet are wet, dry the toes fully befor
 
 - [Running clothing and chafing: fit, dry, fewer seams](/en/knowledge/running-apparel-and-chafing/)
 - [Shoe fit and cushioning: comfort before technology](/en/knowledge/shoe-fit-and-cushioning/)
+
+Change note: added blister prevention, taping, wet feet, nails and infection boundaries; the material was split across shoes, socks and black-toenail pages with no single workflow. Still open: last shape, sweating and skin differ by person and spreading infection needs medical care.

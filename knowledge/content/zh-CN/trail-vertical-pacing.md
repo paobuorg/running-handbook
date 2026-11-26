@@ -214,3 +214,5 @@ translationStatus: reviewed
 - [长距离](/knowledge/long-run/)
 - [垂直配速规划器](/tools/trail-vertical-pacing/)
 - [赛道侦察清单](/tools/course-recon-checklist/)
+
+本次变更：补爬升、下降与技术段的分段配速，GAP 边界与 CP 用时对照；为什么：GAP 页讲换算、下坡页讲动作，缺把爬升拆进每段的计划。仍未解决：官方关门、实地侦察与天气仍不可替代。

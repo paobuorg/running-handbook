@@ -141,3 +141,5 @@ For the next cycle, finish the qualifier 12–18 months before the lottery, leav
 This page records the published 2027 window and official qualifying rules. It does not predict 2028 dates or imply that a finish guarantees selection.
 
 This page separates official mechanics from editorial advice. Dates, lists, places and standards are checked against the official page; anything unpublished is marked as unknown.
+
+Change note: added a qualifier-selection matrix plus first-attempt and multi-year non-selection branches; the earlier qualifier list was too broad to choose a first race. Still open: places and year-by-year odds have no official per-person data, so no prediction is offered.

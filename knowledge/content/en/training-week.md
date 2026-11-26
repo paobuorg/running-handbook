@@ -185,3 +185,5 @@ Beginner start and walk-run follow the NHS Couch to 5K; adult aerobic activity b
 - [Ultramarathon basics: what 100 km really asks](/en/knowledge/ultra-running-basics/)
 - [Breathing rhythm: a gauge for intensity, not a fixed beat](/en/knowledge/breathing-and-rhythm/)
 - [Cadence and stride length: 180 is not a universal answer](/en/knowledge/cadence-and-stride/)
+
+Change note: added three weekly templates (beginner, 40 km, 70 km) plus if/then handling for missed sessions, overtime and travel; the earlier page repeated 80/20 principles without a schedulable week. Still open: the templates must be periodised backward from race day and adjusted to recovery.

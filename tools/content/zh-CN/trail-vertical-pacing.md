@@ -147,3 +147,5 @@ translationStatus: reviewed
 - [越野垂直配速](/knowledge/trail-vertical-pacing/)
 - [坡度等效配速](/knowledge/grade-adjusted-pace-method/)
 - [坡度等效配速工具](/tools/grade-adjusted-pace/)
+
+本次变更：新建工具说明，含 3 条 case、4 个来源、分段建议与边界声明；为什么：知识页有方法，缺把距离/爬升/技术难度拆成段的工具。仍未解决：工具不等于官方关门表，也不替代实地侦察与天气判断。

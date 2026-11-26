@@ -213,3 +213,5 @@ Strength and injury prevention: Lauersen 2014 (BJSM, 25 RCTs, 26,610 participant
 - [Tempo and interval running: intensity, structure and progression](/en/knowledge/tempo-and-intervals/)
 - [Trail and ultra training plan: climbing, time-on-foot, night running, load and back-to-back long sessions](/en/knowledge/trail-ultra-training-plan/)
 - [Training logs: record the variables that change decisions](/en/knowledge/training-log/)
+
+Change note: added an 8–12 week progression, exercise dosing, conflict handling with quality sessions/long runs and strength-session ordering; the earlier page explained what to train but not how to sequence it. Still open: exercise choice and starting load depend on equipment, injury history and technique.

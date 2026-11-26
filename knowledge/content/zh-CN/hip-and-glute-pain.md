@@ -170,3 +170,5 @@ translationStatus: reviewed
 - [跑步损伤](/knowledge/running-injury-prevention/)
 - [跑步力量训练](/knowledge/strength-training-for-runners/)
 - [损伤风险自检](/tools/injury-risk-check/)
+
+本次变更：补髋/臀/腹股沟痛的识别、负荷调整、红旗与复跑；为什么：原有伤病页集中在膝、跟腱、足底与胫骨。仍未解决：持续夜间痛、腹股沟肿块或不能负重需就医，本页不诊断。

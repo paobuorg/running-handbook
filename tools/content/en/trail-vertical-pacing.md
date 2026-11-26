@@ -135,3 +135,5 @@ Check three things: 10–15% margin in the target, technical factor chosen for t
 - [Trail vertical pacing](/en/knowledge/trail-vertical-pacing/)
 - [Grade-adjusted pace](/en/knowledge/grade-adjusted-pace-method/)
 - [Grade-adjusted pace tool](/en/tools/grade-adjusted-pace/)
+
+Change note: new tool documentation with three cases, four sources, segment suggestions and boundary statements; the knowledge page had the method but no way to split distance, climb and technical difficulty into segments. Still open: the tool is not an official cutoff sheet and does not replace reconnaissance or weather judgment.

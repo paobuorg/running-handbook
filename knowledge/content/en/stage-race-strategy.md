@@ -160,3 +160,5 @@ At the sleep point ask only three questions: which section hurt the legs most, w
 
 - [Crew and pacer planning: crew cards, handoff points, segmented drop bags and liaison protocol](/en/knowledge/crew-and-pacer-planning/)
 - [Trail and ultra training plan: climbing, time-on-foot, night running, load and back-to-back long sessions](/en/knowledge/trail-ultra-training-plan/)
+
+Change note: added daily recovery, load carriage, sleep, foot care and drop-bag decision tables for multi-day racing; the route catalogue had MDS but no continuous multi-day execution guidance. Still open: unpublished MDS 2027 camp, load limits and rules remain marked TBD.

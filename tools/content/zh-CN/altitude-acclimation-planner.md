@@ -159,3 +159,5 @@ translationStatus: reviewed
 - [比赛旅行规划器](/tools/race-travel-planner/)
 
 - [trail-ultra-training-plan](/knowledge/trail-ultra-training-plan/)
+
+本次变更：新建工具说明，含 3 条 case、4 个来源、逐日暴露安排与症状下撤提示；为什么：知识页有原则，缺把抵达/比赛海拔与天数变成日程的工具。仍未解决：个体适应与合并症无法由工具排除，结果不替代医疗建议。

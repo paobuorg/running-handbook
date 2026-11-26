@@ -152,3 +152,5 @@ translationStatus: reviewed
 
 - [跑步服装与摩擦：合身、干爽、少接缝](/knowledge/running-apparel-and-chafing/)
 - [跑鞋合脚与缓震：先舒服，再谈科技](/knowledge/shoe-fit-and-cushioning/)
+
+本次变更：补水泡预防、贴扎、湿脚、指甲与感染边界；为什么：原有内容分散在鞋、袜、黑指甲页，缺单页流程。仍未解决：鞋楦、出汗与皮肤差异需个人实测，感染扩散需就医。

@@ -182,3 +182,5 @@ The 30–60 g/h range, 6–8% drink and 10–15 minute intervals follow the ISSN
 - [Race fuel comparison: gels, drink mixes, bars and whole food — how to choose](/en/knowledge/race-fuel-comparison/)
 - [Judging supplements: evidence before the label](/en/knowledge/supplements-and-evidence/)
 - [Weight and running: lighter is not automatically faster](/en/knowledge/weight-and-running/)
+
+Change note: expanded the 30–60 g/h baseline into a duration-based 60–90 g/h branch, with multiple transportable carbohydrates, gut training, aid-station/self-carry combinations and two worked examples; the earlier page explained principles but could not support a race plan. Still open: individual sweat rate, gut tolerance and the actual aid-station layout must be field-tested.

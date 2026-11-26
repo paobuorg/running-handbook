@@ -7,7 +7,8 @@
   "sourceRefs": [
     "knowledge-odphp-activity-planner",
     "knowledge-running-injury-review",
-    "knowledge-cdc-intensity"
+    "knowledge-cdc-intensity",
+    "knowledge-fokkema-2020-half-marathon-volume"
   ],
   "relatedRefs": [
     "knowledge:training-week",

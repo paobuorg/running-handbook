@@ -7,7 +7,8 @@
   "sourceRefs": [
     "knowledge-coyle-2001-cv-drift",
     "knowledge-physiology-determinants",
-    "knowledge-cdc-intensity"
+    "knowledge-cdc-intensity",
+    "knowledge-ceugniez-2025-fitbit-hr"
   ],
   "relatedRefs": [
     "knowledge:heat-and-humidity",

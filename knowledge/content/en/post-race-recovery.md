@@ -168,3 +168,5 @@ Fluid, carbohydrate and protein timing follow the ISSN nutrient-timing and prote
 - [Should a recovery day be rest or easy movement?](/en/knowledge/recovery-day/)
 - [Sleep and recovery: the variable beneath the gadgets](/en/knowledge/sleep-recovery/)
 - [Watch data and recovery: read trends, not one score](/en/knowledge/wearables-and-recovery-data/)
+
+Change note: added four recovery timelines (5K, half, marathon, ultra) plus sleep, hydration, return-to-training and medical boundaries; the earlier page had principles but no distance-specific schedule. Still open: age, comorbidities and race load change recovery speed, so the timeline is not a return-to-training clearance.

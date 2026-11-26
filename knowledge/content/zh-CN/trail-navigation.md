@@ -159,3 +159,5 @@ translationStatus: reviewed
 - [目标与复盘：把“想跑快”变成可执行的事](/knowledge/goal-setting-and-review/)
 - [习惯叠加与坚持度：让跑步自动发生](/knowledge/habit-stacking-and-adherence/)
 - [赛前焦虑与训练倦怠：把压力说清楚](/knowledge/race-anxiety-and-burnout/)
+
+本次变更：补设备失效、迷路决策顺序、撤退点与离线备份，并新增 NPS 冬季徒步导航来源；为什么：原页有 GPX 与离线地图，缺失效后的顺序。仍未解决：实际信号覆盖、官方轨迹与撤退点需按赛事和地形核对。

@@ -160,3 +160,5 @@ If the pelvis drops, the knee collapses inward or pain rises, go back one stage.
 - [Running injuries](/en/knowledge/running-injury-prevention/)
 - [Strength training for runners](/en/knowledge/strength-training-for-runners/)
 - [Injury risk check](/en/tools/injury-risk-check/)
+
+Change note: added hip/glute/groin pain recognition, load adjustment, red flags and return to running; existing injury pages concentrated on knee, Achilles, plantar and shin. Still open: night pain, a groin mass or inability to bear weight needs medical review; this page does not diagnose.

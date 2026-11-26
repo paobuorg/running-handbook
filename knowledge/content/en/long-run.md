@@ -166,3 +166,5 @@ Fuelling follows the ISSN nutrient-timing position stand and NHS hydration guida
 - [Marathon training plan: a decision path from current weekly mileage to an 18–24 week structure](/en/knowledge/marathon-training-plan/)
 - [Periodization: linear, block and reverse linear — and how far the evidence goes](/en/knowledge/periodization/)
 - [80/20 Polarized Training — an observed distribution, not a prescription](/en/knowledge/polarized-training-80-20/)
+
+Change note: added basic, specific and back-to-back long-run structures, time/distance caps, fueling rehearsal and stop rules; the earlier page explained the purpose but did not support a week-by-week decision. Still open: the right long-run ceiling depends on race distance, terrain and recovery capacity.

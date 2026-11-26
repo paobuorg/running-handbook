@@ -7,7 +7,8 @@
   "sourceRefs": [
     "knowledge-nhs-plantar-fasciitis",
     "knowledge-aaos-plantar-fasciitis",
-    "knowledge-nhs-running-injuries"
+    "knowledge-nhs-running-injuries",
+    "knowledge-gstt-choosing-shoes"
   ],
   "relatedRefs": [
     "knowledge:running-shoes",

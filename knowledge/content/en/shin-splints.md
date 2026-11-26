@@ -187,3 +187,5 @@ Shoes are not a cure, but they change load. Sudden switches from thick to thin, 
 - [Side stitch and gut symptoms — how common they are, what triggers them and the red flags that need a doctor](/en/knowledge/side-stitch-and-gi/)
 - [Air quality and running — the six AQI bands, exercise dose and the "run today?" decision](/en/knowledge/air-quality-and-running/)
 - [Running at altitude: acclimatisation, training and when to descend](/en/knowledge/altitude-and-running/)
+
+Change note: added stress-fracture exclusion red flags, a staged return table and load back-off conditions; the earlier page covered recognition and load reduction but not exclusion or return. Still open: focal pain, night pain or inability to bear weight needs imaging and clinical assessment; this page does not diagnose.

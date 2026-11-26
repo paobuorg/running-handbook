@@ -155,3 +155,5 @@ Early arrival is not the goal; a smaller single ascent and protected sleep are. 
 - [Race travel planner](/en/tools/race-travel-planner/)
 
 - [Trail and ultra training plan: climbing, time-on-foot, night running, load and back-to-back long sessions](/en/knowledge/trail-ultra-training-plan/)
+
+Change note: new tool documentation with three cases, four sources, a day-by-day exposure schedule and symptom-descent prompt; the knowledge page had principles but no way to turn arrival/race altitude and days into an itinerary. Still open: individual adaptation and comorbidities cannot be excluded by a tool, and the output is not medical advice.

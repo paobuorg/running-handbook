@@ -183,3 +183,5 @@ drop bag 的常见错误是“把所有东西装成一包”，到站点再翻�
 - [酷热与潮湿：热应激、湿球温度与降级规则](/knowledge/heat-and-humidity/)
 - [坡道与山径入门：第一次走上起伏路面](/knowledge/hill-and-mountain-path-basics/)
 - [雷暴与闪电安全流程：识别、下撤、蹲姿与赛事中断](/knowledge/lightning-and-storm-safety/)
+
+本次变更：补 drop bag、停车/路封、pacer 规则和三类交接失败处置；为什么：原页有排班框架，缺交接当天的失败模式。仍未解决：各赛事对 pacer 换人、装备与停车的规定不同，出发前以官方手册复核。

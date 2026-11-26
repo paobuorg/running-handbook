@@ -138,3 +138,5 @@ If you miss several years, reassess whether the gap is eligibility, materials or
 This page records the published 2027 lottery and course direction. It does not predict pool odds, 2028 dates or a qualifier list that has not been updated.
 
 This page separates official mechanics from editorial advice. Dates, lists, places and standards are checked against the official page; anything unpublished is marked as unknown.
+
+Change note: added the volunteer/qualifier dual pathway and a 12-month plan after an unsuccessful draw; the earlier page covered eligibility but not what to do across repeated years. Still open: places, draw odds and volunteer scheduling follow Hardrock officially.

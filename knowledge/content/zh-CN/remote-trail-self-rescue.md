@@ -184,3 +184,5 @@ translationStatus: reviewed
 - [高海拔与跑步](/knowledge/altitude-and-running/)
 - [水泡与足部护理](/knowledge/blister-and-foot-care/)
 - [比赛清单](/tools/race-checklist/)
+
+本次变更：补迷路、受伤、失温、无信号下的求救顺序、庇护与下撤时间窗；为什么：原知识分散在导航、低温与 DNF 页，缺单一流程。仍未解决：实际通信覆盖与救援响应时间需按赛事和地形核对。

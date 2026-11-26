@@ -134,3 +134,5 @@ Each race has its own entry window; one date does not fit all. The Finals lotter
 This page records official mechanics, not a prediction of 2027 rules, places or odds. Check the current UTMB regulation before entering.
 
 This page separates official mechanics from editorial advice. Dates, lists, places and standards are checked against the official page; anything unpublished is marked as unknown.
+
+Change note: added the full race-to-stone/Index-to-lottery mapping, qualifier selection and non-selection alternatives; the earlier page had an eligibility matrix but not what each race actually grants. Still open: the 2027 lottery calendar, places and Index thresholds follow UTMB publications, and draw odds are not predicted.

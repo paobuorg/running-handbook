@@ -162,3 +162,5 @@ Sources: NPS Hike Smart for plans, contacts, beacons, battery, weather and Plan 
 - [Goals and review: turn “run faster” into something you can do](/en/knowledge/goal-setting-and-review/)
 - [Habit stacking and adherence: let the run start itself](/en/knowledge/habit-stacking-and-adherence/)
 - [Race anxiety and training burnout: name the pressure](/en/knowledge/race-anxiety-and-burnout/)
+
+Change note: added device-failure, lost-person decision order, retreat points and offline backups, with an NPS winter hiking navigation source; the earlier page covered GPX and offline maps but not what happens when they fail. Still open: actual signal coverage, official tracks and retreat points must be checked against the race and terrain.
