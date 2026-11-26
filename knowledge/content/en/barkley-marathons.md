@@ -185,6 +185,20 @@ The risk is not "not being fit enough" but navigation failure, hypothermia, slee
 
 In a similar unmarked long-distance setting, stop and seek help on any of these signals: continuous shivering or clearly degraded coordination (hypothermia), confusion or incoherent answers (hyponatremia or hypoglycemia), chest pain or fainting, exposure on a ridge during a thunderstorm, or being unable to place yourself on the map before dark. Do not treat hypothermia or altered consciousness with "one more mile"; the Barkley has no conventional aid stations or embedded medical team, and rescue depends on the organiser, other runners and park management. This page is a culture and rules explainer, not an entry guide; with no official course file, nobody should use it to replicate the route.
 
+## Three numbers that get conflated
+
+| Commonly quoted number | What it actually means | What it cannot be used for |
+| --- | --- | --- |
+| "About 20 miles per loop" | A five-loop format; loop distance varies with year, route and shortcuts, and no fixed official GPX is published | Treating 20 miles × 5 as a precise 100-mile course |
+| "60-hour cutoff" | The race closure counted from the start window, not a fixed 60:00 clock time on a calendar day | Back-calculating per-loop pace from a road-race cutoff table |
+| "$1.60 entry fee" | An application fee; entry also depends on the essay, licence plate, experience and draw | Assuming that paying the fee guarantees a place |
+
+## A worked example: splitting 60 hours across five loops
+
+Assume a 58-hour target over five full loops: 11 hours 36 minutes per loop on average. The 2024 finish of 59:58:21 works out at about 11 hours 59 minutes 40 seconds per loop. Example: if loop one takes 10 hours 30 minutes, the remaining four can average 11 hours 52 minutes; if loop one takes more than 13 hours, every later loop must stay under 11 hours 15 minutes, squeezing sleep and book-finding time. The example is for sleep, fueling and pacing only, not an official split; weather, night navigation and route versions move each loop substantially.
+
+Change note: added a table separating three commonly conflated numbers and a worked example that splits 60 hours across five loops; the page told the story but readers could mistake 20 miles × 5, the 60-hour closure and the application fee for precise course parameters. Still open: no fixed official GPX is published, so loop distance and route versions cannot be verified precisely.
+
 ## Related reading
 
 - [Ultra running basics: distance, fuelling and what counts as a finish](https://learn.paobu.org/en/articles/ultra-running-basics/)

@@ -180,6 +180,21 @@ This page is education about foot care and runner self-management. It gives no d
 
 Verified: 2026-11-07.
 
+## A grading and action table
+
+| Presentation | Common cause | What you can do first | When to seek care |
+| --- | --- | --- | --- |
+| A small dark red patch, no pain, nail plate still attached | Toe-box impact or downhill microtrauma | Switch to a wider toe box, reduce downhill volume, observe for 1–2 weeks | Colour spreads, throbbing pain or exudate appears |
+| Blood covers more than half the nail, persistent throbbing | Repeated impact raises subungual pressure | Do not drain it yourself; loosen laces, cool, reduce impact | Severe pain, nail plate loosens or walking is affected |
+| Nail plate lifts and nail bed is exposed | Nail-bed laceration or shoe upper pulling | Clean, cover and protect, stop pressing it | Bleeding does not stop, nail bed tears or weight-bearing fails |
+| Nail fold is red, swollen, purulent or hot | Bacterial infection or ingrown nail | Do not squeeze or cut the nail yourself | Redness spreads, fever, diabetes or poor circulation |
+
+## A downhill worked example
+
+Example: 10 km downhill at 180 steps/min and 5:00/km gives about 4,500 ground contacts per foot; if the toe box leaves only 5 mm, each contact can shift the toe 3–5 mm and bruise risk accumulates with distance. The example shows the order of magnitude of clearance and contacts, not an individual force measurement; leaving about 10 mm of toe-box clearance and retying laces before a descent is more controllable than draining the nail afterwards.
+
+Change note: added a grading-and-action table and a downhill impact worked example, separating observation, self-care and mandatory medical review; the page covered causes and prevention but not how to triage blood under the nail. Still open: subungual pressure and individual toe-box fit cannot be judged by appearance alone, and infection or nail-bed laceration needs clinical care.
+
 ## Related reading
 
 - [Shoe fit and cushioning: comfort before technology](https://learn.paobu.org/en/articles/shoe-fit-and-cushioning/)
