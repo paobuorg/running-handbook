@@ -153,3 +153,5 @@ Early arrival is not the goal; a smaller single ascent and protected sleep are. 
 - [Altitude and running](/en/knowledge/altitude-and-running/)
 - [Remote trail self-rescue](/en/knowledge/remote-trail-self-rescue/)
 - [Race travel planner](/en/tools/race-travel-planner/)
+
+- [Trail and ultra training plan: climbing, time-on-foot, night running, load and back-to-back long sessions](/en/knowledge/trail-ultra-training-plan/)

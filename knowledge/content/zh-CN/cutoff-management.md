@@ -157,6 +157,10 @@ Western States 官方补给站表明确写明：表中的关门时间是**离开
 
 本页不提供某一届赛事的具体关门承诺；路线页列出的钟点来自当届规程或计时表，规则可能逐年调整。以下内容在本站属官方未公布（unknown）：各赛事下一届的逐点关门位置与时刻；规程未写明时的到达/离开口径；不同分区在自然时钟口径下的精确可用时间；收容车的逐班时刻。未取得当届手册前，不把往届关门表当作本届规则。本页不做诊断、不开训练处方、不提供用药建议。
 
+## 交接与关门时间的联动
+
+关门时间不是只看自己的配速，还要看 crew/pacer 的交接是否拖时间。交接点、装备更换与夜间配速的安排，参考[越野交接与陪跑](/knowledge/ultra-crew-pacer-handoff/)；把交接时间写进分段表，才不会在站里被关门。
+
 ## 相关阅读
 
 - [比赛日早晨流程：从起床到发枪的时间轴](/knowledge/race-morning-protocol/)
@@ -170,6 +174,8 @@ Western States 官方补给站表明确写明：表中的关门时间是**离开
 - [Comrades 马拉松路线页](/routes/comrades-marathon/)
 - [Western States 百英里路线页](/routes/western-states/)
 - [Big's Backyard Ultra 路线页](/routes/bigs-backyard-ultra/)
+
+- [DNF 复盘：把退赛变成下一次的 if/then](/knowledge/dnf-review-protocol/)
 
 ## 来源
 

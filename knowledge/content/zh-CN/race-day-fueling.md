@@ -158,6 +158,8 @@ ISSN 的立场文件建议，超过 60 分钟的高强度运动按每小时约 3
 - [比赛日配速](/knowledge/race-day-pacing/)
 - [补给规划器](/tools/fueling-planner/)
 
+- [多日赛策略：分段配速、每日补给与睡眠债务](/knowledge/stage-race-strategy/)
+
 ## 相关阅读
 
 - [补给计划器](/tools/fueling-planner/)

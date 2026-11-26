@@ -134,6 +134,30 @@ When weather turns, leave ridges, valleys and isolated trees first and reduce ex
 
 Write the route, retreat points, weather window and contact on paper, put it in a waterproof bag; tell a companion “if I am not back in 20 minutes, treat it as a call for help”. Three minutes can save hours of searching.
 
+## Fix the position before sending anyone
+
+When someone can no longer walk, do not start by looking for signal. Open the offline map, record coordinates or the nearest landmark, junction, stream and checkpoint number; move the patient out of wind, insulate them from the ground and replace wet layers. A rescue team cannot act on “somewhere on the ridge”.
+
+Send a messenger only after location, head count and symptoms are written down. The messenger carries a headlamp, whistle, warm layer, water and paper, and agrees to return in 15–20 minutes. If they do not return, the remaining person treats it as a failed call and starts the backup plan. Never leave the patient alone in the wind.
+
+## Retreat routes and time windows
+
+Compare three lines: back the way you came, a traverse to the nearest road, and a descent along the stream to a village. Weigh distance, climb, river crossings and night risk. Choose the shortest line that is also hard to lose; do not choose the line that “looks close” but needs a steep traverse.
+
+Set a time window using the patient’s condition and the group’s remaining energy, then multiply by 1.5. If that estimate runs into darkness, rising water or falling temperature, stay and call for help. A route that works in daylight may be impossible at night.
+
+## The 30-minute rewarming account
+
+For mild hypothermia the goal is to stop heat loss, not to make the person hot quickly. Replace wet clothes, dry the skin, add insulation, insulate from the ground, then give warm fluids and carbohydrate. Check shivering, speech and gait every 10 minutes. No improvement in 30 minutes, or loss of shivering and altered consciousness, means escalate and call rescue.
+
+Do not place a hot water bottle directly on skin, do not give alcohol, and do not make the person run to “generate heat”. Rapid rewarming or rough handling can send cold blood back to the heart. Warm slowly, continuously and as a whole body, protecting the trunk first.
+
+## Role rotation in a long rescue
+
+Long rescues erode judgment. Rotate roles every 30–40 minutes: one watches breathing and consciousness, one prepares warm fluids and dry layers, one records time and decisions. Rotation is not rest; it resets attention. Name one decision-maker so disagreement does not stall the group.
+
+With only two people, the remaining person stays with the patient and the messenger leaves a written plan and return time. Rescue is a sequence, not a vote.
+
 ## Related reading and tools
 
 - [Trail navigation](/en/knowledge/trail-navigation/)

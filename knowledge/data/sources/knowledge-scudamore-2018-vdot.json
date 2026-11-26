@@ -16,11 +16,11 @@
   ],
   "license": null,
   "verification": {
-    "access": "metadata-only",
+    "access": "direct",
     "bodyRead": false,
     "checkedAt": "2026-11-08",
-    "checkedVia": "WebFetch 抓取 PubMed 记录页（仅摘要；LWW 全文页被安全验证拦截）",
-    "note": "仅读到 PubMed 摘要，全文需订阅且 journals.lww.com 触发安全验证；未读正文，按摘要级证据处理。 R53 回扫：2026-11-08 用桌面 UA 直连重试 2 次，出版商均返回 203 反爬/订阅门，仅摘要或元数据可读，正文需订阅；属外部条件，不是官方没有。 2026-11-26 来源清理：按摘要级证据保留，正文未读，不把摘要升级为全文。"
+    "checkedVia": "PubMed 记录页直连（摘要可读）；LWW 全文页被安全验证与订阅阻断",
+    "note": "2026-11-26 来源清理：PubMed 记录页可直连并读取摘要，出版商全文仍被反爬与订阅阻断；保留 direct 未读状态，bodyRead=false，不把摘要升级为全文。"
   },
   "claimVerification": [
     {

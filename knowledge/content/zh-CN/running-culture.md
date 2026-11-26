@@ -109,6 +109,8 @@ World Athletics 按项目和类别公布世界纪录，并会标注仍在等待�
 - [纪录与赛道：为什么手表上的好成绩不是纪录](https://learn.paobu.org/articles/records-and-course-validity/)
 - [怎样读跑步研究：先看问题，再看结论](https://learn.paobu.org/articles/reading-running-research/)
 
+- [2027 赛历与报名策略：把抽签、旅行和恢复排进同一张表](/knowledge/race-calendar-entry-strategy/)
+
 ## 来源与适用范围
 
 赛事礼仪参考波士顿体育协会的 2026 波士顿马拉松规则与政策；纪录分类与待批准标注参考 World Athletics 世界纪录页面；马拉松距离参考 World Athletics 项目说明；伤病比例与证据冲突参考 Journal of Athletic Training 的系统综述；表现多因素与测量差异参考 2026 年生理学综述。本文是阅读与判断框架，不替代官方规则或原始研究。核验日期为 2026-11-06

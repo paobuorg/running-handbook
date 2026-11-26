@@ -146,6 +146,51 @@ Technical terrain rewards “stable”, not “fast”. On rocks and roots, look
 Run when you can speak a short sentence, walk when only single words, stop when you cannot speak. This threshold is more reliable than any pace table, especially with altitude, load and weather.
 
 
+## Counting technical terrain as equivalent distance
+
+A vertical table only prices the climb. Rock, roots, scree and wet slabs add the cost of placement, braking and attention: the same kilometre can take 20–50% longer without any extra ascent. Plan technical sections separately instead of hiding them in an average pace. Split the course into runnable, technical, steep-up and steep-down sections, price each from your own test or a conservative estimate, and add 10–15 minutes to technical sections. If a technical section runs slow, do not try to recover it with flat-road speed later.
+
+| Terrain | Time correction | Reason |
+| --- | --- | --- |
+| Wide fire road | Flat or slightly slower | Stable footing |
+| Roots and scree | +10–25% | Shorter steps, more attention |
+| Wet rock | +20–40% | Braking and detours |
+| Technical at night | +30–50% | Limited light |
+
+These corrections come from personal testing, not a fixed formula. On a first visit to a course, take the upper bound.
+
+## Night, weather and queue time
+
+Night is not “day pace plus a headlamp”. A headlamp reaches only a few metres, descents slow down, temperature drops, fatigue accumulates and aid stations have queues. Price night sections at 1.3–1.5 times the daylight estimate, and add more for rain, fog or wind.
+
+Aid-station stops belong in the total. Five to ten minutes per stop sounds small until ten stops cost 50–100 minutes. Write arrival **and** departure, set a leave-by limit, and do not let food, water and chatting eat the budget.
+
+| Item | Conservative allowance | Note |
+| --- | --- | --- |
+| Night section | Day ×1.3–1.5 | Upper end for technical descents |
+| Each aid station | 5–10 min | 15 min for major stations |
+| Bad weather | +10–20% more | Rain, fog, wind |
+| Queue or transfer | Race notice +20 min | Do not assume instant passage |
+
+## A four-column split sheet
+
+The split sheet needs four columns: section, distance/climb, target time, leave check. Use a conservative target, not a best case. The leave check is one item only, such as “breathing settled, no foot hot spot, bottles full”.
+
+| Section | Distance/climb | Target | Leave check |
+| --- | --- | --- | --- |
+| 1 | 0–12 km / 500 m | 1:40 | Can speak in short sentences |
+| 2 | 12–25 km / 900 m | 2:30 | Fueled, no nausea |
+| 3 | 25–38 km / 800 m | 2:20 | Headlamp, warmth, feet |
+| 4 | 38–50 km / 400 m | 1:30 | Safe finish |
+
+Add 30–45 minutes of non-racing buffer after summing the sections. If the total exceeds the cut-off, cut the target, not sleep and fuel.
+
+## Recovery budget after descents
+
+Descents are not free. Quadriceps accumulate eccentric damage, most obvious 24–48 hours later. In multi-day or back-to-back races, budget recovery: protein and carbohydrate that day, legs elevated, enough sleep; next day, if walking downstairs hurts, stay on flat ground rather than running another technical descent.
+
+Training should not be uphill only. Include one short technical descent each week so ankles and quads adapt, then record the 24-hour response and reduce the dose if it flares. Descent skill is trained, not summoned on race day.
+
 ## Related reading and tools
 
 - [Grade-adjusted pace](/en/knowledge/grade-adjusted-pace-method/)

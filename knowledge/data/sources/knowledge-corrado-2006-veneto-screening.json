@@ -12,11 +12,11 @@
   ],
   "license": "JAMA; citation and summary only",
   "verification": {
-    "access": "metadata-only",
+    "access": "browser",
     "bodyRead": false,
     "checkedAt": "2026-11-20",
-    "checkedVia": "curl.exe via local 7890 proxy + PubMed efetch abstract (PMID 17018804); JAMA page still behind Cloudflare human check",
-    "note": "2026-11-20 经 7890 代理读取 PubMed 结构化摘要。JAMA 页面仍返回 Cloudflare 验证且全文需订阅，bodyRead 保持 false。前两条数字与方向由摘要直接支持；第三条 screening 具体组成不在摘要，保留 partial，不外推。 2026-11-26 来源清理：按摘要级证据保留，正文未读，不把摘要升级为全文。"
+    "checkedVia": "PubMed efetch 摘要（PMID 17018804）；JAMA 原页仍需 Cloudflare 验证与订阅",
+    "note": "2026-11-26 来源清理：JAMA 原页被 Cloudflare/订阅阻断，PubMed 摘要页可在浏览器读取；按浏览器可读摘要、正文未读处理，不把摘要升级为全文。"
   },
   "claimVerification": [
     {

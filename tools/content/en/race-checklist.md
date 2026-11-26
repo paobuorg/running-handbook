@@ -86,6 +86,10 @@ The list is general preparation support, not an event's mandatory kit list. Orga
 2. Check each section several days ahead, handling anything that must be bought, washed or tested; treat a tick as "remembered".
 3. Recheck the day before the race against the organiser's mandatory kit list and the latest forecast.
 
+## Linked to course recon
+
+The race checklist covers what to carry; course recon covers how to run it. Before travel, copy aid stations, escape points, technical sections and night passage times from the [course recon checklist](/en/tools/course-recon-checklist/) into the checklist. Gear alone is not a complete plan.
+
 ## Related reading
 
 - [Race-day execution: pacing, corrals and fuelling](/en/knowledge/race-day-pacing/)
@@ -93,6 +97,14 @@ The list is general preparation support, not an event's mandatory kit list. Orga
 - [Route safety: write the plan, weather and escape route first](/en/knowledge/route-safety/)
 - [Cold-weather running: clothing and risk](/en/knowledge/cold-weather-running/)
 - [Heat and humidity: cooling and stop signals](/en/knowledge/heat-and-humidity/)
+
+- [Blister and foot care: prevention, treatment and when to stop](/en/knowledge/blister-and-foot-care/)
+
+- [GPX and course recon: turn a track into an executable checkpoint table](/en/knowledge/gpx-course-recon/)
+
+- [Race calendar planner — five dated phases around a goal race, next race and recovery](/en/tools/race-calendar-planner/)
+
+- [Race travel planner — jet lag, recommended arrival and start in home time](/en/tools/race-travel-planner/)
 
 ## Privacy and data
 

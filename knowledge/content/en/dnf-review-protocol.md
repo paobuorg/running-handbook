@@ -87,6 +87,9 @@ Read [DNF decision-making](/en/knowledge/dnf-decision-making/) to separate red f
 
 If you want the same race again, read its route page for cut-offs and course changes; do not only change training.
 
+- [Cut-off management: reading the timeline, converting checkpoints to pace, and planning your buffer](/en/knowledge/cutoff-management/)
+- [race-day-pacing](/en/knowledge/race-day-pacing/)
+
 ## 来源与核验边界
 
 本页的医疗红旗与赛事规则来自官方医疗页/赛事规则；每条来源的 claims 与 claimVerification 见实体 JSON。本页不提供诊断或处方，持续症状请就医。

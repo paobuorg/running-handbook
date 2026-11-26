@@ -86,6 +86,10 @@ translationStatus: reviewed
 2. 提前几天逐节检查，先处理需要购买、清洗或试用的项目，把“已勾选”当作“已记得”。
 3. 比赛前一天再核对一次，并以组委会的强制装备清单和最新天气预报为准做最后增删。
 
+## 与赛道侦察的衔接
+
+比赛清单解决“带什么”，赛道侦察解决“怎么跑”。出发前把[赛道侦察清单](/tools/course-recon-checklist/)里的补给、撤退点、技术段与夜间通过时间填进清单；只核对装备、不看赛道，清单仍然不完整。
+
 ## 相关阅读
 
 - [比赛日执行：配速、分区与补给](/knowledge/race-day-pacing/)
@@ -93,6 +97,14 @@ translationStatus: reviewed
 - [路线安全：把行程、天气与撤退方案先写好](/knowledge/route-safety/)
 - [寒冷天气跑步：着装与风险](/knowledge/cold-weather-running/)
 - [高温与高湿跑步：降温与停止信号](/knowledge/heat-and-humidity/)
+
+- [水泡与足部护理：预防、处理与何时停跑](/knowledge/blister-and-foot-care/)
+
+- [GPX 与赛道侦察：把轨迹变成可执行的检查点表](/knowledge/gpx-course-recon/)
+
+- [赛历规划器——把目标比赛、下一场与恢复期排成五个阶段](/tools/race-calendar-planner/)
+
+- [比赛旅行规划器——时差、建议到达日与起跑家乡时间](/tools/race-travel-planner/)
 
 ## 隐私与数据
 

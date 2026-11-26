@@ -97,6 +97,10 @@ Start with the [2027 calendar](/en/calendar/), then the [compare page](/en/compa
 
 For a first marathon, use the [first marathon path](/en/paths/first-marathon/); for 100 km, the [first 100 km trail path](/en/paths/first-100k-trail/).
 
+- [Race calendar planner — five dated phases around a goal race, next race and recovery](/en/tools/race-calendar-planner/)
+- [Race travel planner — jet lag, recommended arrival and start in home time](/en/tools/race-travel-planner/)
+- [Running culture: race rules, record ratification and reading research](/en/knowledge/running-culture/)
+
 ## Sources and verification boundary
 
 The dates and entry windows come from official race sites and host-city notices. TBA means the organiser has not published it, not an editorial estimate. Each source’s claims and claimVerification are in the entity JSON.

@@ -216,6 +216,8 @@ This page is general running training education, not a personal plan, diagnosis,
 - [Training load tool](/en/tools/training-load/)
 - [Injury risk check tool](/en/tools/injury-risk-check/)
 
+- [Four-week post-race recovery: a week-by-week walk-to-run table](/en/knowledge/four-week-post-race-recovery-plan/)
+
 ## Sources and scope
 
 Progression evidence: Buist 2008 (Am J Sports Med, GRONORUN RCT, 532 novices, 20.8% vs 20.3%, P=.90) and Nielsen 2014 (JOSPT, 873 analyzed, 202 injuries, HR 1.59, 95% CI 0.96–2.66, P=.07). Volume–performance/injury association: Fokkema 2020 (Scand J Med Sci Sports, 556 half-marathon and 441 marathon entrants). Elite characteristics: Haugen 2022 (Sports Med Open). Taper evidence: Bosquet 2007 (MSSE meta-analysis, 27 studies) and PLOS ONE 2023 (meta-analysis, 14 studies). Intensity distribution: Seiler 2010 (IJSPP) and Casado 2022 (IJSPP systematic review). Marathon distance: World Athletics. Intensity boundaries: ACSM GetP8. Persistent fatigue boundary: Current Sports Medicine Reports overtraining practical guide. Verified 2026-11-25; next review 2027-11-25. Change record: new page compiling existing guidelines, reviews and cohort evidence; phase lengths, weekly structure and long-run rules are editorial examples, and no unverified folk fixed numbers are cited.

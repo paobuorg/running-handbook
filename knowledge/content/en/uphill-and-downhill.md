@@ -75,6 +75,10 @@ An example plan (hypothetical): one hill session per week, reviewed every 4 to 6
 
 General principles, not individual coaching or medical advice. Gradient, surface, altitude and fatigue change the response.
 
+## Bringing grade conversion into training
+
+Hill sessions are not just distance. Use [grade-adjusted pace](/en/knowledge/grade-adjusted-pace-method/) to convert climb into equivalent flat distance, then decide whether the session is an easy hill run or a quality workout. Ten kilometres with 300 m and 800 m of climb are different loads.
+
 ## Related reading
 
 - [Grade-adjusted pace](/en/tools/grade-adjusted-pace/)

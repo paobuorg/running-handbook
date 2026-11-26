@@ -99,6 +99,9 @@ Read [post-race recovery](/en/knowledge/post-race-recovery/) for the physiology;
 
 If pain lasts two weeks, read [running injuries](/en/knowledge/running-injury-prevention/) and book an assessment; do not “train it better”.
 
+- [Marathon training plan: a decision path from current weekly mileage to an 18–24 week structure](/en/knowledge/marathon-training-plan/)
+- [Return to running after injury: staged gates, reinjury criteria and progression boundaries](/en/knowledge/return-to-running/)
+
 ## Four recovery metrics
 
 Do not judge recovery by feel alone. Track four numbers daily: morning resting heart rate (more than 7 beats above baseline means cut back), sleep duration and quality, pain 0–10, gait symmetry. If two of four worsen, step back a week.

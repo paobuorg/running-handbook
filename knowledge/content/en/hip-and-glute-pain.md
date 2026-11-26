@@ -133,6 +133,27 @@ After 40, tendon and muscle recovery slows; the same load may need longer spacin
 
 After each run, write three lines: pain site and 0–10, volume/climb, and whether it settled at 24 hours. Two weeks of entries judge load better than “it feels a bit better”.
 
+## Desk, driving and single-leg stance
+
+Hip load is not only running. Long sitting shortens the hip flexors and lets the glutes switch off; driving keeps one hip flexed. Stand and walk for two to three minutes every 45–60 minutes, then do five standing hip extensions and ten single-leg stands. Do not stretch into pain; the aim is range, not a stretch contest.
+
+Single-leg stance is the cheapest self-check and exercise. Brush teeth, wait for the kettle or read a phone while standing on one leg for 20–30 seconds, keeping the pelvis level and the knee over the second toe. If one side drops, train that side first, but never beyond pain-free range. Falling over costs more than the exercise is worth.
+
+Set the driving seat upright, sit fully into the seat and put a small pillow behind the lower back. Keep the wallet out of the back pocket. At a desk, feet flat, knees slightly below the hips, and use a footrest rather than perching on the toes.
+
+## Stairs and slopes: progressive exposure
+
+In recovery, stairs and slopes often expose the problem first. Go up before down, use the rail before going without, one floor before three. On descents lean slightly forward and take short steps so one leg does not absorb a sudden eccentric load. Walk a gentle slope before running uphill; leave downhill until last.
+
+| Stage | Stairs | Slope | Pass criteria |
+| --- | --- | --- | --- |
+| 1 | Up one floor, holding rail | Walk gentle slope 5 min | No next-day flare |
+| 2 | Up three floors, no rail | Run uphill 3 min | Normal gait |
+| 3 | Down one floor, rail | Run gentle downhill | 24-hour pain ≤2/10 |
+| 4 | Three floors up and down | Slope run 10 min | Stable for a week |
+
+If the pelvis drops, the knee collapses inward or pain rises, go back one stage. Split stair work into several small doses; do not climb 20 floors as a “test”. Stop when pain rises, record the response, and train both sides rather than only the painful one.
+
 ## Related reading and tools
 
 - [Pain and load](/en/knowledge/pain-and-load/)

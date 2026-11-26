@@ -124,6 +124,30 @@ No quality sessions for a week after finishing; no long run for two weeks. Stage
 Set a daily minimum: can walk, can drink, can stay warm. Below that line, stop; do not gamble medical risk for a placing or a finish.
 
 
+## Quantifying sleep debt
+
+Record actual sleep, time to fall asleep and number of wakes. Next morning, score three functions: speech clarity, gait symmetry and appetite. If two of the three are down, change the day from “progress” to “protect”. Under six hours, keep the first 10 km conservative; under four, drop pace by 5–10% and take a 15-minute nap every two hours; under two, or a whole night awake, review continuation with race medical staff. Sleep cannot be repaid in one night, so treat it as a race variable, not an afterthought.
+
+## Transitions, checkpoints and time budget
+
+Race time is not all on the trail. Tent packing, water queues, transfers and charging eat sleep. Keep 30–45 minutes of non-racing buffer each day and write each checkpoint as arrival **and** departure. Leave a checkpoint 15 minutes before its cut-off; if two consecutive checkpoints sit on that floor, downgrade the next section rather than planning to “make it back later”.
+
+## Weather and night downgrades
+
+Check rain, wind and overnight feels-like temperature before the start, then every three hours. Downgrade when fingers cannot work a zip, speech becomes slurred, you stumble twice, or the inner layer is already wet. Add insulation first, shorten the next section second, and only then consider stopping. Keep headlamp, spare batteries, emergency blanket and warm drink in one bag. Follow race reroute or evacuation instructions; do not cut your own line.
+
+## Medical communication and medication boundary
+
+Do not say “I’m fine” at medical. Say where it hurts, when it started, and what you cannot do now. Report fever, vomiting, low urine output, red-hot swollen feet or altered consciousness even if it risks a DNF. Do not borrow prescription drugs or mask fever with painkillers. Caffeine is a short-term tool, not sleep. Anyone with cardiac, kidney or metabolic history should settle fluids and medication with a clinician before the race.
+
+## Pack weight and transfer bags
+
+Separate weight on your back from weight in the transfer bag. Keep base pack weight at 8–10% of body weight or less; above that, climbing slows sharply. The transfer bag holds only that night and next morning: dry clothes, sleeping bag, sandals, foot kit. Carry water and food to the next station plus 10%, not the whole day. Use a waterproof bag for wet clothes and never put wet shoes inside the sleeping bag.
+
+## Daily review: three questions
+
+At the sleep point ask only three questions: which section hurt the legs most, which feed caused nausea or bloating, and what single thing must be fixed tonight? Write the answers on the bib or phone, then turn them into three instructions for tomorrow: first-section pace, first-station food, one recovery action. If the same problem appears three days running, change the plan rather than blame willpower.
+
 ## Related reading and tools
 
 - [Race-day fuelling](/en/knowledge/race-day-fueling/)
@@ -133,3 +157,6 @@ Set a daily minimum: can walk, can drink, can stay warm. Below that line, stop; 
 - [Grade-adjusted pace](/en/knowledge/grade-adjusted-pace-method/)
 - [Trail vertical pacing](/en/knowledge/trail-vertical-pacing/)
 - [Vertical pacing calculator](/en/tools/trail-vertical-pacing/)
+
+- [Crew and pacer planning: crew cards, handoff points, segmented drop bags and liaison protocol](/en/knowledge/crew-and-pacer-planning/)
+- [Trail and ultra training plan: climbing, time-on-foot, night running, load and back-to-back long sessions](/en/knowledge/trail-ultra-training-plan/)

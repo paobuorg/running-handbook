@@ -157,3 +157,5 @@ translationStatus: reviewed
 - [高海拔与跑步](/knowledge/altitude-and-running/)
 - [远程越野自救](/knowledge/remote-trail-self-rescue/)
 - [比赛旅行规划器](/tools/race-travel-planner/)
+
+- [trail-ultra-training-plan](/knowledge/trail-ultra-training-plan/)

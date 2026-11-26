@@ -142,6 +142,8 @@ This page is general triage education; it does not give diagnostic conclusions, 
 - [Race-morning protocol: timeline from waking to the gun](/en/knowledge/race-morning-protocol/)
 - [Crew and pacer planning: division and liaison protocol](/en/knowledge/crew-and-pacer-planning/)
 
+- [DNF review: turn a withdrawal into next-time if/then](/en/knowledge/dnf-review-protocol/)
+
 ## Sources
 
 - U.S. NWS, Heat Illness safety page: heat exhaustion heavy sweating, weakness, dizziness, nausea, headache, fainting; heat stroke confusion, slurred speech, very high temperature, rapid pulse, possible LOC; call EMS first, cool while waiting.

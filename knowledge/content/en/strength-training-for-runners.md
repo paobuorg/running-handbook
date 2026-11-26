@@ -179,6 +179,12 @@ Rest 60–120 s between sets. Put maximal strength after a quality session or at
 
 - [Hip and glute pain](/en/knowledge/hip-and-glute-pain/)
 
+## Where the strength session sits in the week
+
+Strength is not an optional add-on; it occupies a slot like an easy run, a quality session or a long run. Put it on an easy-run day or its own day, at least 48 hours before the next quality session. Do not put heavy lower-body work the day before a long run, and do not stack high-volume calf raises right after a quality session.
+
+A 20–40 minute session is enough; you do not need to leave unable to walk. Check three things: movement quality, next-day response and key-session performance. If the easy run feels heavy the next day, cut sets rather than adding caffeine. Twice a week for eight weeks beats four times a week for three weeks followed by abandonment; put it in the calendar and treat it like a race you cannot casually move.
+
 ## Related reading and tools
 
 - [Strength training for runners](/en/knowledge/strength-and-taper/)

@@ -77,6 +77,13 @@ Inputs: segment distance/climb/descent/surface/altitude/weather. Model: one fixe
 
 If any input is missing, label GAP “reference”, not “target”.
 
+| Input | Why it matters | Common error |
+| --- | --- | --- |
+| Distance and climb | Sets the equivalent flat distance | Using only watch distance |
+| Grade or climb per km | Drives the cost curve | Averaging the whole course |
+| Surface and technicality | Adds time beyond climb | Treating trail as road |
+| Altitude and load | Shifts the same grade | Ignoring heat or pack weight |
+
 ## Related reading and tools
 
 Use the [grade-adjusted pace tool](/en/tools/grade-adjusted-pace/) for segments; read [training pace zones](/en/knowledge/training-pace-zones/) for system differences and [uphill and downhill](/en/knowledge/uphill-and-downhill/) for technical descent cost.

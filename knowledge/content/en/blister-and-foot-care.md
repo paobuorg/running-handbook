@@ -123,9 +123,20 @@ New socks need breaking in too. A new sock, insole or shoe on race day can creat
 
 Check every 2–3 hours in a long race; immediately after rain or a river crossing. Order: toe webs, arch, heel, sole hot spots. Earlier detection means simpler treatment; once pain changes gait, the cost has already grown.
 
+## Taping and lubrication order
+
+Clean and dry the foot first, apply the anti-friction patch to the hot spot, then lubricate the shoe-sock interface and put the sock on. Never tape over broken or infected skin. More than two layers creates a new pressure point; cotton or wool between toes absorbs sweat and hardens into a friction source. Test the exact combination in a long run before race day.
+
+## Wet feet and multi-day sock rules
+
+In multi-day races, change socks whenever feet are wet, dry the toes fully before the new sock, and if no dry pair exists, dry the foot and air the shoe first. Store wet socks in a waterproof bag, never back in the shoe. Two dry pairs in rotation matter more than a spare shoe. In sustained rain, a sock hung outside overnight is still wet; treat it as wet.
+
 ## Related reading and tools
 
 - [Shin pain](/en/knowledge/shin-splints/)
 - [Stage-race strategy](/en/knowledge/stage-race-strategy/)
 - [Remote trail self-rescue](/en/knowledge/remote-trail-self-rescue/)
 - [Race checklist](/en/tools/race-checklist/)
+
+- [Running clothing and chafing: fit, dry, fewer seams](/en/knowledge/running-apparel-and-chafing/)
+- [Shoe fit and cushioning: comfort before technology](/en/knowledge/shoe-fit-and-cushioning/)

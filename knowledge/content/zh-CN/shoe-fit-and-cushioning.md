@@ -93,6 +93,8 @@ translationStatus: reviewed
 - [恢复跑步：伤痛后怎样重新开始](/knowledge/return-to-running/)
 - [负荷与过度训练：训练量、强度与信号](/knowledge/load-and-overtraining/)
 
+- [水泡与足部护理：预防、处理与何时停跑](/knowledge/blister-and-foot-care/)
+
 ## 来源与适用范围
 
 鞋型与损伤关系参考纳入 527 名休闲跑者的观察研究；足部压迫与鞋袜建议参考 NHS 跑步损伤页面；鞋内余量与傍晚试鞋建议参考 NHS 足部护理穿鞋指南；水泡与摩擦处理参考 NHS 水泡页面。现有证据以观察性研究为主，不能证明鞋具单独决定伤病结果。核验日期为 2026-11-26。

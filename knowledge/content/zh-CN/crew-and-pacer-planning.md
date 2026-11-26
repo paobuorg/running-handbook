@@ -149,6 +149,8 @@ drop bag 的常见错误是“把所有东西装成一包”，到站点再翻�
 - [比赛日时间线](/tools/race-day-timeline/)
 - [越野导航](/knowledge/trail-navigation/)
 
+- [多日赛策略：分段配速、每日补给与睡眠债务](/knowledge/stage-race-strategy/)
+
 ## 相关阅读
 
 - [超马基础：距离、分段与长距离节奏](/knowledge/ultra-running-basics/)

@@ -93,6 +93,8 @@ This page does not diagnose foot deformity, alignment abnormality or stress frac
 - [Return to running: how to restart after injury](/en/knowledge/return-to-running/)
 - [Load and overtraining: volume, intensity and signals](/en/knowledge/load-and-overtraining/)
 
+- [Blister and foot care: prevention, treatment and when to stop](/en/knowledge/blister-and-foot-care/)
+
 ## Sources and scope
 
 The shoe type and injury relationship follows the observational study of 527 recreational runners; foot compression and footwear advice follow the NHS running injury page; toe allowance and late-day fitting follow the NHS footcare footwear guidance; blister and friction management follows the NHS blister page. Existing evidence is mostly observational and cannot prove footwear alone determines injury outcomes. Verified 2026-11-26.

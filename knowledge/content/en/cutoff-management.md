@@ -156,6 +156,10 @@ Matching actions: hold early pace; review per point by the formula; reserve buff
 
 This page makes no cut-off promise for any specific edition. Times listed on route pages come from that edition's regulations or timing table, and rules may change year to year. The following are marked unknown on this site: next-edition checkpoint locations and times for each race; arrival-versus-departure basis where the rules do not state it; exact usable time for each wave under a natural-clock basis; per-bus sweep times. Until that edition's guide is obtained, do not treat last year's table as this year's rules. This page does not diagnose, prescribe training plans or recommend medication.
 
+## Handoffs and cut-off time
+
+Cut-offs depend not only on your pace but on whether crew and pacer handoffs eat time. For handoff points, gear changes and night pacing, see [ultra crew and pacer handoff](/en/knowledge/ultra-crew-pacer-handoff/); put handoff time into the split sheet so the station does not close on you.
+
 ## Related reading
 
 - [Race-morning protocol: timeline from waking to the gun](/en/knowledge/race-morning-protocol/)
@@ -169,6 +173,8 @@ This page makes no cut-off promise for any specific edition. Times listed on rou
 - [Comrades Marathon route page](/en/routes/comrades-marathon/)
 - [Western States 100 route page](/en/routes/western-states/)
 - [Big's Backyard Ultra route page](/en/routes/bigs-backyard-ultra/)
+
+- [DNF review: turn a withdrawal into next-time if/then](/en/knowledge/dnf-review-protocol/)
 
 ## Sources
 

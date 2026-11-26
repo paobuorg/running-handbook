@@ -165,6 +165,14 @@ Hardrock 的技术下坡、海拔与天气不是普通百英里能模拟的。�
 
 如果连续多年没中，重新评估：是资格不够、材料问题，还是运气；不要把训练计划押在“今年一定中”的假设上。
 
+## 四条资格路径怎么选
+
+Hardrock 的门槛是硬条件、完成记录与抽签的组合，不是单场速度；波士顿看年龄组达标，UTMB 看 Index/Stones，Western States 看资格赛与抽签。先核对硬条件，再决定是否进入抽签池。
+
+- [波士顿资格路径](/knowledge/boston-qualification-path/)
+- [UTMB 资格路径](/knowledge/utmb-qualification-path/)
+- [Western States 资格路径](/knowledge/western-states-qualification-path/)
+
 ## 来源与核验边界
 
 本页的资格机制来自赛事官网与官方规则页；每条来源的 claims 与 claimVerification 见实体 JSON。2027 的具体日期、窗口与名额以官方当年页面为准，本页不把 2026 日期自动平移到 2027。

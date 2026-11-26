@@ -79,6 +79,10 @@ Tolerance is measured in a projected plane, not as geodesic distance; the defaul
 
 Do not use it for course measurement, track evidence or archives that must keep every sample, and do not back-calculate the original track from simplified statistics.
 
+## Limits and unknowns
+
+Simplification changes geometric accuracy, so race lines, cut-off points and technical sections may shift. The tool does not guarantee the simplified track remains suitable for navigation or race measurement. Different algorithms disagree on which vertices matter; whether a removed point was critical is unknown. Keep the original file and spot-check the result.
+
 ## Related reading
 
 - [Trail navigation: tracks, maps and backups](/en/knowledge/trail-navigation/)

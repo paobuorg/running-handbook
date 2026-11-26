@@ -114,6 +114,26 @@ Load the track on two devices, plus paper map and spare batteries; confirm start
 
 
 - [Vertical pacing calculator](/en/tools/trail-vertical-pacing/)
+## Navigation downgrades in snow and at night
+
+Snow hides blazes, cairns and junctions, and other people’s tracks may lead the wrong way. Above the snow line, do not rely on a single track, do not follow unknown footprints, and do not treat “looks like a path” as a path. Carry a map and compass or GPS and know how to use them independently; the phone is a backup, not the only navigator.
+
+Night is similar. A headlamp reaches only a few metres, and markers and junctions are harder to read. Write the next section’s distance, climb and junction numbers on paper and check them on arrival. With snow, fog and darkness combined, retreat on a known line or shelter; do not cut a new one.
+
+## Route card: navigation on one sheet
+
+Devices fail in cold, water and drops; paper does not. Make a route card with four lines: today’s start and finish, total distance and climb, three key junctions with turns, and two escape points with cut-off times. Put it in a waterproof bag in the top pocket or behind the bib; do not store it only on the phone.
+
+The card is not a replacement for the course map; it is the last backup when every device fails. At each major aid station, compare actual arrival with the card and reassess the next section if you are more than 30 minutes off. Do not skip the check because it “feels early”.
+
+| Field | What to write | Check |
+| --- | --- | --- |
+| Start/finish | Name, CP number | Matches bib |
+| Distance/climb | Total and splits | Matches official map |
+| Key junctions | Three numbers and turns | Draw arrows |
+| Escape points | Two locations and distance | Mark cut-off |
+
+Keep it short and hard; copying the whole course map makes the one thing you need impossible to find.
 ## Related reading and tools
 
 - [GPX standard](/en/knowledge/gpx-course-recon/)

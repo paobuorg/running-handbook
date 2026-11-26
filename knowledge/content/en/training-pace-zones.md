@@ -104,6 +104,10 @@ A sensible approach: treat the overlap of the two ranges as the commonly accepta
 
 This page is training education. It provides no personal pace prescription and endorses no commercial system. Pace tables suit trained, uninjured runners in mild conditions; beginners, runners returning from injury, pregnant people, people with cardiovascular or metabolic disease and anyone training in heat or at altitude should be assessed by a qualified coach or clinician first. No pace recommendation replaces immediate action for pain, dizziness, chest pain or unusual breathlessness.
 
+## Slopes and pace zones
+
+Pace zones distort on gradients. The same “marathon pace” uphill may already be threshold effort, while downhill may fall below easy. Correct with [grade-adjusted pace](/en/knowledge/grade-adjusted-pace-method/) before reading heart rate and breathing; do not transplant flat zones onto the mountain.
+
 ## Related reading
 
 - [Lactate Threshold and VO₂max Testing: Definitions, Error and Practical Use](https://learn.paobu.org/en/articles/lactate-threshold-and-vo2max-testing/)

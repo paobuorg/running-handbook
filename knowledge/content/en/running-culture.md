@@ -103,6 +103,8 @@ Check the current official rules and entry window; “classic” does not mean �
 - [Records and courses: why a fast watch time is not a record](https://learn.paobu.org/en/articles/records-and-course-validity/)
 - [How to read running research: question first, conclusion later](https://learn.paobu.org/en/articles/reading-running-research/)
 
+- [2027 race calendar and entry strategy: one table for ballots, travel and recovery](/en/knowledge/race-calendar-entry-strategy/)
+
 ## Sources and scope
 
 Race etiquette follows the Boston Athletic Association's 2026 Boston Marathon Rules and Policies; record categories follow the World Athletics records page; marathon distance follows World Athletics event information; injury proportion follows a Journal of Athletic Training systematic review. This is a reading framework, not a substitute for official rules. Verified 2026-11-06

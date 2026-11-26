@@ -8,7 +8,8 @@
     "knowledge-nps-hike-smart",
     "knowledge-nps-ten-essentials",
     "knowledge-nps-hiking-safety",
-    "tool-gpx-standard"
+    "tool-gpx-standard",
+    "knowledge-nps-winter"
   ],
   "relatedRefs": [
     "knowledge:route-safety",

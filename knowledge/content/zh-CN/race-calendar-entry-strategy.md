@@ -97,6 +97,10 @@ Western States 2027 抽签报名已在 2026-11-21 截止，抽签在 12-05；如
 
 如果目标是首马，读 [首马学习路径](/paths/first-marathon/)；如果是百公里，读 [首百学习路径](/paths/first-100k-trail/)。
 
+- [赛历规划器——把目标比赛、下一场与恢复期排成五个阶段](/tools/race-calendar-planner/)
+- [比赛旅行规划器——时差、建议到达日与起跑家乡时间](/tools/race-travel-planner/)
+- [跑步文化：赛事规则、纪录认证与读研究的边界](/knowledge/running-culture/)
+
 ## 2027 已公布日期表
 
 | 日期 | 赛事 | 状态 |

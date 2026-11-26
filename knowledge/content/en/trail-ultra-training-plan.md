@@ -211,6 +211,10 @@ Reading the example: the cycle's longest single run is 5 hours and longest back-
 
 This page is general trail running education, not a personal plan, diagnosis or medication advice. Slope cost data come from a small laboratory sample; the movement-pattern review is abstract-level evidence; ultra periodization is mostly coaching experience and editorial example with limited public RCTs. Times and climbing figures here are illustrative assumptions and cannot replace official race materials or personal assessment. Children, pregnancy, postpartum, post-surgical and chronically ill people should be assessed first by a clinician or qualified coach. This site does not interpret imaging or replace a sports physician, physiotherapist or mountain safety guide.
 
+## Pacing budget for hilly courses
+
+Long runs and race splits need distance plus climb. Convert each section’s climb with [grade-adjusted pace](/en/knowledge/grade-adjusted-pace-method/) and compare with the target time; planning by kilometres alone underestimates climbing sections.
+
 ## Related reading
 
 - [Ultra-running basics: distances, formats and common misconceptions](/en/knowledge/ultra-running-basics/)
@@ -223,6 +227,10 @@ This page is general trail running education, not a personal plan, diagnosis or 
 - [Cross-training: when to substitute running and how to match effort](/en/knowledge/cross-training-for-runners/)
 - [UTMB event profile](/en/routes/utmb/)
 - [Pace tool](/en/tools/pace/)
+
+- [Stage-race strategy: segment pacing, daily fuelling and sleep debt](/en/knowledge/stage-race-strategy/)
+
+- [Altitude acclimation planner: arrival and staging schedule by race altitude](/en/tools/altitude-acclimation-planner/)
 
 ## Sources and scope
 

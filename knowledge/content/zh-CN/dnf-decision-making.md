@@ -143,6 +143,8 @@ Western States 医疗说明指出，大部分赛道 inaccessible，很多路段�
 - [比赛日早晨流程：从起床到发枪的时间轴](/knowledge/race-morning-protocol/)
 - [陪跑与支援安排：分工与联络协议](/knowledge/crew-and-pacer-planning/)
 
+- [DNF 复盘：把退赛变成下一次的 if/then](/knowledge/dnf-review-protocol/)
+
 ## 来源
 
 - U.S. NWS，Heat Illness 安全页：热衰竭出汗多、虚弱、头晕、恶心、头痛、晕厥；热射病意识混乱、言语含糊、体温很高、脉搏快、可能意识丧失；先呼叫急救，等待期间降温。

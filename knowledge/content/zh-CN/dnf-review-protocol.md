@@ -87,6 +87,9 @@ translationStatus: reviewed
 
 如果下一次仍想跑同一场比赛，先看路线页的关门与赛道变化，不要只改训练。
 
+- [关门时间管理：读关门表、折算段配速、算余量与保完赛切换](/knowledge/cutoff-management/)
+- [race-day-pacing](/knowledge/race-day-pacing/)
+
 ## 退赛复盘一页表
 
 | 项目 | 记录 |

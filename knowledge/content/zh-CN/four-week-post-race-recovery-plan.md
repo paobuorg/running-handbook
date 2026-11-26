@@ -99,6 +99,9 @@ translationStatus: reviewed
 
 如果疼痛持续两周，先看 [跑步伤病](/knowledge/running-injury-prevention/) 并预约评估，不要靠加量“练好”。
 
+- [marathon-training-plan](/knowledge/marathon-training-plan/)
+- [伤后复跑：分阶段闸门、再伤判据与训练增量边界](/knowledge/return-to-running/)
+
 ## 恢复的四个指标
 
 不要只用“感觉”判断恢复。每天记四个数：晨起静息心率（比基线高 7 次以上要减量）、睡眠时长与质量、疼痛 0—10、步态是否对称。四项里两项变差，就退回上一周。

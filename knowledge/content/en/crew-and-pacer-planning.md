@@ -149,6 +149,8 @@ Mountain races have closures, one-way control and signal dead zones. Read the of
 - [Race-day timeline](/en/tools/race-day-timeline/)
 - [Trail navigation](/en/knowledge/trail-navigation/)
 
+- [Stage-race strategy: segment pacing, daily fuelling and sleep debt](/en/knowledge/stage-race-strategy/)
+
 ## Related reading
 
 - [Ultra-running basics: distance, segments and long-distance rhythm](/en/knowledge/ultra-running-basics/)

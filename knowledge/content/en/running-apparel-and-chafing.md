@@ -99,6 +99,8 @@ This page does not diagnose dermatitis, fungal infection, eczema or wound infect
 - [Sun and UV protection: timing, gear and skin signals](/en/knowledge/sun-and-uv-exposure/)
 - [Choosing running shoes: by foot type, distance and surface](/en/knowledge/running-shoes/)
 
+- [Blister and foot care: prevention, treatment and when to stop](/en/knowledge/blister-and-foot-care/)
+
 ## Sources and scope
 
 Layering and cold-weather kit follow the U.S. National Park Service winter hiking guide; blister care follows the NHS blister page; outdoor essentials and spare clothing follow the NPS ten essentials list. Fabric and patch response vary widely between individuals, so this page gives no brand recommendation or skin diagnosis. Verified 2026-11-26.

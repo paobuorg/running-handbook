@@ -99,6 +99,8 @@ translationStatus: reviewed
 - [日晒与紫外线防护：时段、装备与皮肤信号](/knowledge/sun-and-uv-exposure/)
 - [跑鞋选择：按脚型、距离与路面挑鞋](/knowledge/running-shoes/)
 
+- [水泡与足部护理：预防、处理与何时停跑](/knowledge/blister-and-foot-care/)
+
 ## 来源与适用范围
 
 分层与寒冷天气装备参考美国国家公园管理局冬季徒步指南；水泡处理参考 NHS 水泡页面；户外必备物品与备用衣物参考 NPS 必备物品清单。面料与贴布的个体差异较大，本页不提供品牌推荐或皮肤问题诊断。核验日期为 2026-11-26。

@@ -160,6 +160,14 @@ Stones 是抽签筹码，不是积分排名。多跑几场不等于越过 Index 
 
 分站报名各自独立，不能用一个日期套所有比赛；Finals 抽签窗口也不等于分站报名窗口。把两张日历分开，避免“以为报了分站就等于报了 Finals”。
 
+## 四条资格路径怎么选
+
+UTMB 的核心是 Index 类别与 Stones，不是单一完赛成绩；波士顿看年龄组达标，Western States 看资格赛与抽签，Hardrock 看硬条件与抽签。四条路径的“入场券”不同，先把自己的已有记录对上类别，再决定跑哪一场。
+
+- [波士顿资格路径](/knowledge/boston-qualification-path/)
+- [Western States 资格路径](/knowledge/western-states-qualification-path/)
+- [Hardrock 资格路径](/knowledge/hardrock-qualification-path/)
+
 ## 来源与核验边界
 
 本页的资格机制来自赛事官网与官方规则页；每条来源的 claims 与 claimVerification 见实体 JSON。2027 的具体日期、窗口与名额以官方当年页面为准，本页不把 2026 日期自动平移到 2027。

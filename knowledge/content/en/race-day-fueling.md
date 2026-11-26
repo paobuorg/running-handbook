@@ -159,6 +159,8 @@ The last 24 hours are not “pasta frenzy”. Take 8–10 g/kg across meals and 
 - [Race-day pacing](/en/knowledge/race-day-pacing/)
 - [Fuelling planner](/en/tools/fueling-planner/)
 
+- [Stage-race strategy: segment pacing, daily fuelling and sleep debt](/en/knowledge/stage-race-strategy/)
+
 ## Related reading
 
 - [Fueling planner](/en/tools/fueling-planner/)

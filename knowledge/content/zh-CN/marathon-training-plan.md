@@ -217,6 +217,8 @@ Haugen 2022 的精英描述性数据（160–220 公里/周、11–14 次/周、
 - [训练负荷工具](/tools/training-load/)
 - [伤病风险自查工具](/tools/injury-risk-check/)
 
+- [赛后四周恢复：从走到跑的逐周表](/knowledge/four-week-post-race-recovery-plan/)
+
 ## 来源与适用范围
 
 跑量递进证据参考 Buist 2008（Am J Sports Med，GRONORUN RCT，532 名新手，20.8% 与 20.3%，P=.90）与 Nielsen 2014（JOSPT，873 人分析、202 例受伤，HR 1.59，95% CI 0.96–2.66，P=.07）；跑量与表现/伤病关联参考 Fokkema 2020（Scand J Med Sci Sports，556 名半马、441 名全马参赛者）；精英训练特征参考 Haugen 2022（Sports Med Open）；减量证据参考 Bosquet 2007（MSSE，27 项研究 meta 分析）与 PLOS ONE 2023（14 项研究 meta 分析）；强度分布参考 Seiler 2010（IJSPP）与 Casado 2022（IJSPP 系统综述）；马拉松距离口径参考 World Athletics；强度分区参考 ACSM GetP8；持续疲劳边界参考 Current Sports Medicine Reports 过度训练实践指南。核验日期 2026-11-25，下次复核 2027-11-25。本次变更：新建页面，汇总现有指南、综述与队列证据；阶段周数、周结构与长跑规则为站点编排示例，未引用未核验的民间固定数字。

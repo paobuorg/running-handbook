@@ -151,6 +151,8 @@ ISSN 的蛋白质立场文件指出，对大多数运动人群，每天每公斤
 - [蛋白质与恢复](/knowledge/protein-for-runners/)
 - [恢复规划器](/tools/recovery-planner/)
 
+- [赛后四周恢复：从走到跑的逐周表](/knowledge/four-week-post-race-recovery-plan/)
+
 ## 相关阅读
 
 - [睡眠与恢复：比恢复设备更基础的变量](/knowledge/sleep-recovery/)

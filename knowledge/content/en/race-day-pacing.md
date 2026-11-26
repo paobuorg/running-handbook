@@ -218,6 +218,10 @@ This page rests on two observational analyses: 78,912 Boston Marathon finishers 
 - Updated institutional conclusions on hot-race pace reduction and grade-to-pace conversion; the current 93%–95% figure comes from one women's World Championships analysis, and no official grade-seconds standard exists.
 - When stop signals such as chest pain, fainting or serious heat illness appear, this pacing advice yields to on-course medical care.
 
+## Put handoffs into race-day pacing
+
+The race-day pace plan must include handoff and gear-change time. After a pacer takes over, the goal is not to chase lost time but to hold the agreed rhythm from [ultra crew and pacer handoff](/en/knowledge/ultra-crew-pacer-handoff/). Ten minutes lost at a handoff must be paid back against the cut-off.
+
 ## Related reading
 
 - [Marathon Distance](/en/knowledge/marathon-distance/)
@@ -231,6 +235,8 @@ This page rests on two observational analyses: 78,912 Boston Marathon finishers 
 - [Split table](/en/tools/splits/)
 - [Race time prediction](/en/tools/race-predict/)
 - [Race checklist](/en/tools/race-checklist/)
+
+- [DNF review: turn a withdrawal into next-time if/then](/en/knowledge/dnf-review-protocol/)
 
 ## Sources
 

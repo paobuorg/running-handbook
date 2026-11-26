@@ -148,6 +148,8 @@ All three: add the first threshold. Only two: keep easy running.
 - [Protein](/en/knowledge/protein-for-runners/)
 - [Recovery planner](/en/tools/recovery-planner/)
 
+- [Four-week post-race recovery: a week-by-week walk-to-run table](/en/knowledge/four-week-post-race-recovery-plan/)
+
 ## Related reading
 
 - [Sleep and recovery: the variable beneath the gadgets](/en/knowledge/sleep-recovery/)

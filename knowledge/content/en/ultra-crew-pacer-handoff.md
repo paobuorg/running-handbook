@@ -83,6 +83,13 @@ Pre-race: rules, allowed points, pacer permit, checkpoint bags, A5 cards, tracke
 
 Post-race: kit recovery, medical observation, withdrawal report, photos/notes. Tape the checklist in the car; do not rely on memory.
 
+| Handoff item | Before | At the point | After |
+| --- | --- | --- | --- |
+| Gear | Check mandatory items | Hand over the bag | Confirm nothing left |
+| Food and water | Fill bottles and sort food | State what is where | Eat within 20 min |
+| Plan | Agree pace and cut-offs | Repeat the next section | Check split at 30 min |
+| Safety | Share symptoms and red flags | Agree when to stop | Report any change |
+
 ## Related reading and tools
 
 Read [crew and pacer planning](/en/knowledge/crew-and-pacer-planning/) for roles; use the [crew/pacer plan tool](/en/tools/crew-pacer-plan/) to generate checkpoint handoffs; read [headlamps and lighting](/en/knowledge/headlamps-and-lighting/) for torch and batteries.

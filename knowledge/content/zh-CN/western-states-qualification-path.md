@@ -169,6 +169,14 @@ Western States 的资格不是“跑一场 100K 就行”。先筛距离与类�
 
 下一年再报时，把资格赛提前到抽签前 12–18 个月完成，留出恢复与补赛窗口；不要等到抽签前两个月才跑第一场 100K。
 
+## 四条资格路径怎么选
+
+Western States 的关键是合格资格赛 + 抽签，不是“跑进某个时间”；波士顿看年龄组成绩，UTMB 看 Index/Stones，Hardrock 看硬条件与完成记录。若你还没有合格资格赛，先补这一项，不要同时押四场抽签。
+
+- [波士顿资格路径](/knowledge/boston-qualification-path/)
+- [UTMB 资格路径](/knowledge/utmb-qualification-path/)
+- [Hardrock 资格路径](/knowledge/hardrock-qualification-path/)
+
 ## 来源与核验边界
 
 本页的资格机制来自赛事官网与官方规则页；每条来源的 claims 与 claimVerification 见实体 JSON。2027 的具体日期、窗口与名额以官方当年页面为准，本页不把 2026 日期自动平移到 2027。

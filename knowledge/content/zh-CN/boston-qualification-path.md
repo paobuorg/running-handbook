@@ -179,6 +179,14 @@ BQ 训练的核心是“在认证赛道上把目标配速跑完”，不是只�
 
 若成绩刚好压线，优先选一场赛道快、天气稳、旅行可控的资格赛再刷一次；不要把“刚好 BQ”当成录取保证。
 
+## 四条资格路径怎么选
+
+四条路径的门槛结构不同：波士顿看年龄组成绩达标与报名窗口；UTMB 看 Index 类别与 Stones；Western States 看资格赛完成与抽签；Hardrock 看硬条件、完成记录与抽签。先确认自己手里已有哪一项，再决定下一步补什么，不要同时追四条。
+
+- [UTMB 资格路径](/knowledge/utmb-qualification-path/)
+- [Western States 资格路径](/knowledge/western-states-qualification-path/)
+- [Hardrock 资格路径](/knowledge/hardrock-qualification-path/)
+
 ## 来源与核验边界
 
 本页的资格机制来自赛事官网与官方规则页；每条来源的 claims 与 claimVerification 见实体 JSON。2027 的具体日期、窗口与名额以官方当年页面为准，本页不把 2026 日期自动平移到 2027。

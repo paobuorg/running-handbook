@@ -81,6 +81,10 @@ It assumes WGS84 longitude and latitude in that order and accepts line geometry 
 
 Do not use it for course measurement, permit decisions or preserving track evidence, and do not assume that a convertible file is licensed for redistribution.
 
+## Limits and unknowns
+
+This tool converts format and coordinate fields only. It does not judge whether a track is correct or fill missing elevation. Timestamps, heart rate and temperature fields from different devices may be absent or use different units, so check the output manually. Private extension fields not covered by the official format may be dropped; that is an unknown, not proof that the conversion is complete.
+
 ## Related reading
 
 - [Trail navigation: tracks, maps and backups](/en/knowledge/trail-navigation/)
