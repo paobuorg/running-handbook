@@ -1,0 +1,52 @@
+{
+  "caseId": "case-race-travel-planner-new-york",
+  "toolId": "tool:race-travel-planner",
+  "input": {
+    "homeUtcOffset": 8,
+    "destinationUtcOffset": -5,
+    "raceDate": "2027-11-07",
+    "arrivalDate": "2027-11-04",
+    "raceStartLocal": "09:00"
+  },
+  "expected": {
+    "offsetHours": -13,
+    "direction": "west",
+    "neededAdaptationDays": 9,
+    "recommendedArrivalDate": "2027-10-28",
+    "arrivalDaysBefore": 3,
+    "raceStartHomeClock": "22:00",
+    "shiftPerDayHours": 1.4,
+    "readiness": "very-short",
+    "plan": [
+      {
+        "day": 1,
+        "date": "2027-11-04",
+        "sleepClock": "23:30",
+        "wakeClock": "07:30",
+        "note": "delay"
+      },
+      {
+        "day": 2,
+        "date": "2027-11-05",
+        "sleepClock": "01:30",
+        "wakeClock": "09:30",
+        "note": "delay"
+      },
+      {
+        "day": 3,
+        "date": "2027-11-06",
+        "sleepClock": "02:30",
+        "wakeClock": "10:30",
+        "note": "delay"
+      },
+      {
+        "day": 4,
+        "date": "2027-11-07",
+        "sleepClock": "04:30",
+        "wakeClock": "12:30",
+        "note": "delay"
+      }
+    ]
+  },
+  "basis": "Offset = -13 h west. Westward adaptation is modelled at 1.5 h/day, so ceil(13/1.5)=9 days; recommended arrival is race date minus 10 days = 2027-10-28. Arrival three days before is very short. Start 09:00 local is 22:00 home time on the same date."
+}

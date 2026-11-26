@@ -1,0 +1,200 @@
+{
+  "entityId": "tool:race-travel-planner",
+  "slug": "race-travel-planner",
+  "kind": "tool",
+  "status": "published",
+  "riskLevel": "general",
+  "sourceRefs": [
+    "knowledge-sleep-uutrecht-2025-runners",
+    "knowledge-issn-nutrient-timing",
+    "route-boston-2026"
+  ],
+  "relatedRefs": [
+    "tool:race-calendar-planner",
+    "knowledge:jet-lag-and-race-travel",
+    "knowledge:sleep-recovery"
+  ],
+  "license": "CC-BY-4.0",
+  "createdAt": "2026-11-26",
+  "updatedAt": "2026-11-26",
+  "reviewedAt": "2026-11-26",
+  "reviewDueAt": "2027-06-30",
+  "translations": [],
+  "details": {
+    "toolId": "tool:race-travel-planner",
+    "specVersion": "1.0.0",
+    "inputs": [
+      {
+        "name": "homeUtcOffset",
+        "type": "number",
+        "unit": "h",
+        "required": true,
+        "minimum": -12,
+        "maximum": 14,
+        "labels": {
+          "zh-CN": "家乡 UTC 偏移",
+          "en": "Home UTC offset"
+        }
+      },
+      {
+        "name": "destinationUtcOffset",
+        "type": "number",
+        "unit": "h",
+        "required": true,
+        "minimum": -12,
+        "maximum": 14,
+        "labels": {
+          "zh-CN": "目的地 UTC 偏移",
+          "en": "Destination UTC offset"
+        }
+      },
+      {
+        "name": "raceDate",
+        "type": "string",
+        "unit": null,
+        "required": true,
+        "labels": {
+          "zh-CN": "比赛日期（YYYY-MM-DD）",
+          "en": "Race date (YYYY-MM-DD)"
+        }
+      },
+      {
+        "name": "arrivalDate",
+        "type": "string",
+        "unit": null,
+        "required": true,
+        "labels": {
+          "zh-CN": "到达日期",
+          "en": "Arrival date"
+        }
+      },
+      {
+        "name": "raceStartLocal",
+        "type": "string",
+        "unit": null,
+        "required": true,
+        "labels": {
+          "zh-CN": "起跑当地时间（HH:MM）",
+          "en": "Race start local time (HH:MM)"
+        }
+      }
+    ],
+    "outputs": [
+      {
+        "name": "offsetHours",
+        "type": "number",
+        "unit": "h",
+        "required": true,
+        "labels": {
+          "zh-CN": "时差（小时）",
+          "en": "Offset (hours)"
+        }
+      },
+      {
+        "name": "direction",
+        "type": "enum",
+        "unit": null,
+        "required": true,
+        "enumValues": [
+          "east",
+          "west",
+          "none"
+        ],
+        "labels": {
+          "zh-CN": "方向",
+          "en": "Direction"
+        }
+      },
+      {
+        "name": "neededAdaptationDays",
+        "type": "number",
+        "unit": "days",
+        "required": true,
+        "labels": {
+          "zh-CN": "需要适应天数",
+          "en": "Adaptation days needed"
+        }
+      },
+      {
+        "name": "recommendedArrivalDate",
+        "type": "string",
+        "unit": null,
+        "required": true,
+        "labels": {
+          "zh-CN": "建议到达日期",
+          "en": "Recommended arrival date"
+        }
+      },
+      {
+        "name": "arrivalDaysBefore",
+        "type": "number",
+        "unit": "days",
+        "required": true,
+        "labels": {
+          "zh-CN": "提前到达天数",
+          "en": "Arrival lead days"
+        }
+      },
+      {
+        "name": "raceStartHomeClock",
+        "type": "string",
+        "unit": null,
+        "required": true,
+        "labels": {
+          "zh-CN": "起跑家乡时间",
+          "en": "Race start in home time"
+        }
+      },
+      {
+        "name": "shiftPerDayHours",
+        "type": "number",
+        "unit": "h",
+        "required": true,
+        "labels": {
+          "zh-CN": "每天移动小时",
+          "en": "Shift per day (hours)"
+        }
+      },
+      {
+        "name": "readiness",
+        "type": "enum",
+        "unit": null,
+        "required": true,
+        "enumValues": [
+          "ready",
+          "short",
+          "very-short"
+        ],
+        "labels": {
+          "zh-CN": "适应状态",
+          "en": "Readiness"
+        }
+      },
+      {
+        "name": "plan",
+        "type": "array",
+        "unit": null,
+        "required": true,
+        "labels": {
+          "zh-CN": "作息计划",
+          "en": "Sleep plan"
+        }
+      }
+    ],
+    "formulaDescription": "offsetHours = destinationUtcOffset − homeUtcOffset. direction = east if offset > 0, west if < 0, otherwise none. Adaptation rate: east 1 h/day, west 1.5 h/day, same zone 0. neededAdaptationDays = 0 for same zone, otherwise ceil(abs(offset)/rate). recommendedArrivalDate = raceDate − (neededAdaptationDays + 1) days. arrivalDaysBefore = raceDate − arrivalDate. raceStartHomeClock = raceStartLocal − offset×60 minutes, with a −1d/+1d marker when it crosses midnight. shiftPerDayHours = abs(offset)/neededAdaptationDays rounded to 0.1. Plan rows walk bedtime forward/back by whole-hour steps up to arrival lead days (max 7).",
+    "assumptions": [
+      "Jet-lag adaptation rates of 1 h/day eastward and 1.5 h/day westward are planning heuristics, not a clinical sleep prescription.",
+      "The tool assumes a direct flight or travel with a normal sleep opportunity; overnight connections, shift work and sleep disorders change the arithmetic.",
+      "Recommended arrival is a conservative buffer of adaptation days plus one; it does not account for race-week logistics, altitude or heat acclimation.",
+      "Bedtime and wake targets are simple clock shifts, not light-exposure or melatonin protocols.",
+      "Race start local time is treated as a fixed clock time; wave starts and delays are outside the model.",
+      "The tool does not give medical advice for insomnia, sleep apnoea or medication timing."
+    ],
+    "rounding": "Offsets and adaptation days are integers except shiftPerDayHours, which is rounded to one decimal. Clock times are rounded to the nearest minute and wrapped into 00:00–23:59; day crossings are marked separately.",
+    "caseRefs": [
+      "case-race-travel-planner-tokyo",
+      "case-race-travel-planner-new-york",
+      "case-race-travel-planner-same-zone"
+    ]
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "caseId": "case-recovery-planner-marathon-47",
+  "toolId": "tool:recovery-planner",
+  "input": {
+    "raceDate": "2026-11-29",
+    "raceDistance": "marathon",
+    "age": 47,
+    "strengthTraining": true
+  },
+  "expected": {
+    "recoveryDays": 16,
+    "walkRunStartDate": "2026-12-05",
+    "continuousRunDate": "2026-12-09",
+    "qualityStartDate": "2026-12-15",
+    "raceReadyDate": "2026-12-22",
+    "strengthStartDate": "2026-12-05",
+    "phases": [
+      {
+        "phase": "walk",
+        "startDate": "2026-11-30",
+        "endDate": "2026-12-04",
+        "weeks": 0,
+        "focus": "circulation"
+      },
+      {
+        "phase": "walk-run",
+        "startDate": "2026-12-05",
+        "endDate": "2026-12-08",
+        "weeks": 0,
+        "focus": "aerobic"
+      },
+      {
+        "phase": "easy-run",
+        "startDate": "2026-12-09",
+        "endDate": "2026-12-14",
+        "weeks": 0,
+        "focus": "frequency"
+      },
+      {
+        "phase": "build",
+        "startDate": "2026-12-15",
+        "endDate": "2026-12-22",
+        "weeks": 1,
+        "focus": "threshold"
+      }
+    ],
+    "warning": null
+  },
+  "basis": "Marathon base 14 days, age 47 adds 2 -> 16. Walk-run starts ceil(16×0.35)=6; continuous ceil(16×0.6)=10; quality day 16; ready day 23; strength starts with walk-run at day 6. Dates count from race day +1."
+}

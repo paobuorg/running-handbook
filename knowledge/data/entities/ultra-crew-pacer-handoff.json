@@ -1,0 +1,41 @@
+{
+  "entityId": "knowledge:ultra-crew-pacer-handoff",
+  "slug": "ultra-crew-pacer-handoff",
+  "kind": "knowledge",
+  "status": "published",
+  "riskLevel": "guidance",
+  "sourceRefs": [
+    "route-western-states-pacer-rules-2027",
+    "route-hardrock-pacers",
+    "route-utmb-2026-rules",
+    "route-hardrock-rules"
+  ],
+  "relatedRefs": [
+    "knowledge:crew-and-pacer-planning",
+    "knowledge:headlamps-and-lighting",
+    "tool:crew-pacer-plan",
+    "route:western-states"
+  ],
+  "license": "CC-BY-4.0",
+  "createdAt": "2026-11-26",
+  "updatedAt": "2026-11-26",
+  "reviewedAt": "2026-11-26",
+  "reviewDueAt": "2027-06-30",
+  "translations": [],
+  "details": {
+    "primaryTopic": "safety",
+    "secondaryTopics": [
+      "gear",
+      "recovery"
+    ],
+    "contentType": "guide",
+    "audiences": [
+      "intermediate",
+      "advanced"
+    ],
+    "scenarios": [
+      "ultra-support",
+      "race-day"
+    ]
+  }
+}

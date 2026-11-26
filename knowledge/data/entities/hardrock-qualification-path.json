@@ -1,0 +1,40 @@
+{
+  "entityId": "knowledge:hardrock-qualification-path",
+  "slug": "hardrock-qualification-path",
+  "kind": "knowledge",
+  "status": "published",
+  "riskLevel": "guidance",
+  "sourceRefs": [
+    "route-hardrock-lottery",
+    "route-hardrock-entry",
+    "route-hardrock-about",
+    "route-hardrock-pacers"
+  ],
+  "relatedRefs": [
+    "route:hardrock",
+    "tool:race-qualifier-checker",
+    "knowledge:altitude-and-running"
+  ],
+  "license": "CC-BY-4.0",
+  "createdAt": "2026-11-26",
+  "updatedAt": "2026-11-26",
+  "reviewedAt": "2026-11-26",
+  "reviewDueAt": "2027-06-30",
+  "translations": [],
+  "details": {
+    "primaryTopic": "training",
+    "secondaryTopics": [
+      "health",
+      "safety"
+    ],
+    "contentType": "guide",
+    "audiences": [
+      "intermediate",
+      "advanced"
+    ],
+    "scenarios": [
+      "qualification",
+      "race-planning"
+    ]
+  }
+}

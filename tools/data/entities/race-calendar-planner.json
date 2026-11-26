@@ -1,0 +1,191 @@
+{
+  "entityId": "tool:race-calendar-planner",
+  "slug": "race-calendar-planner",
+  "kind": "tool",
+  "status": "published",
+  "riskLevel": "general",
+  "sourceRefs": [
+    "route-boston-qualify",
+    "route-utmb-2026-registration",
+    "route-western-states-entry-process-2027"
+  ],
+  "relatedRefs": [
+    "knowledge:race-calendar-entry-strategy",
+    "tool:recovery-planner",
+    "tool:taper-planner"
+  ],
+  "license": "CC-BY-4.0",
+  "createdAt": "2026-11-26",
+  "updatedAt": "2026-11-26",
+  "reviewedAt": "2026-11-26",
+  "reviewDueAt": "2027-06-30",
+  "translations": [],
+  "details": {
+    "toolId": "tool:race-calendar-planner",
+    "specVersion": "1.0.0",
+    "inputs": [
+      {
+        "name": "today",
+        "type": "string",
+        "unit": null,
+        "required": true,
+        "labels": {
+          "zh-CN": "今天（YYYY-MM-DD）",
+          "en": "Today (YYYY-MM-DD)"
+        }
+      },
+      {
+        "name": "goalRaceDate",
+        "type": "string",
+        "unit": null,
+        "required": true,
+        "labels": {
+          "zh-CN": "目标比赛日期",
+          "en": "Goal race date"
+        }
+      },
+      {
+        "name": "goalDistance",
+        "type": "enum",
+        "unit": null,
+        "required": true,
+        "enumValues": [
+          "5k",
+          "10k",
+          "half",
+          "marathon",
+          "ultra"
+        ],
+        "labels": {
+          "zh-CN": "目标距离",
+          "en": "Goal distance"
+        }
+      },
+      {
+        "name": "currentWeeklyKm",
+        "type": "number",
+        "unit": "km",
+        "required": true,
+        "minimum": 10,
+        "maximum": 300,
+        "labels": {
+          "zh-CN": "当前周跑量（公里）",
+          "en": "Current weekly volume (km)"
+        }
+      },
+      {
+        "name": "nextRaceDate",
+        "type": "string",
+        "unit": null,
+        "required": false,
+        "labels": {
+          "zh-CN": "下一场比赛（可选）",
+          "en": "Next race (optional)"
+        }
+      }
+    ],
+    "outputs": [
+      {
+        "name": "totalWeeks",
+        "type": "number",
+        "unit": "weeks",
+        "required": true,
+        "labels": {
+          "zh-CN": "总周数",
+          "en": "Total weeks"
+        }
+      },
+      {
+        "name": "buildWeeks",
+        "type": "number",
+        "unit": "weeks",
+        "required": true,
+        "labels": {
+          "zh-CN": "建设周数",
+          "en": "Build weeks"
+        }
+      },
+      {
+        "name": "taperWeeks",
+        "type": "number",
+        "unit": "weeks",
+        "required": true,
+        "labels": {
+          "zh-CN": "减量周数",
+          "en": "Taper weeks"
+        }
+      },
+      {
+        "name": "recoveryDays",
+        "type": "number",
+        "unit": "days",
+        "required": true,
+        "labels": {
+          "zh-CN": "恢复天数",
+          "en": "Recovery days"
+        }
+      },
+      {
+        "name": "phases",
+        "type": "array",
+        "unit": null,
+        "required": true,
+        "labels": {
+          "zh-CN": "阶段表",
+          "en": "Phase table"
+        }
+      },
+      {
+        "name": "nextGapDays",
+        "type": "number",
+        "unit": "days",
+        "required": false,
+        "labels": {
+          "zh-CN": "下一场间隔（天）",
+          "en": "Gap to next race (days)"
+        }
+      },
+      {
+        "name": "nextVerdict",
+        "type": "enum",
+        "unit": null,
+        "required": true,
+        "enumValues": [
+          "none",
+          "skip",
+          "training",
+          "race"
+        ],
+        "labels": {
+          "zh-CN": "下一场定位",
+          "en": "Next race role"
+        }
+      },
+      {
+        "name": "warning",
+        "type": "string",
+        "unit": null,
+        "required": false,
+        "labels": {
+          "zh-CN": "提示",
+          "en": "Warning"
+        }
+      }
+    ],
+    "formulaDescription": "totalWeeks = floor((goalRaceDate − today)/7 days). taperWeeks by distance: 5k/10k 1, half 2, marathon/ultra 3. recoveryDays: 5k 5, 10k 7, half 10, marathon 14, ultra 21. buildWeeks = totalWeeks − taperWeeks. baseWeeks = max(1, floor(buildWeeks × 0.5)); peakWeeks = max(1, buildWeeks − baseWeeks). taperStart = goalRaceDate − taperWeeks×7. nextVerdict: gap < recoveryDays+7 = skip; gap < recoveryDays+21 = training; otherwise race.",
+    "assumptions": [
+      "The plan is a phase skeleton, not a personalised training programme; session content, intensity and long-run progression are outside the tool.",
+      "Taper length is a distance-based default; trail races with large vertical gain may need a longer taper.",
+      "Recovery days are planning buffers from general return-to-running guidance, not clinical clearance.",
+      "The tool assumes the goal race date is fixed and that the runner is healthy at the start date.",
+      "A build shorter than 6 weeks is flagged; the tool does not judge whether the goal is realistic.",
+      "Entry windows, qualification and travel are outside the calculation; check the race page."
+    ],
+    "rounding": "Weeks are whole numbers from calendar-day differences; fractional weeks are discarded. Recovery weeks are rounded to the nearest whole week for display only. Dates are ISO calendar dates and time zones are ignored.",
+    "caseRefs": [
+      "case-race-calendar-planner-marathon",
+      "case-race-calendar-planner-5k",
+      "case-race-calendar-planner-ultra-skip"
+    ]
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "caseId": "case-course-recon-checklist-half-low",
+  "toolId": "tool:course-recon-checklist",
+  "input": {
+    "distanceKm": 21.1,
+    "elevationGainMeters": 200,
+    "raceHours": 2,
+    "technicality": "low",
+    "nightSection": false,
+    "crewAccess": false,
+    "gpxAvailable": true
+  },
+  "expected": {
+    "totalItems": 13,
+    "highPriorityItems": 11,
+    "desktopMinutes": 60,
+    "reconRuns": 1,
+    "riskBand": "low",
+    "checklist": [
+      {
+        "category": "rules",
+        "item": "official-rules",
+        "priority": "high"
+      },
+      {
+        "category": "rules",
+        "item": "mandatory-gear",
+        "priority": "high"
+      },
+      {
+        "category": "rules",
+        "item": "cutoffs",
+        "priority": "high"
+      },
+      {
+        "category": "course",
+        "item": "course-map",
+        "priority": "high"
+      },
+      {
+        "category": "course",
+        "item": "elevation-profile",
+        "priority": "high"
+      },
+      {
+        "category": "aid",
+        "item": "aid-stations",
+        "priority": "high"
+      },
+      {
+        "category": "aid",
+        "item": "water-plan",
+        "priority": "high"
+      },
+      {
+        "category": "nav",
+        "item": "load-gpx",
+        "priority": "high"
+      },
+      {
+        "category": "nav",
+        "item": "waypoints",
+        "priority": "high"
+      },
+      {
+        "category": "nav",
+        "item": "offline-map",
+        "priority": "high"
+      },
+      {
+        "category": "bailout",
+        "item": "escape-routes",
+        "priority": "high"
+      },
+      {
+        "category": "weather",
+        "item": "historical-weather",
+        "priority": "medium"
+      },
+      {
+        "category": "race",
+        "item": "pace-card",
+        "priority": "medium"
+      }
+    ]
+  },
+  "basis": "Base 13 items, no additions because technicality is low, no night section, no crew access, GPX available and gain/distance = 9.5 m/km (<30). High = 11 base high items. Desktop = 45 + 10.55 + 4 = 59.55 -> 60 minutes."
+}

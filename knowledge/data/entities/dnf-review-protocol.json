@@ -1,0 +1,41 @@
+{
+  "entityId": "knowledge:dnf-review-protocol",
+  "slug": "dnf-review-protocol",
+  "kind": "knowledge",
+  "status": "published",
+  "riskLevel": "guidance",
+  "sourceRefs": [
+    "route-western-states-medical-2026",
+    "knowledge-nws-heat-illness",
+    "knowledge-nws-cold",
+    "route-hardrock-rules"
+  ],
+  "relatedRefs": [
+    "knowledge:dnf-decision-making",
+    "knowledge:post-race-recovery",
+    "tool:recovery-planner",
+    "route:western-states"
+  ],
+  "license": "CC-BY-4.0",
+  "createdAt": "2026-11-26",
+  "updatedAt": "2026-11-26",
+  "reviewedAt": "2026-11-26",
+  "reviewDueAt": "2027-06-30",
+  "translations": [],
+  "details": {
+    "primaryTopic": "health",
+    "secondaryTopics": [
+      "safety",
+      "recovery"
+    ],
+    "contentType": "guide",
+    "audiences": [
+      "intermediate",
+      "advanced"
+    ],
+    "scenarios": [
+      "post-race",
+      "withdrawal"
+    ]
+  }
+}

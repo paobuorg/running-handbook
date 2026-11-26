@@ -1,0 +1,108 @@
+{
+  "caseId": "case-course-recon-checklist-road-marathon",
+  "toolId": "tool:course-recon-checklist",
+  "input": {
+    "distanceKm": 42.195,
+    "elevationGainMeters": 800,
+    "raceHours": 4,
+    "technicality": "medium",
+    "nightSection": false,
+    "crewAccess": true,
+    "gpxAvailable": true
+  },
+  "expected": {
+    "totalItems": 17,
+    "highPriorityItems": 14,
+    "desktopMinutes": 112,
+    "reconRuns": 2,
+    "riskBand": "moderate",
+    "checklist": [
+      {
+        "category": "rules",
+        "item": "official-rules",
+        "priority": "high"
+      },
+      {
+        "category": "rules",
+        "item": "mandatory-gear",
+        "priority": "high"
+      },
+      {
+        "category": "rules",
+        "item": "cutoffs",
+        "priority": "high"
+      },
+      {
+        "category": "course",
+        "item": "course-map",
+        "priority": "high"
+      },
+      {
+        "category": "course",
+        "item": "elevation-profile",
+        "priority": "high"
+      },
+      {
+        "category": "aid",
+        "item": "aid-stations",
+        "priority": "high"
+      },
+      {
+        "category": "aid",
+        "item": "water-plan",
+        "priority": "high"
+      },
+      {
+        "category": "nav",
+        "item": "load-gpx",
+        "priority": "high"
+      },
+      {
+        "category": "nav",
+        "item": "waypoints",
+        "priority": "high"
+      },
+      {
+        "category": "nav",
+        "item": "offline-map",
+        "priority": "high"
+      },
+      {
+        "category": "bailout",
+        "item": "escape-routes",
+        "priority": "high"
+      },
+      {
+        "category": "weather",
+        "item": "historical-weather",
+        "priority": "medium"
+      },
+      {
+        "category": "race",
+        "item": "pace-card",
+        "priority": "medium"
+      },
+      {
+        "category": "course",
+        "item": "surface-notes",
+        "priority": "high"
+      },
+      {
+        "category": "crew",
+        "item": "crew-access",
+        "priority": "high"
+      },
+      {
+        "category": "crew",
+        "item": "pacer-points",
+        "priority": "high"
+      },
+      {
+        "category": "aid",
+        "item": "drop-bags",
+        "priority": "medium"
+      }
+    ]
+  },
+  "basis": "Base 13 items + surface-notes (medium technicality) + crew-access, pacer-points and drop-bags = 17. High priority = 11 base high + surface-notes + crew-access + pacer-points = 14. Desktop = 45 + 21.1 + 16 + 15 + 0 + 15 = 112.1 -> 112 minutes."
+}

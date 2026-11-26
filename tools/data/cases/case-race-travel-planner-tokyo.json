@@ -1,0 +1,52 @@
+{
+  "caseId": "case-race-travel-planner-tokyo",
+  "toolId": "tool:race-travel-planner",
+  "input": {
+    "homeUtcOffset": 8,
+    "destinationUtcOffset": 9,
+    "raceDate": "2027-03-07",
+    "arrivalDate": "2027-03-04",
+    "raceStartLocal": "09:10"
+  },
+  "expected": {
+    "offsetHours": 1,
+    "direction": "east",
+    "neededAdaptationDays": 1,
+    "recommendedArrivalDate": "2027-03-05",
+    "arrivalDaysBefore": 3,
+    "raceStartHomeClock": "08:10",
+    "shiftPerDayHours": 1.0,
+    "readiness": "ready",
+    "plan": [
+      {
+        "day": 1,
+        "date": "2027-03-04",
+        "sleepClock": "21:30",
+        "wakeClock": "05:30",
+        "note": "advance"
+      },
+      {
+        "day": 2,
+        "date": "2027-03-05",
+        "sleepClock": "21:30",
+        "wakeClock": "05:30",
+        "note": "advance"
+      },
+      {
+        "day": 3,
+        "date": "2027-03-06",
+        "sleepClock": "21:30",
+        "wakeClock": "05:30",
+        "note": "advance"
+      },
+      {
+        "day": 4,
+        "date": "2027-03-07",
+        "sleepClock": "21:30",
+        "wakeClock": "05:30",
+        "note": "advance"
+      }
+    ]
+  },
+  "basis": "Offset = +1 h east. Eastward adaptation is modelled at 1 h/day, so 1 day is needed; recommended arrival is race date minus (1+1)=2 days = 2027-03-05. Arrival three days before is sufficient (ready). Start 09:10 local is 08:10 home time."
+}

@@ -1,0 +1,43 @@
+{
+  "entityId": "knowledge:four-week-post-race-recovery-plan",
+  "slug": "four-week-post-race-recovery-plan",
+  "kind": "knowledge",
+  "status": "published",
+  "riskLevel": "guidance",
+  "sourceRefs": [
+    "knowledge-nhs-running-injuries",
+    "knowledge-issn-nutrient-timing",
+    "knowledge-issn-protein",
+    "knowledge-sleep-uutrecht-2025-runners",
+    "knowledge-cheatham-2015-foam-rolling"
+  ],
+  "relatedRefs": [
+    "knowledge:post-race-recovery",
+    "knowledge:dnf-review-protocol",
+    "knowledge:running-injury-prevention",
+    "tool:recovery-planner"
+  ],
+  "license": "CC-BY-4.0",
+  "createdAt": "2026-11-26",
+  "updatedAt": "2026-11-26",
+  "reviewedAt": "2026-11-26",
+  "reviewDueAt": "2027-06-30",
+  "translations": [],
+  "details": {
+    "primaryTopic": "recovery",
+    "secondaryTopics": [
+      "health",
+      "training"
+    ],
+    "contentType": "guide",
+    "audiences": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "scenarios": [
+      "post-race",
+      "return-to-run"
+    ]
+  }
+}

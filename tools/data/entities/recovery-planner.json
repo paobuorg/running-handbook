@@ -1,0 +1,177 @@
+{
+  "entityId": "tool:recovery-planner",
+  "slug": "recovery-planner",
+  "kind": "tool",
+  "status": "published",
+  "riskLevel": "general",
+  "sourceRefs": [
+    "knowledge-nhs-running-injuries",
+    "knowledge-issn-protein",
+    "knowledge-sleep-uutrecht-2025-runners"
+  ],
+  "relatedRefs": [
+    "knowledge:four-week-post-race-recovery-plan",
+    "knowledge:dnf-review-protocol",
+    "tool:race-calendar-planner"
+  ],
+  "license": "CC-BY-4.0",
+  "createdAt": "2026-11-26",
+  "updatedAt": "2026-11-26",
+  "reviewedAt": "2026-11-26",
+  "reviewDueAt": "2027-06-30",
+  "translations": [],
+  "details": {
+    "toolId": "tool:recovery-planner",
+    "specVersion": "1.0.0",
+    "inputs": [
+      {
+        "name": "raceDate",
+        "type": "string",
+        "unit": null,
+        "required": true,
+        "labels": {
+          "zh-CN": "比赛日期（YYYY-MM-DD）",
+          "en": "Race date (YYYY-MM-DD)"
+        }
+      },
+      {
+        "name": "raceDistance",
+        "type": "enum",
+        "unit": null,
+        "required": true,
+        "enumValues": [
+          "5k",
+          "10k",
+          "half",
+          "marathon",
+          "50k",
+          "100k",
+          "100mi"
+        ],
+        "labels": {
+          "zh-CN": "比赛距离",
+          "en": "Race distance"
+        }
+      },
+      {
+        "name": "age",
+        "type": "number",
+        "unit": "years",
+        "required": true,
+        "minimum": 18,
+        "maximum": 80,
+        "labels": {
+          "zh-CN": "比赛日年龄",
+          "en": "Age on race day"
+        }
+      },
+      {
+        "name": "strengthTraining",
+        "type": "boolean",
+        "unit": null,
+        "required": true,
+        "labels": {
+          "zh-CN": "是否做力量训练",
+          "en": "Include strength training"
+        }
+      }
+    ],
+    "outputs": [
+      {
+        "name": "recoveryDays",
+        "type": "number",
+        "unit": "days",
+        "required": true,
+        "labels": {
+          "zh-CN": "恢复天数",
+          "en": "Recovery days"
+        }
+      },
+      {
+        "name": "walkRunStartDate",
+        "type": "string",
+        "unit": null,
+        "required": true,
+        "labels": {
+          "zh-CN": "走跑开始日期",
+          "en": "Walk-run start date"
+        }
+      },
+      {
+        "name": "continuousRunDate",
+        "type": "string",
+        "unit": null,
+        "required": true,
+        "labels": {
+          "zh-CN": "连续慢跑日期",
+          "en": "Continuous run date"
+        }
+      },
+      {
+        "name": "qualityStartDate",
+        "type": "string",
+        "unit": null,
+        "required": true,
+        "labels": {
+          "zh-CN": "质量课开始日期",
+          "en": "Quality start date"
+        }
+      },
+      {
+        "name": "raceReadyDate",
+        "type": "string",
+        "unit": null,
+        "required": true,
+        "labels": {
+          "zh-CN": "可比赛日期",
+          "en": "Race-ready date"
+        }
+      },
+      {
+        "name": "strengthStartDate",
+        "type": "string",
+        "unit": null,
+        "required": true,
+        "labels": {
+          "zh-CN": "力量训练开始日期",
+          "en": "Strength start date"
+        }
+      },
+      {
+        "name": "phases",
+        "type": "array",
+        "unit": null,
+        "required": true,
+        "labels": {
+          "zh-CN": "阶段表",
+          "en": "Phase table"
+        }
+      },
+      {
+        "name": "warning",
+        "type": "string",
+        "unit": null,
+        "required": false,
+        "labels": {
+          "zh-CN": "提示",
+          "en": "Warning"
+        }
+      }
+    ],
+    "formulaDescription": "baseDays by distance: 5k 7, 10k 7, half 10, marathon 14, 50k 21, 100k 28, 100mi 42. ageExtra = 7 if age ≥ 60, 4 if 50–59, 2 if 40–49, else 0. recoveryDays = baseDays + ageExtra. walkRunDay = max(3, ceil(recoveryDays × 0.35)). continuousDay = max(walkRunDay + 2, ceil(recoveryDays × 0.60)). qualityDay = recoveryDays. readyDay = recoveryDays + 7. strengthDay = walkRunDay if strengthTraining, else continuousDay. Dates are raceDate + day offset; the walk phase starts on raceDate + 1.",
+    "assumptions": [
+      "The day counts are planning heuristics from general return-to-running guidance, not a clinical protocol.",
+      "Age adjustment is a conservative buffer, not evidence that every older runner needs exactly 2–7 extra days.",
+      "The tool assumes an uninjured finish; pain, swelling, dark urine, palpitations or inability to weight-bear need clinical assessment.",
+      "The plan does not account for race surface, heat, altitude, illness, sleep debt or previous injury history.",
+      "Quality sessions are reintroduced only after the walk, walk-run and continuous-run phases are pain-free.",
+      "The tool does not prescribe training load, medical treatment or return-to-race clearance."
+    ],
+    "rounding": "Day counts are integers. Percentages are applied before rounding up with Math.ceil; dates are ISO calendar days and are not adjusted for time zones.",
+    "caseRefs": [
+      "case-recovery-planner-marathon-47",
+      "case-recovery-planner-5k-32",
+      "case-recovery-planner-100mi-58"
+    ]
+  }
+}

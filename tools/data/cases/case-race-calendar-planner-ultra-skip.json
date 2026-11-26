@@ -1,0 +1,58 @@
+{
+  "caseId": "case-race-calendar-planner-ultra-skip",
+  "toolId": "tool:race-calendar-planner",
+  "input": {
+    "today": "2027-01-01",
+    "goalRaceDate": "2027-08-27",
+    "goalDistance": "ultra",
+    "currentWeeklyKm": 60,
+    "nextRaceDate": "2027-09-10"
+  },
+  "expected": {
+    "totalWeeks": 34,
+    "buildWeeks": 31,
+    "taperWeeks": 3,
+    "recoveryDays": 21,
+    "phases": [
+      {
+        "phase": "base",
+        "startDate": "2027-01-01",
+        "endDate": "2027-04-15",
+        "weeks": 15,
+        "focus": "aerobic"
+      },
+      {
+        "phase": "build",
+        "startDate": "2027-04-16",
+        "endDate": "2027-08-05",
+        "weeks": 16,
+        "focus": "threshold"
+      },
+      {
+        "phase": "taper",
+        "startDate": "2027-08-06",
+        "endDate": "2027-08-26",
+        "weeks": 3,
+        "focus": "sharpen"
+      },
+      {
+        "phase": "race",
+        "startDate": "2027-08-27",
+        "endDate": "2027-08-27",
+        "weeks": 0,
+        "focus": "execute"
+      },
+      {
+        "phase": "recovery",
+        "startDate": "2027-08-28",
+        "endDate": "2027-09-17",
+        "weeks": 3,
+        "focus": "recover"
+      }
+    ],
+    "nextGapDays": 14,
+    "nextVerdict": "skip",
+    "warning": null
+  },
+  "basis": "Days = 238, floor(238/7)=34 weeks. Ultra taper 3 -> build 31; base floor(31×0.5)=15, build 16. Recovery 21 days. Next race only 14 days later, below 21+7=28, so role = skip."
+}

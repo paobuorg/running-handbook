@@ -1,0 +1,39 @@
+{
+  "entityId": "knowledge:western-states-qualification-path",
+  "slug": "western-states-qualification-path",
+  "kind": "knowledge",
+  "status": "published",
+  "riskLevel": "guidance",
+  "sourceRefs": [
+    "route-western-states-qualifying-2027",
+    "route-western-states-entry-process-2027",
+    "route-western-states-lottery-2027"
+  ],
+  "relatedRefs": [
+    "route:western-states",
+    "tool:race-qualifier-checker",
+    "knowledge:race-calendar-entry-strategy"
+  ],
+  "license": "CC-BY-4.0",
+  "createdAt": "2026-11-26",
+  "updatedAt": "2026-11-26",
+  "reviewedAt": "2026-11-26",
+  "reviewDueAt": "2027-06-30",
+  "translations": [],
+  "details": {
+    "primaryTopic": "training",
+    "secondaryTopics": [
+      "health",
+      "safety"
+    ],
+    "contentType": "guide",
+    "audiences": [
+      "intermediate",
+      "advanced"
+    ],
+    "scenarios": [
+      "qualification",
+      "race-planning"
+    ]
+  }
+}

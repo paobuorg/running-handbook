@@ -1,0 +1,50 @@
+{
+  "caseId": "case-recovery-planner-5k-32",
+  "toolId": "tool:recovery-planner",
+  "input": {
+    "raceDate": "2027-01-23",
+    "raceDistance": "5k",
+    "age": 32,
+    "strengthTraining": false
+  },
+  "expected": {
+    "recoveryDays": 7,
+    "walkRunStartDate": "2027-01-26",
+    "continuousRunDate": "2027-01-28",
+    "qualityStartDate": "2027-01-30",
+    "raceReadyDate": "2027-02-06",
+    "strengthStartDate": "2027-01-28",
+    "phases": [
+      {
+        "phase": "walk",
+        "startDate": "2027-01-24",
+        "endDate": "2027-01-25",
+        "weeks": 0,
+        "focus": "circulation"
+      },
+      {
+        "phase": "walk-run",
+        "startDate": "2027-01-26",
+        "endDate": "2027-01-27",
+        "weeks": 0,
+        "focus": "aerobic"
+      },
+      {
+        "phase": "easy-run",
+        "startDate": "2027-01-28",
+        "endDate": "2027-01-29",
+        "weeks": 0,
+        "focus": "frequency"
+      },
+      {
+        "phase": "build",
+        "startDate": "2027-01-30",
+        "endDate": "2027-02-06",
+        "weeks": 1,
+        "focus": "threshold"
+      }
+    ],
+    "warning": null
+  },
+  "basis": "5k base 7 days, age 32 adds 0 -> 7. Walk-run ceil(7×0.35)=3; continuous ceil(7×0.6)=5; quality day 7; ready day 14; without strength training, strength starts at continuous day 5."
+}

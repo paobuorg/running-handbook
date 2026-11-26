@@ -1,0 +1,52 @@
+{
+  "caseId": "case-race-travel-planner-same-zone",
+  "toolId": "tool:race-travel-planner",
+  "input": {
+    "homeUtcOffset": 8,
+    "destinationUtcOffset": 8,
+    "raceDate": "2027-04-04",
+    "arrivalDate": "2027-04-01",
+    "raceStartLocal": "07:00"
+  },
+  "expected": {
+    "offsetHours": 0,
+    "direction": "none",
+    "neededAdaptationDays": 0,
+    "recommendedArrivalDate": "2027-04-03",
+    "arrivalDaysBefore": 3,
+    "raceStartHomeClock": "07:00",
+    "shiftPerDayHours": 0,
+    "readiness": "ready",
+    "plan": [
+      {
+        "day": 1,
+        "date": "2027-04-01",
+        "sleepClock": "22:30",
+        "wakeClock": "06:30",
+        "note": "hold"
+      },
+      {
+        "day": 2,
+        "date": "2027-04-02",
+        "sleepClock": "22:30",
+        "wakeClock": "06:30",
+        "note": "hold"
+      },
+      {
+        "day": 3,
+        "date": "2027-04-03",
+        "sleepClock": "22:30",
+        "wakeClock": "06:30",
+        "note": "hold"
+      },
+      {
+        "day": 4,
+        "date": "2027-04-04",
+        "sleepClock": "22:30",
+        "wakeClock": "06:30",
+        "note": "hold"
+      }
+    ]
+  },
+  "basis": "Offset = 0, so no adaptation days, no sleep shift and note = hold. Recommended arrival is race date minus 1 day = 2027-04-03; three days before is ready. Start 07:00 local equals 07:00 home time."
+}

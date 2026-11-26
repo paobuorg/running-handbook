@@ -1,0 +1,57 @@
+{
+  "caseId": "case-race-calendar-planner-5k",
+  "toolId": "tool:race-calendar-planner",
+  "input": {
+    "today": "2026-11-26",
+    "goalRaceDate": "2027-01-23",
+    "goalDistance": "5k",
+    "currentWeeklyKm": 40
+  },
+  "expected": {
+    "totalWeeks": 8,
+    "buildWeeks": 7,
+    "taperWeeks": 1,
+    "recoveryDays": 5,
+    "phases": [
+      {
+        "phase": "base",
+        "startDate": "2026-11-26",
+        "endDate": "2026-12-16",
+        "weeks": 3,
+        "focus": "aerobic"
+      },
+      {
+        "phase": "build",
+        "startDate": "2026-12-17",
+        "endDate": "2027-01-15",
+        "weeks": 4,
+        "focus": "threshold"
+      },
+      {
+        "phase": "taper",
+        "startDate": "2027-01-16",
+        "endDate": "2027-01-22",
+        "weeks": 1,
+        "focus": "sharpen"
+      },
+      {
+        "phase": "race",
+        "startDate": "2027-01-23",
+        "endDate": "2027-01-23",
+        "weeks": 0,
+        "focus": "execute"
+      },
+      {
+        "phase": "recovery",
+        "startDate": "2027-01-24",
+        "endDate": "2027-01-28",
+        "weeks": 1,
+        "focus": "recover"
+      }
+    ],
+    "nextGapDays": null,
+    "nextVerdict": "none",
+    "warning": null
+  },
+  "basis": "Days = 58, floor(58/7)=8 weeks. 5k taper 1 -> build 7; base floor(7×0.5)=3, build 4. Taper starts 2027-01-16. Recovery 5 days. No next race, so gap is null and role is none."
+}

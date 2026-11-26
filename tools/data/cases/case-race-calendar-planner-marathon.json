@@ -1,0 +1,58 @@
+{
+  "caseId": "case-race-calendar-planner-marathon",
+  "toolId": "tool:race-calendar-planner",
+  "input": {
+    "today": "2026-11-26",
+    "goalRaceDate": "2027-04-11",
+    "goalDistance": "marathon",
+    "currentWeeklyKm": 70,
+    "nextRaceDate": "2027-10-10"
+  },
+  "expected": {
+    "totalWeeks": 19,
+    "buildWeeks": 16,
+    "taperWeeks": 3,
+    "recoveryDays": 14,
+    "phases": [
+      {
+        "phase": "base",
+        "startDate": "2026-11-26",
+        "endDate": "2027-01-20",
+        "weeks": 8,
+        "focus": "aerobic"
+      },
+      {
+        "phase": "build",
+        "startDate": "2027-01-21",
+        "endDate": "2027-03-20",
+        "weeks": 8,
+        "focus": "threshold"
+      },
+      {
+        "phase": "taper",
+        "startDate": "2027-03-21",
+        "endDate": "2027-04-10",
+        "weeks": 3,
+        "focus": "sharpen"
+      },
+      {
+        "phase": "race",
+        "startDate": "2027-04-11",
+        "endDate": "2027-04-11",
+        "weeks": 0,
+        "focus": "execute"
+      },
+      {
+        "phase": "recovery",
+        "startDate": "2027-04-12",
+        "endDate": "2027-04-25",
+        "weeks": 2,
+        "focus": "recover"
+      }
+    ],
+    "nextGapDays": 182,
+    "nextVerdict": "race",
+    "warning": null
+  },
+  "basis": "Days from 2026-11-26 to 2027-04-11 = 136, floor(136/7)=19 weeks. Marathon taper 3 -> build 16; base floor(16×0.5)=8, build 8. Taper starts 2027-03-21. Recovery 14 days. Next race 182 days later, above 14+21=35, so role = race."
+}

@@ -1,0 +1,192 @@
+{
+  "entityId": "tool:course-recon-checklist",
+  "slug": "course-recon-checklist",
+  "kind": "tool",
+  "status": "published",
+  "riskLevel": "general",
+  "sourceRefs": [
+    "route-anchor-editorial",
+    "route-utmb-gpx-2026",
+    "route-western-states-gps-2027"
+  ],
+  "relatedRefs": [
+    "knowledge:gpx-course-recon",
+    "tool:route-elevation",
+    "tool:cutoff-planner"
+  ],
+  "license": "CC-BY-4.0",
+  "createdAt": "2026-11-26",
+  "updatedAt": "2026-11-26",
+  "reviewedAt": "2026-11-26",
+  "reviewDueAt": "2027-06-30",
+  "translations": [],
+  "details": {
+    "toolId": "tool:course-recon-checklist",
+    "specVersion": "1.0.0",
+    "inputs": [
+      {
+        "name": "distanceKm",
+        "type": "number",
+        "unit": "km",
+        "required": true,
+        "minimum": 1,
+        "maximum": 500,
+        "labels": {
+          "zh-CN": "距离（公里）",
+          "en": "Distance (km)"
+        }
+      },
+      {
+        "name": "elevationGainMeters",
+        "type": "number",
+        "unit": "m",
+        "required": true,
+        "minimum": 0,
+        "maximum": 30000,
+        "labels": {
+          "zh-CN": "累计爬升（米）",
+          "en": "Elevation gain (m)"
+        }
+      },
+      {
+        "name": "raceHours",
+        "type": "number",
+        "unit": "h",
+        "required": true,
+        "minimum": 1,
+        "maximum": 60,
+        "labels": {
+          "zh-CN": "预计比赛时长（小时）",
+          "en": "Expected race duration (hours)"
+        }
+      },
+      {
+        "name": "technicality",
+        "type": "enum",
+        "unit": null,
+        "required": true,
+        "enumValues": [
+          "low",
+          "medium",
+          "high"
+        ],
+        "labels": {
+          "zh-CN": "技术难度",
+          "en": "Technicality"
+        }
+      },
+      {
+        "name": "nightSection",
+        "type": "boolean",
+        "unit": null,
+        "required": true,
+        "labels": {
+          "zh-CN": "是否有夜段",
+          "en": "Night section"
+        }
+      },
+      {
+        "name": "crewAccess",
+        "type": "boolean",
+        "unit": null,
+        "required": true,
+        "labels": {
+          "zh-CN": "是否有 crew 支援",
+          "en": "Crew access"
+        }
+      },
+      {
+        "name": "gpxAvailable",
+        "type": "boolean",
+        "unit": null,
+        "required": true,
+        "labels": {
+          "zh-CN": "是否有官方 GPX",
+          "en": "Official GPX available"
+        }
+      }
+    ],
+    "outputs": [
+      {
+        "name": "totalItems",
+        "type": "number",
+        "unit": "items",
+        "required": true,
+        "labels": {
+          "zh-CN": "条目数",
+          "en": "Items"
+        }
+      },
+      {
+        "name": "highPriorityItems",
+        "type": "number",
+        "unit": "items",
+        "required": true,
+        "labels": {
+          "zh-CN": "高优先条目",
+          "en": "High-priority items"
+        }
+      },
+      {
+        "name": "desktopMinutes",
+        "type": "number",
+        "unit": "min",
+        "required": true,
+        "labels": {
+          "zh-CN": "桌面侦察分钟",
+          "en": "Desktop recon minutes"
+        }
+      },
+      {
+        "name": "reconRuns",
+        "type": "number",
+        "unit": "runs",
+        "required": true,
+        "labels": {
+          "zh-CN": "实地侦察次数",
+          "en": "Field recon runs"
+        }
+      },
+      {
+        "name": "riskBand",
+        "type": "enum",
+        "unit": null,
+        "required": true,
+        "enumValues": [
+          "low",
+          "moderate",
+          "high"
+        ],
+        "labels": {
+          "zh-CN": "风险等级",
+          "en": "Risk band"
+        }
+      },
+      {
+        "name": "checklist",
+        "type": "array",
+        "unit": null,
+        "required": true,
+        "labels": {
+          "zh-CN": "清单",
+          "en": "Checklist"
+        }
+      }
+    ],
+    "formulaDescription": "Start with 13 base items. Add surface-notes when technicality is medium or high; recon-run when high. Add sunrise-sunset and night-kit when nightSection. Add crew-access, pacer-points and drop-bags when crewAccess. Add paper-map when no GPX. Add poles when gain/distance > 30 m/km. desktopMinutes = round(45 + 0.5×distanceKm + 0.02×gain + 30/15/0 for high/medium/low technicality + 20 if night + 15 if crew). reconRuns = 3/2/1 for high/medium/low. riskBand = high if night or high technicality or ≥12 h; moderate if medium technicality or ≥6 h; otherwise low.",
+    "assumptions": [
+      "The checklist is an editorial planning aid, not a substitute for the official race rules or mandatory-gear list.",
+      "Desktop minutes are a rough planning estimate, not a promise that the review will take that long.",
+      "Field recon runs assume accessible public trails; permit, closure and private-land rules are outside the tool.",
+      "The tool does not judge whether a GPX is accurate, licensed or current; verify against the official source.",
+      "Risk band is about planning complexity, not personal safety or medical risk.",
+      "The checklist does not cover weather contingency, evacuation medical capability or local emergency numbers."
+    ],
+    "rounding": "Counts are integers. Desktop minutes are rounded to the nearest whole minute. The gain/distance ratio uses the unrounded inputs.",
+    "caseRefs": [
+      "case-course-recon-checklist-road-marathon",
+      "case-course-recon-checklist-mountain-100",
+      "case-course-recon-checklist-half-low"
+    ]
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "entityId": "knowledge:utmb-qualification-path",
+  "slug": "utmb-qualification-path",
+  "kind": "knowledge",
+  "status": "published",
+  "riskLevel": "guidance",
+  "sourceRefs": [
+    "route-utmb-series-2026",
+    "route-utmb-2026-registration",
+    "route-utmb-world-series-2027",
+    "route-utmb-2026-rules"
+  ],
+  "relatedRefs": [
+    "route:utmb",
+    "tool:race-qualifier-checker",
+    "knowledge:race-calendar-entry-strategy"
+  ],
+  "license": "CC-BY-4.0",
+  "createdAt": "2026-11-26",
+  "updatedAt": "2026-11-26",
+  "reviewedAt": "2026-11-26",
+  "reviewDueAt": "2027-06-30",
+  "translations": [],
+  "details": {
+    "primaryTopic": "training",
+    "secondaryTopics": [
+      "health",
+      "safety"
+    ],
+    "contentType": "guide",
+    "audiences": [
+      "intermediate",
+      "advanced"
+    ],
+    "scenarios": [
+      "qualification",
+      "race-planning"
+    ]
+  }
+}

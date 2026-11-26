@@ -1,0 +1,133 @@
+{
+  "caseId": "case-course-recon-checklist-mountain-100",
+  "toolId": "tool:course-recon-checklist",
+  "input": {
+    "distanceKm": 100,
+    "elevationGainMeters": 6000,
+    "raceHours": 24,
+    "technicality": "high",
+    "nightSection": true,
+    "crewAccess": true,
+    "gpxAvailable": false
+  },
+  "expected": {
+    "totalItems": 22,
+    "highPriorityItems": 18,
+    "desktopMinutes": 280,
+    "reconRuns": 3,
+    "riskBand": "high",
+    "checklist": [
+      {
+        "category": "rules",
+        "item": "official-rules",
+        "priority": "high"
+      },
+      {
+        "category": "rules",
+        "item": "mandatory-gear",
+        "priority": "high"
+      },
+      {
+        "category": "rules",
+        "item": "cutoffs",
+        "priority": "high"
+      },
+      {
+        "category": "course",
+        "item": "course-map",
+        "priority": "high"
+      },
+      {
+        "category": "course",
+        "item": "elevation-profile",
+        "priority": "high"
+      },
+      {
+        "category": "aid",
+        "item": "aid-stations",
+        "priority": "high"
+      },
+      {
+        "category": "aid",
+        "item": "water-plan",
+        "priority": "high"
+      },
+      {
+        "category": "nav",
+        "item": "load-gpx",
+        "priority": "high"
+      },
+      {
+        "category": "nav",
+        "item": "waypoints",
+        "priority": "high"
+      },
+      {
+        "category": "nav",
+        "item": "offline-map",
+        "priority": "high"
+      },
+      {
+        "category": "bailout",
+        "item": "escape-routes",
+        "priority": "high"
+      },
+      {
+        "category": "weather",
+        "item": "historical-weather",
+        "priority": "medium"
+      },
+      {
+        "category": "race",
+        "item": "pace-card",
+        "priority": "medium"
+      },
+      {
+        "category": "course",
+        "item": "surface-notes",
+        "priority": "high"
+      },
+      {
+        "category": "course",
+        "item": "recon-run",
+        "priority": "high"
+      },
+      {
+        "category": "weather",
+        "item": "sunrise-sunset",
+        "priority": "high"
+      },
+      {
+        "category": "gear",
+        "item": "night-kit",
+        "priority": "high"
+      },
+      {
+        "category": "crew",
+        "item": "crew-access",
+        "priority": "high"
+      },
+      {
+        "category": "crew",
+        "item": "pacer-points",
+        "priority": "high"
+      },
+      {
+        "category": "aid",
+        "item": "drop-bags",
+        "priority": "medium"
+      },
+      {
+        "category": "nav",
+        "item": "paper-map",
+        "priority": "high"
+      },
+      {
+        "category": "gear",
+        "item": "poles",
+        "priority": "medium"
+      }
+    ]
+  },
+  "basis": "Base 13 + surface-notes + recon-run + sunrise-sunset + night-kit + crew-access + pacer-points + drop-bags + paper-map + poles = 22 items. High = 11 base + surface + recon + sunrise + night-kit + crew-access + pacer + paper = 18. Desktop = 45 + 50 + 120 + 30 + 20 + 15 = 280 minutes."
+}

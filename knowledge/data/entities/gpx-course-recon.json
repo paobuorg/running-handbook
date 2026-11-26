@@ -1,0 +1,41 @@
+{
+  "entityId": "knowledge:gpx-course-recon",
+  "slug": "gpx-course-recon",
+  "kind": "knowledge",
+  "status": "published",
+  "riskLevel": "guidance",
+  "sourceRefs": [
+    "route-utmb-gpx-2026",
+    "route-western-states-gps-2027",
+    "route-hardrock-gpx-2026",
+    "route-anchor-editorial"
+  ],
+  "relatedRefs": [
+    "knowledge:trail-navigation",
+    "tool:track-view",
+    "tool:track-simplify",
+    "route:utmb"
+  ],
+  "license": "CC-BY-4.0",
+  "createdAt": "2026-11-26",
+  "updatedAt": "2026-11-26",
+  "reviewedAt": "2026-11-26",
+  "reviewDueAt": "2027-06-30",
+  "translations": [],
+  "details": {
+    "primaryTopic": "technique",
+    "secondaryTopics": [
+      "safety",
+      "gear"
+    ],
+    "contentType": "guide",
+    "audiences": [
+      "intermediate",
+      "advanced"
+    ],
+    "scenarios": [
+      "course-recon",
+      "race-preparation"
+    ]
+  }
+}

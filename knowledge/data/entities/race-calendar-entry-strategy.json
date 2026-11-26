@@ -1,0 +1,44 @@
+{
+  "entityId": "knowledge:race-calendar-entry-strategy",
+  "slug": "race-calendar-entry-strategy",
+  "kind": "knowledge",
+  "status": "published",
+  "riskLevel": "guidance",
+  "sourceRefs": [
+    "route-boston-qualify",
+    "route-western-states-entry-process-2027",
+    "route-utmb-2026-registration",
+    "route-hangzhou-marathon-hz-gov-entry",
+    "route-chongqing-marathon-cq-rules",
+    "route-guangzhou-marathon-gz-sport"
+  ],
+  "relatedRefs": [
+    "knowledge:utmb-qualification-path",
+    "knowledge:western-states-qualification-path",
+    "tool:race-qualifier-checker",
+    "route:boston"
+  ],
+  "license": "CC-BY-4.0",
+  "createdAt": "2026-11-26",
+  "updatedAt": "2026-11-26",
+  "reviewedAt": "2026-11-26",
+  "reviewDueAt": "2027-06-30",
+  "translations": [],
+  "details": {
+    "primaryTopic": "training",
+    "secondaryTopics": [
+      "health",
+      "safety"
+    ],
+    "contentType": "guide",
+    "audiences": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "scenarios": [
+      "race-planning",
+      "travel"
+    ]
+  }
+}

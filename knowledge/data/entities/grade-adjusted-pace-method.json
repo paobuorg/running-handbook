@@ -1,0 +1,40 @@
+{
+  "entityId": "knowledge:grade-adjusted-pace-method",
+  "slug": "grade-adjusted-pace-method",
+  "kind": "knowledge",
+  "status": "published",
+  "riskLevel": "guidance",
+  "sourceRefs": [
+    "knowledge-lu-2025-graded-running-review",
+    "knowledge-acsm-intensity-monitoring",
+    "route-utmb-track-2026",
+    "route-western-states-course-2026"
+  ],
+  "relatedRefs": [
+    "tool:grade-adjusted-pace",
+    "knowledge:training-pace-zones",
+    "knowledge:uphill-and-downhill",
+    "route:utmb"
+  ],
+  "license": "CC-BY-4.0",
+  "createdAt": "2026-11-26",
+  "updatedAt": "2026-11-26",
+  "reviewedAt": "2026-11-26",
+  "reviewDueAt": "2027-06-30",
+  "translations": [],
+  "details": {
+    "primaryTopic": "training",
+    "secondaryTopics": [
+      "technique"
+    ],
+    "contentType": "guide",
+    "audiences": [
+      "intermediate",
+      "advanced"
+    ],
+    "scenarios": [
+      "race-planning",
+      "training"
+    ]
+  }
+}

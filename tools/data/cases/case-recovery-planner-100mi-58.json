@@ -1,0 +1,50 @@
+{
+  "caseId": "case-recovery-planner-100mi-58",
+  "toolId": "tool:recovery-planner",
+  "input": {
+    "raceDate": "2027-08-28",
+    "raceDistance": "100mi",
+    "age": 58,
+    "strengthTraining": false
+  },
+  "expected": {
+    "recoveryDays": 46,
+    "walkRunStartDate": "2027-09-14",
+    "continuousRunDate": "2027-09-25",
+    "qualityStartDate": "2027-10-13",
+    "raceReadyDate": "2027-10-20",
+    "strengthStartDate": "2027-09-25",
+    "phases": [
+      {
+        "phase": "walk",
+        "startDate": "2027-08-29",
+        "endDate": "2027-09-13",
+        "weeks": 0,
+        "focus": "circulation"
+      },
+      {
+        "phase": "walk-run",
+        "startDate": "2027-09-14",
+        "endDate": "2027-09-24",
+        "weeks": 0,
+        "focus": "aerobic"
+      },
+      {
+        "phase": "easy-run",
+        "startDate": "2027-09-25",
+        "endDate": "2027-10-12",
+        "weeks": 0,
+        "focus": "frequency"
+      },
+      {
+        "phase": "build",
+        "startDate": "2027-10-13",
+        "endDate": "2027-10-20",
+        "weeks": 1,
+        "focus": "threshold"
+      }
+    ],
+    "warning": "Age adjustment extends the walk and walk-run phases; use pain and sleep, not the calendar. For 100 km or 100 miles, add 1–2 weeks before any quality session."
+  },
+  "basis": "100-mile base 42 days, age 58 adds 4 -> 46. Walk-run ceil(46×0.35)=17; continuous ceil(46×0.6)=28; quality day 46; ready day 53; strength starts at continuous day 28."
+}
